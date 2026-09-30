@@ -1,0 +1,627 @@
+[
+  {
+    "pt": "dinheiro",
+    "en": "money",
+    "pron": "máni"
+  },
+  {
+    "pt": "moeda",
+    "en": "coin",
+    "pron": "kóin"
+  },
+  {
+    "pt": "nota",
+    "en": "bill",
+    "pron": "bíl"
+  },
+  {
+    "pt": "cédula",
+    "en": "banknote",
+    "pron": "bénknout"
+  },
+  {
+    "pt": "troco",
+    "en": "change",
+    "pron": "chéindj"
+  },
+  {
+    "pt": "conta",
+    "en": "bill",
+    "pron": "bíl"
+  },
+  {
+    "pt": "preço",
+    "en": "price",
+    "pron": "práis"
+  },
+  {
+    "pt": "valor",
+    "en": "value",
+    "pron": "védju"
+  },
+  {
+    "pt": "desconto",
+    "en": "discount",
+    "pron": "dískaunt"
+  },
+  {
+    "pt": "promoção",
+    "en": "sale",
+    "pron": "séil"
+  },
+  {
+    "pt": "imposto",
+    "en": "tax",
+    "pron": "téks"
+  },
+  {
+    "pt": "salário",
+    "en": "salary",
+    "pron": "sélari"
+  },
+  {
+    "pt": "lucro",
+    "en": "profit",
+    "pron": "prófit"
+  },
+  {
+    "pt": "dívida",
+    "en": "debt",
+    "pron": "dét"
+  },
+  {
+    "pt": "receita",
+    "en": "revenue",
+    "pron": "révenu"
+  },
+  {
+    "pt": "despesa",
+    "en": "expense",
+    "pron": "ekspéns"
+  },
+  {
+    "pt": "orçamento",
+    "en": "budget",
+    "pron": "bádjet"
+  },
+  {
+    "pt": "economia",
+    "en": "savings",
+    "pron": "séivings"
+  },
+  {
+    "pt": "investimento",
+    "en": "investment",
+    "pron": "invéstment"
+  },
+  {
+    "pt": "juros",
+    "en": "interest",
+    "pron": "íntrest"
+  },
+  {
+    "pt": "real",
+    "en": "real",
+    "pron": "riól"
+  },
+  {
+    "pt": "dólar",
+    "en": "dollar",
+    "pron": "dólar"
+  },
+  {
+    "pt": "euro",
+    "en": "euro",
+    "pron": "iúrou"
+  },
+  {
+    "pt": "libra",
+    "en": "pound",
+    "pron": "páund"
+  },
+  {
+    "pt": "iene",
+    "en": "yen",
+    "pron": "ián"
+  },
+  {
+    "pt": "rublo",
+    "en": "ruble",
+    "pron": "rúbol"
+  },
+  {
+    "pt": "peso",
+    "en": "peso",
+    "pron": "pésou"
+  },
+  {
+    "pt": "câmbio",
+    "en": "exchange rate",
+    "pron": "ekstchéindj réit"
+  },
+  {
+    "pt": "cartão de crédito",
+    "en": "credit card",
+    "pron": "krédit kárd"
+  },
+  {
+    "pt": "cartão de débito",
+    "en": "debit card",
+    "pron": "débit kárd"
+  },
+  {
+    "pt": "dinheiro em espécie",
+    "en": "cash",
+    "pron": "késh"
+  },
+  {
+    "pt": "cheque",
+    "en": "check",
+    "pron": "chék"
+  },
+  {
+    "pt": "boleto",
+    "en": "bank slip",
+    "pron": "bénk slíp"
+  },
+  {
+    "pt": "pix",
+    "en": "instant transfer",
+    "pron": "ínstant trénsfer"
+  },
+  {
+    "pt": "carteira digital",
+    "en": "digital wallet",
+    "pron": "dídjitol uólet"
+  },
+  {
+    "pt": "transferência",
+    "en": "transfer",
+    "pron": "trénsfer"
+  },
+  {
+    "pt": "depósito",
+    "en": "deposit",
+    "pron": "dipózit"
+  },
+  {
+    "pt": "saque",
+    "en": "withdrawal",
+    "pron": "uíthdróal"
+  },
+  {
+    "pt": "comprar",
+    "en": "to buy",
+    "pron": "tu bái"
+  },
+  {
+    "pt": "vender",
+    "en": "to sell",
+    "pron": "tu sél"
+  },
+  {
+    "pt": "pagar",
+    "en": "to pay",
+    "pron": "tu péi"
+  },
+  {
+    "pt": "gastar",
+    "en": "to spend",
+    "pron": "tu spénd"
+  },
+  {
+    "pt": "economizar",
+    "en": "to save",
+    "pron": "tu séiv"
+  },
+  {
+    "pt": "emprestar",
+    "en": "to lend",
+    "pron": "tu lénd"
+  },
+  {
+    "pt": "pedir emprestado",
+    "en": "to borrow",
+    "pron": "tu bórou"
+  },
+  {
+    "pt": "devolver",
+    "en": "to return",
+    "pron": "tu ritérn"
+  },
+  {
+    "pt": "trocar",
+    "en": "to exchange",
+    "pron": "tu ekstchéindj"
+  },
+  {
+    "pt": "investir",
+    "en": "to invest",
+    "pron": "tu invést"
+  },
+  {
+    "pt": "negociar",
+    "en": "to negotiate",
+    "pron": "tu nigóushieit"
+  },
+  {
+    "pt": "pechinchar",
+    "en": "to haggle",
+    "pron": "tu régol"
+  },
+  {
+    "pt": "cobrar",
+    "en": "to charge",
+    "pron": "tu chárdj"
+  },
+  {
+    "pt": "pagar à vista",
+    "en": "to pay cash",
+    "pron": "tu péi késh"
+  },
+  {
+    "pt": "pagar parcelado",
+    "en": "to pay in installments",
+    "pron": "tu péi in instólments"
+  },
+  {
+    "pt": "caro",
+    "en": "expensive",
+    "pron": "ekspénsiv"
+  },
+  {
+    "pt": "barato",
+    "en": "cheap",
+    "pron": "chíp"
+  },
+  {
+    "pt": "grátis",
+    "en": "free",
+    "pron": "frí"
+  },
+  {
+    "pt": "novo",
+    "en": "new",
+    "pron": "niú"
+  },
+  {
+    "pt": "usado",
+    "en": "used",
+    "pron": "iúzd"
+  },
+  {
+    "pt": "em promoção",
+    "en": "on sale",
+    "pron": "ón séil"
+  },
+  {
+    "pt": "caríssimo",
+    "en": "very expensive",
+    "pron": "véri ekspénsiv"
+  },
+  {
+    "pt": "acessível",
+    "en": "affordable",
+    "pron": "afórdabol"
+  },
+  {
+    "pt": "razoável",
+    "en": "reasonable",
+    "pron": "rízonebol"
+  },
+  {
+    "pt": "justo",
+    "en": "fair",
+    "pron": "fér"
+  },
+  {
+    "pt": "abusivo",
+    "en": "overpriced",
+    "pron": "ôuverpráist"
+  },
+  {
+    "pt": "vale a pena",
+    "en": "worth it",
+    "pron": "uérth it"
+  },
+  {
+    "pt": "não vale",
+    "en": "not worth it",
+    "pron": "nót uérth it"
+  },
+  {
+    "pt": "loja",
+    "en": "store",
+    "pron": "stór"
+  },
+  {
+    "pt": "mercado",
+    "en": "market",
+    "pron": "márkit"
+  },
+  {
+    "pt": "supermercado",
+    "en": "supermarket",
+    "pron": "súpermárkit"
+  },
+  {
+    "pt": "shopping",
+    "en": "mall",
+    "pron": "mól"
+  },
+  {
+    "pt": "banco",
+    "en": "bank",
+    "pron": "bénk"
+  },
+  {
+    "pt": "caixa eletrônico",
+    "en": "ATM",
+    "pron": "ei ti ém"
+  },
+  {
+    "pt": "farmácia",
+    "en": "pharmacy",
+    "pron": "fármasi"
+  },
+  {
+    "pt": "padaria",
+    "en": "bakery",
+    "pron": "béikeri"
+  },
+  {
+    "pt": "livraria",
+    "en": "bookstore",
+    "pron": "búkstor"
+  },
+  {
+    "pt": "feira",
+    "en": "market",
+    "pron": "márkit"
+  },
+  {
+    "pt": "loja de roupas",
+    "en": "clothing store",
+    "pron": "klôudhing stór"
+  },
+  {
+    "pt": "loja de sapatos",
+    "en": "shoe store",
+    "pron": "shú stór"
+  },
+  {
+    "pt": "joalheria",
+    "en": "jewelry store",
+    "pron": "djúelri stór"
+  },
+  {
+    "pt": "papelaria",
+    "en": "stationery store",
+    "pron": "stéishoneri stór"
+  },
+  {
+    "pt": "produto",
+    "en": "product",
+    "pron": "pródakt"
+  },
+  {
+    "pt": "mercadoria",
+    "en": "merchandise",
+    "pron": "mérchandais"
+  },
+  {
+    "pt": "comida",
+    "en": "food",
+    "pron": "fúd"
+  },
+  {
+    "pt": "bebida",
+    "en": "drink",
+    "pron": "drínk"
+  },
+  {
+    "pt": "remédio",
+    "en": "medicine",
+    "pron": "mésdisin"
+  },
+  {
+    "pt": "roupa",
+    "en": "clothes",
+    "pron": "klôudz"
+  },
+  {
+    "pt": "sapato",
+    "en": "shoe",
+    "pron": "shú"
+  },
+  {
+    "pt": "eletrônico",
+    "en": "electronic",
+    "pron": "elektrónik"
+  },
+  {
+    "pt": "celular",
+    "en": "cell phone",
+    "pron": "sél fôun"
+  },
+  {
+    "pt": "computador",
+    "en": "computer",
+    "pron": "kompiúter"
+  },
+  {
+    "pt": "brinquedo",
+    "en": "toy",
+    "pron": "tói"
+  },
+  {
+    "pt": "presente",
+    "en": "gift",
+    "pron": "guíft"
+  },
+  {
+    "pt": "lembrança",
+    "en": "souvenir",
+    "pron": "suvinír"
+  },
+  {
+    "pt": "vitrine",
+    "en": "shop window",
+    "pron": "shóp uíndou"
+  },
+  {
+    "pt": "prateleira",
+    "en": "shelf",
+    "pron": "shelf"
+  },
+  {
+    "pt": "provador",
+    "en": "fitting room",
+    "pron": "fíting rúm"
+  },
+  {
+    "pt": "caixa",
+    "en": "cashier",
+    "pron": "késhír"
+  },
+  {
+    "pt": "sacola",
+    "en": "bag",
+    "pron": "bég"
+  },
+  {
+    "pt": "etiqueta",
+    "en": "tag",
+    "pron": "tég"
+  },
+  {
+    "pt": "código de barras",
+    "en": "barcode",
+    "pron": "bárkoud"
+  },
+  {
+    "pt": "nota fiscal",
+    "en": "receipt",
+    "pron": "risít"
+  },
+  {
+    "pt": "garantia",
+    "en": "warranty",
+    "pron": "uóranti"
+  },
+  {
+    "pt": "cliente",
+    "en": "customer",
+    "pron": "kástomer"
+  },
+  {
+    "pt": "vendedor",
+    "en": "salesperson",
+    "pron": "séilspérson"
+  },
+  {
+    "pt": "gerente",
+    "en": "manager",
+    "pron": "ménedjer"
+  },
+  {
+    "pt": "quanto custa?",
+    "en": "how much does it cost?",
+    "pron": "ráu mách dáz it kóst"
+  },
+  {
+    "pt": "é muito caro",
+    "en": "it's too expensive",
+    "pron": "its tú ekspénsiv"
+  },
+  {
+    "pt": "tem mais barato?",
+    "en": "is there anything cheaper?",
+    "pron": "is dér énithing chíper"
+  },
+  {
+    "pt": "aceita cartão?",
+    "en": "do you accept cards?",
+    "pron": "du iu aksépt kárds"
+  },
+  {
+    "pt": "aceita pix?",
+    "en": "do you accept instant transfer?",
+    "pron": "du iu aksépt ínstant trénsfer"
+  },
+  {
+    "pt": "só dinheiro",
+    "en": "cash only",
+    "pron": "késh ôunli"
+  },
+  {
+    "pt": "quero pagar",
+    "en": "I want to pay",
+    "pron": "ái uónt tu péi"
+  },
+  {
+    "pt": "a conta, por favor",
+    "en": "the bill, please",
+    "pron": "de bíl plíz"
+  },
+  {
+    "pt": "pode me dar um desconto?",
+    "en": "can you give me a discount?",
+    "pron": "kén iu guív mi e dískaunt"
+  },
+  {
+    "pt": "tá caro demais",
+    "en": "it's too expensive",
+    "pron": "its tú ekspénsiv"
+  },
+  {
+    "pt": "vou pensar",
+    "en": "I'll think about it",
+    "pron": "áil thínk abáut it"
+  },
+  {
+    "pt": "só estou olhando",
+    "en": "I'm just looking",
+    "pron": "áim djást lúking"
+  },
+  {
+    "pt": "pode embrulhar?",
+    "en": "can you wrap it?",
+    "pron": "kén iu rép it"
+  },
+  {
+    "pt": "posso experimentar?",
+    "en": "can I try it on?",
+    "pron": "kén ái trái it ón"
+  },
+  {
+    "pt": "tem em outra cor?",
+    "en": "do you have it in another color?",
+    "pron": "du iu rév it in anáder kólor"
+  },
+  {
+    "pt": "tem em outro tamanho?",
+    "en": "do you have it in another size?",
+    "pron": "du iu rév it in anáder sáiz"
+  },
+  {
+    "pt": "onde é o caixa?",
+    "en": "where is the cashier?",
+    "pron": "uér is de keshír"
+  },
+  {
+    "pt": "quero trocar isso",
+    "en": "I want to exchange this",
+    "pron": "ái uónt tu ekstchéindj dis"
+  },
+  {
+    "pt": "quero devolver",
+    "en": "I want to return it",
+    "pron": "ái uónt tu ritérn it"
+  },
+  {
+    "pt": "qual o prazo de garantia?",
+    "en": "what's the warranty?",
+    "pron": "uóts de uóranti"
+  }
+]

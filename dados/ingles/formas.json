@@ -1,0 +1,842 @@
+[
+  {
+    "pt": "forma",
+    "en": "shape",
+    "pron": "shéip"
+  },
+  {
+    "pt": "círculo",
+    "en": "circle",
+    "pron": "sérkol"
+  },
+  {
+    "pt": "quadrado",
+    "en": "square",
+    "pron": "skué r"
+  },
+  {
+    "pt": "triângulo",
+    "en": "triangle",
+    "pron": "tráiéngol"
+  },
+  {
+    "pt": "retângulo",
+    "en": "rectangle",
+    "pron": "rékténgol"
+  },
+  {
+    "pt": "losango",
+    "en": "diamond",
+    "pron": "dáiamond"
+  },
+  {
+    "pt": "estrela",
+    "en": "star",
+    "pron": "stár"
+  },
+  {
+    "pt": "coração",
+    "en": "heart",
+    "pron": "rárt"
+  },
+  {
+    "pt": "oval",
+    "en": "oval",
+    "pron": "ôuval"
+  },
+  {
+    "pt": "elipse",
+    "en": "ellipse",
+    "pron": "ilíps"
+  },
+  {
+    "pt": "pentágono",
+    "en": "pentagon",
+    "pron": "péntagon"
+  },
+  {
+    "pt": "hexágono",
+    "en": "hexagon",
+    "pron": "réksagon"
+  },
+  {
+    "pt": "octógono",
+    "en": "octagon",
+    "pron": "óktagon"
+  },
+  {
+    "pt": "esfera",
+    "en": "sphere",
+    "pron": "sfír"
+  },
+  {
+    "pt": "cubo",
+    "en": "cube",
+    "pron": "kiúb"
+  },
+  {
+    "pt": "cilindro",
+    "en": "cylinder",
+    "pron": "sílindar"
+  },
+  {
+    "pt": "cone",
+    "en": "cone",
+    "pron": "kôun"
+  },
+  {
+    "pt": "pirâmide",
+    "en": "pyramid",
+    "pron": "píramid"
+  },
+  {
+    "pt": "reto",
+    "en": "straight",
+    "pron": "stréit"
+  },
+  {
+    "pt": "curvo",
+    "en": "curved",
+    "pron": "kérvd"
+  },
+  {
+    "pt": "redondo",
+    "en": "round",
+    "pron": "ráund"
+  },
+  {
+    "pt": "plano",
+    "en": "flat",
+    "pron": "flét"
+  },
+  {
+    "pt": "fino",
+    "en": "thin",
+    "pron": "thín"
+  },
+  {
+    "pt": "grosso",
+    "en": "thick",
+    "pron": "thík"
+  },
+  {
+    "pt": "estreito",
+    "en": "narrow",
+    "pron": "nérou"
+  },
+  {
+    "pt": "largo",
+    "en": "wide",
+    "pron": "uáid"
+  },
+  {
+    "pt": "comprido",
+    "en": "long",
+    "pron": "long"
+  },
+  {
+    "pt": "curto",
+    "en": "short",
+    "pron": "shórt"
+  },
+  {
+    "pt": "alto",
+    "en": "tall",
+    "pron": "tól"
+  },
+  {
+    "pt": "baixo",
+    "en": "low",
+    "pron": "lôu"
+  },
+  {
+    "pt": "profundo",
+    "en": "deep",
+    "pron": "díp"
+  },
+  {
+    "pt": "raso",
+    "en": "shallow",
+    "pron": "shélou"
+  },
+  {
+    "pt": "pontudo",
+    "en": "pointed",
+    "pron": "póintid"
+  },
+  {
+    "pt": "afiado",
+    "en": "sharp",
+    "pron": "shárp"
+  },
+  {
+    "pt": "liso",
+    "en": "smooth",
+    "pron": "smúth"
+  },
+  {
+    "pt": "áspero",
+    "en": "rough",
+    "pron": "ráf"
+  },
+  {
+    "pt": "cheio",
+    "en": "full",
+    "pron": "fúl"
+  },
+  {
+    "pt": "vazio",
+    "en": "empty",
+    "pron": "émpti"
+  },
+  {
+    "pt": "tamanho",
+    "en": "size",
+    "pron": "sáiz"
+  },
+  {
+    "pt": "grande",
+    "en": "big",
+    "pron": "bíg"
+  },
+  {
+    "pt": "grande (enorme)",
+    "en": "large",
+    "pron": "lárj"
+  },
+  {
+    "pt": "pequeno",
+    "en": "small",
+    "pron": "smól"
+  },
+  {
+    "pt": "pequenininho",
+    "en": "tiny",
+    "pron": "táini"
+  },
+  {
+    "pt": "médio",
+    "en": "medium",
+    "pron": "mídium"
+  },
+  {
+    "pt": "gigante",
+    "en": "giant",
+    "pron": "djáiant"
+  },
+  {
+    "pt": "enorme",
+    "en": "huge",
+    "pron": "riúdj"
+  },
+  {
+    "pt": "minúsculo",
+    "en": "minuscule",
+    "pron": "mináskiul"
+  },
+  {
+    "pt": "médio-grande",
+    "en": "large",
+    "pron": "lárj"
+  },
+  {
+    "pt": "tamanho P",
+    "en": "size S",
+    "pron": "sáiz és"
+  },
+  {
+    "pt": "tamanho M",
+    "en": "size M",
+    "pron": "sáiz ém"
+  },
+  {
+    "pt": "tamanho G",
+    "en": "size L",
+    "pron": "sáiz él"
+  },
+  {
+    "pt": "tamanho GG",
+    "en": "size XL",
+    "pron": "sáiz eksél"
+  },
+  {
+    "pt": "tamanho único",
+    "en": "one size",
+    "pron": "uán sáiz"
+  },
+  {
+    "pt": "sob medida",
+    "en": "custom",
+    "pron": "kástom"
+  },
+  {
+    "pt": "fora de tamanho",
+    "en": "out of size",
+    "pron": "áut óv sáiz"
+  },
+  {
+    "pt": "peso",
+    "en": "weight",
+    "pron": "uéit"
+  },
+  {
+    "pt": "grama",
+    "en": "gram",
+    "pron": "grém"
+  },
+  {
+    "pt": "quilograma",
+    "en": "kilogram",
+    "pron": "kílogram"
+  },
+  {
+    "pt": "tonelada",
+    "en": "ton",
+    "pron": "tán"
+  },
+  {
+    "pt": "miligrama",
+    "en": "milligram",
+    "pron": "míligrém"
+  },
+  {
+    "pt": "litro",
+    "en": "liter",
+    "pron": "líter"
+  },
+  {
+    "pt": "mililitro",
+    "en": "milliliter",
+    "pron": "mílilíter"
+  },
+  {
+    "pt": "metro",
+    "en": "meter",
+    "pron": "míter"
+  },
+  {
+    "pt": "centímetro",
+    "en": "centimeter",
+    "pron": "séntimíter"
+  },
+  {
+    "pt": "milímetro",
+    "en": "millimeter",
+    "pron": "mílimíter"
+  },
+  {
+    "pt": "quilômetro",
+    "en": "kilometer",
+    "pron": "kilómiter"
+  },
+  {
+    "pt": "polegada",
+    "en": "inch",
+    "pron": "ínch"
+  },
+  {
+    "pt": "pé (medida)",
+    "en": "foot",
+    "pron": "fút"
+  },
+  {
+    "pt": "jarda",
+    "en": "yard",
+    "pron": "iárd"
+  },
+  {
+    "pt": "milha",
+    "en": "mile",
+    "pron": "máil"
+  },
+  {
+    "pt": "galão",
+    "en": "gallon",
+    "pron": "gélon"
+  },
+  {
+    "pt": "libra (peso)",
+    "en": "pound",
+    "pron": "páund"
+  },
+  {
+    "pt": "onça",
+    "en": "ounce",
+    "pron": "áuns"
+  },
+  {
+    "pt": "maior",
+    "en": "bigger",
+    "pron": "bíguer"
+  },
+  {
+    "pt": "menor",
+    "en": "smaller",
+    "pron": "smóler"
+  },
+  {
+    "pt": "mais alto",
+    "en": "taller",
+    "pron": "tóler"
+  },
+  {
+    "pt": "mais baixo",
+    "en": "shorter",
+    "pron": "shórter"
+  },
+  {
+    "pt": "mais longo",
+    "en": "longer",
+    "pron": "lónguer"
+  },
+  {
+    "pt": "mais curto",
+    "en": "shorter",
+    "pron": "shórter"
+  },
+  {
+    "pt": "mais largo",
+    "en": "wider",
+    "pron": "uáider"
+  },
+  {
+    "pt": "mais estreito",
+    "en": "narrower",
+    "pron": "nérouer"
+  },
+  {
+    "pt": "mais grosso",
+    "en": "thicker",
+    "pron": "thíker"
+  },
+  {
+    "pt": "mais fino",
+    "en": "thinner",
+    "pron": "thíner"
+  },
+  {
+    "pt": "o maior",
+    "en": "the biggest",
+    "pron": "de bíguest"
+  },
+  {
+    "pt": "o menor",
+    "en": "the smallest",
+    "pron": "de smólest"
+  },
+  {
+    "pt": "o melhor",
+    "en": "the best",
+    "pron": "de bést"
+  },
+  {
+    "pt": "o pior",
+    "en": "the worst",
+    "pron": "de uórst"
+  },
+  {
+    "pt": "igual",
+    "en": "equal",
+    "pron": "íkuol"
+  },
+  {
+    "pt": "diferente",
+    "en": "different",
+    "pron": "díferent"
+  },
+  {
+    "pt": "o mesmo",
+    "en": "the same",
+    "pron": "de séim"
+  },
+  {
+    "pt": "parecido",
+    "en": "similar",
+    "pron": "símilar"
+  },
+  {
+    "pt": "todos",
+    "en": "all",
+    "pron": "ól"
+  },
+  {
+    "pt": "alguns",
+    "en": "some",
+    "pron": "sám"
+  },
+  {
+    "pt": "muitos",
+    "en": "many",
+    "pron": "méni"
+  },
+  {
+    "pt": "poucos",
+    "en": "few",
+    "pron": "fiú"
+  },
+  {
+    "pt": "nenhum",
+    "en": "none",
+    "pron": "nán"
+  },
+  {
+    "pt": "vários",
+    "en": "several",
+    "pron": "séveral"
+  },
+  {
+    "pt": "cada",
+    "en": "each",
+    "pron": "ích"
+  },
+  {
+    "pt": "todo",
+    "en": "every",
+    "pron": "évri"
+  },
+  {
+    "pt": "ambos",
+    "en": "both",
+    "pron": "bôuth"
+  },
+  {
+    "pt": "outro",
+    "en": "other",
+    "pron": "áder"
+  },
+  {
+    "pt": "mais",
+    "en": "more",
+    "pron": "mór"
+  },
+  {
+    "pt": "menos",
+    "en": "less",
+    "pron": "lés"
+  },
+  {
+    "pt": "muito",
+    "en": "very",
+    "pron": "véri"
+  },
+  {
+    "pt": "pouco",
+    "en": "little",
+    "pron": "lítol"
+  },
+  {
+    "pt": "bastante",
+    "en": "enough",
+    "pron": "ináf"
+  },
+  {
+    "pt": "demais",
+    "en": "too much",
+    "pron": "tú mách"
+  },
+  {
+    "pt": "metade",
+    "en": "half",
+    "pron": "réf"
+  },
+  {
+    "pt": "um quarto",
+    "en": "a quarter",
+    "pron": "e kuórter"
+  },
+  {
+    "pt": "um terço",
+    "en": "a third",
+    "pron": "e thérd"
+  },
+  {
+    "pt": "dobro",
+    "en": "double",
+    "pron": "dábol"
+  },
+  {
+    "pt": "triplo",
+    "en": "triple",
+    "pron": "trípol"
+  },
+  {
+    "pt": "por cento",
+    "en": "percent",
+    "pron": "persént"
+  },
+  {
+    "pt": "claro",
+    "en": "light",
+    "pron": "láit"
+  },
+  {
+    "pt": "escuro",
+    "en": "dark",
+    "pron": "dárk"
+  },
+  {
+    "pt": "brilhante",
+    "en": "bright",
+    "pron": "bráit"
+  },
+  {
+    "pt": "opaco",
+    "en": "matte",
+    "pron": "mét"
+  },
+  {
+    "pt": "transparente",
+    "en": "transparent",
+    "pron": "trénspérent"
+  },
+  {
+    "pt": "colorido",
+    "en": "colorful",
+    "pron": "kólorful"
+  },
+  {
+    "pt": "preto e branco",
+    "en": "black and white",
+    "pron": "blék énd uáit"
+  },
+  {
+    "pt": "bege",
+    "en": "beige",
+    "pron": "béidj"
+  },
+  {
+    "pt": "vinho",
+    "en": "wine",
+    "pron": "uáin"
+  },
+  {
+    "pt": "dourado",
+    "en": "gold",
+    "pron": "gôuld"
+  },
+  {
+    "pt": "prateado",
+    "en": "silver",
+    "pron": "sílver"
+  },
+  {
+    "pt": "turquesa",
+    "en": "turquoise",
+    "pron": "térkuois"
+  },
+  {
+    "pt": "violeta",
+    "en": "violet",
+    "pron": "váiolet"
+  },
+  {
+    "pt": "lilás",
+    "en": "lilac",
+    "pron": "láilek"
+  },
+  {
+    "pt": "salmão",
+    "en": "salmon",
+    "pron": "sémon"
+  },
+  {
+    "pt": "creme",
+    "en": "cream",
+    "pron": "krím"
+  },
+  {
+    "pt": "macio",
+    "en": "soft",
+    "pron": "sóft"
+  },
+  {
+    "pt": "duro",
+    "en": "hard",
+    "pron": "rárd"
+  },
+  {
+    "pt": "liso",
+    "en": "smooth",
+    "pron": "smúth"
+  },
+  {
+    "pt": "rugoso",
+    "en": "rough",
+    "pron": "ráf"
+  },
+  {
+    "pt": "molhado",
+    "en": "wet",
+    "pron": "uét"
+  },
+  {
+    "pt": "seco",
+    "en": "dry",
+    "pron": "drái"
+  },
+  {
+    "pt": "quente",
+    "en": "hot",
+    "pron": "rót"
+  },
+  {
+    "pt": "frio",
+    "en": "cold",
+    "pron": "kôuld"
+  },
+  {
+    "pt": "pegajoso",
+    "en": "sticky",
+    "pron": "stíki"
+  },
+  {
+    "pt": "escorregadio",
+    "en": "slippery",
+    "pron": "slíperi"
+  },
+  {
+    "pt": "leve",
+    "en": "light",
+    "pron": "láit"
+  },
+  {
+    "pt": "pesado",
+    "en": "heavy",
+    "pron": "révi"
+  },
+  {
+    "pt": "fofo",
+    "en": "fluffy",
+    "pron": "fláfi"
+  },
+  {
+    "pt": "brilhante",
+    "en": "shiny",
+    "pron": "sháini"
+  },
+  {
+    "pt": "qual o tamanho?",
+    "en": "what size?",
+    "pron": "uót sáiz"
+  },
+  {
+    "pt": "que tamanho você usa?",
+    "en": "what size do you wear?",
+    "pron": "uót sáiz du iu uér"
+  },
+  {
+    "pt": "tem em outro tamanho?",
+    "en": "do you have another size?",
+    "pron": "du iu rév anáder sáiz"
+  },
+  {
+    "pt": "tem em tamanho maior?",
+    "en": "do you have a bigger size?",
+    "pron": "du iu rév e bíguer sáiz"
+  },
+  {
+    "pt": "tem em tamanho menor?",
+    "en": "do you have a smaller size?",
+    "pron": "du iu rév e smóler sáiz"
+  },
+  {
+    "pt": "é muito grande",
+    "en": "it's too big",
+    "pron": "its tú bíg"
+  },
+  {
+    "pt": "é muito pequeno",
+    "en": "it's too small",
+    "pron": "its tú smól"
+  },
+  {
+    "pt": "é muito largo",
+    "en": "it's too loose",
+    "pron": "its tú lús"
+  },
+  {
+    "pt": "é muito apertado",
+    "en": "it's too tight",
+    "pron": "its tú táit"
+  },
+  {
+    "pt": "serve perfeitamente",
+    "en": "it fits perfectly",
+    "pron": "it fíts pérfektli"
+  },
+  {
+    "pt": "não serve",
+    "en": "it doesn't fit",
+    "pron": "it dáznt fít"
+  },
+  {
+    "pt": "quanto pesa?",
+    "en": "how much does it weigh?",
+    "pron": "ráu mách dáz it uéi"
+  },
+  {
+    "pt": "quanto mede?",
+    "en": "how big is it?",
+    "pron": "ráu bíg is it"
+  },
+  {
+    "pt": "qual a altura?",
+    "en": "what's the height?",
+    "pron": "uóts de ráit"
+  },
+  {
+    "pt": "qual a largura?",
+    "en": "what's the width?",
+    "pron": "uóts de uít"
+  },
+  {
+    "pt": "qual o comprimento?",
+    "en": "what's the length?",
+    "pron": "uóts de léngth"
+  },
+  {
+    "pt": "qual a profundidade?",
+    "en": "what's the depth?",
+    "pron": "uóts de déth"
+  },
+  {
+    "pt": "que forma tem?",
+    "en": "what shape is it?",
+    "pron": "uót shéip is it"
+  },
+  {
+    "pt": "é redondo",
+    "en": "it's round",
+    "pron": "its ráund"
+  },
+  {
+    "pt": "é quadrado",
+    "en": "it's square",
+    "pron": "its skué r"
+  },
+  {
+    "pt": "é do tamanho de uma bola",
+    "en": "it's the size of a ball",
+    "pron": "its de sáiz óv e ból"
+  },
+  {
+    "pt": "mais ou menos isso",
+    "en": "about this much",
+    "pron": "abáut dis mách"
+  },
+  {
+    "pt": "um pouco maior",
+    "en": "a bit bigger",
+    "pron": "e bít bíguer"
+  },
+  {
+    "pt": "um pouco menor",
+    "en": "a bit smaller",
+    "pron": "e bít smóler"
+  },
+  {
+    "pt": "do mesmo tamanho",
+    "en": "the same size",
+    "pron": "de séim sáiz"
+  }
+]

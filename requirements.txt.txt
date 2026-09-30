@@ -1,0 +1,2 @@
+streamlit>=1.30
+gtts>=2.5

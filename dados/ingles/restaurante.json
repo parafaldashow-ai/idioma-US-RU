@@ -1,0 +1,897 @@
+[
+  {
+    "pt": "restaurante",
+    "en": "restaurant",
+    "pron": "réstorant"
+  },
+  {
+    "pt": "lanchonete",
+    "en": "snack bar",
+    "pron": "snék bár"
+  },
+  {
+    "pt": "cafeteria",
+    "en": "café",
+    "pron": "kaféi"
+  },
+  {
+    "pt": "bar",
+    "en": "bar",
+    "pron": "bár"
+  },
+  {
+    "pt": "pizzaria",
+    "en": "pizzeria",
+    "pron": "pitsería"
+  },
+  {
+    "pt": "padaria",
+    "en": "bakery",
+    "pron": "béikeri"
+  },
+  {
+    "pt": "churrascaria",
+    "en": "steakhouse",
+    "pron": "stéikráus"
+  },
+  {
+    "pt": "sorveteria",
+    "en": "ice cream shop",
+    "pron": "áis krím shóp"
+  },
+  {
+    "pt": "café da manhã",
+    "en": "breakfast",
+    "pron": "brékfast"
+  },
+  {
+    "pt": "fast food",
+    "en": "fast food",
+    "pron": "fést fúd"
+  },
+  {
+    "pt": "self-service",
+    "en": "buffet",
+    "pron": "buféi"
+  },
+  {
+    "pt": "food truck",
+    "en": "food truck",
+    "pron": "fúd trák"
+  },
+  {
+    "pt": "cardápio",
+    "en": "menu",
+    "pron": "ményu"
+  },
+  {
+    "pt": "entrada",
+    "en": "appetizer",
+    "pron": "épitáizer"
+  },
+  {
+    "pt": "prato principal",
+    "en": "main course",
+    "pron": "méin kórs"
+  },
+  {
+    "pt": "sobremesa",
+    "en": "dessert",
+    "pron": "dizért"
+  },
+  {
+    "pt": "bebida",
+    "en": "drink",
+    "pron": "drínk"
+  },
+  {
+    "pt": "porção",
+    "en": "portion",
+    "pron": "pórshon"
+  },
+  {
+    "pt": "prato do dia",
+    "en": "dish of the day",
+    "pron": "dísh óv de déi"
+  },
+  {
+    "pt": "especialidade",
+    "en": "specialty",
+    "pron": "spéshalti"
+  },
+  {
+    "pt": "sugestão do chef",
+    "en": "chef's suggestion",
+    "pron": "shéfs soudjestchon"
+  },
+  {
+    "pt": "combo",
+    "en": "combo",
+    "pron": "kómbou"
+  },
+  {
+    "pt": "menu infantil",
+    "en": "kids menu",
+    "pron": "kíds ményu"
+  },
+  {
+    "pt": "prato",
+    "en": "plate",
+    "pron": "pléit"
+  },
+  {
+    "pt": "copo",
+    "en": "glass",
+    "pron": "glés"
+  },
+  {
+    "pt": "xícara",
+    "en": "cup",
+    "pron": "káp"
+  },
+  {
+    "pt": "garfo",
+    "en": "fork",
+    "pron": "fórk"
+  },
+  {
+    "pt": "faca",
+    "en": "knife",
+    "pron": "náif"
+  },
+  {
+    "pt": "colher",
+    "en": "spoon",
+    "pron": "spún"
+  },
+  {
+    "pt": "guardanapo",
+    "en": "napkin",
+    "pron": "népkin"
+  },
+  {
+    "pt": "toalha de mesa",
+    "en": "tablecloth",
+    "pron": "téibolkloth"
+  },
+  {
+    "pt": "bule",
+    "en": "kettle",
+    "pron": "kétol"
+  },
+  {
+    "pt": "tigela",
+    "en": "bowl",
+    "pron": "bôul"
+  },
+  {
+    "pt": "bandeja",
+    "en": "tray",
+    "pron": "tréi"
+  },
+  {
+    "pt": "canudo",
+    "en": "straw",
+    "pron": "stró"
+  },
+  {
+    "pt": "palito",
+    "en": "toothpick",
+    "pron": "túthpik"
+  },
+  {
+    "pt": "cortador de carne",
+    "en": "steak knife",
+    "pron": "stéik náif"
+  },
+  {
+    "pt": "tábua",
+    "en": "cutting board",
+    "pron": "káting bórd"
+  },
+  {
+    "pt": "panela",
+    "en": "pot",
+    "pron": "pót"
+  },
+  {
+    "pt": "frigideira",
+    "en": "pan",
+    "pron": "pén"
+  },
+  {
+    "pt": "garçom",
+    "en": "waiter",
+    "pron": "uéiter"
+  },
+  {
+    "pt": "garçonete",
+    "en": "waitress",
+    "pron": "uéitres"
+  },
+  {
+    "pt": "cozinheiro",
+    "en": "cook",
+    "pron": "kúk"
+  },
+  {
+    "pt": "chef",
+    "en": "chef",
+    "pron": "shéf"
+  },
+  {
+    "pt": "cliente",
+    "en": "customer",
+    "pron": "kástomer"
+  },
+  {
+    "pt": "mesa",
+    "en": "table",
+    "pron": "téibol"
+  },
+  {
+    "pt": "conta",
+    "en": "bill",
+    "pron": "bíl"
+  },
+  {
+    "pt": "gorjeta",
+    "en": "tip",
+    "pron": "típ"
+  },
+  {
+    "pt": "água",
+    "en": "water",
+    "pron": "uóter"
+  },
+  {
+    "pt": "água com gás",
+    "en": "sparkling water",
+    "pron": "spárkling uóter"
+  },
+  {
+    "pt": "suco",
+    "en": "juice",
+    "pron": "djús"
+  },
+  {
+    "pt": "suco de laranja",
+    "en": "orange juice",
+    "pron": "órendj djús"
+  },
+  {
+    "pt": "refrigerante",
+    "en": "soda",
+    "pron": "sóuda"
+  },
+  {
+    "pt": "coca-cola",
+    "en": "coke",
+    "pron": "kôuk"
+  },
+  {
+    "pt": "café",
+    "en": "coffee",
+    "pron": "cófi"
+  },
+  {
+    "pt": "café com leite",
+    "en": "latte",
+    "pron": "látei"
+  },
+  {
+    "pt": "chá",
+    "en": "tea",
+    "pron": "tí"
+  },
+  {
+    "pt": "chá gelado",
+    "en": "iced tea",
+    "pron": "áist tí"
+  },
+  {
+    "pt": "leite",
+    "en": "milk",
+    "pron": "mílk"
+  },
+  {
+    "pt": "cerveja",
+    "en": "beer",
+    "pron": "bír"
+  },
+  {
+    "pt": "vinho",
+    "en": "wine",
+    "pron": "uáin"
+  },
+  {
+    "pt": "vinho tinto",
+    "en": "red wine",
+    "pron": "réd uáin"
+  },
+  {
+    "pt": "vinho branco",
+    "en": "white wine",
+    "pron": "uáit uáin"
+  },
+  {
+    "pt": "vodka",
+    "en": "vodka",
+    "pron": "vódka"
+  },
+  {
+    "pt": "whisky",
+    "en": "whiskey",
+    "pron": "uíski"
+  },
+  {
+    "pt": "caipirinha",
+    "en": "caipirinha",
+    "pron": "kaipirínia"
+  },
+  {
+    "pt": "coquetel",
+    "en": "cocktail",
+    "pron": "kóktel"
+  },
+  {
+    "pt": "batida",
+    "en": "milkshake",
+    "pron": "mílksheik"
+  },
+  {
+    "pt": "chocolate quente",
+    "en": "hot chocolate",
+    "pron": "rót chóklit"
+  },
+  {
+    "pt": "água de coco",
+    "en": "coconut water",
+    "pron": "kókonat uóter"
+  },
+  {
+    "pt": "hambúrguer",
+    "en": "hamburger",
+    "pron": "rémberger"
+  },
+  {
+    "pt": "sanduíche",
+    "en": "sandwich",
+    "pron": "sénduich"
+  },
+  {
+    "pt": "pizza",
+    "en": "pizza",
+    "pron": "pítsa"
+  },
+  {
+    "pt": "massa",
+    "en": "pasta",
+    "pron": "pásta"
+  },
+  {
+    "pt": "lasanha",
+    "en": "lasagna",
+    "pron": "lazánia"
+  },
+  {
+    "pt": "espaguete",
+    "en": "spaghetti",
+    "pron": "spaguéti"
+  },
+  {
+    "pt": "sopa",
+    "en": "soup",
+    "pron": "súp"
+  },
+  {
+    "pt": "salada",
+    "en": "salad",
+    "pron": "sélad"
+  },
+  {
+    "pt": "salada de frutas",
+    "en": "fruit salad",
+    "pron": "frút sélad"
+  },
+  {
+    "pt": "arroz",
+    "en": "rice",
+    "pron": "ráis"
+  },
+  {
+    "pt": "feijão",
+    "en": "beans",
+    "pron": "bíns"
+  },
+  {
+    "pt": "batata frita",
+    "en": "french fries",
+    "pron": "frénch fráis"
+  },
+  {
+    "pt": "purê de batata",
+    "en": "mashed potatoes",
+    "pron": "mésht potéitous"
+  },
+  {
+    "pt": "bife",
+    "en": "steak",
+    "pron": "stéik"
+  },
+  {
+    "pt": "frango grelhado",
+    "en": "grilled chicken",
+    "pron": "gríld chíken"
+  },
+  {
+    "pt": "peixe",
+    "en": "fish",
+    "pron": "físh"
+  },
+  {
+    "pt": "camarão",
+    "en": "shrimp",
+    "pron": "shrímp"
+  },
+  {
+    "pt": "tacos",
+    "en": "tacos",
+    "pron": "tákous"
+  },
+  {
+    "pt": "burrito",
+    "en": "burrito",
+    "pron": "burítou"
+  },
+  {
+    "pt": "sushi",
+    "en": "sushi",
+    "pron": "súshi"
+  },
+  {
+    "pt": "temaki",
+    "en": "temaki",
+    "pron": "temáki"
+  },
+  {
+    "pt": "yakisoba",
+    "en": "yakisoba",
+    "pron": "iákisóuba"
+  },
+  {
+    "pt": "churrasco",
+    "en": "barbecue",
+    "pron": "bárbikiu"
+  },
+  {
+    "pt": "espetinho",
+    "en": "skewer",
+    "pron": "skiúer"
+  },
+  {
+    "pt": "panqueca",
+    "en": "pancake",
+    "pron": "pénkeik"
+  },
+  {
+    "pt": "omelete",
+    "en": "omelet",
+    "pron": "ómlet"
+  },
+  {
+    "pt": "ovo frito",
+    "en": "fried egg",
+    "pron": "fráid ég"
+  },
+  {
+    "pt": "torrada",
+    "en": "toast",
+    "pron": "tôust"
+  },
+  {
+    "pt": "croissant",
+    "en": "croissant",
+    "pron": "kroasán"
+  },
+  {
+    "pt": "pão de queijo",
+    "en": "cheese bread",
+    "pron": "chíz bréd"
+  },
+  {
+    "pt": "bolo",
+    "en": "cake",
+    "pron": "kéik"
+  },
+  {
+    "pt": "bolo de chocolate",
+    "en": "chocolate cake",
+    "pron": "chóklit kéik"
+  },
+  {
+    "pt": "sorvete",
+    "en": "ice cream",
+    "pron": "áis krím"
+  },
+  {
+    "pt": "pudim",
+    "en": "pudding",
+    "pron": "púding"
+  },
+  {
+    "pt": "torta",
+    "en": "pie",
+    "pron": "pái"
+  },
+  {
+    "pt": "brownie",
+    "en": "brownie",
+    "pron": "bráuni"
+  },
+  {
+    "pt": "donut",
+    "en": "donut",
+    "pron": "dôunat"
+  },
+  {
+    "pt": "biscoito",
+    "en": "cookie",
+    "pron": "kúki"
+  },
+  {
+    "pt": "chocolate",
+    "en": "chocolate",
+    "pron": "chóklit"
+  },
+  {
+    "pt": "bala",
+    "en": "candy",
+    "pron": "kéndi"
+  },
+  {
+    "pt": "chiclete",
+    "en": "chewing gum",
+    "pron": "chúing gám"
+  },
+  {
+    "pt": "gelatina",
+    "en": "jelly",
+    "pron": "djéli"
+  },
+  {
+    "pt": "sal",
+    "en": "salt",
+    "pron": "sólt"
+  },
+  {
+    "pt": "pimenta",
+    "en": "pepper",
+    "pron": "péper"
+  },
+  {
+    "pt": "açúcar",
+    "en": "sugar",
+    "pron": "shúgar"
+  },
+  {
+    "pt": "azeite",
+    "en": "olive oil",
+    "pron": "óliv óil"
+  },
+  {
+    "pt": "vinagre",
+    "en": "vinegar",
+    "pron": "vínegar"
+  },
+  {
+    "pt": "molho",
+    "en": "sauce",
+    "pron": "sós"
+  },
+  {
+    "pt": "ketchup",
+    "en": "ketchup",
+    "pron": "kétchap"
+  },
+  {
+    "pt": "mostarda",
+    "en": "mustard",
+    "pron": "mástard"
+  },
+  {
+    "pt": "maionese",
+    "en": "mayonnaise",
+    "pron": "meionéis"
+  },
+  {
+    "pt": "manteiga",
+    "en": "butter",
+    "pron": "báter"
+  },
+  {
+    "pt": "queijo",
+    "en": "cheese",
+    "pron": "chíz"
+  },
+  {
+    "pt": "presunto",
+    "en": "ham",
+    "pron": "rém"
+  },
+  {
+    "pt": "bacon",
+    "en": "bacon",
+    "pron": "béikon"
+  },
+  {
+    "pt": "alface",
+    "en": "lettuce",
+    "pron": "létis"
+  },
+  {
+    "pt": "tomate",
+    "en": "tomato",
+    "pron": "toméitou"
+  },
+  {
+    "pt": "cebola",
+    "en": "onion",
+    "pron": "ániôn"
+  },
+  {
+    "pt": "alho",
+    "en": "garlic",
+    "pron": "gárlik"
+  },
+  {
+    "pt": "picles",
+    "en": "pickles",
+    "pron": "píkols"
+  },
+  {
+    "pt": "azeitona",
+    "en": "olive",
+    "pron": "óliv"
+  },
+  {
+    "pt": "pedir",
+    "en": "to order",
+    "pron": "tu órder"
+  },
+  {
+    "pt": "reservar",
+    "en": "to reserve",
+    "pron": "tu rizérv"
+  },
+  {
+    "pt": "servir",
+    "en": "to serve",
+    "pron": "tu sérv"
+  },
+  {
+    "pt": "provar",
+    "en": "to taste",
+    "pron": "tu téist"
+  },
+  {
+    "pt": "comer",
+    "en": "to eat",
+    "pron": "tu ít"
+  },
+  {
+    "pt": "beber",
+    "en": "to drink",
+    "pron": "tu drínk"
+  },
+  {
+    "pt": "pagar",
+    "en": "to pay",
+    "pron": "tu péi"
+  },
+  {
+    "pt": "dividir a conta",
+    "en": "to split the bill",
+    "pron": "tu splít de bíl"
+  },
+  {
+    "pt": "levar para casa",
+    "en": "to take away",
+    "pron": "tu téik auéi"
+  },
+  {
+    "pt": "eu quero...",
+    "en": "I want...",
+    "pron": "ái uónt"
+  },
+  {
+    "pt": "eu gostaria de...",
+    "en": "I would like...",
+    "pron": "ái uúd láik"
+  },
+  {
+    "pt": "para mim...",
+    "en": "for me...",
+    "pron": "fór mi"
+  },
+  {
+    "pt": "me vê...",
+    "en": "can I have...",
+    "pron": "kén ái rév"
+  },
+  {
+    "pt": "uma mesa para dois",
+    "en": "a table for two",
+    "pron": "e téibol fór tú"
+  },
+  {
+    "pt": "o cardápio, por favor",
+    "en": "the menu, please",
+    "pron": "de ményu plíz"
+  },
+  {
+    "pt": "a conta, por favor",
+    "en": "the bill, please",
+    "pron": "de bíl plíz"
+  },
+  {
+    "pt": "sem gelo",
+    "en": "no ice",
+    "pron": "nôu áis"
+  },
+  {
+    "pt": "com gelo",
+    "en": "with ice",
+    "pron": "uíth áis"
+  },
+  {
+    "pt": "sem açúcar",
+    "en": "no sugar",
+    "pron": "nôu shúgar"
+  },
+  {
+    "pt": "bem passado",
+    "en": "well done",
+    "pron": "uél dán"
+  },
+  {
+    "pt": "mal passado",
+    "en": "rare",
+    "pron": "rér"
+  },
+  {
+    "pt": "ao ponto",
+    "en": "medium",
+    "pron": "mídium"
+  },
+  {
+    "pt": "vegetariano",
+    "en": "vegetarian",
+    "pron": "vedjetérion"
+  },
+  {
+    "pt": "sem carne",
+    "en": "no meat",
+    "pron": "nôu mít"
+  },
+  {
+    "pt": "para viagem",
+    "en": "to go",
+    "pron": "tu gôu"
+  },
+  {
+    "pt": "para levar",
+    "en": "takeaway",
+    "pron": "téikauéi"
+  },
+  {
+    "pt": "está delicioso",
+    "en": "it's delicious",
+    "pron": "its dilíshas"
+  },
+  {
+    "pt": "está muito bom",
+    "en": "it's very good",
+    "pron": "its véri gúd"
+  },
+  {
+    "pt": "estou satisfeito",
+    "en": "I'm full",
+    "pron": "áim fúl"
+  },
+  {
+    "pt": "bom apetite",
+    "en": "enjoy your meal",
+    "pron": "endjói iór míl"
+  },
+  {
+    "pt": "saúde!",
+    "en": "cheers!",
+    "pron": "chírs"
+  },
+  {
+    "pt": "você recomenda algo?",
+    "en": "do you recommend something?",
+    "pron": "du iu rekuménd sámthing"
+  },
+  {
+    "pt": "qual o prato do dia?",
+    "en": "what's the dish of the day?",
+    "pron": "uóts de dísh óv de déi"
+  },
+  {
+    "pt": "pode trazer mais água?",
+    "en": "can you bring more water?",
+    "pron": "kén iu bríng mór uóter"
+  },
+  {
+    "pt": "está incluso o serviço?",
+    "en": "is service included?",
+    "pron": "is sérvis inklúdid"
+  },
+  {
+    "pt": "posso pagar com cartão?",
+    "en": "can I pay with card?",
+    "pron": "kén ái péi uíth kárd"
+  },
+  {
+    "pt": "tem opção sem lactose?",
+    "en": "is there a lactose-free option?",
+    "pron": "is dér e léktous frí ópshon"
+  },
+  {
+    "pt": "tem opção vegana?",
+    "en": "is there a vegan option?",
+    "pron": "is dér e vígan ópshon"
+  },
+  {
+    "pt": "tem opção sem glúten?",
+    "en": "is there a gluten-free option?",
+    "pron": "is dér e glúten frí ópshon"
+  },
+  {
+    "pt": "pode esquentar?",
+    "en": "can you heat it up?",
+    "pron": "kén iu rít it áp"
+  },
+  {
+    "pt": "está frio",
+    "en": "it's cold",
+    "pron": "its kôuld"
+  },
+  {
+    "pt": "está muito salgado",
+    "en": "it's too salty",
+    "pron": "its tú sól ti"
+  },
+  {
+    "pt": "está sem sal",
+    "en": "it's bland",
+    "pron": "its blénd"
+  },
+  {
+    "pt": "gostaria de reservar uma mesa",
+    "en": "I'd like to reserve a table",
+    "pron": "áid láik tu rizérv e téibol"
+  },
+  {
+    "pt": "para quantas pessoas?",
+    "en": "for how many people?",
+    "pron": "fór rá máni pípou"
+  },
+  {
+    "pt": "quanto tempo de espera?",
+    "en": "how long is the wait?",
+    "pron": "ráu long is de uéit"
+  },
+  {
+    "pt": "pode dividir a conta?",
+    "en": "can we split the bill?",
+    "pron": "kén uí splít de bíl"
+  },
+  {
+    "pt": "aceita vale-refeição?",
+    "en": "do you accept meal vouchers?",
+    "pron": "du iu aksépt míl váuchers"
+  }
+]

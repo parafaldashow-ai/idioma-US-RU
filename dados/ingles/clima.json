@@ -1,0 +1,432 @@
+[
+  {
+    "pt": "sol",
+    "en": "sun",
+    "pron": "sán"
+  },
+  {
+    "pt": "lua",
+    "en": "moon",
+    "pron": "mún"
+  },
+  {
+    "pt": "estrela",
+    "en": "star",
+    "pron": "stár"
+  },
+  {
+    "pt": "céu",
+    "en": "sky",
+    "pron": "skáí"
+  },
+  {
+    "pt": "planeta",
+    "en": "planet",
+    "pron": "plénet"
+  },
+  {
+    "pt": "Terra",
+    "en": "Earth",
+    "pron": "érth"
+  },
+  {
+    "pt": "nuvem",
+    "en": "cloud",
+    "pron": "kláud"
+  },
+  {
+    "pt": "espaço",
+    "en": "space",
+    "pron": "spéis"
+  },
+  {
+    "pt": "chuva",
+    "en": "rain",
+    "pron": "réin"
+  },
+  {
+    "pt": "neve",
+    "en": "snow",
+    "pron": "snôu"
+  },
+  {
+    "pt": "vento",
+    "en": "wind",
+    "pron": "uínd"
+  },
+  {
+    "pt": "tempestade",
+    "en": "storm",
+    "pron": "stórm"
+  },
+  {
+    "pt": "trovão",
+    "en": "thunder",
+    "pron": "thánder"
+  },
+  {
+    "pt": "relâmpago",
+    "en": "lightning",
+    "pron": "láithning"
+  },
+  {
+    "pt": "arco-íris",
+    "en": "rainbow",
+    "pron": "réinbou"
+  },
+  {
+    "pt": "neblina",
+    "en": "fog",
+    "pron": "fóg"
+  },
+  {
+    "pt": "orvalho",
+    "en": "dew",
+    "pron": "diú"
+  },
+  {
+    "pt": "granizo",
+    "en": "hail",
+    "pron": "réil"
+  },
+  {
+    "pt": "tornado",
+    "en": "tornado",
+    "pron": "tornéidou"
+  },
+  {
+    "pt": "furacão",
+    "en": "hurricane",
+    "pron": "rárikein"
+  },
+  {
+    "pt": "terremoto",
+    "en": "earthquake",
+    "pron": "érthkuéik"
+  },
+  {
+    "pt": "enchente",
+    "en": "flood",
+    "pron": "flád"
+  },
+  {
+    "pt": "calor",
+    "en": "heat",
+    "pron": "rít"
+  },
+  {
+    "pt": "frio",
+    "en": "cold",
+    "pron": "kôuld"
+  },
+  {
+    "pt": "morno",
+    "en": "warm",
+    "pron": "uórm"
+  },
+  {
+    "pt": "fresco",
+    "en": "cool",
+    "pron": "kúl"
+  },
+  {
+    "pt": "úmido",
+    "en": "humid",
+    "pron": "riúmid"
+  },
+  {
+    "pt": "seco",
+    "en": "dry",
+    "pron": "drái"
+  },
+  {
+    "pt": "primavera",
+    "en": "spring",
+    "pron": "spríng"
+  },
+  {
+    "pt": "verão",
+    "en": "summer",
+    "pron": "sámer"
+  },
+  {
+    "pt": "outono",
+    "en": "autumn",
+    "pron": "ótom"
+  },
+  {
+    "pt": "inverno",
+    "en": "winter",
+    "pron": "uínter"
+  },
+  {
+    "pt": "árvore",
+    "en": "tree",
+    "pron": "trí"
+  },
+  {
+    "pt": "flor",
+    "en": "flower",
+    "pron": "fláuer"
+  },
+  {
+    "pt": "folha",
+    "en": "leaf",
+    "pron": "líf"
+  },
+  {
+    "pt": "grama",
+    "en": "grass",
+    "pron": "grés"
+  },
+  {
+    "pt": "semente",
+    "en": "seed",
+    "pron": "síd"
+  },
+  {
+    "pt": "raiz",
+    "en": "root",
+    "pron": "rút"
+  },
+  {
+    "pt": "tronco",
+    "en": "trunk",
+    "pron": "tránk"
+  },
+  {
+    "pt": "galho",
+    "en": "branch",
+    "pron": "brénch"
+  },
+  {
+    "pt": "rosa",
+    "en": "rose",
+    "pron": "rôus"
+  },
+  {
+    "pt": "girassol",
+    "en": "sunflower",
+    "pron": "sánfláuer"
+  },
+  {
+    "pt": "margarida",
+    "en": "daisy",
+    "pron": "déizi"
+  },
+  {
+    "pt": "tulipa",
+    "en": "tulip",
+    "pron": "túlip"
+  },
+  {
+    "pt": "orquídea",
+    "en": "orchid",
+    "pron": "órkid"
+  },
+  {
+    "pt": "palmeira",
+    "en": "palm tree",
+    "pron": "pám trí"
+  },
+  {
+    "pt": "montanha",
+    "en": "mountain",
+    "pron": "máunten"
+  },
+  {
+    "pt": "rio",
+    "en": "river",
+    "pron": "ríver"
+  },
+  {
+    "pt": "mar",
+    "en": "sea",
+    "pron": "sí"
+  },
+  {
+    "pt": "oceano",
+    "en": "ocean",
+    "pron": "ôushan"
+  },
+  {
+    "pt": "praia",
+    "en": "beach",
+    "pron": "bích"
+  },
+  {
+    "pt": "ilha",
+    "en": "island",
+    "pron": "áiland"
+  },
+  {
+    "pt": "lago",
+    "en": "lake",
+    "pron": "léik"
+  },
+  {
+    "pt": "lagoa",
+    "en": "lagoon",
+    "pron": "lagún"
+  },
+  {
+    "pt": "floresta",
+    "en": "forest",
+    "pron": "fórest"
+  },
+  {
+    "pt": "selva",
+    "en": "jungle",
+    "pron": "djángol"
+  },
+  {
+    "pt": "deserto",
+    "en": "desert",
+    "pron": "dézert"
+  },
+  {
+    "pt": "caverna",
+    "en": "cave",
+    "pron": "kéiv"
+  },
+  {
+    "pt": "cachoeira",
+    "en": "waterfall",
+    "pron": "uóterfól"
+  },
+  {
+    "pt": "vulcão",
+    "en": "volcano",
+    "pron": "volkéinou"
+  },
+  {
+    "pt": "vale",
+    "en": "valley",
+    "pron": "véli"
+  },
+  {
+    "pt": "campo",
+    "en": "field",
+    "pron": "fíld"
+  },
+  {
+    "pt": "fazenda",
+    "en": "farm",
+    "pron": "fárm"
+  },
+  {
+    "pt": "cidade",
+    "en": "city",
+    "pron": "síti"
+  },
+  {
+    "pt": "país",
+    "en": "country",
+    "pron": "kántri"
+  },
+  {
+    "pt": "terra",
+    "en": "earth",
+    "pron": "érth"
+  },
+  {
+    "pt": "fogo",
+    "en": "fire",
+    "pron": "fáier"
+  },
+  {
+    "pt": "água",
+    "en": "water",
+    "pron": "uóter"
+  },
+  {
+    "pt": "ar",
+    "en": "air",
+    "pron": "ér"
+  },
+  {
+    "pt": "pedra",
+    "en": "stone",
+    "pron": "stôun"
+  },
+  {
+    "pt": "areia",
+    "en": "sand",
+    "pron": "sénd"
+  },
+  {
+    "pt": "lama",
+    "en": "mud",
+    "pron": "mád"
+  },
+  {
+    "pt": "gelo",
+    "en": "ice",
+    "pron": "áis"
+  },
+  {
+    "pt": "poeira",
+    "en": "dust",
+    "pron": "dást"
+  },
+  {
+    "pt": "metal",
+    "en": "metal",
+    "pron": "métal"
+  },
+  {
+    "pt": "madeira",
+    "en": "wood",
+    "pron": "uúd"
+  },
+  {
+    "pt": "como está o tempo?",
+    "en": "how is the weather?",
+    "pron": "ráu is de uéder"
+  },
+  {
+    "pt": "está chovendo",
+    "en": "it's raining",
+    "pron": "its réining"
+  },
+  {
+    "pt": "está nevando",
+    "en": "it's snowing",
+    "pron": "its snôuing"
+  },
+  {
+    "pt": "está quente",
+    "en": "it's hot",
+    "pron": "its rót"
+  },
+  {
+    "pt": "está frio",
+    "en": "it's cold",
+    "pron": "its kôuld"
+  },
+  {
+    "pt": "está nublado",
+    "en": "it's cloudy",
+    "pron": "its kláudi"
+  },
+  {
+    "pt": "está ensolarado",
+    "en": "it's sunny",
+    "pron": "its sáni"
+  },
+  {
+    "pt": "está ventando",
+    "en": "it's windy",
+    "pron": "its uíndi"
+  },
+  {
+    "pt": "vai chover amanhã?",
+    "en": "will it rain tomorrow?",
+    "pron": "uíl it réin tumórou"
+  },
+  {
+    "pt": "que dia lindo!",
+    "en": "what a beautiful day!",
+    "pron": "uót e biútiful déi"
+  }
+]

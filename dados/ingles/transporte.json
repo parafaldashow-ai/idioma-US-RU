@@ -1,0 +1,457 @@
+[
+  {
+    "pt": "carro",
+    "en": "car",
+    "pron": "kár"
+  },
+  {
+    "pt": "moto",
+    "en": "motorcycle",
+    "pron": "móutorsaicol"
+  },
+  {
+    "pt": "bicicleta",
+    "en": "bicycle",
+    "pron": "báisikol"
+  },
+  {
+    "pt": "ônibus",
+    "en": "bus",
+    "pron": "bás"
+  },
+  {
+    "pt": "metrô",
+    "en": "subway",
+    "pron": "sábuei"
+  },
+  {
+    "pt": "trem",
+    "en": "train",
+    "pron": "tréin"
+  },
+  {
+    "pt": "avião",
+    "en": "airplane",
+    "pron": "érplein"
+  },
+  {
+    "pt": "helicóptero",
+    "en": "helicopter",
+    "pron": "rélikopter"
+  },
+  {
+    "pt": "navio",
+    "en": "ship",
+    "pron": "shíp"
+  },
+  {
+    "pt": "barco",
+    "en": "boat",
+    "pron": "bôut"
+  },
+  {
+    "pt": "táxi",
+    "en": "taxi",
+    "pron": "téksi"
+  },
+  {
+    "pt": "caminhão",
+    "en": "truck",
+    "pron": "trák"
+  },
+  {
+    "pt": "van",
+    "en": "van",
+    "pron": "vén"
+  },
+  {
+    "pt": "patinete",
+    "en": "scooter",
+    "pron": "skúter"
+  },
+  {
+    "pt": "skate",
+    "en": "skateboard",
+    "pron": "skéitbord"
+  },
+  {
+    "pt": "ônibus escolar",
+    "en": "school bus",
+    "pron": "skúl bás"
+  },
+  {
+    "pt": "ambulância",
+    "en": "ambulance",
+    "pron": "émbiulans"
+  },
+  {
+    "pt": "carro de polícia",
+    "en": "police car",
+    "pron": "polís kár"
+  },
+  {
+    "pt": "caminhão de bombeiro",
+    "en": "fire truck",
+    "pron": "fáier trák"
+  },
+  {
+    "pt": "trator",
+    "en": "tractor",
+    "pron": "tréktor"
+  },
+  {
+    "pt": "limusine",
+    "en": "limousine",
+    "pron": "límoziin"
+  },
+  {
+    "pt": "fogão",
+    "en": "rocket",
+    "pron": "rókit"
+  },
+  {
+    "pt": "estrada",
+    "en": "road",
+    "pron": "rôud"
+  },
+  {
+    "pt": "rua",
+    "en": "street",
+    "pron": "strít"
+  },
+  {
+    "pt": "avenida",
+    "en": "avenue",
+    "pron": "évenu"
+  },
+  {
+    "pt": "calçada",
+    "en": "sidewalk",
+    "pron": "sáiduók"
+  },
+  {
+    "pt": "semáforo",
+    "en": "traffic light",
+    "pron": "tréfik láit"
+  },
+  {
+    "pt": "faixa de pedestre",
+    "en": "crosswalk",
+    "pron": "krósuók"
+  },
+  {
+    "pt": "placa",
+    "en": "sign",
+    "pron": "sáin"
+  },
+  {
+    "pt": "posto de gasolina",
+    "en": "gas station",
+    "pron": "gués stéishon"
+  },
+  {
+    "pt": "estacionamento",
+    "en": "parking lot",
+    "pron": "párking lót"
+  },
+  {
+    "pt": "garagem",
+    "en": "garage",
+    "pron": "garáj"
+  },
+  {
+    "pt": "pedágio",
+    "en": "toll",
+    "pron": "tôul"
+  },
+  {
+    "pt": "rodovia",
+    "en": "highway",
+    "pron": "ráiuei"
+  },
+  {
+    "pt": "ponte",
+    "en": "bridge",
+    "pron": "brídj"
+  },
+  {
+    "pt": "túnel",
+    "en": "tunnel",
+    "pron": "tánel"
+  },
+  {
+    "pt": "esquina",
+    "en": "corner",
+    "pron": "kórner"
+  },
+  {
+    "pt": "cruzamento",
+    "en": "intersection",
+    "pron": "intersékshon"
+  },
+  {
+    "pt": "rotatória",
+    "en": "roundabout",
+    "pron": "ráundabáut"
+  },
+  {
+    "pt": "beco",
+    "en": "alley",
+    "pron": "éli"
+  },
+  {
+    "pt": "aeroporto",
+    "en": "airport",
+    "pron": "érport"
+  },
+  {
+    "pt": "estação",
+    "en": "station",
+    "pron": "stéishon"
+  },
+  {
+    "pt": "rodoviária",
+    "en": "bus station",
+    "pron": "bás stéishon"
+  },
+  {
+    "pt": "porto",
+    "en": "port",
+    "pron": "pórt"
+  },
+  {
+    "pt": "parada de ônibus",
+    "en": "bus stop",
+    "pron": "bás stóp"
+  },
+  {
+    "pt": "ponto de táxi",
+    "en": "taxi stand",
+    "pron": "téksi sténd"
+  },
+  {
+    "pt": "estação de metrô",
+    "en": "subway station",
+    "pron": "sábuei stéishon"
+  },
+  {
+    "pt": "terminal",
+    "en": "terminal",
+    "pron": "términol"
+  },
+  {
+    "pt": "volante",
+    "en": "steering wheel",
+    "pron": "stíring uíl"
+  },
+  {
+    "pt": "freio",
+    "en": "brake",
+    "pron": "bréik"
+  },
+  {
+    "pt": "acelerador",
+    "en": "accelerator",
+    "pron": "ekséleréitor"
+  },
+  {
+    "pt": "embreagem",
+    "en": "clutch",
+    "pron": "klách"
+  },
+  {
+    "pt": "pneu",
+    "en": "tire",
+    "pron": "táier"
+  },
+  {
+    "pt": "roda",
+    "en": "wheel",
+    "pron": "uíl"
+  },
+  {
+    "pt": "farol",
+    "en": "headlight",
+    "pron": "rédlait"
+  },
+  {
+    "pt": "lanterna",
+    "en": "taillight",
+    "pron": "téillait"
+  },
+  {
+    "pt": "espelho retrovisor",
+    "en": "rearview mirror",
+    "pron": "rírviu míror"
+  },
+  {
+    "pt": "porta-malas",
+    "en": "trunk",
+    "pron": "tránk"
+  },
+  {
+    "pt": "capô",
+    "en": "hood",
+    "pron": "rúd"
+  },
+  {
+    "pt": "para-brisa",
+    "en": "windshield",
+    "pron": "uíndshild"
+  },
+  {
+    "pt": "limpador de para-brisa",
+    "en": "wiper",
+    "pron": "uáiper"
+  },
+  {
+    "pt": "buzina",
+    "en": "horn",
+    "pron": "rórn"
+  },
+  {
+    "pt": "cinto de segurança",
+    "en": "seatbelt",
+    "pron": "sítbelt"
+  },
+  {
+    "pt": "airbag",
+    "en": "airbag",
+    "pron": "érbeg"
+  },
+  {
+    "pt": "gasolina",
+    "en": "gasoline",
+    "pron": "guésolin"
+  },
+  {
+    "pt": "álcool",
+    "en": "ethanol",
+    "pron": "éthanol"
+  },
+  {
+    "pt": "diesel",
+    "en": "diesel",
+    "pron": "dízel"
+  },
+  {
+    "pt": "elétrico",
+    "en": "electric",
+    "pron": "eléktrik"
+  },
+  {
+    "pt": "bateria",
+    "en": "battery",
+    "pron": "béteri"
+  },
+  {
+    "pt": "dirigir",
+    "en": "to drive",
+    "pron": "tu dráiv"
+  },
+  {
+    "pt": "estacionar",
+    "en": "to park",
+    "pron": "tu párk"
+  },
+  {
+    "pt": "acelerar",
+    "en": "to accelerate",
+    "pron": "tu ekséleréit"
+  },
+  {
+    "pt": "frear",
+    "en": "to brake",
+    "pron": "tu bréik"
+  },
+  {
+    "pt": "virar",
+    "en": "to turn",
+    "pron": "tu térn"
+  },
+  {
+    "pt": "ultrapassar",
+    "en": "to overtake",
+    "pron": "tu ôuverteik"
+  },
+  {
+    "pt": "buzinar",
+    "en": "to honk",
+    "pron": "tu rónk"
+  },
+  {
+    "pt": "abastecer",
+    "en": "to refuel",
+    "pron": "tu rifíul"
+  },
+  {
+    "pt": "pegar um táxi",
+    "en": "to take a taxi",
+    "pron": "tu téik e téksi"
+  },
+  {
+    "pt": "pegar o ônibus",
+    "en": "to take the bus",
+    "pron": "tu téik de bás"
+  },
+  {
+    "pt": "perder o trem",
+    "en": "to miss the train",
+    "pron": "tu mís de tréin"
+  },
+  {
+    "pt": "comprar passagem",
+    "en": "to buy a ticket",
+    "pron": "tu bái e tíkit"
+  },
+  {
+    "pt": "onde é a estação?",
+    "en": "where is the station?",
+    "pron": "uér is de stéishon"
+  },
+  {
+    "pt": "quanto custa a passagem?",
+    "en": "how much is the ticket?",
+    "pron": "ráu mách is de tíkit"
+  },
+  {
+    "pt": "que horas sai o ônibus?",
+    "en": "what time does the bus leave?",
+    "pron": "uót táim dáz de bás lív"
+  },
+  {
+    "pt": "estou atrasado",
+    "en": "I'm late",
+    "pron": "áim léit"
+  },
+  {
+    "pt": "perdi o ônibus",
+    "en": "I missed the bus",
+    "pron": "ái míst de bás"
+  },
+  {
+    "pt": "estou perdido",
+    "en": "I'm lost",
+    "pron": "áim lóst"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "en": "how long does it take?",
+    "pron": "ráu long dáz it téik"
+  },
+  {
+    "pt": "me leve para...",
+    "en": "take me to...",
+    "pron": "téik mi tu"
+  },
+  {
+    "pt": "pare aqui",
+    "en": "stop here",
+    "pron": "stóp rír"
+  },
+  {
+    "pt": "vou de carro",
+    "en": "I'm going by car",
+    "pron": "áim góuing bái kár"
+  }
+]

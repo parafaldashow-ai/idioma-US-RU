@@ -1,0 +1,432 @@
+[
+  {
+    "pt": "camisa",
+    "en": "shirt",
+    "pron": "shért"
+  },
+  {
+    "pt": "camiseta",
+    "en": "t-shirt",
+    "pron": "tíshért"
+  },
+  {
+    "pt": "camisa social",
+    "en": "dress shirt",
+    "pron": "drés shért"
+  },
+  {
+    "pt": "blusa",
+    "en": "blouse",
+    "pron": "bláus"
+  },
+  {
+    "pt": "suéter",
+    "en": "sweater",
+    "pron": "suéter"
+  },
+  {
+    "pt": "moletom",
+    "en": "hoodie",
+    "pron": "rúdi"
+  },
+  {
+    "pt": "jaqueta",
+    "en": "jacket",
+    "pron": "djékit"
+  },
+  {
+    "pt": "casaco",
+    "en": "coat",
+    "pron": "kôut"
+  },
+  {
+    "pt": "sobretudo",
+    "en": "overcoat",
+    "pron": "ôuverkôut"
+  },
+  {
+    "pt": "colete",
+    "en": "vest",
+    "pron": "vést"
+  },
+  {
+    "pt": "polo",
+    "en": "polo shirt",
+    "pron": "pôulou shért"
+  },
+  {
+    "pt": "regata",
+    "en": "tank top",
+    "pron": "ténk tóp"
+  },
+  {
+    "pt": "top",
+    "en": "crop top",
+    "pron": "króp tóp"
+  },
+  {
+    "pt": "calça",
+    "en": "pants",
+    "pron": "pénts"
+  },
+  {
+    "pt": "jeans",
+    "en": "jeans",
+    "pron": "djins"
+  },
+  {
+    "pt": "calça de moletom",
+    "en": "sweatpants",
+    "pron": "suétpénts"
+  },
+  {
+    "pt": "bermuda",
+    "en": "shorts",
+    "pron": "shórts"
+  },
+  {
+    "pt": "short",
+    "en": "short shorts",
+    "pron": "shórt shórts"
+  },
+  {
+    "pt": "saia",
+    "en": "skirt",
+    "pron": "skért"
+  },
+  {
+    "pt": "saia longa",
+    "en": "long skirt",
+    "pron": "long skért"
+  },
+  {
+    "pt": "vestido",
+    "en": "dress",
+    "pron": "drés"
+  },
+  {
+    "pt": "vestido longo",
+    "en": "long dress",
+    "pron": "long drés"
+  },
+  {
+    "pt": "macacão",
+    "en": "jumpsuit",
+    "pron": "djámpsut"
+  },
+  {
+    "pt": "terno",
+    "en": "suit",
+    "pron": "sút"
+  },
+  {
+    "pt": "smoking",
+    "en": "tuxedo",
+    "pron": "taksídou"
+  },
+  {
+    "pt": "uniforme",
+    "en": "uniform",
+    "pron": "iúniform"
+  },
+  {
+    "pt": "pijama",
+    "en": "pajamas",
+    "pron": "pajámas"
+  },
+  {
+    "pt": "cueca",
+    "en": "underwear",
+    "pron": "ánderuér"
+  },
+  {
+    "pt": "cueca boxer",
+    "en": "boxers",
+    "pron": "bóksers"
+  },
+  {
+    "pt": "calcinha",
+    "en": "panties",
+    "pron": "péntis"
+  },
+  {
+    "pt": "sutiã",
+    "en": "bra",
+    "pron": "brá"
+  },
+  {
+    "pt": "meia",
+    "en": "sock",
+    "pron": "sók"
+  },
+  {
+    "pt": "meia-calça",
+    "en": "tights",
+    "pron": "táits"
+  },
+  {
+    "pt": "sapato",
+    "en": "shoe",
+    "pron": "shú"
+  },
+  {
+    "pt": "sapato social",
+    "en": "dress shoe",
+    "pron": "drés shú"
+  },
+  {
+    "pt": "tênis",
+    "en": "sneakers",
+    "pron": "sníkers"
+  },
+  {
+    "pt": "sandália",
+    "en": "sandal",
+    "pron": "séndal"
+  },
+  {
+    "pt": "chinelo",
+    "en": "flip-flop",
+    "pron": "flíp flóp"
+  },
+  {
+    "pt": "bota",
+    "en": "boot",
+    "pron": "bút"
+  },
+  {
+    "pt": "salto alto",
+    "en": "high heels",
+    "pron": "rái ríls"
+  },
+  {
+    "pt": "sapatilha",
+    "en": "flat shoe",
+    "pron": "flét shú"
+  },
+  {
+    "pt": "chapéu",
+    "en": "hat",
+    "pron": "rét"
+  },
+  {
+    "pt": "boné",
+    "en": "cap",
+    "pron": "kép"
+  },
+  {
+    "pt": "gorro",
+    "en": "beanie",
+    "pron": "bíni"
+  },
+  {
+    "pt": "cachecol",
+    "en": "scarf",
+    "pron": "skárf"
+  },
+  {
+    "pt": "luva",
+    "en": "glove",
+    "pron": "gláv"
+  },
+  {
+    "pt": "cinto",
+    "en": "belt",
+    "pron": "bélt"
+  },
+  {
+    "pt": "gravata",
+    "en": "tie",
+    "pron": "tái"
+  },
+  {
+    "pt": "laço",
+    "en": "bow",
+    "pron": "bôu"
+  },
+  {
+    "pt": "óculos",
+    "en": "glasses",
+    "pron": "gléses"
+  },
+  {
+    "pt": "óculos de sol",
+    "en": "sunglasses",
+    "pron": "sángléses"
+  },
+  {
+    "pt": "lente de contato",
+    "en": "contact lens",
+    "pron": "kóntekt léns"
+  },
+  {
+    "pt": "bolsa",
+    "en": "bag",
+    "pron": "bég"
+  },
+  {
+    "pt": "bolsa de mão",
+    "en": "handbag",
+    "pron": "réndbeg"
+  },
+  {
+    "pt": "mochila",
+    "en": "backpack",
+    "pron": "békpék"
+  },
+  {
+    "pt": "mala",
+    "en": "suitcase",
+    "pron": "sútkeis"
+  },
+  {
+    "pt": "carteira",
+    "en": "wallet",
+    "pron": "uólet"
+  },
+  {
+    "pt": "guarda-chuva",
+    "en": "umbrella",
+    "pron": "ambréla"
+  },
+  {
+    "pt": "joia",
+    "en": "jewelry",
+    "pron": "djúelri"
+  },
+  {
+    "pt": "anel",
+    "en": "ring",
+    "pron": "ríng"
+  },
+  {
+    "pt": "aliança",
+    "en": "wedding ring",
+    "pron": "uéding ríng"
+  },
+  {
+    "pt": "colar",
+    "en": "necklace",
+    "pron": "néklis"
+  },
+  {
+    "pt": "brinco",
+    "en": "earring",
+    "pron": "íring"
+  },
+  {
+    "pt": "pulseira",
+    "en": "bracelet",
+    "pron": "bréslet"
+  },
+  {
+    "pt": "relógio",
+    "en": "watch",
+    "pron": "uóch"
+  },
+  {
+    "pt": "corrente",
+    "en": "chain",
+    "pron": "chéin"
+  },
+  {
+    "pt": "biquíni",
+    "en": "bikini",
+    "pron": "bikíni"
+  },
+  {
+    "pt": "maiô",
+    "en": "swimsuit",
+    "pron": "suímsut"
+  },
+  {
+    "pt": "sunga",
+    "en": "swim trunks",
+    "pron": "suím tránks"
+  },
+  {
+    "pt": "toalha de praia",
+    "en": "beach towel",
+    "pron": "bích táuel"
+  },
+  {
+    "pt": "algodão",
+    "en": "cotton",
+    "pron": "kóton"
+  },
+  {
+    "pt": "seda",
+    "en": "silk",
+    "pron": "sílk"
+  },
+  {
+    "pt": "lã",
+    "en": "wool",
+    "pron": "uúl"
+  },
+  {
+    "pt": "couro",
+    "en": "leather",
+    "pron": "léder"
+  },
+  {
+    "pt": "sintético",
+    "en": "synthetic",
+    "pron": "sinthétik"
+  },
+  {
+    "pt": "estampado",
+    "en": "patterned",
+    "pron": "péterned"
+  },
+  {
+    "pt": "liso",
+    "en": "plain",
+    "pron": "pléin"
+  },
+  {
+    "pt": "listrado",
+    "en": "striped",
+    "pron": "stráipt"
+  },
+  {
+    "pt": "estou vestindo",
+    "en": "I'm wearing",
+    "pron": "áim uérin"
+  },
+  {
+    "pt": "vou trocar de roupa",
+    "en": "I'll change clothes",
+    "pron": "áil chéindj klôudz"
+  },
+  {
+    "pt": "esta roupa serve?",
+    "en": "does this fit?",
+    "pron": "dáz dis fít"
+  },
+  {
+    "pt": "é muito apertado",
+    "en": "it's too tight",
+    "pron": "its tú táit"
+  },
+  {
+    "pt": "é muito largo",
+    "en": "it's too loose",
+    "pron": "its tú lús"
+  },
+  {
+    "pt": "tamanho P",
+    "en": "size S",
+    "pron": "sáiz és"
+  },
+  {
+    "pt": "tamanho M",
+    "en": "size M",
+    "pron": "sáiz ém"
+  },
+  {
+    "pt": "tamanho G",
+    "en": "size L",
+    "pron": "sáiz él"
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "pt": "loja",
+    "en": "store",
+    "pron": "stór"
+  },
+  {
+    "pt": "supermercado",
+    "en": "supermarket",
+    "pron": "súpermárkit"
+  },
+  {
+    "pt": "mercado",
+    "en": "market",
+    "pron": "márkit"
+  },
+  {
+    "pt": "shopping",
+    "en": "mall",
+    "pron": "mól"
+  },
+  {
+    "pt": "livraria",
+    "en": "bookstore",
+    "pron": "búkstor"
+  },
+  {
+    "pt": "farmácia",
+    "en": "pharmacy",
+    "pron": "fármasi"
+  },
+  {
+    "pt": "padaria",
+    "en": "bakery",
+    "pron": "béikeri"
+  },
+  {
+    "pt": "açougue",
+    "en": "butcher shop",
+    "pron": "búcher shóp"
+  },
+  {
+    "pt": "floricultura",
+    "en": "flower shop",
+    "pron": "fláuer shóp"
+  },
+  {
+    "pt": "sapataria",
+    "en": "shoe store",
+    "pron": "shú stór"
+  },
+  {
+    "pt": "banca de jornal",
+    "en": "newsstand",
+    "pron": "niússténd"
+  },
+  {
+    "pt": "loja de roupas",
+    "en": "clothing store",
+    "pron": "klôudhing stór"
+  },
+  {
+    "pt": "joalheria",
+    "en": "jewelry store",
+    "pron": "djúelri stór"
+  },
+  {
+    "pt": "papelaria",
+    "en": "stationery store",
+    "pron": "stéishoneri stór"
+  },
+  {
+    "pt": "loja de brinquedos",
+    "en": "toy store",
+    "pron": "tói stór"
+  },
+  {
+    "pt": "loja de eletrônicos",
+    "en": "electronics store",
+    "pron": "elektróniks stór"
+  },
+  {
+    "pt": "loja de móveis",
+    "en": "furniture store",
+    "pron": "férnichur stór"
+  },
+  {
+    "pt": "loja de plantas",
+    "en": "plant shop",
+    "pron": "plént shóp"
+  },
+  {
+    "pt": "pet shop",
+    "en": "pet shop",
+    "pron": "pét shóp"
+  },
+  {
+    "pt": "loja de departamento",
+    "en": "department store",
+    "pron": "dipártment stór"
+  },
+  {
+    "pt": "banco",
+    "en": "bank",
+    "pron": "bénk"
+  },
+  {
+    "pt": "correio",
+    "en": "post office",
+    "pron": "pôust ófis"
+  },
+  {
+    "pt": "delegacia",
+    "en": "police station",
+    "pron": "polís stéishon"
+  },
+  {
+    "pt": "hospital",
+    "en": "hospital",
+    "pron": "róspital"
+  },
+  {
+    "pt": "clínica",
+    "en": "clinic",
+    "pron": "klínik"
+  },
+  {
+    "pt": "consultório",
+    "en": "doctor's office",
+    "pron": "dóktors ófis"
+  },
+  {
+    "pt": "dentista",
+    "en": "dentist's office",
+    "pron": "déntists ófis"
+  },
+  {
+    "pt": "salão de beleza",
+    "en": "beauty salon",
+    "pron": "biúti sélon"
+  },
+  {
+    "pt": "barbearia",
+    "en": "barber shop",
+    "pron": "bárber shóp"
+  },
+  {
+    "pt": "lavanderia",
+    "en": "laundry",
+    "pron": "lóndri"
+  },
+  {
+    "pt": "oficina",
+    "en": "repair shop",
+    "pron": "ripér shóp"
+  },
+  {
+    "pt": "posto de gasolina",
+    "en": "gas station",
+    "pron": "gués stéishon"
+  },
+  {
+    "pt": "estacionamento",
+    "en": "parking lot",
+    "pron": "párking lót"
+  },
+  {
+    "pt": "hotel",
+    "en": "hotel",
+    "pron": "routél"
+  },
+  {
+    "pt": "pousada",
+    "en": "inn",
+    "pron": "ín"
+  },
+  {
+    "pt": "hostel",
+    "en": "hostel",
+    "pron": "róstel"
+  },
+  {
+    "pt": "cartório",
+    "en": "notary office",
+    "pron": "nóutari ófis"
+  },
+  {
+    "pt": "escritório",
+    "en": "office",
+    "pron": "ófis"
+  },
+  {
+    "pt": "coworking",
+    "en": "coworking space",
+    "pron": "kóu uórking spéis"
+  },
+  {
+    "pt": "agência de viagens",
+    "en": "travel agency",
+    "pron": "trévol éidjensi"
+  },
+  {
+    "pt": "imobiliária",
+    "en": "real estate agency",
+    "pron": "ríol istéit éidjensi"
+  },
+  {
+    "pt": "seguradora",
+    "en": "insurance company",
+    "pron": "inshúrans kámpani"
+  },
+  {
+    "pt": "advocacia",
+    "en": "law firm",
+    "pron": "ló férm"
+  },
+  {
+    "pt": "contabilidade",
+    "en": "accounting firm",
+    "pron": "akáunting férm"
+  },
+  {
+    "pt": "escola",
+    "en": "school",
+    "pron": "skúl"
+  },
+  {
+    "pt": "universidade",
+    "en": "university",
+    "pron": "iunivérsiti"
+  },
+  {
+    "pt": "faculdade",
+    "en": "college",
+    "pron": "kólidj"
+  },
+  {
+    "pt": "biblioteca",
+    "en": "library",
+    "pron": "láibreri"
+  },
+  {
+    "pt": "museu",
+    "en": "museum",
+    "pron": "miuzíum"
+  },
+  {
+    "pt": "teatro",
+    "en": "theater",
+    "pron": "thíater"
+  },
+  {
+    "pt": "cinema",
+    "en": "cinema",
+    "pron": "sínema"
+  },
+  {
+    "pt": "galeria de arte",
+    "en": "art gallery",
+    "pron": "árt gélari"
+  },
+  {
+    "pt": "centro cultural",
+    "en": "cultural center",
+    "pron": "kálchural sénter"
+  },
+  {
+    "pt": "auditório",
+    "en": "auditorium",
+    "pron": "óditórium"
+  },
+  {
+    "pt": "casa de shows",
+    "en": "concert hall",
+    "pron": "kónsert ról"
+  },
+  {
+    "pt": "parque",
+    "en": "park",
+    "pron": "párk"
+  },
+  {
+    "pt": "praça",
+    "en": "square",
+    "pron": "skué r"
+  },
+  {
+    "pt": "zoológico",
+    "en": "zoo",
+    "pron": "zú"
+  },
+  {
+    "pt": "praia",
+    "en": "beach",
+    "pron": "bích"
+  },
+  {
+    "pt": "piscina",
+    "en": "pool",
+    "pron": "púl"
+  },
+  {
+    "pt": "academia",
+    "en": "gym",
+    "pron": "djím"
+  },
+  {
+    "pt": "estádio",
+    "en": "stadium",
+    "pron": "stéidium"
+  },
+  {
+    "pt": "quadra",
+    "en": "court",
+    "pron": "kórt"
+  },
+  {
+    "pt": "campo de futebol",
+    "en": "soccer field",
+    "pron": "sóker fíld"
+  },
+  {
+    "pt": "parque de diversões",
+    "en": "amusement park",
+    "pron": "amiúzment párk"
+  },
+  {
+    "pt": "circo",
+    "en": "circus",
+    "pron": "sérkas"
+  },
+  {
+    "pt": "aquário",
+    "en": "aquarium",
+    "pron": "akuérium"
+  },
+  {
+    "pt": "bowling",
+    "en": "bowling",
+    "pron": "bôuling"
+  },
+  {
+    "pt": "restaurante",
+    "en": "restaurant",
+    "pron": "réstorant"
+  },
+  {
+    "pt": "bar",
+    "en": "bar",
+    "pron": "bár"
+  },
+  {
+    "pt": "café",
+    "en": "café",
+    "pron": "kaféi"
+  },
+  {
+    "pt": "boate",
+    "en": "nightclub",
+    "pron": "náitklab"
+  },
+  {
+    "pt": "pub",
+    "en": "pub",
+    "pron": "páb"
+  },
+  {
+    "pt": "karaokê",
+    "en": "karaoke",
+    "pron": "kariôuki"
+  },
+  {
+    "pt": "spa",
+    "en": "spa",
+    "pron": "spá"
+  },
+  {
+    "pt": "igreja",
+    "en": "church",
+    "pron": "chérch"
+  },
+  {
+    "pt": "templo",
+    "en": "temple",
+    "pron": "témpol"
+  },
+  {
+    "pt": "mesquita",
+    "en": "mosque",
+    "pron": "mósk"
+  },
+  {
+    "pt": "sinagoga",
+    "en": "synagogue",
+    "pron": "sínagog"
+  },
+  {
+    "pt": "catedral",
+    "en": "cathedral",
+    "pron": "kathídral"
+  },
+  {
+    "pt": "capela",
+    "en": "chapel",
+    "pron": "chépel"
+  },
+  {
+    "pt": "cemitério",
+    "en": "cemetery",
+    "pron": "sémetéri"
+  },
+  {
+    "pt": "prédio",
+    "en": "building",
+    "pron": "bílding"
+  },
+  {
+    "pt": "casa",
+    "en": "house",
+    "pron": "ráus"
+  },
+  {
+    "pt": "apartamento",
+    "en": "apartment",
+    "pron": "apártment"
+  },
+  {
+    "pt": "rua",
+    "en": "street",
+    "pron": "strít"
+  },
+  {
+    "pt": "avenida",
+    "en": "avenue",
+    "pron": "évenu"
+  },
+  {
+    "pt": "praça central",
+    "en": "town square",
+    "pron": "táun skué r"
+  },
+  {
+    "pt": "ponte",
+    "en": "bridge",
+    "pron": "brídj"
+  },
+  {
+    "pt": "rio",
+    "en": "river",
+    "pron": "ríver"
+  },
+  {
+    "pt": "centro",
+    "en": "downtown",
+    "pron": "dáuntáun"
+  },
+  {
+    "pt": "bairro",
+    "en": "neighborhood",
+    "pron": "néiborhud"
+  },
+  {
+    "pt": "cidade",
+    "en": "city",
+    "pron": "síti"
+  },
+  {
+    "pt": "vila",
+    "en": "village",
+    "pron": "vílej"
+  },
+  {
+    "pt": "subúrbio",
+    "en": "suburb",
+    "pron": "sábérb"
+  },
+  {
+    "pt": "arranha-céu",
+    "en": "skyscraper",
+    "pron": "skáiskreipor"
+  },
+  {
+    "pt": "praça de alimentação",
+    "en": "food court",
+    "pron": "fúd kórt"
+  },
+  {
+    "pt": "calçadão",
+    "en": "promenade",
+    "pron": "promenád"
+  },
+  {
+    "pt": "viaduto",
+    "en": "overpass",
+    "pron": "ôuverpés"
+  },
+  {
+    "pt": "túnel",
+    "en": "tunnel",
+    "pron": "tánel"
+  },
+  {
+    "pt": "beco",
+    "en": "alley",
+    "pron": "éli"
+  },
+  {
+    "pt": "largo",
+    "en": "plaza",
+    "pron": "pláza"
+  },
+  {
+    "pt": "rotatória",
+    "en": "roundabout",
+    "pron": "ráundabáut"
+  },
+  {
+    "pt": "cruzamento",
+    "en": "intersection",
+    "pron": "intersékshon"
+  },
+  {
+    "pt": "esquina",
+    "en": "corner",
+    "pron": "kórner"
+  },
+  {
+    "pt": "calçada",
+    "en": "sidewalk",
+    "pron": "sáiduók"
+  },
+  {
+    "pt": "faixa de pedestre",
+    "en": "crosswalk",
+    "pron": "krósuók"
+  },
+  {
+    "pt": "semáforo",
+    "en": "traffic light",
+    "pron": "tréfik láit"
+  },
+  {
+    "pt": "lixeira pública",
+    "en": "trash can",
+    "pron": "trésh kén"
+  },
+  {
+    "pt": "banco de praça",
+    "en": "bench",
+    "pron": "bénch"
+  },
+  {
+    "pt": "fonte",
+    "en": "fountain",
+    "pron": "fáunten"
+  },
+  {
+    "pt": "estátua",
+    "en": "statue",
+    "pron": "stétchu"
+  },
+  {
+    "pt": "monumento",
+    "en": "monument",
+    "pron": "móniument"
+  },
+  {
+    "pt": "prefeitura",
+    "en": "city hall",
+    "pron": "síti ról"
+  },
+  {
+    "pt": "fórum",
+    "en": "courthouse",
+    "pron": "kórtráus"
+  },
+  {
+    "pt": "posto de saúde",
+    "en": "health center",
+    "pron": "rélth sénter"
+  },
+  {
+    "pt": "UPA",
+    "en": "emergency care",
+    "pron": "imérdjensi kér"
+  },
+  {
+    "pt": "bombeiros",
+    "en": "fire station",
+    "pron": "fáier stéishon"
+  },
+  {
+    "pt": "exército",
+    "en": "army",
+    "pron": "ármi"
+  },
+  {
+    "pt": "consulado",
+    "en": "consulate",
+    "pron": "kónsulat"
+  },
+  {
+    "pt": "embaixada",
+    "en": "embassy",
+    "pron": "émbesi"
+  },
+  {
+    "pt": "aeroporto",
+    "en": "airport",
+    "pron": "érport"
+  },
+  {
+    "pt": "rodoviária",
+    "en": "bus station",
+    "pron": "bás stéishon"
+  },
+  {
+    "pt": "estação de trem",
+    "en": "train station",
+    "pron": "tréin stéishon"
+  },
+  {
+    "pt": "estação de metrô",
+    "en": "subway station",
+    "pron": "sábuei stéishon"
+  },
+  {
+    "pt": "porto",
+    "en": "port",
+    "pron": "pórt"
+  },
+  {
+    "pt": "ponto turístico",
+    "en": "tourist spot",
+    "pron": "túrist spót"
+  },
+  {
+    "pt": "mirante",
+    "en": "viewpoint",
+    "pron": "viúpoint"
+  },
+  {
+    "pt": "parque nacional",
+    "en": "national park",
+    "pron": "néshonal párk"
+  },
+  {
+    "pt": "cachoeira",
+    "en": "waterfall",
+    "pron": "uóterfól"
+  },
+  {
+    "pt": "montanha",
+    "en": "mountain",
+    "pron": "máunten"
+  },
+  {
+    "pt": "ilha",
+    "en": "island",
+    "pron": "áiland"
+  },
+  {
+    "pt": "farol",
+    "en": "lighthouse",
+    "pron": "láitr áus"
+  },
+  {
+    "pt": "ruínas",
+    "en": "ruins",
+    "pron": "rúins"
+  },
+  {
+    "pt": "castelo",
+    "en": "castle",
+    "pron": "késol"
+  },
+  {
+    "pt": "palácio",
+    "en": "palace",
+    "pron": "pélis"
+  },
+  {
+    "pt": "onde fica?",
+    "en": "where is it?",
+    "pron": "uér is it"
+  },
+  {
+    "pt": "como chego lá?",
+    "en": "how do I get there?",
+    "pron": "ráu du ái guét dér"
+  },
+  {
+    "pt": "é longe?",
+    "en": "is it far?",
+    "pron": "is it fár"
+  },
+  {
+    "pt": "é perto?",
+    "en": "is it near?",
+    "pron": "is it nír"
+  },
+  {
+    "pt": "tem algum restaurante aqui perto?",
+    "en": "is there a restaurant nearby?",
+    "pron": "is dér e réstorant nírbai"
+  },
+  {
+    "pt": "que bairro é esse?",
+    "en": "what neighborhood is this?",
+    "pron": "uót néiborhud is dis"
+  },
+  {
+    "pt": "estou procurando...",
+    "en": "I'm looking for...",
+    "pron": "áim lúking fór"
+  },
+  {
+    "pt": "qual o endereço?",
+    "en": "what's the address?",
+    "pron": "uóts de édres"
+  },
+  {
+    "pt": "pode me mostrar no mapa?",
+    "en": "can you show me on the map?",
+    "pron": "kén iu shôu mi ón de mép"
+  },
+  {
+    "pt": "que horas fecha?",
+    "en": "what time does it close?",
+    "pron": "uót táim dáz it klôuz"
+  },
+  {
+    "pt": "está aberto agora?",
+    "en": "is it open now?",
+    "pron": "is it ôupen náu"
+  },
+  {
+    "pt": "que dia fecha?",
+    "en": "what day does it close?",
+    "pron": "uót déi dáz it klôuz"
+  },
+  {
+    "pt": "precisa de reserva?",
+    "en": "do I need a reservation?",
+    "pron": "du ái níd e rezervéishon"
+  },
+  {
+    "pt": "tem estacionamento?",
+    "en": "is there parking?",
+    "pron": "is dér párking"
+  },
+  {
+    "pt": "tem wi-fi?",
+    "en": "is there wi-fi?",
+    "pron": "is dér uáifái"
+  },
+  {
+    "pt": "aceita pets?",
+    "en": "are pets allowed?",
+    "pron": "ár péts aláud"
+  }
+]

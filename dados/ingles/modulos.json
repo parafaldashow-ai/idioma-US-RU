@@ -1,0 +1,189 @@
+{
+  "niveis": [
+    {
+      "id": "iniciante",
+      "nome": "Iniciante",
+      "icone": "🟢",
+      "cor": "#4ade80",
+      "descricao": "Comece por aqui",
+      "modulos": [
+        {
+          "id": "saudacoes",
+          "nome": "Saudações",
+          "icone": "👋"
+        },
+        {
+          "id": "numeros",
+          "nome": "Números",
+          "icone": "🔢"
+        },
+        {
+          "id": "cores",
+          "nome": "Cores",
+          "icone": "🎨"
+        },
+        {
+          "id": "familia",
+          "nome": "Família",
+          "icone": "👨‍👩‍👧"
+        },
+        {
+          "id": "alfabeto",
+          "nome": "Alfabeto",
+          "icone": "🔤"
+        },
+        {
+          "id": "to_be",
+          "nome": "Verbo TO BE",
+          "icone": "🔤"
+        }
+      ]
+    },
+    {
+      "id": "basico",
+      "nome": "Básico",
+      "icone": "🔵",
+      "cor": "#60a5fa",
+      "descricao": "Vocabulário do dia a dia",
+      "modulos": [
+        {
+          "id": "casa",
+          "nome": "Casa e objetos",
+          "icone": "🏠"
+        },
+        {
+          "id": "roupas",
+          "nome": "Roupas",
+          "icone": "👕"
+        },
+        {
+          "id": "animais",
+          "nome": "Animais",
+          "icone": "🐶"
+        },
+        {
+          "id": "clima",
+          "nome": "Clima e natureza",
+          "icone": "🌦️"
+        },
+        {
+          "id": "transporte",
+          "nome": "Transporte",
+          "icone": "🚗"
+        },
+        {
+          "id": "direcoes",
+          "nome": "Direções",
+          "icone": "🧭"
+        },
+        {
+          "id": "comida",
+          "nome": "Comida",
+          "icone": "🍞"
+        },
+        {
+          "id": "profissoes",
+          "nome": "Profissões",
+          "icone": "💼"
+        }
+      ]
+    },
+    {
+      "id": "intermediario",
+      "nome": "Intermediário",
+      "icone": "🟡",
+      "cor": "#facc15",
+      "descricao": "Construindo frases",
+      "modulos": [
+        {
+          "id": "verbos",
+          "nome": "Verbos essenciais",
+          "icone": "🔤"
+        },
+        {
+          "id": "perguntas",
+          "nome": "Perguntas",
+          "icone": "❓"
+        },
+        {
+          "id": "emocoes",
+          "nome": "Emoções",
+          "icone": "😊"
+        },
+        {
+          "id": "dinheiro",
+          "nome": "Dinheiro e compras",
+          "icone": "💰"
+        },
+        {
+          "id": "restaurante",
+          "nome": "Restaurante",
+          "icone": "🍽️"
+        },
+        {
+          "id": "lugares",
+          "nome": "Lugares na cidade",
+          "icone": "🏙️"
+        },
+        {
+          "id": "datas",
+          "nome": "Dias e meses",
+          "icone": "📅"
+        }
+      ]
+    },
+    {
+      "id": "avancado",
+      "nome": "Avançado",
+      "icone": "🟠",
+      "cor": "#fb923c",
+      "descricao": "Aprofundando",
+      "modulos": [
+        {
+          "id": "corpo",
+          "nome": "Corpo humano",
+          "icone": "🧑"
+        },
+        {
+          "id": "horas",
+          "nome": "Horas e datas",
+          "icone": "🕐"
+        },
+        {
+          "id": "formas",
+          "nome": "Formas e tamanhos",
+          "icone": "🔷"
+        },
+        {
+          "id": "midia",
+          "nome": "Música e cinema",
+          "icone": "🎵"
+        },
+        {
+          "id": "esportes",
+          "nome": "Esportes",
+          "icone": "⚽"
+        },
+        {
+          "id": "viagem",
+          "nome": "Viagem",
+          "icone": "✈️"
+        }
+      ]
+    },
+    {
+      "id": "critico",
+      "nome": "Crítico",
+      "icone": "🔴",
+      "cor": "#f87171",
+      "descricao": "Sobrevivência",
+      "modulos": [
+        {
+          "id": "emergencias",
+          "nome": "Emergências",
+          "icone": "🚨"
+        }
+      ]
+    }
+  ]
+}

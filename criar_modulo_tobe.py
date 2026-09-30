@@ -1,0 +1,132 @@
+﻿from pathlib import Path
+import json
+
+BASE = Path(__file__).parent
+
+# ============================================================
+# PARTE 1: Criar o to_be.json
+# ============================================================
+print("Criando to_be.json...")
+
+tobe = [
+    # === CONJUGACAO BASICA (6) ===
+    {"pt": "eu sou / eu estou",    "en": "I am",         "pron": "ái ém"},
+    {"pt": "voce e / voce esta",   "en": "you are",      "pron": "iú ár"},
+    {"pt": "ele e / ele esta",     "en": "he is",        "pron": "rí is"},
+    {"pt": "ela e / ela esta",     "en": "she is",       "pron": "shí is"},
+    {"pt": "isso e / isso esta",   "en": "it is",        "pron": "it is"},
+    {"pt": "nos somos / estamos",  "en": "we are",       "pron": "uí ár"},
+    {"pt": "voces sao / estao",    "en": "you are",      "pron": "iú ár"},
+    {"pt": "eles sao / estao",     "en": "they are",     "pron": "dêi ár"},
+
+    # === CONTRACOES (6) ===
+    {"pt": "eu sou (contraido)",   "en": "I'm",          "pron": "áim"},
+    {"pt": "voce e (contraido)",   "en": "you're",       "pron": "iór"},
+    {"pt": "ele e (contraido)",    "en": "he's",         "pron": "ríz"},
+    {"pt": "ela e (contraido)",    "en": "she's",        "pron": "shíz"},
+    {"pt": "isso e (contraido)",   "en": "it's",         "pron": "its"},
+    {"pt": "nos somos (contraido)","en": "we're",        "pron": "uír"},
+    {"pt": "eles sao (contraido)", "en": "they're",      "pron": "dér"},
+
+    # === APRESENTACAO (6) ===
+    {"pt": "eu sou do Brasil",     "en": "I am from Brazil",        "pron": "ái ém from Brazil"},
+    {"pt": "eu sou brasileiro",    "en": "I am Brazilian",          "pron": "ái ém Brazilian"},
+    {"pt": "meu nome e Joao",      "en": "My name is Joao",         "pron": "mái néim is Joao"},
+    {"pt": "qual e o seu nome?",   "en": "What is your name?",      "pron": "uót is iór néim"},
+    {"pt": "prazer em conhecer",   "en": "Nice to meet you",        "pron": "náis tu mít iu"},
+    {"pt": "eu sou estudante",     "en": "I am a student",          "pron": "ái ém e stúdent"},
+    {"pt": "eu sou professor",     "en": "I am a teacher",          "pron": "ái ém e tícher"},
+
+    # === IDADE (5) ===
+    {"pt": "eu tenho 25 anos",     "en": "I am 25 years old",       "pron": "ái ém tuénti fáiv iérs ôuld"},
+    {"pt": "ela tem 30 anos",      "en": "She is 30 years old",     "pron": "shí is thérti iérs ôuld"},
+    {"pt": "ele tem 18 anos",      "en": "He is 18 years old",      "pron": "rí is êitín iérs ôuld"},
+    {"pt": "quantos anos voce tem?","en": "How old are you?",       "pron": "ráu ôuld ár iu"},
+    {"pt": "nos temos 40 anos",    "en": "We are 40 years old",     "pron": "uí ár fórti iérs ôuld"},
+
+    # === SENTIMENTOS (8) ===
+    {"pt": "eu estou cansado",     "en": "I am tired",              "pron": "ái ém táierd"},
+    {"pt": "ela esta feliz",       "en": "She is happy",            "pron": "shí is répi"},
+    {"pt": "ele esta triste",      "en": "He is sad",               "pron": "rí is séd"},
+    {"pt": "nos estamos com fome", "en": "We are hungry",           "pron": "uí ár rángri"},
+    {"pt": "eu estou com sede",    "en": "I am thirsty",            "pron": "ái ém thérsti"},
+    {"pt": "ele esta com medo",    "en": "He is scared",            "pron": "rí is skéd"},
+    {"pt": "estou animado",        "en": "I am excited",            "pron": "ái ém eksáitid"},
+    {"pt": "ela esta com raiva",   "en": "She is angry",            "pron": "shí is éngri"},
+
+    # === DESCRICAO (6) ===
+    {"pt": "ele e alto",           "en": "He is tall",              "pron": "rí is tól"},
+    {"pt": "ela e bonita",         "en": "She is beautiful",        "pron": "shí is biútiful"},
+    {"pt": "isso e grande",        "en": "It is big",               "pron": "it is bíg"},
+    {"pt": "isso e pequeno",       "en": "It is small",             "pron": "it is smól"},
+    {"pt": "ele e inteligente",    "en": "He is smart",             "pron": "rí is smárt"},
+    {"pt": "isso e muito bom",     "en": "It is very good",         "pron": "it is véri gúd"},
+
+    # === LOCALIZACAO (6) ===
+    {"pt": "eu estou em casa",     "en": "I am at home",            "pron": "ái ém ét rôum"},
+    {"pt": "ela esta no trabalho", "en": "She is at work",          "pron": "shí is ét uórk"},
+    {"pt": "ele esta na escola",   "en": "He is at school",         "pron": "rí is ét skúl"},
+    {"pt": "nos estamos aqui",     "en": "We are here",             "pron": "uí ár rír"},
+    {"pt": "onde voce esta?",      "en": "Where are you?",          "pron": "uér ár iu"},
+    {"pt": "eles estao la",        "en": "They are there",          "pron": "dêi ár dér"},
+
+    # === CLIMA (4) ===
+    {"pt": "esta frio hoje",       "en": "It is cold today",        "pron": "it is kôuld tudéi"},
+    {"pt": "esta quente",          "en": "It is hot",               "pron": "it is rót"},
+    {"pt": "esta chovendo",        "en": "It is raining",           "pron": "it is réining"},
+    {"pt": "esta ensolarado",      "en": "It is sunny",             "pron": "it is sáni"},
+
+    # === NEGATIVO (5) ===
+    {"pt": "eu nao sou",           "en": "I am not",                "pron": "ái ém nót"},
+    {"pt": "ele nao e",            "en": "He is not",               "pron": "rí is nót"},
+    {"pt": "nos nao somos",        "en": "We are not",              "pron": "uí ár nót"},
+    {"pt": "eu nao estou cansado", "en": "I am not tired",          "pron": "ái ém nót táierd"},
+    {"pt": "ela nao e minha irma", "en": "She is not my sister",    "pron": "shí is nót mái síster"},
+
+    # === PERGUNTAS (5) ===
+    {"pt": "voce esta bem?",       "en": "Are you ok?",             "pron": "ár iu ôukei"},
+    {"pt": "ele e seu amigo?",     "en": "Is he your friend?",      "pron": "is rí iór frénd"},
+    {"pt": "ela e sua mae?",       "en": "Is she your mother?",     "pron": "is shí iór móder"},
+    {"pt": "eles sao do Brasil?",  "en": "Are they from Brazil?",   "pron": "ár dêi from Brazil"},
+    {"pt": "isso e novo?",         "en": "Is it new?",              "pron": "is it niú"},
+]
+
+caminho = BASE / "dados" / "ingles" / "to_be.json"
+caminho.write_text(json.dumps(tobe, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"OK: {caminho} ({len(tobe)} itens)")
+
+# ============================================================
+# PARTE 2: Adicionar no modulos.json
+# ============================================================
+print()
+print("Adicionando 'to_be' no modulos.json...")
+
+caminho_modulos = BASE / "dados" / "ingles" / "modulos.json"
+with open(caminho_modulos, "r", encoding="utf-8") as f:
+    modulos = json.load(f)
+
+# Procura o nivel iniciante
+for nivel in modulos.get("niveis", []):
+    if nivel["id"] == "iniciante":
+        ids_existentes = [m["id"] for m in nivel["modulos"]]
+        if "to_be" not in ids_existentes:
+            nivel["modulos"].append({
+                "id": "to_be",
+                "nome": "Verbo TO BE",
+                "icone": "🔤"
+            })
+            print("OK: 'to_be' adicionado no nivel Iniciante")
+        else:
+            print("OK: 'to_be' ja existia")
+        break
+
+with open(caminho_modulos, "w", encoding="utf-8") as f:
+    json.dump(modulos, f, ensure_ascii=False, indent=2)
+
+print(f"OK: {caminho_modulos} atualizado")
+print()
+print("=" * 50)
+print(f"Modulo TO BE criado com {len(tobe)} cards!")
+print()
+print("Reinicie o Streamlit: streamlit run main.py")
+print("=" * 50)
