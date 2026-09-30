@@ -2,6 +2,7 @@ import sqlite3
 from datetime import datetime, timedelta, date
 from config import DB_PATH, DADOS_DIR
 import json
+from logica.identidade import obter_usuario_id
 
 
 def init_db():
@@ -10,6 +11,7 @@ def init_db():
     c.execute("""
         CREATE TABLE IF NOT EXISTS progresso (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            usuario_id TEXT NOT NULL DEFAULT 'default',
             idioma TEXT NOT NULL,
             modulo TEXT NOT NULL,
             item TEXT NOT NULL,
@@ -17,22 +19,57 @@ def init_db():
             erros INTEGER DEFAULT 0,
             dominado INTEGER DEFAULT 0,
             ultima_revisao TEXT,
-            UNIQUE(idioma, modulo, item)
+            visualizacoes INTEGER DEFAULT 0,
+            UNIQUE(usuario_id, idioma, modulo, item)
         )
     """)
     c.execute("""
         CREATE TABLE IF NOT EXISTS anotacoes (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            usuario_id TEXT NOT NULL DEFAULT 'default',
             idioma TEXT,
             titulo TEXT,
             conteudo TEXT,
-            criado_em TEXT DEFAULT CURRENT_TIMESTAMP
+            criado_em TEXT DEFAULT CURRENT_TIMESTAMP,
+            favorita INTEGER DEFAULT 0,
+            modulo TEXT DEFAULT '',
+            atualizado_em TEXT,
+            categoria TEXT DEFAULT 'outros'
         )
     """)
     c.execute("""
         CREATE TABLE IF NOT EXISTS streak (
-            data TEXT PRIMARY KEY,
-            revisoes INTEGER DEFAULT 0
+            usuario_id TEXT NOT NULL DEFAULT 'default',
+            data TEXT NOT NULL,
+            revisoes INTEGER DEFAULT 0,
+            PRIMARY KEY (usuario_id, data)
+        )
+    """)
+    c.execute("""
+        CREATE TABLE IF NOT EXISTS progresso_exercicios (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            usuario_id TEXT NOT NULL DEFAULT 'default',
+            idioma TEXT NOT NULL,
+            modulo TEXT NOT NULL,
+            item TEXT NOT NULL,
+            tipo_exercicio TEXT NOT NULL,
+            acertos INTEGER DEFAULT 0,
+            erros INTEGER DEFAULT 0,
+            ultima_pratica TEXT,
+            UNIQUE(usuario_id, idioma, modulo, item, tipo_exercicio)
+        )
+    """)
+    c.execute("""
+        CREATE TABLE IF NOT EXISTS sessoes_exercicios (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            usuario_id TEXT NOT NULL DEFAULT 'default',
+            idioma TEXT,
+            modulo TEXT,
+            tipo_exercicio TEXT,
+            total_questoes INTEGER,
+            acertos INTEGER,
+            erros INTEGER,
+            data TEXT DEFAULT CURRENT_TIMESTAMP
         )
     """)
     conn.commit()
@@ -40,19 +77,20 @@ def init_db():
 
 
 def registrar(idioma, modulo, item, acertou: bool):
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     agora = datetime.now().isoformat()
     c.execute("""
-        INSERT INTO progresso (idioma, modulo, item, acertos, erros, ultima_revisao)
-        VALUES (?, ?, ?, ?, ?, ?)
-        ON CONFLICT(idioma, modulo, item) DO UPDATE SET
+        INSERT INTO progresso (usuario_id, idioma, modulo, item, acertos, erros, ultima_revisao)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(usuario_id, idioma, modulo, item) DO UPDATE SET
             acertos = acertos + ?,
             erros = erros + ?,
             ultima_revisao = ?,
             dominado = CASE WHEN acertos + ? >= 3 THEN 1 ELSE dominado END
     """, (
-        idioma, modulo, item,
+        uid, idioma, modulo, item,
         1 if acertou else 0,
         0 if acertou else 1,
         agora,
@@ -63,27 +101,35 @@ def registrar(idioma, modulo, item, acertou: bool):
     ))
     hoje = agora[:10]
     c.execute("""
-        INSERT INTO streak (data, revisoes) VALUES (?, 1)
-        ON CONFLICT(data) DO UPDATE SET revisoes = revisoes + 1
-    """, (hoje,))
+        INSERT INTO streak (usuario_id, data, revisoes) VALUES (?, ?, 1)
+        ON CONFLICT(usuario_id, data) DO UPDATE SET revisoes = revisoes + 1
+    """, (uid, hoje))
     conn.commit()
     conn.close()
 
 
 def progresso_modulo(idioma, modulo):
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT * FROM progresso WHERE idioma=? AND modulo=?", (idioma, modulo))
+    c.execute(
+        "SELECT * FROM progresso WHERE usuario_id=? AND idioma=? AND modulo=?",
+        (uid, idioma, modulo),
+    )
     linhas = [dict(r) for r in c.fetchall()]
     conn.close()
     return linhas
 
 
 def resumo_geral(idioma):
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-    c.execute("SELECT COUNT(*), SUM(dominado) FROM progresso WHERE idioma=?", (idioma,))
+    c.execute(
+        "SELECT COUNT(*), SUM(dominado) FROM progresso WHERE usuario_id=? AND idioma=?",
+        (uid, idioma),
+    )
     total, dominados = c.fetchone()
     conn.close()
     return {
@@ -93,9 +139,10 @@ def resumo_geral(idioma):
 
 
 def streak_atual():
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-    c.execute("SELECT data FROM streak ORDER BY data DESC")
+    c.execute("SELECT data FROM streak WHERE usuario_id=? ORDER BY data DESC", (uid,))
     datas = [r[0] for r in c.fetchall()]
     conn.close()
     if not datas:
@@ -112,12 +159,7 @@ def streak_atual():
     return streak
 
 
-# ============================================================
-# FUNÇÕES NOVAS — ESTATÍSTICAS
-# ============================================================
-
 def _total_palavras_idioma(idioma):
-    """Conta total de palavras disponíveis num idioma (lendo JSONs)."""
     pasta = DADOS_DIR / idioma
     if not pasta.exists():
         return 0
@@ -136,7 +178,6 @@ def _total_palavras_idioma(idioma):
 
 
 def _modulos_do_idioma(idioma):
-    """Lê o modulos.json e retorna lista flat com info do nível."""
     caminho = DADOS_DIR / idioma / "modulos.json"
     if not caminho.exists():
         return []
@@ -161,35 +202,26 @@ def _modulos_do_idioma(idioma):
 
 
 def estatisticas_idioma(idioma):
-    """Retorna stats do idioma baseado em EXERCICIOS (nao visualizacoes)."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-
-    # Dominadas: itens do banco de exercicios com 3+ acertos
     c.execute("""
         SELECT COUNT(*) FROM progresso_exercicios
-        WHERE idioma=? AND acertos >= 3
-    """, (idioma,))
+        WHERE usuario_id=? AND idioma=? AND acertos >= 3
+    """, (uid, idioma))
     dominadas = c.fetchone()[0] or 0
-
-    # Em andamento: itens praticados mas com menos de 3 acertos
     c.execute("""
         SELECT COUNT(*) FROM progresso_exercicios
-        WHERE idioma=? AND acertos < 3 AND (acertos + erros) > 0
-    """, (idioma,))
+        WHERE usuario_id=? AND idioma=? AND acertos < 3 AND (acertos + erros) > 0
+    """, (uid, idioma))
     em_andamento = c.fetchone()[0] or 0
-
-    # Total praticado
     c.execute("""
         SELECT COUNT(*) FROM progresso_exercicios
-        WHERE idioma=?
-    """, (idioma,))
+        WHERE usuario_id=? AND idioma=?
+    """, (uid, idioma))
     praticadas = c.fetchone()[0] or 0
-
     conn.close()
-
     total_disp = _total_palavras_idioma(idioma)
-
     return {
         "dominadas": dominadas,
         "em_andamento": em_andamento,
@@ -199,12 +231,10 @@ def estatisticas_idioma(idioma):
 
 
 def estatisticas_por_nivel(idioma):
-    """Retorna lista de dicts: um por nível, com total e dominadas."""
+    uid = obter_usuario_id()
     modulos = _modulos_do_idioma(idioma)
     if not modulos:
         return []
-
-    # Agrupa módulos por nível
     niveis = {}
     for mod in modulos:
         nid = mod["nivel_id"]
@@ -217,11 +247,8 @@ def estatisticas_por_nivel(idioma):
                 "modulos_ids": [],
             }
         niveis[nid]["modulos_ids"].append(mod["id"])
-
-    # Conta total de palavras por nível
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-
     resultado = []
     for nid, info in niveis.items():
         total = 0
@@ -235,15 +262,12 @@ def estatisticas_por_nivel(idioma):
                         total += len(dados)
                 except Exception:
                     pass
-
-        # Dominadas nesse nível
         placeholders = ",".join("?" * len(info["modulos_ids"]))
         c.execute(
-            f"SELECT COUNT(*) FROM progresso WHERE idioma=? AND modulo IN ({placeholders}) AND dominado=1",
-            [idioma] + info["modulos_ids"],
+            f"SELECT COUNT(*) FROM progresso WHERE usuario_id=? AND idioma=? AND modulo IN ({placeholders}) AND dominado=1",
+            [uid, idioma] + info["modulos_ids"],
         )
         dominadas = c.fetchone()[0]
-
         resultado.append({
             "id": nid,
             "nome": info["nome"],
@@ -253,13 +277,12 @@ def estatisticas_por_nivel(idioma):
             "dominadas": dominadas,
             "pct": int((dominadas / total * 100) if total else 0),
         })
-
     conn.close()
     return resultado
 
 
 def top_modulos(idioma, limite=5):
-    """Retorna os módulos mais estudados (por palavras com progresso)."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     c.execute("""
@@ -267,21 +290,17 @@ def top_modulos(idioma, limite=5):
                COUNT(*) as estudadas,
                SUM(dominado) as dominadas
         FROM progresso
-        WHERE idioma=?
+        WHERE usuario_id=? AND idioma=?
         GROUP BY modulo
         ORDER BY estudadas DESC
         LIMIT ?
-    """, (idioma, limite))
+    """, (uid, idioma, limite))
     linhas = c.fetchall()
     conn.close()
-
-    # Anota info do módulo
     modulos_info = {m["id"]: m for m in _modulos_do_idioma(idioma)}
-
     resultado = []
     for mod_id, estudadas, dominadas in linhas:
         info = modulos_info.get(mod_id, {})
-        # Total de palavras no módulo
         caminho = DADOS_DIR / idioma / f"{mod_id}.json"
         total = 0
         if caminho.exists():
@@ -292,7 +311,6 @@ def top_modulos(idioma, limite=5):
                     total = len(dados)
             except Exception:
                 pass
-
         resultado.append({
             "id": mod_id,
             "nome": info.get("nome", mod_id),
@@ -302,25 +320,22 @@ def top_modulos(idioma, limite=5):
             "total": total,
             "pct": int(((dominadas or 0) / total * 100) if total else 0),
         })
-
     return resultado
 
 
 def palavras_mais_erradas(idioma, limite=10):
-    """Retorna itens com mais erros."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     c.execute("""
         SELECT modulo, item, acertos, erros
         FROM progresso
-        WHERE idioma=? AND erros > 0
+        WHERE usuario_id=? AND idioma=? AND erros > 0
         ORDER BY erros DESC
         LIMIT ?
-    """, (idioma, limite))
+    """, (uid, idioma, limite))
     linhas = c.fetchall()
     conn.close()
-
-    # Pega tradução de cada item
     resultado = []
     for mod_id, item_pt, acertos, erros in linhas:
         caminho = DADOS_DIR / idioma / f"{mod_id}.json"
@@ -337,7 +352,6 @@ def palavras_mais_erradas(idioma, limite=10):
                         break
             except Exception:
                 pass
-
         resultado.append({
             "pt": item_pt,
             "traducao": traducao,
@@ -345,18 +359,19 @@ def palavras_mais_erradas(idioma, limite=10):
             "acertos": acertos,
             "erros": erros,
         })
-
     return resultado
 
 
 def dias_estudados(ultimos_dias=30):
-    """Retorna lista de dicts: {data, revisoes} dos últimos N dias."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-    c.execute("SELECT data, revisoes FROM streak ORDER BY data DESC LIMIT ?", (ultimos_dias,))
+    c.execute(
+        "SELECT data, revisoes FROM streak WHERE usuario_id=? ORDER BY data DESC LIMIT ?",
+        (uid, ultimos_dias),
+    )
     linhas = {row[0]: row[1] for row in c.fetchall()}
     conn.close()
-
     hoje = date.today()
     resultado = []
     for i in range(ultimos_dias - 1, -1, -1):
@@ -368,36 +383,31 @@ def dias_estudados(ultimos_dias=30):
             "revisoes": linhas.get(data_iso, 0),
             "estudou": data_iso in linhas,
         })
-
     return resultado
 
 
-# ============================================================
-# VISUALIZACOES (progresso dos modulos)
-# ============================================================
-
 def registrar_visualizacao(idioma, modulo, item):
-    """Registra que o usuario viu o card (sem contar acerto/erro)."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     c.execute("""
-        INSERT INTO progresso (idioma, modulo, item, visualizacoes)
-        VALUES (?, ?, ?, 1)
-        ON CONFLICT(idioma, modulo, item) DO UPDATE SET
+        INSERT INTO progresso (usuario_id, idioma, modulo, item, visualizacoes)
+        VALUES (?, ?, ?, ?, 1)
+        ON CONFLICT(usuario_id, idioma, modulo, item) DO UPDATE SET
             visualizacoes = visualizacoes + 1
-    """, (idioma, modulo, item))
+    """, (uid, idioma, modulo, item))
     conn.commit()
     conn.close()
 
 
 def contar_visualizacoes_modulo(idioma, modulo):
-    """Retorna quantos itens unicos do modulo ja foram vistos."""
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     c.execute("""
         SELECT COUNT(*) FROM progresso
-        WHERE idioma=? AND modulo=? AND visualizacoes > 0
-    """, (idioma, modulo))
+        WHERE usuario_id=? AND idioma=? AND modulo=? AND visualizacoes > 0
+    """, (uid, idioma, modulo))
     total = c.fetchone()[0]
     conn.close()
     return total or 0
