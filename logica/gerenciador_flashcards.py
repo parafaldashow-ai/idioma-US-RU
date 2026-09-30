@@ -1,6 +1,7 @@
 import sqlite3
 from config import DB_PATH
 from logica.gerenciador_dados import listar_modulos_flat, carregar_modulo
+from logica.identidade import obter_usuario_id
 
 
 def _carregar_item_completo(idioma, modulo, item_pt):
@@ -19,12 +20,19 @@ def _info_modulo(idioma, modulo_id):
 
 
 def pegar_nao_dominadas(idioma, limite=None):
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT modulo, item, visualizacoes FROM progresso WHERE idioma = ? AND visualizacoes > 0", (idioma,))
+    c.execute(
+        "SELECT modulo, item, visualizacoes FROM progresso WHERE usuario_id=? AND idioma=? AND visualizacoes > 0",
+        (uid, idioma),
+    )
     vistos = [dict(r) for r in c.fetchall()]
-    c.execute("SELECT modulo, item, acertos FROM progresso_exercicios WHERE idioma = ?", (idioma,))
+    c.execute(
+        "SELECT modulo, item, acertos FROM progresso_exercicios WHERE usuario_id=? AND idioma=?",
+        (uid, idioma),
+    )
     acertos = {}
     for row in c.fetchall():
         k = (row["modulo"], row["item"])
@@ -52,10 +60,14 @@ def pegar_nao_dominadas(idioma, limite=None):
 
 
 def pegar_erradas(idioma, limite=None):
+    uid = obter_usuario_id()
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT modulo, item, SUM(acertos) as ta, SUM(erros) as te FROM progresso_exercicios WHERE idioma = ? GROUP BY modulo, item HAVING te > ta ORDER BY te DESC", (idioma,))
+    c.execute(
+        "SELECT modulo, item, SUM(acertos) as ta, SUM(erros) as te FROM progresso_exercicios WHERE usuario_id=? AND idioma=? GROUP BY modulo, item HAVING te > ta ORDER BY te DESC",
+        (uid, idioma),
+    )
     linhas = [dict(r) for r in c.fetchall()]
     conn.close()
     resultado = []
