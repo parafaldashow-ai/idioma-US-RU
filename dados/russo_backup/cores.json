@@ -1,0 +1,12 @@
+[
+  {"pt": "vermelho", "ru": "красный",   "pron": "krásniy"},
+  {"pt": "azul",     "ru": "синий",     "pron": "síniy"},
+  {"pt": "verde",    "ru": "зелёный",   "pron": "zilyóniy"},
+  {"pt": "amarelo",  "ru": "жёлтый",    "pron": "zhóltiy"},
+  {"pt": "preto",    "ru": "чёрный",    "pron": "chórniy"},
+  {"pt": "branco",   "ru": "белый",     "pron": "béliy"},
+  {"pt": "cinza",    "ru": "серый",     "pron": "sériy"},
+  {"pt": "rosa",     "ru": "розовый",   "pron": "rózaviy"},
+  {"pt": "roxo",     "ru": "фиолетовый","pron": "fialétaviy"},
+  {"pt": "laranja",  "ru": "оранжевый", "pron": "arándzheviy"}
+]

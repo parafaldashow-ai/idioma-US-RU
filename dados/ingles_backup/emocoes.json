@@ -1,0 +1,757 @@
+[
+  {
+    "pt": "feliz",
+    "en": "happy",
+    "pron": "répi"
+  },
+  {
+    "pt": "alegre",
+    "en": "cheerful",
+    "pron": "chírful"
+  },
+  {
+    "pt": "animado",
+    "en": "excited",
+    "pron": "eksáitid"
+  },
+  {
+    "pt": "contente",
+    "en": "glad",
+    "pron": "gléd"
+  },
+  {
+    "pt": "satisfeito",
+    "en": "satisfied",
+    "pron": "sétisfaid"
+  },
+  {
+    "pt": "orgulhoso",
+    "en": "proud",
+    "pron": "práud"
+  },
+  {
+    "pt": "grato",
+    "en": "grateful",
+    "pron": "gréitful"
+  },
+  {
+    "pt": "apaixonado",
+    "en": "in love",
+    "pron": "in láv"
+  },
+  {
+    "pt": "esperançoso",
+    "en": "hopeful",
+    "pron": "rôupful"
+  },
+  {
+    "pt": "calmo",
+    "en": "calm",
+    "pron": "kám"
+  },
+  {
+    "pt": "relaxado",
+    "en": "relaxed",
+    "pron": "rilékst"
+  },
+  {
+    "pt": "tranquilo",
+    "en": "peaceful",
+    "pron": "písful"
+  },
+  {
+    "pt": "empolgado",
+    "en": "thrilled",
+    "pron": "thríld"
+  },
+  {
+    "pt": "radiante",
+    "en": "radiant",
+    "pron": "réidiant"
+  },
+  {
+    "pt": "de bem com a vida",
+    "en": "happy-go-lucky",
+    "pron": "répi gôu láki"
+  },
+  {
+    "pt": "triste",
+    "en": "sad",
+    "pron": "séd"
+  },
+  {
+    "pt": "com raiva",
+    "en": "angry",
+    "pron": "éngri"
+  },
+  {
+    "pt": "irritado",
+    "en": "annoyed",
+    "pron": "anóid"
+  },
+  {
+    "pt": "frustrado",
+    "en": "frustrated",
+    "pron": "frástreitid"
+  },
+  {
+    "pt": "com medo",
+    "en": "afraid",
+    "pron": "afréid"
+  },
+  {
+    "pt": "assustado",
+    "en": "scared",
+    "pron": "skéd"
+  },
+  {
+    "pt": "ansioso",
+    "en": "anxious",
+    "pron": "énkshas"
+  },
+  {
+    "pt": "nervoso",
+    "en": "nervous",
+    "pron": "nérvas"
+  },
+  {
+    "pt": "preocupado",
+    "en": "worried",
+    "pron": "uórid"
+  },
+  {
+    "pt": "estressado",
+    "en": "stressed",
+    "pron": "strést"
+  },
+  {
+    "pt": "cansado",
+    "en": "tired",
+    "pron": "táierd"
+  },
+  {
+    "pt": "exausto",
+    "en": "exhausted",
+    "pron": "egzóstid"
+  },
+  {
+    "pt": "entediado",
+    "en": "bored",
+    "pron": "bórd"
+  },
+  {
+    "pt": "sozinho",
+    "en": "lonely",
+    "pron": "lôunli"
+  },
+  {
+    "pt": "deprimido",
+    "en": "depressed",
+    "pron": "diprést"
+  },
+  {
+    "pt": "confuso",
+    "en": "confused",
+    "pron": "konfiúzd"
+  },
+  {
+    "pt": "envergonhado",
+    "en": "embarrassed",
+    "pron": "embérast"
+  },
+  {
+    "pt": "culpado",
+    "en": "guilty",
+    "pron": "guílti"
+  },
+  {
+    "pt": "com ciúmes",
+    "en": "jealous",
+    "pron": "djélos"
+  },
+  {
+    "pt": "decepcionado",
+    "en": "disappointed",
+    "pron": "disapóintid"
+  },
+  {
+    "pt": "surpreso",
+    "en": "surprised",
+    "pron": "sorpráizd"
+  },
+  {
+    "pt": "chocado",
+    "en": "shocked",
+    "pron": "shókt"
+  },
+  {
+    "pt": "furioso",
+    "en": "furious",
+    "pron": "fiúrias"
+  },
+  {
+    "pt": "revoltado",
+    "en": "outraged",
+    "pron": "áutréidjd"
+  },
+  {
+    "pt": "desapontado",
+    "en": "let down",
+    "pron": "lét dáun"
+  },
+  {
+    "pt": "arrependido",
+    "en": "regretful",
+    "pron": "rigrétful"
+  },
+  {
+    "pt": "desanimado",
+    "en": "discouraged",
+    "pron": "diskóridjd"
+  },
+  {
+    "pt": "desesperado",
+    "en": "desperate",
+    "pron": "désperat"
+  },
+  {
+    "pt": "desamparado",
+    "en": "helpless",
+    "pron": "rélples"
+  },
+  {
+    "pt": "humilhado",
+    "en": "humiliated",
+    "pron": "riumílieitid"
+  },
+  {
+    "pt": "rejeitado",
+    "en": "rejected",
+    "pron": "ridjéktid"
+  },
+  {
+    "pt": "traído",
+    "en": "betrayed",
+    "pron": "bitréid"
+  },
+  {
+    "pt": "perdido",
+    "en": "lost",
+    "pron": "lóst"
+  },
+  {
+    "pt": "sem esperança",
+    "en": "hopeless",
+    "pron": "rôuples"
+  },
+  {
+    "pt": "com pena",
+    "en": "sorry for",
+    "pron": "sóri fór"
+  },
+  {
+    "pt": "com fome",
+    "en": "hungry",
+    "pron": "rángri"
+  },
+  {
+    "pt": "com sede",
+    "en": "thirsty",
+    "pron": "thérsti"
+  },
+  {
+    "pt": "com sono",
+    "en": "sleepy",
+    "pron": "slípi"
+  },
+  {
+    "pt": "com calor",
+    "en": "hot",
+    "pron": "rót"
+  },
+  {
+    "pt": "com frio",
+    "en": "cold",
+    "pron": "kôuld"
+  },
+  {
+    "pt": "doente",
+    "en": "sick",
+    "pron": "sík"
+  },
+  {
+    "pt": "machucado",
+    "en": "hurt",
+    "pron": "rért"
+  },
+  {
+    "pt": "bem",
+    "en": "well",
+    "pron": "uél"
+  },
+  {
+    "pt": "mal",
+    "en": "bad",
+    "pron": "béd"
+  },
+  {
+    "pt": "ocupado",
+    "en": "busy",
+    "pron": "bízi"
+  },
+  {
+    "pt": "livre",
+    "en": "free",
+    "pron": "frí"
+  },
+  {
+    "pt": "pronto",
+    "en": "ready",
+    "pron": "rédi"
+  },
+  {
+    "pt": "atrasado",
+    "en": "late",
+    "pron": "léit"
+  },
+  {
+    "pt": "adiantado",
+    "en": "early",
+    "pron": "érli"
+  },
+  {
+    "pt": "de boa",
+    "en": "chill",
+    "pron": "chíl"
+  },
+  {
+    "pt": "animadíssimo",
+    "en": "pumped up",
+    "pron": "pámpt áp"
+  },
+  {
+    "pt": "queimado",
+    "en": "burned out",
+    "pron": "bérnd áut"
+  },
+  {
+    "pt": "simpático",
+    "en": "nice",
+    "pron": "náis"
+  },
+  {
+    "pt": "gentil",
+    "en": "kind",
+    "pron": "káind"
+  },
+  {
+    "pt": "educado",
+    "en": "polite",
+    "pron": "poláit"
+  },
+  {
+    "pt": "grosseiro",
+    "en": "rude",
+    "pron": "rúd"
+  },
+  {
+    "pt": "legal",
+    "en": "cool",
+    "pron": "kúl"
+  },
+  {
+    "pt": "chato",
+    "en": "boring",
+    "pron": "bóring"
+  },
+  {
+    "pt": "engraçado",
+    "en": "funny",
+    "pron": "fáni"
+  },
+  {
+    "pt": "sério",
+    "en": "serious",
+    "pron": "sírias"
+  },
+  {
+    "pt": "inteligente",
+    "en": "smart",
+    "pron": "smárt"
+  },
+  {
+    "pt": "burro",
+    "en": "dumb",
+    "pron": "dám"
+  },
+  {
+    "pt": "esperto",
+    "en": "clever",
+    "pron": "kléver"
+  },
+  {
+    "pt": "preguiçoso",
+    "en": "lazy",
+    "pron": "léizi"
+  },
+  {
+    "pt": "trabalhador",
+    "en": "hardworking",
+    "pron": "rárd uórking"
+  },
+  {
+    "pt": "corajoso",
+    "en": "brave",
+    "pron": "bréiv"
+  },
+  {
+    "pt": "medroso",
+    "en": "coward",
+    "pron": "káuard"
+  },
+  {
+    "pt": "honesto",
+    "en": "honest",
+    "pron": "ónest"
+  },
+  {
+    "pt": "mentiroso",
+    "en": "liar",
+    "pron": "lái ar"
+  },
+  {
+    "pt": "generoso",
+    "en": "generous",
+    "pron": "djéneras"
+  },
+  {
+    "pt": "egoísta",
+    "en": "selfish",
+    "pron": "sélfish"
+  },
+  {
+    "pt": "tímido",
+    "en": "shy",
+    "pron": "shái"
+  },
+  {
+    "pt": "extrovertido",
+    "en": "outgoing",
+    "pron": "áutgóuing"
+  },
+  {
+    "pt": "calado",
+    "en": "quiet",
+    "pron": "kuáiet"
+  },
+  {
+    "pt": "falador",
+    "en": "talkative",
+    "pron": "tókativ"
+  },
+  {
+    "pt": "otimista",
+    "en": "optimistic",
+    "pron": "optimístik"
+  },
+  {
+    "pt": "pessimista",
+    "en": "pessimistic",
+    "pron": "pesimístik"
+  },
+  {
+    "pt": "confiante",
+    "en": "confident",
+    "pron": "kónfident"
+  },
+  {
+    "pt": "inseguro",
+    "en": "insecure",
+    "pron": "insikiúr"
+  },
+  {
+    "pt": "atencioso",
+    "en": "thoughtful",
+    "pron": "thótful"
+  },
+  {
+    "pt": "distraído",
+    "en": "distracted",
+    "pron": "distréktid"
+  },
+  {
+    "pt": "criativo",
+    "en": "creative",
+    "pron": "kriéitiv"
+  },
+  {
+    "pt": "curioso",
+    "en": "curious",
+    "pron": "kiúrias"
+  },
+  {
+    "pt": "paciente",
+    "en": "patient",
+    "pron": "péishant"
+  },
+  {
+    "pt": "impaciente",
+    "en": "impatient",
+    "pron": "impéishant"
+  },
+  {
+    "pt": "charmoso",
+    "en": "charming",
+    "pron": "chármin"
+  },
+  {
+    "pt": "arrogante",
+    "en": "arrogant",
+    "pron": "érogant"
+  },
+  {
+    "pt": "humilde",
+    "en": "humble",
+    "pron": "rámbol"
+  },
+  {
+    "pt": "sensível",
+    "en": "sensitive",
+    "pron": "sénsitiv"
+  },
+  {
+    "pt": "forte",
+    "en": "strong",
+    "pron": "strong"
+  },
+  {
+    "pt": "fraco",
+    "en": "weak",
+    "pron": "uík"
+  },
+  {
+    "pt": "estou feliz",
+    "en": "I'm happy",
+    "pron": "áim répi"
+  },
+  {
+    "pt": "estou triste",
+    "en": "I'm sad",
+    "pron": "áim séd"
+  },
+  {
+    "pt": "estou cansado",
+    "en": "I'm tired",
+    "pron": "áim táierd"
+  },
+  {
+    "pt": "estou com fome",
+    "en": "I'm hungry",
+    "pron": "áim rángri"
+  },
+  {
+    "pt": "estou com medo",
+    "en": "I'm scared",
+    "pron": "áim skéd"
+  },
+  {
+    "pt": "estou animado",
+    "en": "I'm excited",
+    "pron": "áim eksáitid"
+  },
+  {
+    "pt": "estou preocupado",
+    "en": "I'm worried",
+    "pron": "áim uórid"
+  },
+  {
+    "pt": "não estou bem",
+    "en": "I'm not ok",
+    "pron": "áim nót ôukei"
+  },
+  {
+    "pt": "estou melhor",
+    "en": "I'm better",
+    "pron": "áim béter"
+  },
+  {
+    "pt": "não me sinto bem",
+    "en": "I don't feel well",
+    "pron": "ái dônt fíl uél"
+  },
+  {
+    "pt": "que ótimo!",
+    "en": "that's great!",
+    "pron": "déts gréit"
+  },
+  {
+    "pt": "que pena!",
+    "en": "that's a pity!",
+    "pron": "déts e píti"
+  },
+  {
+    "pt": "que raiva!",
+    "en": "I'm so angry!",
+    "pron": "áim sôu éngri"
+  },
+  {
+    "pt": "não acredito!",
+    "en": "I can't believe it!",
+    "pron": "ái ként bilív it"
+  },
+  {
+    "pt": "estou muito feliz",
+    "en": "I'm very happy",
+    "pron": "áim véri répi"
+  },
+  {
+    "pt": "estou nervoso",
+    "en": "I'm nervous",
+    "pron": "áim nérvas"
+  },
+  {
+    "pt": "estou de boa",
+    "en": "I'm chill",
+    "pron": "áim chíl"
+  },
+  {
+    "pt": "estou orgulhoso de você",
+    "en": "I'm proud of you",
+    "pron": "áim práud óv iu"
+  },
+  {
+    "pt": "estou apaixonado",
+    "en": "I'm in love",
+    "pron": "áim in láv"
+  },
+  {
+    "pt": "estou com ciúmes",
+    "en": "I'm jealous",
+    "pron": "áim djélos"
+  },
+  {
+    "pt": "estou surpreso",
+    "en": "I'm surprised",
+    "pron": "áim sorpráizd"
+  },
+  {
+    "pt": "estou decepcionado",
+    "en": "I'm disappointed",
+    "pron": "áim disapóintid"
+  },
+  {
+    "pt": "estou estressado",
+    "en": "I'm stressed",
+    "pron": "áim strést"
+  },
+  {
+    "pt": "estou entediado",
+    "en": "I'm bored",
+    "pron": "áim bórd"
+  },
+  {
+    "pt": "estou sozinho",
+    "en": "I'm lonely",
+    "pron": "áim lôunli"
+  },
+  {
+    "pt": "estou ocupado",
+    "en": "I'm busy",
+    "pron": "áim bízi"
+  },
+  {
+    "pt": "estou pronto",
+    "en": "I'm ready",
+    "pron": "áim rédi"
+  },
+  {
+    "pt": "estou atrasado",
+    "en": "I'm late",
+    "pron": "áim léit"
+  },
+  {
+    "pt": "estou perdido",
+    "en": "I'm lost",
+    "pron": "áim lóst"
+  },
+  {
+    "pt": "não estou entendendo",
+    "en": "I'm not understanding",
+    "pron": "áim nót ándersténding"
+  },
+  {
+    "pt": "tô nem aí",
+    "en": "I don't care",
+    "pron": "ái dônt kér"
+  },
+  {
+    "pt": "que susto!",
+    "en": "what a scare!",
+    "pron": "uót e skér"
+  },
+  {
+    "pt": "que alívio!",
+    "en": "what a relief!",
+    "pron": "uót e rilíf"
+  },
+  {
+    "pt": "me sinto mal",
+    "en": "I feel bad",
+    "pron": "ái fíl béd"
+  },
+  {
+    "pt": "me sinto ótimo",
+    "en": "I feel great",
+    "pron": "ái fíl gréit"
+  },
+  {
+    "pt": "estou confuso",
+    "en": "I'm confused",
+    "pron": "áim konfiúzd"
+  },
+  {
+    "pt": "estou com saudade",
+    "en": "I miss you",
+    "pron": "ái mís iu"
+  },
+  {
+    "pt": "estou muito grato",
+    "en": "I'm very grateful",
+    "pron": "áim véri gréitful"
+  },
+  {
+    "pt": "foi divertido",
+    "en": "it was fun",
+    "pron": "it uós fán"
+  },
+  {
+    "pt": "foi horrível",
+    "en": "it was awful",
+    "pron": "it uós óful"
+  },
+  {
+    "pt": "foi incrível",
+    "en": "it was amazing",
+    "pron": "it uós améizing"
+  },
+  {
+    "pt": "que dia maravilhoso!",
+    "en": "what a wonderful day!",
+    "pron": "uót e uánderful déi"
+  },
+  {
+    "pt": "estou com preguiça",
+    "en": "I'm feeling lazy",
+    "pron": "áim fíling léizi"
+  },
+  {
+    "pt": "estou sem paciência",
+    "en": "I have no patience",
+    "pron": "ái rév nôu péishans"
+  },
+  {
+    "pt": "estou exausto",
+    "en": "I'm exhausted",
+    "pron": "áim egzóstid"
+  }
+]

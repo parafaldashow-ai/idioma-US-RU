@@ -1,0 +1,717 @@
+[
+  {
+    "pt": "quem?",
+    "en": "who?",
+    "pron": "rú"
+  },
+  {
+    "pt": "o que?",
+    "en": "what?",
+    "pron": "uót"
+  },
+  {
+    "pt": "onde?",
+    "en": "where?",
+    "pron": "uér"
+  },
+  {
+    "pt": "quando?",
+    "en": "when?",
+    "pron": "uén"
+  },
+  {
+    "pt": "por que?",
+    "en": "why?",
+    "pron": "uái"
+  },
+  {
+    "pt": "como?",
+    "en": "how?",
+    "pron": "ráu"
+  },
+  {
+    "pt": "qual?",
+    "en": "which?",
+    "pron": "uích"
+  },
+  {
+    "pt": "quanto?",
+    "en": "how much?",
+    "pron": "ráu mách"
+  },
+  {
+    "pt": "quantos?",
+    "en": "how many?",
+    "pron": "ráu méni"
+  },
+  {
+    "pt": "de quem?",
+    "en": "whose?",
+    "pron": "rús"
+  },
+  {
+    "pt": "para quê?",
+    "en": "what for?",
+    "pron": "uót fór"
+  },
+  {
+    "pt": "com quem?",
+    "en": "with whom?",
+    "pron": "uíth rúm"
+  },
+  {
+    "pt": "até quando?",
+    "en": "until when?",
+    "pron": "antíl uén"
+  },
+  {
+    "pt": "como você está?",
+    "en": "how are you?",
+    "pron": "ráu ár iu"
+  },
+  {
+    "pt": "qual seu nome?",
+    "en": "what's your name?",
+    "pron": "uóts iór néim"
+  },
+  {
+    "pt": "qual seu sobrenome?",
+    "en": "what's your last name?",
+    "pron": "uóts iór lést néim"
+  },
+  {
+    "pt": "de onde você é?",
+    "en": "where are you from?",
+    "pron": "uér ár iu from"
+  },
+  {
+    "pt": "onde você nasceu?",
+    "en": "where were you born?",
+    "pron": "uér uér iu bórn"
+  },
+  {
+    "pt": "quantos anos você tem?",
+    "en": "how old are you?",
+    "pron": "ráu ôuld ár iu"
+  },
+  {
+    "pt": "o que você faz?",
+    "en": "what do you do?",
+    "pron": "uót du iu dú"
+  },
+  {
+    "pt": "onde você trabalha?",
+    "en": "where do you work?",
+    "pron": "uér du iu uórk"
+  },
+  {
+    "pt": "onde você mora?",
+    "en": "where do you live?",
+    "pron": "uér du iu lív"
+  },
+  {
+    "pt": "você é casado?",
+    "en": "are you married?",
+    "pron": "ár iu mérid"
+  },
+  {
+    "pt": "você tem filhos?",
+    "en": "do you have kids?",
+    "pron": "du iu rév kíds"
+  },
+  {
+    "pt": "você tem irmãos?",
+    "en": "do you have siblings?",
+    "pron": "du iu rév síblings"
+  },
+  {
+    "pt": "qual seu telefone?",
+    "en": "what's your phone number?",
+    "pron": "uóts iór fôun námber"
+  },
+  {
+    "pt": "qual seu email?",
+    "en": "what's your email?",
+    "pron": "uóts iór ímeil"
+  },
+  {
+    "pt": "você fala inglês?",
+    "en": "do you speak English?",
+    "pron": "du iu spík ínglish"
+  },
+  {
+    "pt": "você fala português?",
+    "en": "do you speak Portuguese?",
+    "pron": "du iu spík pórchuguis"
+  },
+  {
+    "pt": "você entende?",
+    "en": "do you understand?",
+    "pron": "du iu ándersténd"
+  },
+  {
+    "pt": "você pode repetir?",
+    "en": "can you repeat?",
+    "pron": "kén iu ripít"
+  },
+  {
+    "pt": "pode falar mais devagar?",
+    "en": "can you speak slower?",
+    "pron": "kén iu spík slôuer"
+  },
+  {
+    "pt": "pode falar mais alto?",
+    "en": "can you speak louder?",
+    "pron": "kén iu spík láuder"
+  },
+  {
+    "pt": "o que significa isso?",
+    "en": "what does this mean?",
+    "pron": "uót dáz dis mín"
+  },
+  {
+    "pt": "como se diz em inglês?",
+    "en": "how do you say in English?",
+    "pron": "ráu du iu séi in ínglish"
+  },
+  {
+    "pt": "como se escreve?",
+    "en": "how do you spell it?",
+    "pron": "ráu du iu spél it"
+  },
+  {
+    "pt": "como se pronuncia?",
+    "en": "how do you pronounce it?",
+    "pron": "ráu du iu pronáuns it"
+  },
+  {
+    "pt": "o que é isso?",
+    "en": "what is this?",
+    "pron": "uót is dis"
+  },
+  {
+    "pt": "quem é ele?",
+    "en": "who is he?",
+    "pron": "rú is rí"
+  },
+  {
+    "pt": "quem é ela?",
+    "en": "who is she?",
+    "pron": "rú is shí"
+  },
+  {
+    "pt": "você pode me ajudar?",
+    "en": "can you help me?",
+    "pron": "kén iu rélp mi"
+  },
+  {
+    "pt": "posso te perguntar algo?",
+    "en": "can I ask you something?",
+    "pron": "kén ái ésk iu sámthing"
+  },
+  {
+    "pt": "que horas são?",
+    "en": "what time is it?",
+    "pron": "uót táim is it"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "en": "what day is it?",
+    "pron": "uót déi is it"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "en": "what day is tomorrow?",
+    "pron": "uót déi is tumórou"
+  },
+  {
+    "pt": "quando é...?",
+    "en": "when is...?",
+    "pron": "uén is"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "en": "how long does it take?",
+    "pron": "ráu long dáz it téik"
+  },
+  {
+    "pt": "que horas abre?",
+    "en": "what time does it open?",
+    "pron": "uót táim dáz it ôupen"
+  },
+  {
+    "pt": "que horas fecha?",
+    "en": "what time does it close?",
+    "pron": "uót táim dáz it klôuz"
+  },
+  {
+    "pt": "está aberto agora?",
+    "en": "is it open now?",
+    "pron": "is it ôupen náu"
+  },
+  {
+    "pt": "você tem tempo?",
+    "en": "do you have time?",
+    "pron": "du iu rév táim"
+  },
+  {
+    "pt": "que dia você pode?",
+    "en": "what day can you?",
+    "pron": "uót déi kén iu"
+  },
+  {
+    "pt": "quanto custa?",
+    "en": "how much does it cost?",
+    "pron": "ráu mách dáz it kóst"
+  },
+  {
+    "pt": "quanto é?",
+    "en": "how much is it?",
+    "pron": "ráu mách is it"
+  },
+  {
+    "pt": "tem desconto?",
+    "en": "is there a discount?",
+    "pron": "is dér e dískáunt"
+  },
+  {
+    "pt": "aceita cartão?",
+    "en": "do you accept cards?",
+    "pron": "du iu aksépt kárds"
+  },
+  {
+    "pt": "aceita dinheiro?",
+    "en": "do you accept cash?",
+    "pron": "du iu aksépt késh"
+  },
+  {
+    "pt": "tem troco?",
+    "en": "do you have change?",
+    "pron": "du iu rév chéindj"
+  },
+  {
+    "pt": "pode parcelar?",
+    "en": "can I pay in installments?",
+    "pron": "kén ái péi in instólments"
+  },
+  {
+    "pt": "está em promoção?",
+    "en": "is it on sale?",
+    "pron": "is it ón séil"
+  },
+  {
+    "pt": "é grátis?",
+    "en": "is it free?",
+    "pron": "is it frí"
+  },
+  {
+    "pt": "quanto fica no total?",
+    "en": "what's the total?",
+    "pron": "uóts de tóutol"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "en": "where is the bathroom?",
+    "pron": "uér is de béthrum"
+  },
+  {
+    "pt": "onde é a saída?",
+    "en": "where is the exit?",
+    "pron": "uér is de égzit"
+  },
+  {
+    "pt": "onde é a entrada?",
+    "en": "where is the entrance?",
+    "pron": "uér is de éntrens"
+  },
+  {
+    "pt": "onde fica a estação?",
+    "en": "where is the station?",
+    "pron": "uér is de stéishon"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "en": "where is the hotel?",
+    "pron": "uér is de routél"
+  },
+  {
+    "pt": "onde fica o hospital?",
+    "en": "where is the hospital?",
+    "pron": "uér is de róspital"
+  },
+  {
+    "pt": "onde fica a polícia?",
+    "en": "where is the police?",
+    "pron": "uér is de polís"
+  },
+  {
+    "pt": "onde fica o banco?",
+    "en": "where is the bank?",
+    "pron": "uér is de bénk"
+  },
+  {
+    "pt": "tem um restaurante perto?",
+    "en": "is there a restaurant nearby?",
+    "pron": "is dér e réstorant nírbai"
+  },
+  {
+    "pt": "tem um banco perto?",
+    "en": "is there a bank nearby?",
+    "pron": "is dér e bénk nírbai"
+  },
+  {
+    "pt": "onde posso encontrar...?",
+    "en": "where can I find...?",
+    "pron": "uér kén ái fáind"
+  },
+  {
+    "pt": "você gosta de...?",
+    "en": "do you like...?",
+    "pron": "du iu láik"
+  },
+  {
+    "pt": "você quer...?",
+    "en": "do you want...?",
+    "pron": "du iu uónt"
+  },
+  {
+    "pt": "você pode...?",
+    "en": "can you...?",
+    "pron": "kén iu"
+  },
+  {
+    "pt": "você tem...?",
+    "en": "do you have...?",
+    "pron": "du iu rév"
+  },
+  {
+    "pt": "posso...?",
+    "en": "may I...?",
+    "pron": "méi ái"
+  },
+  {
+    "pt": "poderia me ajudar?",
+    "en": "could you help me?",
+    "pron": "kúd iu rélp mi"
+  },
+  {
+    "pt": "por que não?",
+    "en": "why not?",
+    "pron": "uái nót"
+  },
+  {
+    "pt": "e você?",
+    "en": "and you?",
+    "pron": "énd iu"
+  },
+  {
+    "pt": "tudo bem?",
+    "en": "is everything ok?",
+    "pron": "is évrithing ôukei"
+  },
+  {
+    "pt": "e aí?",
+    "en": "what's up?",
+    "pron": "uóts áp"
+  },
+  {
+    "pt": "você já comeu?",
+    "en": "have you eaten?",
+    "pron": "rév iu íten"
+  },
+  {
+    "pt": "você já foi...?",
+    "en": "have you been to...?",
+    "pron": "rév iu bín tu"
+  },
+  {
+    "pt": "onde é o check-in?",
+    "en": "where is check-in?",
+    "pron": "uér is chék ín"
+  },
+  {
+    "pt": "que horas sai o voo?",
+    "en": "what time is the flight?",
+    "pron": "uót táim is de fláit"
+  },
+  {
+    "pt": "qual é o portão?",
+    "en": "which is the gate?",
+    "pron": "uích is de guéit"
+  },
+  {
+    "pt": "a que horas embarco?",
+    "en": "what time do I board?",
+    "pron": "uót táim du ái bórd"
+  },
+  {
+    "pt": "tem wi-fi aqui?",
+    "en": "is there wi-fi here?",
+    "pron": "is dér uáifái rír"
+  },
+  {
+    "pt": "qual a senha do wi-fi?",
+    "en": "what's the wi-fi password?",
+    "pron": "uóts de uáifái péssuord"
+  },
+  {
+    "pt": "posso ver o cardápio?",
+    "en": "can I see the menu?",
+    "pron": "kén ái sí de ményu"
+  },
+  {
+    "pt": "tem quarto vago?",
+    "en": "do you have a room available?",
+    "pron": "du iu rév e rúm avéilabol"
+  },
+  {
+    "pt": "onde dói?",
+    "en": "where does it hurt?",
+    "pron": "uér dáz it rért"
+  },
+  {
+    "pt": "que remédio você toma?",
+    "en": "what medicine do you take?",
+    "pron": "uót mésdisin du iu téik"
+  },
+  {
+    "pt": "você é alérgico a algo?",
+    "en": "are you allergic to anything?",
+    "pron": "ár iu alérdjik tu énithing"
+  },
+  {
+    "pt": "há quanto tempo está assim?",
+    "en": "how long have you been like this?",
+    "pron": "ráu long rév iu bín láik dis"
+  },
+  {
+    "pt": "você tem plano de saúde?",
+    "en": "do you have health insurance?",
+    "pron": "du iu rév rélth inshúrans"
+  },
+  {
+    "pt": "você trabalha com o quê?",
+    "en": "what do you work with?",
+    "pron": "uót du iu uórk uíth"
+  },
+  {
+    "pt": "há quanto tempo trabalha aqui?",
+    "en": "how long have you worked here?",
+    "pron": "ráu long rév iu uórkt rír"
+  },
+  {
+    "pt": "você gosta do seu trabalho?",
+    "en": "do you like your job?",
+    "pron": "du iu láik iór djób"
+  },
+  {
+    "pt": "que horas você sai do trabalho?",
+    "en": "what time do you leave work?",
+    "pron": "uót táim du iu lív uórk"
+  },
+  {
+    "pt": "você trabalha home office?",
+    "en": "do you work from home?",
+    "pron": "du iu uórk from rôum"
+  },
+  {
+    "pt": "tudo bem com você?",
+    "en": "how have you been?",
+    "pron": "ráu rév iu bín"
+  },
+  {
+    "pt": "que novidades?",
+    "en": "what's new?",
+    "pron": "uóts niú"
+  },
+  {
+    "pt": "como foi seu dia?",
+    "en": "how was your day?",
+    "pron": "ráu uós iór déi"
+  },
+  {
+    "pt": "como está o tempo?",
+    "en": "how is the weather?",
+    "pron": "ráu is de uéder"
+  },
+  {
+    "pt": "tudo certo?",
+    "en": "everything good?",
+    "pron": "évrithing gúd"
+  },
+  {
+    "pt": "vai dar certo?",
+    "en": "will it work out?",
+    "pron": "uíl it uórk áut"
+  },
+  {
+    "pt": "que horas nos encontramos?",
+    "en": "what time shall we meet?",
+    "pron": "uót táim shél uí mít"
+  },
+  {
+    "pt": "onde nos encontramos?",
+    "en": "where shall we meet?",
+    "pron": "uér shél uí mít"
+  },
+  {
+    "pt": "você já sabe?",
+    "en": "do you already know?",
+    "pron": "du iu olrédi nôu"
+  },
+  {
+    "pt": "quer ir comigo?",
+    "en": "want to come with me?",
+    "pron": "uónt tu kám uíth mi"
+  },
+  {
+    "pt": "posso te ligar depois?",
+    "en": "can I call you later?",
+    "pron": "kén ái kól iu léiter"
+  },
+  {
+    "pt": "você me manda mensagem?",
+    "en": "can you text me?",
+    "pron": "kén iu tékst mi"
+  },
+  {
+    "pt": "chame a polícia!",
+    "en": "call the police!",
+    "pron": "kól de polís"
+  },
+  {
+    "pt": "chame uma ambulância!",
+    "en": "call an ambulance!",
+    "pron": "kól en émbiulans"
+  },
+  {
+    "pt": "onde é o hospital mais próximo?",
+    "en": "where is the nearest hospital?",
+    "pron": "uér is de nírest róspital"
+  },
+  {
+    "pt": "é uma emergência!",
+    "en": "it's an emergency!",
+    "pron": "its en imérdjensi"
+  },
+  {
+    "pt": "estou perdido!",
+    "en": "I'm lost!",
+    "pron": "áim lóst"
+  },
+  {
+    "pt": "fui roubado!",
+    "en": "I was robbed!",
+    "pron": "ái uós róbd"
+  },
+  {
+    "pt": "perdi meu passaporte",
+    "en": "I lost my passport",
+    "pron": "ái lóst mái péspourt"
+  },
+  {
+    "pt": "não falo inglês",
+    "en": "I don't speak English",
+    "pron": "ái dônt spík ínglish"
+  },
+  {
+    "pt": "você pode me emprestar?",
+    "en": "can you lend me?",
+    "pron": "kén iu lénd mi"
+  },
+  {
+    "pt": "você tem um minuto?",
+    "en": "do you have a minute?",
+    "pron": "du iu rév e mínit"
+  },
+  {
+    "pt": "posso entrar?",
+    "en": "may I come in?",
+    "pron": "méi ái kám ín"
+  },
+  {
+    "pt": "posso sentar?",
+    "en": "may I sit down?",
+    "pron": "méi ái sít dáun"
+  },
+  {
+    "pt": "posso experimentar?",
+    "en": "may I try it on?",
+    "pron": "méi ái trái it ón"
+  },
+  {
+    "pt": "posso levar?",
+    "en": "may I take it?",
+    "pron": "méi ái téik it"
+  },
+  {
+    "pt": "posso pagar depois?",
+    "en": "may I pay later?",
+    "pron": "méi ái péi léiter"
+  },
+  {
+    "pt": "tudo pronto?",
+    "en": "is everything ready?",
+    "pron": "is évrithing rédi"
+  },
+  {
+    "pt": "vamos?",
+    "en": "shall we go?",
+    "pron": "shél uí gôu"
+  },
+  {
+    "pt": "posso?",
+    "en": "may I?",
+    "pron": "méi ái"
+  },
+  {
+    "pt": "tudo isso?",
+    "en": "all this?",
+    "pron": "ól dis"
+  },
+  {
+    "pt": "que tal?",
+    "en": "how about?",
+    "pron": "ráu abáut"
+  },
+  {
+    "pt": "você tem certeza?",
+    "en": "are you sure?",
+    "pron": "ár iu shúr"
+  },
+  {
+    "pt": "posso confiar?",
+    "en": "can I trust you?",
+    "pron": "kén ái trást iu"
+  },
+  {
+    "pt": "o que aconteceu?",
+    "en": "what happened?",
+    "pron": "uót répend"
+  },
+  {
+    "pt": "por que não me contou?",
+    "en": "why didn't you tell me?",
+    "pron": "uái dídnt iu tél mi"
+  },
+  {
+    "pt": "você já viu isso?",
+    "en": "have you seen this?",
+    "pron": "rév iu sín dis"
+  },
+  {
+    "pt": "quem fez isso?",
+    "en": "who did this?",
+    "pron": "rú díd dis"
+  },
+  {
+    "pt": "onde você estava?",
+    "en": "where were you?",
+    "pron": "uér uér iu"
+  },
+  {
+    "pt": "o que você acha?",
+    "en": "what do you think?",
+    "pron": "uót du iu thínk"
+  }
+]

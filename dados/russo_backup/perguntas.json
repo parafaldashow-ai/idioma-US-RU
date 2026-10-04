@@ -1,0 +1,717 @@
+[
+  {
+    "pt": "quem?",
+    "ru": "кто?",
+    "pron": "kto"
+  },
+  {
+    "pt": "o que?",
+    "ru": "что?",
+    "pron": "shto"
+  },
+  {
+    "pt": "onde?",
+    "ru": "где?",
+    "pron": "gdye"
+  },
+  {
+    "pt": "quando?",
+    "ru": "когда?",
+    "pron": "kagdá"
+  },
+  {
+    "pt": "por que?",
+    "ru": "почему?",
+    "pron": "patchimú"
+  },
+  {
+    "pt": "como?",
+    "ru": "как?",
+    "pron": "kak"
+  },
+  {
+    "pt": "qual?",
+    "ru": "какой?",
+    "pron": "kakóy"
+  },
+  {
+    "pt": "quanto?",
+    "ru": "сколько?",
+    "pron": "skól'ka"
+  },
+  {
+    "pt": "quantos?",
+    "ru": "сколько?",
+    "pron": "skól'ka"
+  },
+  {
+    "pt": "de quem?",
+    "ru": "чей?",
+    "pron": "chey"
+  },
+  {
+    "pt": "para quê?",
+    "ru": "зачем?",
+    "pron": "zatchém"
+  },
+  {
+    "pt": "com quem?",
+    "ru": "с кем?",
+    "pron": "s kem"
+  },
+  {
+    "pt": "até quando?",
+    "ru": "до каких пор?",
+    "pron": "da kakíkh por"
+  },
+  {
+    "pt": "como você está?",
+    "ru": "как вы?",
+    "pron": "kak vi"
+  },
+  {
+    "pt": "qual seu nome?",
+    "ru": "как вас зовут?",
+    "pron": "kak vas zavút"
+  },
+  {
+    "pt": "qual seu sobrenome?",
+    "ru": "какая ваша фамилия?",
+    "pron": "kakáya vásha famíliya"
+  },
+  {
+    "pt": "de onde você é?",
+    "ru": "откуда вы?",
+    "pron": "atkúda vi"
+  },
+  {
+    "pt": "onde você nasceu?",
+    "ru": "где вы родились?",
+    "pron": "gdye vi radílis'"
+  },
+  {
+    "pt": "quantos anos você tem?",
+    "ru": "сколько вам лет?",
+    "pron": "skól'ka vam let"
+  },
+  {
+    "pt": "o que você faz?",
+    "ru": "чем вы занимаетесь?",
+    "pron": "tchem vi zanimáyetes'"
+  },
+  {
+    "pt": "onde você trabalha?",
+    "ru": "где вы работаете?",
+    "pron": "gdye vi rabótayete"
+  },
+  {
+    "pt": "onde você mora?",
+    "ru": "где вы живёте?",
+    "pron": "gdye vi jivyóte"
+  },
+  {
+    "pt": "você é casado?",
+    "ru": "вы женаты?",
+    "pron": "vi jináti"
+  },
+  {
+    "pt": "você tem filhos?",
+    "ru": "у вас есть дети?",
+    "pron": "u vas yest' déti"
+  },
+  {
+    "pt": "você tem irmãos?",
+    "ru": "у вас есть братья или сёстры?",
+    "pron": "u vas yest' brát'ya íli syóstri"
+  },
+  {
+    "pt": "qual seu telefone?",
+    "ru": "какой у вас телефон?",
+    "pron": "kakóy u vas telefón"
+  },
+  {
+    "pt": "qual seu email?",
+    "ru": "какая у вас почта?",
+    "pron": "kakáya u vas póchta"
+  },
+  {
+    "pt": "você fala inglês?",
+    "ru": "вы говорите по-английски?",
+    "pron": "vi gavaríte pa anglíyski"
+  },
+  {
+    "pt": "você fala português?",
+    "ru": "вы говорите по-португальски?",
+    "pron": "vi gavaríte pa partugál'ski"
+  },
+  {
+    "pt": "você entende?",
+    "ru": "вы понимаете?",
+    "pron": "vi panimáyete"
+  },
+  {
+    "pt": "você pode repetir?",
+    "ru": "можете повторить?",
+    "pron": "mójite paftarít'"
+  },
+  {
+    "pt": "pode falar mais devagar?",
+    "ru": "можете говорить медленнее?",
+    "pron": "mójite gavarít' myédlenneye"
+  },
+  {
+    "pt": "pode falar mais alto?",
+    "ru": "можете говорить громче?",
+    "pron": "mójite gavarít' grómche"
+  },
+  {
+    "pt": "o que significa isso?",
+    "ru": "что это значит?",
+    "pron": "shto éta znátchit"
+  },
+  {
+    "pt": "como se diz em inglês?",
+    "ru": "как сказать по-английски?",
+    "pron": "kak skazát' pa anglíyski"
+  },
+  {
+    "pt": "como se escreve?",
+    "ru": "как это пишется?",
+    "pron": "kak éta píshetsya"
+  },
+  {
+    "pt": "como se pronuncia?",
+    "ru": "как это произносится?",
+    "pron": "kak éta proiznósitsya"
+  },
+  {
+    "pt": "o que é isso?",
+    "ru": "что это?",
+    "pron": "shto éta"
+  },
+  {
+    "pt": "quem é ele?",
+    "ru": "кто он?",
+    "pron": "kto on"
+  },
+  {
+    "pt": "quem é ela?",
+    "ru": "кто она?",
+    "pron": "kto aná"
+  },
+  {
+    "pt": "você pode me ajudar?",
+    "ru": "вы можете мне помочь?",
+    "pron": "vi mójite mne pamótch'"
+  },
+  {
+    "pt": "posso te perguntar algo?",
+    "ru": "можно вас спросить?",
+    "pron": "mójna vas sprósit'"
+  },
+  {
+    "pt": "que horas são?",
+    "ru": "который час?",
+    "pron": "katóriy tchas"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "ru": "какой сегодня день?",
+    "pron": "kakóy sivódnya den'"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "ru": "какой завтра день?",
+    "pron": "kakóy záftra den'"
+  },
+  {
+    "pt": "quando é...?",
+    "ru": "когда...?",
+    "pron": "kagdá"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "ru": "сколько времени это займёт?",
+    "pron": "skól'ka vrémeni éta zaymyót"
+  },
+  {
+    "pt": "que horas abre?",
+    "ru": "во сколько открывается?",
+    "pron": "va skól'ka atkriváyetsya"
+  },
+  {
+    "pt": "que horas fecha?",
+    "ru": "во сколько закрывается?",
+    "pron": "va skól'ka zakriváyetsya"
+  },
+  {
+    "pt": "está aberto agora?",
+    "ru": "сейчас открыто?",
+    "pron": "sitchás atkríta"
+  },
+  {
+    "pt": "você tem tempo?",
+    "ru": "у вас есть время?",
+    "pron": "u vas yest' vrémya"
+  },
+  {
+    "pt": "que dia você pode?",
+    "ru": "в какой день вы можете?",
+    "pron": "v kakóy den' vi mójite"
+  },
+  {
+    "pt": "quanto custa?",
+    "ru": "сколько это стоит?",
+    "pron": "skól'ka éta stóit"
+  },
+  {
+    "pt": "quanto é?",
+    "ru": "сколько?",
+    "pron": "skól'ka"
+  },
+  {
+    "pt": "tem desconto?",
+    "ru": "есть скидка?",
+    "pron": "yest' skítka"
+  },
+  {
+    "pt": "aceita cartão?",
+    "ru": "вы принимаете карты?",
+    "pron": "vi prinimáyete kárti"
+  },
+  {
+    "pt": "aceita dinheiro?",
+    "ru": "вы принимаете наличные?",
+    "pron": "vi prinimáyete nalítchniye"
+  },
+  {
+    "pt": "tem troco?",
+    "ru": "у вас есть сдача?",
+    "pron": "u vas yest' sdátcha"
+  },
+  {
+    "pt": "pode parcelar?",
+    "ru": "можно в рассрочку?",
+    "pron": "mójna v rassrótchku"
+  },
+  {
+    "pt": "está em promoção?",
+    "ru": "это по акции?",
+    "pron": "éta pa áktsii"
+  },
+  {
+    "pt": "é grátis?",
+    "ru": "это бесплатно?",
+    "pron": "éta besplátna"
+  },
+  {
+    "pt": "quanto fica no total?",
+    "ru": "сколько всего?",
+    "pron": "skól'ka fsivó"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "ru": "где туалет?",
+    "pron": "gdye tuálét"
+  },
+  {
+    "pt": "onde é a saída?",
+    "ru": "где выход?",
+    "pron": "gdye víkhad"
+  },
+  {
+    "pt": "onde é a entrada?",
+    "ru": "где вход?",
+    "pron": "gdye vkhod"
+  },
+  {
+    "pt": "onde fica a estação?",
+    "ru": "где станция?",
+    "pron": "gdye stántsiya"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "ru": "где отель?",
+    "pron": "gdye atél'"
+  },
+  {
+    "pt": "onde fica o hospital?",
+    "ru": "где больница?",
+    "pron": "gdye bal'nítsa"
+  },
+  {
+    "pt": "onde fica a polícia?",
+    "ru": "где полиция?",
+    "pron": "gdye palítsiya"
+  },
+  {
+    "pt": "onde fica o banco?",
+    "ru": "где банк?",
+    "pron": "gdye bank"
+  },
+  {
+    "pt": "tem um restaurante perto?",
+    "ru": "есть ресторан рядом?",
+    "pron": "yest' restarán ryádom"
+  },
+  {
+    "pt": "tem um banco perto?",
+    "ru": "есть банк рядом?",
+    "pron": "yest' bank ryádom"
+  },
+  {
+    "pt": "onde posso encontrar...?",
+    "ru": "где я могу найти...?",
+    "pron": "gdye ya magú naytí"
+  },
+  {
+    "pt": "você gosta de...?",
+    "ru": "вам нравится...?",
+    "pron": "vam nrávitsya"
+  },
+  {
+    "pt": "você quer...?",
+    "ru": "вы хотите...?",
+    "pron": "vi khatíte"
+  },
+  {
+    "pt": "você pode...?",
+    "ru": "вы можете...?",
+    "pron": "vi mójite"
+  },
+  {
+    "pt": "você tem...?",
+    "ru": "у вас есть...?",
+    "pron": "u vas yest'"
+  },
+  {
+    "pt": "posso...?",
+    "ru": "можно...?",
+    "pron": "mójna"
+  },
+  {
+    "pt": "poderia me ajudar?",
+    "ru": "не могли бы вы мне помочь?",
+    "pron": "ne maglí bi vi mne pamótch'"
+  },
+  {
+    "pt": "por que não?",
+    "ru": "почему нет?",
+    "pron": "patchimú net"
+  },
+  {
+    "pt": "e você?",
+    "ru": "а вы?",
+    "pron": "a vi"
+  },
+  {
+    "pt": "tudo bem?",
+    "ru": "всё хорошо?",
+    "pron": "fsyo kharashó"
+  },
+  {
+    "pt": "e aí?",
+    "ru": "как дела?",
+    "pron": "kak dilá"
+  },
+  {
+    "pt": "você já comeu?",
+    "ru": "вы уже поели?",
+    "pron": "vi ujé payéli"
+  },
+  {
+    "pt": "você já foi...?",
+    "ru": "вы уже были...?",
+    "pron": "vi ujé bíli"
+  },
+  {
+    "pt": "onde é o check-in?",
+    "ru": "где регистрация?",
+    "pron": "gdye registrátsiya"
+  },
+  {
+    "pt": "que horas sai o voo?",
+    "ru": "во сколько вылет?",
+    "pron": "va skól'ka vílet"
+  },
+  {
+    "pt": "qual é o portão?",
+    "ru": "какой выход на посадку?",
+    "pron": "kakóy víkhad na pasádku"
+  },
+  {
+    "pt": "a que horas embarco?",
+    "ru": "во сколько посадка?",
+    "pron": "va skól'ka pasádka"
+  },
+  {
+    "pt": "tem wi-fi aqui?",
+    "ru": "здесь есть вай-фай?",
+    "pron": "zdyes' yest' vay fáy"
+  },
+  {
+    "pt": "qual a senha do wi-fi?",
+    "ru": "какой пароль от вай-фая?",
+    "pron": "kakóy paról' at vay fáya"
+  },
+  {
+    "pt": "posso ver o cardápio?",
+    "ru": "можно меню?",
+    "pron": "mójna menyú"
+  },
+  {
+    "pt": "tem quarto vago?",
+    "ru": "есть свободный номер?",
+    "pron": "yest' svabódniy nómer"
+  },
+  {
+    "pt": "onde dói?",
+    "ru": "где болит?",
+    "pron": "gdye balít"
+  },
+  {
+    "pt": "que remédio você toma?",
+    "ru": "какие лекарства вы принимаете?",
+    "pron": "kakíye likárstva vi prinimáyete"
+  },
+  {
+    "pt": "você é alérgico a algo?",
+    "ru": "у вас есть аллергия?",
+    "pron": "u vas yest' allérgiya"
+  },
+  {
+    "pt": "há quanto tempo está assim?",
+    "ru": "давно это у вас?",
+    "pron": "davnó éta u vas"
+  },
+  {
+    "pt": "você tem plano de saúde?",
+    "ru": "у вас есть медстраховка?",
+    "pron": "u vas yest' medstrakhóvka"
+  },
+  {
+    "pt": "você trabalha com o quê?",
+    "ru": "чем вы занимаетесь?",
+    "pron": "tchem vi zanimáyetes'"
+  },
+  {
+    "pt": "há quanto tempo trabalha aqui?",
+    "ru": "давно вы здесь работаете?",
+    "pron": "davnó vi zdyes' rabótayete"
+  },
+  {
+    "pt": "você gosta do seu trabalho?",
+    "ru": "вам нравится ваша работа?",
+    "pron": "vam nrávitsya vásha rabóta"
+  },
+  {
+    "pt": "que horas você sai do trabalho?",
+    "ru": "во сколько вы заканчиваете работу?",
+    "pron": "va skól'ka vi zakántchivayete rabótu"
+  },
+  {
+    "pt": "você trabalha home office?",
+    "ru": "вы работаете из дома?",
+    "pron": "vi rabótayete iz dóma"
+  },
+  {
+    "pt": "tudo bem com você?",
+    "ru": "как вы поживаете?",
+    "pron": "kak vi pajiváyete"
+  },
+  {
+    "pt": "que novidades?",
+    "ru": "что нового?",
+    "pron": "shto nóvava"
+  },
+  {
+    "pt": "como foi seu dia?",
+    "ru": "как прошёл ваш день?",
+    "pron": "kak prashól vash den'"
+  },
+  {
+    "pt": "como está o tempo?",
+    "ru": "какая погода?",
+    "pron": "kakáya pagóda"
+  },
+  {
+    "pt": "tudo certo?",
+    "ru": "всё в порядке?",
+    "pron": "fsyo f paryádke"
+  },
+  {
+    "pt": "vai dar certo?",
+    "ru": "всё получится?",
+    "pron": "fsyo palútchitsya"
+  },
+  {
+    "pt": "que horas nos encontramos?",
+    "ru": "во сколько встретимся?",
+    "pron": "va skól'ka fstrétimsya"
+  },
+  {
+    "pt": "onde nos encontramos?",
+    "ru": "где встретимся?",
+    "pron": "gdye fstrétimsya"
+  },
+  {
+    "pt": "você já sabe?",
+    "ru": "вы уже знаете?",
+    "pron": "vi ujé znáyete"
+  },
+  {
+    "pt": "quer ir comigo?",
+    "ru": "хотите пойти со мной?",
+    "pron": "khatíte paytí sa mnóy"
+  },
+  {
+    "pt": "posso te ligar depois?",
+    "ru": "можно вам позвонить позже?",
+    "pron": "mójna vam pazvanít' pózje"
+  },
+  {
+    "pt": "você me manda mensagem?",
+    "ru": "вы мне напишете?",
+    "pron": "vi mne napíshete"
+  },
+  {
+    "pt": "chame a polícia!",
+    "ru": "вызовите полицию!",
+    "pron": "vízavite palítsiyu"
+  },
+  {
+    "pt": "chame uma ambulância!",
+    "ru": "вызовите скорую!",
+    "pron": "vízavite skóruyu"
+  },
+  {
+    "pt": "onde é o hospital mais próximo?",
+    "ru": "где ближайшая больница?",
+    "pron": "gdye blijáyshaya bal'nítsa"
+  },
+  {
+    "pt": "é uma emergência!",
+    "ru": "это срочно!",
+    "pron": "éta krótchna"
+  },
+  {
+    "pt": "estou perdido!",
+    "ru": "я заблудился!",
+    "pron": "ya zabludílsya"
+  },
+  {
+    "pt": "fui roubado!",
+    "ru": "меня обокрали!",
+    "pron": "minyá abakráli"
+  },
+  {
+    "pt": "perdi meu passaporte",
+    "ru": "я потерял паспорт",
+    "pron": "ya pateryál pásport"
+  },
+  {
+    "pt": "não falo inglês",
+    "ru": "я не говорю по-английски",
+    "pron": "ya ne gavaryú pa anglíyski"
+  },
+  {
+    "pt": "você pode me emprestar?",
+    "ru": "вы можете мне одолжить?",
+    "pron": "vi mójite mne adaljít'"
+  },
+  {
+    "pt": "você tem um minuto?",
+    "ru": "у вас есть минутка?",
+    "pron": "u vas yest' minútka"
+  },
+  {
+    "pt": "posso entrar?",
+    "ru": "можно войти?",
+    "pron": "mójna vaytí"
+  },
+  {
+    "pt": "posso sentar?",
+    "ru": "можно сесть?",
+    "pron": "mójna syest'"
+  },
+  {
+    "pt": "posso experimentar?",
+    "ru": "можно примерить?",
+    "pron": "mójna primérit'"
+  },
+  {
+    "pt": "posso levar?",
+    "ru": "можно взять?",
+    "pron": "mójna vzyat'"
+  },
+  {
+    "pt": "posso pagar depois?",
+    "ru": "можно заплатить позже?",
+    "pron": "mójna zaplatít' pózje"
+  },
+  {
+    "pt": "tudo pronto?",
+    "ru": "всё готово?",
+    "pron": "fsyo gatóva"
+  },
+  {
+    "pt": "vamos?",
+    "ru": "пойдём?",
+    "pron": "paydyóm"
+  },
+  {
+    "pt": "posso?",
+    "ru": "можно?",
+    "pron": "mójna"
+  },
+  {
+    "pt": "tudo isso?",
+    "ru": "всё это?",
+    "pron": "fsyo éta"
+  },
+  {
+    "pt": "que tal?",
+    "ru": "как насчёт?",
+    "pron": "kak naschyót"
+  },
+  {
+    "pt": "você tem certeza?",
+    "ru": "вы уверены?",
+    "pron": "vi uvréreni"
+  },
+  {
+    "pt": "posso confiar?",
+    "ru": "можно вам доверять?",
+    "pron": "mójna vam daveryát'"
+  },
+  {
+    "pt": "o que aconteceu?",
+    "ru": "что случилось?",
+    "pron": "shto slutílas'"
+  },
+  {
+    "pt": "por que não me contou?",
+    "ru": "почему вы мне не сказали?",
+    "pron": "patchimú vi mne ne skazáli"
+  },
+  {
+    "pt": "você já viu isso?",
+    "ru": "вы это уже видели?",
+    "pron": "vi éta ujé vídeli"
+  },
+  {
+    "pt": "quem fez isso?",
+    "ru": "кто это сделал?",
+    "pron": "kto éta zdélal"
+  },
+  {
+    "pt": "onde você estava?",
+    "ru": "где вы были?",
+    "pron": "gdye vi bíli"
+  },
+  {
+    "pt": "o que você acha?",
+    "ru": "что вы думаете?",
+    "pron": "shto vi dúmayete"
+  }
+]

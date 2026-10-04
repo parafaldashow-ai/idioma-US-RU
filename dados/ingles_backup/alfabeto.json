@@ -1,0 +1,152 @@
+[
+  {
+    "pt": "A (letra)",
+    "en": "A",
+    "pron": "êi"
+  },
+  {
+    "pt": "B (letra)",
+    "en": "B",
+    "pron": "bí"
+  },
+  {
+    "pt": "C (letra)",
+    "en": "C",
+    "pron": "sí"
+  },
+  {
+    "pt": "D (letra)",
+    "en": "D",
+    "pron": "dí"
+  },
+  {
+    "pt": "E (letra)",
+    "en": "E",
+    "pron": "í"
+  },
+  {
+    "pt": "F (letra)",
+    "en": "F",
+    "pron": "éf"
+  },
+  {
+    "pt": "G (letra)",
+    "en": "G",
+    "pron": "djí"
+  },
+  {
+    "pt": "H (letra)",
+    "en": "H",
+    "pron": "êitch"
+  },
+  {
+    "pt": "I (letra)",
+    "en": "I",
+    "pron": "ái"
+  },
+  {
+    "pt": "J (letra)",
+    "en": "J",
+    "pron": "djêi"
+  },
+  {
+    "pt": "K (letra)",
+    "en": "K",
+    "pron": "kêi"
+  },
+  {
+    "pt": "L (letra)",
+    "en": "L",
+    "pron": "él"
+  },
+  {
+    "pt": "M (letra)",
+    "en": "M",
+    "pron": "ém"
+  },
+  {
+    "pt": "N (letra)",
+    "en": "N",
+    "pron": "én"
+  },
+  {
+    "pt": "O (letra)",
+    "en": "O",
+    "pron": "ôu"
+  },
+  {
+    "pt": "P (letra)",
+    "en": "P",
+    "pron": "pí"
+  },
+  {
+    "pt": "Q (letra)",
+    "en": "Q",
+    "pron": "kiú"
+  },
+  {
+    "pt": "R (letra)",
+    "en": "R",
+    "pron": "ár"
+  },
+  {
+    "pt": "S (letra)",
+    "en": "S",
+    "pron": "és"
+  },
+  {
+    "pt": "T (letra)",
+    "en": "T",
+    "pron": "tí"
+  },
+  {
+    "pt": "U (letra)",
+    "en": "U",
+    "pron": "iú"
+  },
+  {
+    "pt": "V (letra)",
+    "en": "V",
+    "pron": "ví"
+  },
+  {
+    "pt": "W (letra)",
+    "en": "W",
+    "pron": "dábliu"
+  },
+  {
+    "pt": "X (letra)",
+    "en": "X",
+    "pron": "éks"
+  },
+  {
+    "pt": "Y (letra)",
+    "en": "Y",
+    "pron": "uái"
+  },
+  {
+    "pt": "Z (letra)",
+    "en": "Z",
+    "pron": "zí"
+  },
+  {
+    "pt": "Como soletrar 'hello'",
+    "en": "H-E-L-L-O",
+    "pron": "eitch-i-él-él-ôu"
+  },
+  {
+    "pt": "Como soletrar 'name'",
+    "en": "N-A-M-E",
+    "pron": "en-êi-em-í"
+  },
+  {
+    "pt": "Como soletrar 'Brazil'",
+    "en": "B-R-A-Z-I-L",
+    "pron": "bí-ár-êi-zí-ái-él"
+  },
+  {
+    "pt": "Como soletrar 'English'",
+    "en": "E-N-G-L-I-S-H",
+    "pron": "í-en-djí-él-ái-és-eitch"
+  }
+]

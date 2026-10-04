@@ -1,0 +1,12 @@
+[
+  {"pt": "vermelho", "en": "red",    "pron": "réd"},
+  {"pt": "azul",     "en": "blue",   "pron": "blú"},
+  {"pt": "verde",    "en": "green",  "pron": "grín"},
+  {"pt": "amarelo",  "en": "yellow", "pron": "iélou"},
+  {"pt": "preto",    "en": "black",  "pron": "blék"},
+  {"pt": "branco",   "en": "white",  "pron": "uáit"},
+  {"pt": "cinza",    "en": "gray",   "pron": "gréi"},
+  {"pt": "rosa",     "en": "pink",   "pron": "pínk"},
+  {"pt": "roxo",     "en": "purple", "pron": "pérpol"},
+  {"pt": "laranja",  "en": "orange", "pron": "órendj"}
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "pt": "esquerda",
+    "en": "left",
+    "pron": "léft"
+  },
+  {
+    "pt": "direita",
+    "en": "right",
+    "pron": "ráit"
+  },
+  {
+    "pt": "reto",
+    "en": "straight",
+    "pron": "stréit"
+  },
+  {
+    "pt": "para frente",
+    "en": "forward",
+    "pron": "fórward"
+  },
+  {
+    "pt": "para trás",
+    "en": "backward",
+    "pron": "békuerd"
+  },
+  {
+    "pt": "de lado",
+    "en": "sideways",
+    "pron": "sáidueis"
+  },
+  {
+    "pt": "em círculo",
+    "en": "in a circle",
+    "pron": "in e sérkol"
+  },
+  {
+    "pt": "acima",
+    "en": "above",
+    "pron": "abáv"
+  },
+  {
+    "pt": "abaixo",
+    "en": "below",
+    "pron": "bilôu"
+  },
+  {
+    "pt": "em cima",
+    "en": "on top",
+    "pron": "ón tóp"
+  },
+  {
+    "pt": "embaixo",
+    "en": "under",
+    "pron": "ánder"
+  },
+  {
+    "pt": "dentro",
+    "en": "inside",
+    "pron": "insáid"
+  },
+  {
+    "pt": "fora",
+    "en": "outside",
+    "pron": "áutsáid"
+  },
+  {
+    "pt": "à frente",
+    "en": "ahead",
+    "pron": "aréd"
+  },
+  {
+    "pt": "atrás",
+    "en": "behind",
+    "pron": "birráind"
+  },
+  {
+    "pt": "ao lado",
+    "en": "beside",
+    "pron": "bissáid"
+  },
+  {
+    "pt": "entre",
+    "en": "between",
+    "pron": "bituín"
+  },
+  {
+    "pt": "do lado direito",
+    "en": "on the right",
+    "pron": "ón de ráit"
+  },
+  {
+    "pt": "do lado esquerdo",
+    "en": "on the left",
+    "pron": "ón de léft"
+  },
+  {
+    "pt": "no meio",
+    "en": "in the middle",
+    "pron": "in de mídol"
+  },
+  {
+    "pt": "ao redor",
+    "en": "around",
+    "pron": "aráund"
+  },
+  {
+    "pt": "perto",
+    "en": "near",
+    "pron": "nír"
+  },
+  {
+    "pt": "longe",
+    "en": "far",
+    "pron": "fár"
+  },
+  {
+    "pt": "aqui",
+    "en": "here",
+    "pron": "rír"
+  },
+  {
+    "pt": "ali",
+    "en": "there",
+    "pron": "dér"
+  },
+  {
+    "pt": "lá",
+    "en": "over there",
+    "pron": "ôuver dér"
+  },
+  {
+    "pt": "em todo lugar",
+    "en": "everywhere",
+    "pron": "évriuer"
+  },
+  {
+    "pt": "em algum lugar",
+    "en": "somewhere",
+    "pron": "sámuer"
+  },
+  {
+    "pt": "em lugar nenhum",
+    "en": "nowhere",
+    "pron": "nôuuer"
+  },
+  {
+    "pt": "mais perto",
+    "en": "closer",
+    "pron": "klôuzer"
+  },
+  {
+    "pt": "mais longe",
+    "en": "farther",
+    "pron": "fárder"
+  },
+  {
+    "pt": "norte",
+    "en": "north",
+    "pron": "nórth"
+  },
+  {
+    "pt": "sul",
+    "en": "south",
+    "pron": "sáuth"
+  },
+  {
+    "pt": "leste",
+    "en": "east",
+    "pron": "íst"
+  },
+  {
+    "pt": "oeste",
+    "en": "west",
+    "pron": "uést"
+  },
+  {
+    "pt": "nordeste",
+    "en": "northeast",
+    "pron": "nórthíst"
+  },
+  {
+    "pt": "noroeste",
+    "en": "northwest",
+    "pron": "nórthuést"
+  },
+  {
+    "pt": "sudeste",
+    "en": "southeast",
+    "pron": "sáuthíst"
+  },
+  {
+    "pt": "sudoeste",
+    "en": "southwest",
+    "pron": "sáuthuést"
+  },
+  {
+    "pt": "norte verdadeiro",
+    "en": "true north",
+    "pron": "trú nórth"
+  },
+  {
+    "pt": "vire à esquerda",
+    "en": "turn left",
+    "pron": "térn léft"
+  },
+  {
+    "pt": "vire à direita",
+    "en": "turn right",
+    "pron": "térn ráit"
+  },
+  {
+    "pt": "siga em frente",
+    "en": "go straight",
+    "pron": "gôu stréit"
+  },
+  {
+    "pt": "pare",
+    "en": "stop",
+    "pron": "stóp"
+  },
+  {
+    "pt": "volte",
+    "en": "go back",
+    "pron": "gôu bék"
+  },
+  {
+    "pt": "suba",
+    "en": "go up",
+    "pron": "gôu áp"
+  },
+  {
+    "pt": "desça",
+    "en": "go down",
+    "pron": "gôu dáun"
+  },
+  {
+    "pt": "entre",
+    "en": "come in",
+    "pron": "kám ín"
+  },
+  {
+    "pt": "saia",
+    "en": "get out",
+    "pron": "guét áut"
+  },
+  {
+    "pt": "atravesse",
+    "en": "cross",
+    "pron": "krós"
+  },
+  {
+    "pt": "siga a placa",
+    "en": "follow the sign",
+    "pron": "fólou de sáin"
+  },
+  {
+    "pt": "pegue a primeira rua",
+    "en": "take the first street",
+    "pron": "téik de férst strít"
+  },
+  {
+    "pt": "pegue a segunda rua",
+    "en": "take the second street",
+    "pron": "téik de sékond strít"
+  },
+  {
+    "pt": "é a última rua",
+    "en": "it's the last street",
+    "pron": "its de lést strít"
+  },
+  {
+    "pt": "na esquina",
+    "en": "at the corner",
+    "pron": "ét de kórner"
+  },
+  {
+    "pt": "no final da rua",
+    "en": "at the end of the street",
+    "pron": "ét de énd óv de strít"
+  },
+  {
+    "pt": "próxima quadra",
+    "en": "next block",
+    "pron": "nékst blók"
+  },
+  {
+    "pt": "mapa",
+    "en": "map",
+    "pron": "mép"
+  },
+  {
+    "pt": "GPS",
+    "en": "GPS",
+    "pron": "djipíés"
+  },
+  {
+    "pt": "bússola",
+    "en": "compass",
+    "pron": "kámpas"
+  },
+  {
+    "pt": "placa de rua",
+    "en": "street sign",
+    "pron": "strít sáin"
+  },
+  {
+    "pt": "endereço",
+    "en": "address",
+    "pron": "édres"
+  },
+  {
+    "pt": "onde fica...?",
+    "en": "where is...?",
+    "pron": "uér is"
+  },
+  {
+    "pt": "como chego em...?",
+    "en": "how do I get to...?",
+    "pron": "ráu du ái guét tu"
+  },
+  {
+    "pt": "estou perdido",
+    "en": "I'm lost",
+    "pron": "áim lóst"
+  },
+  {
+    "pt": "pode me ajudar?",
+    "en": "can you help me?",
+    "pron": "kén iu rélp mi"
+  },
+  {
+    "pt": "é longe daqui?",
+    "en": "is it far from here?",
+    "pron": "is it fár from rír"
+  },
+  {
+    "pt": "é perto daqui?",
+    "en": "is it near here?",
+    "pron": "is it nír rír"
+  },
+  {
+    "pt": "quanto tempo a pé?",
+    "en": "how long on foot?",
+    "pron": "ráu long ón fút"
+  },
+  {
+    "pt": "estou indo pro norte",
+    "en": "I'm going north",
+    "pron": "áim góuing nórth"
+  },
+  {
+    "pt": "siga reto por 2 km",
+    "en": "go straight for 2 km",
+    "pron": "gôu stréit fór tú kilomíters"
+  },
+  {
+    "pt": "vire na próxima",
+    "en": "turn at the next",
+    "pron": "térn ét de nékst"
+  }
+]

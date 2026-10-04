@@ -1,0 +1,487 @@
+[
+  {
+    "pt": "cachorro",
+    "en": "dog",
+    "pron": "dóg"
+  },
+  {
+    "pt": "gato",
+    "en": "cat",
+    "pron": "két"
+  },
+  {
+    "pt": "pássaro",
+    "en": "bird",
+    "pron": "bérd"
+  },
+  {
+    "pt": "peixe",
+    "en": "fish",
+    "pron": "físh"
+  },
+  {
+    "pt": "hamster",
+    "en": "hamster",
+    "pron": "rémester"
+  },
+  {
+    "pt": "coelho",
+    "en": "rabbit",
+    "pron": "rébit"
+  },
+  {
+    "pt": "papagaio",
+    "en": "parrot",
+    "pron": "pérot"
+  },
+  {
+    "pt": "tartaruga",
+    "en": "turtle",
+    "pron": "tértol"
+  },
+  {
+    "pt": "porquinho-da-índia",
+    "en": "guinea pig",
+    "pron": "guíni píg"
+  },
+  {
+    "pt": "cavalo",
+    "en": "horse",
+    "pron": "rórs"
+  },
+  {
+    "pt": "vaca",
+    "en": "cow",
+    "pron": "káu"
+  },
+  {
+    "pt": "boi",
+    "en": "bull",
+    "pron": "búl"
+  },
+  {
+    "pt": "bezerro",
+    "en": "calf",
+    "pron": "kéf"
+  },
+  {
+    "pt": "porco",
+    "en": "pig",
+    "pron": "píg"
+  },
+  {
+    "pt": "ovelha",
+    "en": "sheep",
+    "pron": "shíp"
+  },
+  {
+    "pt": "cordeiro",
+    "en": "lamb",
+    "pron": "lém"
+  },
+  {
+    "pt": "cabra",
+    "en": "goat",
+    "pron": "gôut"
+  },
+  {
+    "pt": "galinha",
+    "en": "chicken",
+    "pron": "chíken"
+  },
+  {
+    "pt": "galo",
+    "en": "rooster",
+    "pron": "rúster"
+  },
+  {
+    "pt": "pintinho",
+    "en": "chick",
+    "pron": "chík"
+  },
+  {
+    "pt": "pato",
+    "en": "duck",
+    "pron": "dák"
+  },
+  {
+    "pt": "ganso",
+    "en": "goose",
+    "pron": "gús"
+  },
+  {
+    "pt": "peru",
+    "en": "turkey",
+    "pron": "térki"
+  },
+  {
+    "pt": "burro",
+    "en": "donkey",
+    "pron": "dónki"
+  },
+  {
+    "pt": "mula",
+    "en": "mule",
+    "pron": "miúl"
+  },
+  {
+    "pt": "leão",
+    "en": "lion",
+    "pron": "láion"
+  },
+  {
+    "pt": "leoa",
+    "en": "lioness",
+    "pron": "láiones"
+  },
+  {
+    "pt": "tigre",
+    "en": "tiger",
+    "pron": "táiger"
+  },
+  {
+    "pt": "elefante",
+    "en": "elephant",
+    "pron": "élefant"
+  },
+  {
+    "pt": "macaco",
+    "en": "monkey",
+    "pron": "mánki"
+  },
+  {
+    "pt": "gorila",
+    "en": "gorilla",
+    "pron": "goríla"
+  },
+  {
+    "pt": "urso",
+    "en": "bear",
+    "pron": "bér"
+  },
+  {
+    "pt": "lobo",
+    "en": "wolf",
+    "pron": "uólf"
+  },
+  {
+    "pt": "raposa",
+    "en": "fox",
+    "pron": "fóks"
+  },
+  {
+    "pt": "cervo",
+    "en": "deer",
+    "pron": "dír"
+  },
+  {
+    "pt": "esquilo",
+    "en": "squirrel",
+    "pron": "skuírel"
+  },
+  {
+    "pt": "morcego",
+    "en": "bat",
+    "pron": "bét"
+  },
+  {
+    "pt": "rato",
+    "en": "mouse",
+    "pron": "máus"
+  },
+  {
+    "pt": "ratazana",
+    "en": "rat",
+    "pron": "rét"
+  },
+  {
+    "pt": "coala",
+    "en": "koala",
+    "pron": "koála"
+  },
+  {
+    "pt": "panda",
+    "en": "panda",
+    "pron": "pénda"
+  },
+  {
+    "pt": "girafa",
+    "en": "giraffe",
+    "pron": "djiréf"
+  },
+  {
+    "pt": "zebra",
+    "en": "zebra",
+    "pron": "zíbra"
+  },
+  {
+    "pt": "rinoceronte",
+    "en": "rhino",
+    "pron": "ráinou"
+  },
+  {
+    "pt": "hipopótamo",
+    "en": "hippo",
+    "pron": "rípou"
+  },
+  {
+    "pt": "camelo",
+    "en": "camel",
+    "pron": "kémel"
+  },
+  {
+    "pt": "lontra",
+    "en": "otter",
+    "pron": "óter"
+  },
+  {
+    "pt": "foca",
+    "en": "seal",
+    "pron": "síl"
+  },
+  {
+    "pt": "baleia",
+    "en": "whale",
+    "pron": "uêil"
+  },
+  {
+    "pt": "golfinho",
+    "en": "dolphin",
+    "pron": "dólfin"
+  },
+  {
+    "pt": "tubarão",
+    "en": "shark",
+    "pron": "shárk"
+  },
+  {
+    "pt": "cobra",
+    "en": "snake",
+    "pron": "snéik"
+  },
+  {
+    "pt": "lagarto",
+    "en": "lizard",
+    "pron": "lísard"
+  },
+  {
+    "pt": "jacaré",
+    "en": "alligator",
+    "pron": "éligueitor"
+  },
+  {
+    "pt": "crocodilo",
+    "en": "crocodile",
+    "pron": "krókodail"
+  },
+  {
+    "pt": "sapo",
+    "en": "frog",
+    "pron": "frógu"
+  },
+  {
+    "pt": "rã",
+    "en": "frog",
+    "pron": "frógu"
+  },
+  {
+    "pt": "camaleão",
+    "en": "chameleon",
+    "pron": "kamilion"
+  },
+  {
+    "pt": "águia",
+    "en": "eagle",
+    "pron": "ígol"
+  },
+  {
+    "pt": "coruja",
+    "en": "owl",
+    "pron": "ául"
+  },
+  {
+    "pt": "falção",
+    "en": "falcon",
+    "pron": "félkon"
+  },
+  {
+    "pt": "pombo",
+    "en": "pigeon",
+    "pron": "pídjon"
+  },
+  {
+    "pt": "gaivota",
+    "en": "seagull",
+    "pron": "sígol"
+  },
+  {
+    "pt": "pinguim",
+    "en": "penguin",
+    "pron": "pénguin"
+  },
+  {
+    "pt": "avestruz",
+    "en": "ostrich",
+    "pron": "óstrich"
+  },
+  {
+    "pt": "flamingo",
+    "en": "flamingo",
+    "pron": "flamíngou"
+  },
+  {
+    "pt": "tucano",
+    "en": "toucan",
+    "pron": "túken"
+  },
+  {
+    "pt": "beija-flor",
+    "en": "hummingbird",
+    "pron": "rámingbérd"
+  },
+  {
+    "pt": "aranha",
+    "en": "spider",
+    "pron": "spáider"
+  },
+  {
+    "pt": "abelha",
+    "en": "bee",
+    "pron": "bí"
+  },
+  {
+    "pt": "borboleta",
+    "en": "butterfly",
+    "pron": "báterflai"
+  },
+  {
+    "pt": "formiga",
+    "en": "ant",
+    "pron": "ént"
+  },
+  {
+    "pt": "mosquito",
+    "en": "mosquito",
+    "pron": "maskítou"
+  },
+  {
+    "pt": "mosca",
+    "en": "fly",
+    "pron": "flái"
+  },
+  {
+    "pt": "barata",
+    "en": "cockroach",
+    "pron": "kókrouch"
+  },
+  {
+    "pt": "besouro",
+    "en": "beetle",
+    "pron": "bítol"
+  },
+  {
+    "pt": "grilo",
+    "en": "cricket",
+    "pron": "kríket"
+  },
+  {
+    "pt": "escorpião",
+    "en": "scorpion",
+    "pron": "skórpion"
+  },
+  {
+    "pt": "caracol",
+    "en": "snail",
+    "pron": "snéil"
+  },
+  {
+    "pt": "minhoca",
+    "en": "worm",
+    "pron": "uórm"
+  },
+  {
+    "pt": "lagarta",
+    "en": "caterpillar",
+    "pron": "kéterpiler"
+  },
+  {
+    "pt": "o cachorro late",
+    "en": "the dog barks",
+    "pron": "de dóg bárks"
+  },
+  {
+    "pt": "o gato mia",
+    "en": "the cat meows",
+    "pron": "de két miáus"
+  },
+  {
+    "pt": "a vaca muge",
+    "en": "the cow moos",
+    "pron": "de káu mús"
+  },
+  {
+    "pt": "o cavalo relincha",
+    "en": "the horse neighs",
+    "pron": "de rórs néis"
+  },
+  {
+    "pt": "o galo canta",
+    "en": "the rooster crows",
+    "pron": "de rúster krôus"
+  },
+  {
+    "pt": "o pássaro canta",
+    "en": "the bird sings",
+    "pron": "de bérd síngs"
+  },
+  {
+    "pt": "o lobo uiva",
+    "en": "the wolf howls",
+    "pron": "de uólf ráuls"
+  },
+  {
+    "pt": "a abelha zumbe",
+    "en": "the bee buzzes",
+    "pron": "de bí bázes"
+  },
+  {
+    "pt": "eu tenho um cachorro",
+    "en": "I have a dog",
+    "pron": "ái rév e dóg"
+  },
+  {
+    "pt": "eu gosto de gatos",
+    "en": "I like cats",
+    "pron": "ái láik kéts"
+  },
+  {
+    "pt": "tenho medo de cobra",
+    "en": "I'm afraid of snakes",
+    "pron": "áim afréid óv snéiks"
+  },
+  {
+    "pt": "que animal é esse?",
+    "en": "what animal is this?",
+    "pron": "uóténimal is dis"
+  },
+  {
+    "pt": "é perigoso?",
+    "en": "is it dangerous?",
+    "pron": "is it déindjeros"
+  },
+  {
+    "pt": "é de estimação",
+    "en": "it's a pet",
+    "pron": "its e pét"
+  },
+  {
+    "pt": "animal selvagem",
+    "en": "wild animal",
+    "pron": "uáild énumal"
+  },
+  {
+    "pt": "no zoológico",
+    "en": "at the zoo",
+    "pron": "ét de zú"
+  }
+]

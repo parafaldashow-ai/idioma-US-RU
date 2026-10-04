@@ -1,0 +1,907 @@
+[
+  {
+    "pt": "cabeça",
+    "en": "head",
+    "pron": "réd"
+  },
+  {
+    "pt": "cabelo",
+    "en": "hair",
+    "pron": "rér"
+  },
+  {
+    "pt": "rosto",
+    "en": "face",
+    "pron": "féis"
+  },
+  {
+    "pt": "testa",
+    "en": "forehead",
+    "pron": "fórréd"
+  },
+  {
+    "pt": "olho",
+    "en": "eye",
+    "pron": "ái"
+  },
+  {
+    "pt": "sobrancelha",
+    "en": "eyebrow",
+    "pron": "áibráu"
+  },
+  {
+    "pt": "cílios",
+    "en": "eyelashes",
+    "pron": "áiléshes"
+  },
+  {
+    "pt": "pálpebra",
+    "en": "eyelid",
+    "pron": "áilid"
+  },
+  {
+    "pt": "nariz",
+    "en": "nose",
+    "pron": "nôuz"
+  },
+  {
+    "pt": "boca",
+    "en": "mouth",
+    "pron": "máuth"
+  },
+  {
+    "pt": "lábio",
+    "en": "lip",
+    "pron": "líp"
+  },
+  {
+    "pt": "dente",
+    "en": "tooth",
+    "pron": "túth"
+  },
+  {
+    "pt": "dentes",
+    "en": "teeth",
+    "pron": "títh"
+  },
+  {
+    "pt": "língua",
+    "en": "tongue",
+    "pron": "táng"
+  },
+  {
+    "pt": "gengiva",
+    "en": "gum",
+    "pron": "gám"
+  },
+  {
+    "pt": "queixo",
+    "en": "chin",
+    "pron": "chín"
+  },
+  {
+    "pt": "bochecha",
+    "en": "cheek",
+    "pron": "chík"
+  },
+  {
+    "pt": "orelha",
+    "en": "ear",
+    "pron": "ír"
+  },
+  {
+    "pt": "pescoço",
+    "en": "neck",
+    "pron": "nék"
+  },
+  {
+    "pt": "garganta",
+    "en": "throat",
+    "pron": "thrôut"
+  },
+  {
+    "pt": "ombro",
+    "en": "shoulder",
+    "pron": "shôulder"
+  },
+  {
+    "pt": "peito",
+    "en": "chest",
+    "pron": "chést"
+  },
+  {
+    "pt": "seio",
+    "en": "breast",
+    "pron": "brést"
+  },
+  {
+    "pt": "barriga",
+    "en": "belly",
+    "pron": "béli"
+  },
+  {
+    "pt": "estômago",
+    "en": "stomach",
+    "pron": "stómak"
+  },
+  {
+    "pt": "costas",
+    "en": "back",
+    "pron": "bék"
+  },
+  {
+    "pt": "coluna",
+    "en": "spine",
+    "pron": "spáin"
+  },
+  {
+    "pt": "cintura",
+    "en": "waist",
+    "pron": "uéist"
+  },
+  {
+    "pt": "quadril",
+    "en": "hip",
+    "pron": "ríp"
+  },
+  {
+    "pt": "lado",
+    "en": "side",
+    "pron": "sáid"
+  },
+  {
+    "pt": "tórax",
+    "en": "torso",
+    "pron": "tórsou"
+  },
+  {
+    "pt": "braço",
+    "en": "arm",
+    "pron": "árm"
+  },
+  {
+    "pt": "cotovelo",
+    "en": "elbow",
+    "pron": "élbou"
+  },
+  {
+    "pt": "antebraço",
+    "en": "forearm",
+    "pron": "fórarm"
+  },
+  {
+    "pt": "pulso",
+    "en": "wrist",
+    "pron": "ríst"
+  },
+  {
+    "pt": "mão",
+    "en": "hand",
+    "pron": "rénd"
+  },
+  {
+    "pt": "palma",
+    "en": "palm",
+    "pron": "pám"
+  },
+  {
+    "pt": "dedo",
+    "en": "finger",
+    "pron": "fínguer"
+  },
+  {
+    "pt": "polegar",
+    "en": "thumb",
+    "pron": "thám"
+  },
+  {
+    "pt": "indicador",
+    "en": "index finger",
+    "pron": "índeks fínguer"
+  },
+  {
+    "pt": "dedo médio",
+    "en": "middle finger",
+    "pron": "mídol fínguer"
+  },
+  {
+    "pt": "dedo anelar",
+    "en": "ring finger",
+    "pron": "ríng fínguer"
+  },
+  {
+    "pt": "dedo mindinho",
+    "en": "pinky finger",
+    "pron": "pínki fínguer"
+  },
+  {
+    "pt": "unha",
+    "en": "nail",
+    "pron": "néil"
+  },
+  {
+    "pt": "perna",
+    "en": "leg",
+    "pron": "lég"
+  },
+  {
+    "pt": "coxa",
+    "en": "thigh",
+    "pron": "thái"
+  },
+  {
+    "pt": "joelho",
+    "en": "knee",
+    "pron": "ní"
+  },
+  {
+    "pt": "canela",
+    "en": "shin",
+    "pron": "shín"
+  },
+  {
+    "pt": "tornozelo",
+    "en": "ankle",
+    "pron": "énkol"
+  },
+  {
+    "pt": "pé",
+    "en": "foot",
+    "pron": "fút"
+  },
+  {
+    "pt": "pés",
+    "en": "feet",
+    "pron": "fít"
+  },
+  {
+    "pt": "dedo do pé",
+    "en": "toe",
+    "pron": "tôu"
+  },
+  {
+    "pt": "calcanhar",
+    "en": "heel",
+    "pron": "ríl"
+  },
+  {
+    "pt": "sola",
+    "en": "sole",
+    "pron": "sôul"
+  },
+  {
+    "pt": "coração",
+    "en": "heart",
+    "pron": "rárt"
+  },
+  {
+    "pt": "pulmão",
+    "en": "lung",
+    "pron": "lán"
+  },
+  {
+    "pt": "fígado",
+    "en": "liver",
+    "pron": "líver"
+  },
+  {
+    "pt": "rim",
+    "en": "kidney",
+    "pron": "kídni"
+  },
+  {
+    "pt": "intestino",
+    "en": "intestine",
+    "pron": "intéstin"
+  },
+  {
+    "pt": "cérebro",
+    "en": "brain",
+    "pron": "bréin"
+  },
+  {
+    "pt": "veia",
+    "en": "vein",
+    "pron": "véin"
+  },
+  {
+    "pt": "artéria",
+    "en": "artery",
+    "pron": "árteri"
+  },
+  {
+    "pt": "sangue",
+    "en": "blood",
+    "pron": "blád"
+  },
+  {
+    "pt": "osso",
+    "en": "bone",
+    "pron": "bôun"
+  },
+  {
+    "pt": "músculo",
+    "en": "muscle",
+    "pron": "másol"
+  },
+  {
+    "pt": "pele",
+    "en": "skin",
+    "pron": "skín"
+  },
+  {
+    "pt": "nervo",
+    "en": "nerve",
+    "pron": "nérv"
+  },
+  {
+    "pt": "pulso (batimento)",
+    "en": "pulse",
+    "pron": "páls"
+  },
+  {
+    "pt": "respiração",
+    "en": "breath",
+    "pron": "bréth"
+  },
+  {
+    "pt": "voz",
+    "en": "voice",
+    "pron": "vóis"
+  },
+  {
+    "pt": "lágrima",
+    "en": "tear",
+    "pron": "tír"
+  },
+  {
+    "pt": "suor",
+    "en": "sweat",
+    "pron": "suét"
+  },
+  {
+    "pt": "saliva",
+    "en": "saliva",
+    "pron": "saláiva"
+  },
+  {
+    "pt": "visão",
+    "en": "sight",
+    "pron": "sáit"
+  },
+  {
+    "pt": "audição",
+    "en": "hearing",
+    "pron": "ríring"
+  },
+  {
+    "pt": "olfato",
+    "en": "smell",
+    "pron": "smél"
+  },
+  {
+    "pt": "paladar",
+    "en": "taste",
+    "pron": "téist"
+  },
+  {
+    "pt": "tato",
+    "en": "touch",
+    "pron": "tách"
+  },
+  {
+    "pt": "alto",
+    "en": "tall",
+    "pron": "tól"
+  },
+  {
+    "pt": "baixo",
+    "en": "short",
+    "pron": "shórt"
+  },
+  {
+    "pt": "magro",
+    "en": "thin",
+    "pron": "thín"
+  },
+  {
+    "pt": "gordo",
+    "en": "fat",
+    "pron": "fét"
+  },
+  {
+    "pt": "forte",
+    "en": "strong",
+    "pron": "strong"
+  },
+  {
+    "pt": "fraco",
+    "en": "weak",
+    "pron": "uík"
+  },
+  {
+    "pt": "bonito",
+    "en": "handsome",
+    "pron": "rénsom"
+  },
+  {
+    "pt": "bonita",
+    "en": "beautiful",
+    "pron": "biútiful"
+  },
+  {
+    "pt": "feio",
+    "en": "ugly",
+    "pron": "ágli"
+  },
+  {
+    "pt": "jovem",
+    "en": "young",
+    "pron": "iáng"
+  },
+  {
+    "pt": "velho",
+    "en": "old",
+    "pron": "ôuld"
+  },
+  {
+    "pt": "loiro",
+    "en": "blonde",
+    "pron": "blónd"
+  },
+  {
+    "pt": "moreno",
+    "en": "brunette",
+    "pron": "brunét"
+  },
+  {
+    "pt": "ruivo",
+    "en": "redhead",
+    "pron": "rédréd"
+  },
+  {
+    "pt": "careca",
+    "en": "bald",
+    "pron": "bóld"
+  },
+  {
+    "pt": "cabelo comprido",
+    "en": "long hair",
+    "pron": "long rér"
+  },
+  {
+    "pt": "cabelo curto",
+    "en": "short hair",
+    "pron": "shórt rér"
+  },
+  {
+    "pt": "cabelo cacheado",
+    "en": "curly hair",
+    "pron": "kérli rér"
+  },
+  {
+    "pt": "cabelo liso",
+    "en": "straight hair",
+    "pron": "stréit rér"
+  },
+  {
+    "pt": "olhos azuis",
+    "en": "blue eyes",
+    "pron": "blú áis"
+  },
+  {
+    "pt": "olhos castanhos",
+    "en": "brown eyes",
+    "pron": "bráun áis"
+  },
+  {
+    "pt": "olhos verdes",
+    "en": "green eyes",
+    "pron": "grín áis"
+  },
+  {
+    "pt": "olhos pretos",
+    "en": "black eyes",
+    "pron": "blék áis"
+  },
+  {
+    "pt": "andar",
+    "en": "to walk",
+    "pron": "tu uók"
+  },
+  {
+    "pt": "correr",
+    "en": "to run",
+    "pron": "tu rán"
+  },
+  {
+    "pt": "pular",
+    "en": "to jump",
+    "pron": "tu djámp"
+  },
+  {
+    "pt": "sentar",
+    "en": "to sit",
+    "pron": "tu sít"
+  },
+  {
+    "pt": "levantar",
+    "en": "to stand up",
+    "pron": "tu sténd áp"
+  },
+  {
+    "pt": "deitar",
+    "en": "to lie down",
+    "pron": "tu lái dáun"
+  },
+  {
+    "pt": "dormir",
+    "en": "to sleep",
+    "pron": "tu slíp"
+  },
+  {
+    "pt": "acordar",
+    "en": "to wake up",
+    "pron": "tu uéik áp"
+  },
+  {
+    "pt": "comer",
+    "en": "to eat",
+    "pron": "tu ít"
+  },
+  {
+    "pt": "beber",
+    "en": "to drink",
+    "pron": "tu drínk"
+  },
+  {
+    "pt": "respirar",
+    "en": "to breathe",
+    "pron": "tu bríth"
+  },
+  {
+    "pt": "falar",
+    "en": "to speak",
+    "pron": "tu spík"
+  },
+  {
+    "pt": "ouvir",
+    "en": "to hear",
+    "pron": "tu rír"
+  },
+  {
+    "pt": "ver",
+    "en": "to see",
+    "pron": "tu sí"
+  },
+  {
+    "pt": "olhar",
+    "en": "to look",
+    "pron": "tu lúk"
+  },
+  {
+    "pt": "tocar",
+    "en": "to touch",
+    "pron": "tu tách"
+  },
+  {
+    "pt": "cheirar",
+    "en": "to smell",
+    "pron": "tu smél"
+  },
+  {
+    "pt": "provar",
+    "en": "to taste",
+    "pron": "tu téist"
+  },
+  {
+    "pt": "sorrir",
+    "en": "to smile",
+    "pron": "tu smáil"
+  },
+  {
+    "pt": "chorar",
+    "en": "to cry",
+    "pron": "tu krái"
+  },
+  {
+    "pt": "rir",
+    "en": "to laugh",
+    "pron": "tu léf"
+  },
+  {
+    "pt": "espirrar",
+    "en": "to sneeze",
+    "pron": "tu sníz"
+  },
+  {
+    "pt": "tossir",
+    "en": "to cough",
+    "pron": "tu kóf"
+  },
+  {
+    "pt": "bocejar",
+    "en": "to yawn",
+    "pron": "tu ión"
+  },
+  {
+    "pt": "piscar",
+    "en": "to blink",
+    "pron": "tu blínk"
+  },
+  {
+    "pt": "morder",
+    "en": "to bite",
+    "pron": "tu báit"
+  },
+  {
+    "pt": "engolir",
+    "en": "to swallow",
+    "pron": "tu suólou"
+  },
+  {
+    "pt": "mastigar",
+    "en": "to chew",
+    "pron": "tu chú"
+  },
+  {
+    "pt": "chutar",
+    "en": "to kick",
+    "pron": "tu kík"
+  },
+  {
+    "pt": "bater",
+    "en": "to hit",
+    "pron": "tu rít"
+  },
+  {
+    "pt": "segurar",
+    "en": "to hold",
+    "pron": "tu rôuld"
+  },
+  {
+    "pt": "apertar",
+    "en": "to squeeze",
+    "pron": "tu skuíz"
+  },
+  {
+    "pt": "abraçar",
+    "en": "to hug",
+    "pron": "tu rág"
+  },
+  {
+    "pt": "beijar",
+    "en": "to kiss",
+    "pron": "tu kís"
+  },
+  {
+    "pt": "empurrar",
+    "en": "to push",
+    "pron": "tu púsh"
+  },
+  {
+    "pt": "puxar",
+    "en": "to pull",
+    "pron": "tu púl"
+  },
+  {
+    "pt": "carregar",
+    "en": "to carry",
+    "pron": "tu kéri"
+  },
+  {
+    "pt": "levantar (peso)",
+    "en": "to lift",
+    "pron": "tu líft"
+  },
+  {
+    "pt": "pegar",
+    "en": "to grab",
+    "pron": "tu gréb"
+  },
+  {
+    "pt": "soltar",
+    "en": "to release",
+    "pron": "tu rilís"
+  },
+  {
+    "pt": "saudável",
+    "en": "healthy",
+    "pron": "rélthi"
+  },
+  {
+    "pt": "doente",
+    "en": "sick",
+    "pron": "sík"
+  },
+  {
+    "pt": "cansado",
+    "en": "tired",
+    "pron": "táierd"
+  },
+  {
+    "pt": "com sono",
+    "en": "sleepy",
+    "pron": "slípi"
+  },
+  {
+    "pt": "com fome",
+    "en": "hungry",
+    "pron": "rángri"
+  },
+  {
+    "pt": "com sede",
+    "en": "thirsty",
+    "pron": "thérsti"
+  },
+  {
+    "pt": "com dor",
+    "en": "in pain",
+    "pron": "in péin"
+  },
+  {
+    "pt": "machucado",
+    "en": "hurt",
+    "pron": "rért"
+  },
+  {
+    "pt": "quebrado",
+    "en": "broken",
+    "pron": "brôuken"
+  },
+  {
+    "pt": "machucado (ferida)",
+    "en": "injured",
+    "pron": "índjdurd"
+  },
+  {
+    "pt": "grávida",
+    "en": "pregnant",
+    "pron": "prégnant"
+  },
+  {
+    "pt": "gripado",
+    "en": "with a cold",
+    "pron": "uíth e kôuld"
+  },
+  {
+    "pt": "resfriado",
+    "en": "having a cold",
+    "pron": "réving e kôuld"
+  },
+  {
+    "pt": "com febre",
+    "en": "with fever",
+    "pron": "uíth fíver"
+  },
+  {
+    "pt": "sarado",
+    "en": "in shape",
+    "pron": "in shéip"
+  },
+  {
+    "pt": "fora de forma",
+    "en": "out of shape",
+    "pron": "áut óv shéip"
+  },
+  {
+    "pt": "dor de cabeça",
+    "en": "headache",
+    "pron": "rédeik"
+  },
+  {
+    "pt": "dor de barriga",
+    "en": "stomachache",
+    "pron": "stómakéik"
+  },
+  {
+    "pt": "dor de dente",
+    "en": "toothache",
+    "pron": "túthéik"
+  },
+  {
+    "pt": "dor nas costas",
+    "en": "backache",
+    "pron": "békeik"
+  },
+  {
+    "pt": "dor de garganta",
+    "en": "sore throat",
+    "pron": "sór thrôut"
+  },
+  {
+    "pt": "dor de ouvido",
+    "en": "earache",
+    "pron": "íreik"
+  },
+  {
+    "pt": "dor no peito",
+    "en": "chest pain",
+    "pron": "chést péin"
+  },
+  {
+    "pt": "dor nas pernas",
+    "en": "leg pain",
+    "pron": "lég péin"
+  },
+  {
+    "pt": "meu braço dói",
+    "en": "my arm hurts",
+    "pron": "mái árm rérts"
+  },
+  {
+    "pt": "meu pé está inchado",
+    "en": "my foot is swollen",
+    "pron": "mái fút is suólen"
+  },
+  {
+    "pt": "estou me sentindo mal",
+    "en": "I'm feeling sick",
+    "pron": "áim fíling sík"
+  },
+  {
+    "pt": "não estou bem",
+    "en": "I don't feel well",
+    "pron": "ái dônt fíl uél"
+  },
+  {
+    "pt": "preciso de um médico",
+    "en": "I need a doctor",
+    "pron": "ái níd e dóktor"
+  },
+  {
+    "pt": "quebrei o braço",
+    "en": "I broke my arm",
+    "pron": "ái brôuk mái árm"
+  },
+  {
+    "pt": "quebrei a perna",
+    "en": "I broke my leg",
+    "pron": "ái brôuk mái lég"
+  },
+  {
+    "pt": "estou sangrando",
+    "en": "I'm bleeding",
+    "pron": "áim blíding"
+  },
+  {
+    "pt": "tomei um remédio",
+    "en": "I took medicine",
+    "pron": "ái túk mésdisin"
+  },
+  {
+    "pt": "sou alérgico",
+    "en": "I'm allergic",
+    "pron": "áim alérdjik"
+  },
+  {
+    "pt": "tenho asma",
+    "en": "I have asthma",
+    "pron": "ái rév ézma"
+  },
+  {
+    "pt": "tenho diabetes",
+    "en": "I have diabetes",
+    "pron": "ái rév dáiabítis"
+  },
+  {
+    "pt": "estou grávida",
+    "en": "I'm pregnant",
+    "pron": "áim prégnant"
+  },
+  {
+    "pt": "estou de dieta",
+    "en": "I'm on a diet",
+    "pron": "áim ón e dáiet"
+  },
+  {
+    "pt": "faço exercício",
+    "en": "I exercise",
+    "pron": "ái éksersáiz"
+  },
+  {
+    "pt": "vou à academia",
+    "en": "I go to the gym",
+    "pron": "ái gôu tu de djím"
+  }
+]

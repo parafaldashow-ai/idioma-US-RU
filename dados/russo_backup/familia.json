@@ -1,0 +1,20 @@
+[
+  {"pt": "mãe",          "ru": "мама",              "pron": "máma"},
+  {"pt": "pai",          "ru": "папа",              "pron": "pápa"},
+  {"pt": "irmão",        "ru": "брат",              "pron": "brat"},
+  {"pt": "irmã",         "ru": "сестра",            "pron": "sistrá"},
+  {"pt": "filho",        "ru": "сын",               "pron": "syn"},
+  {"pt": "filha",        "ru": "дочь",              "pron": "doch"},
+  {"pt": "avô",          "ru": "дедушка",           "pron": "dédushka"},
+  {"pt": "avó",          "ru": "бабушка",           "pron": "bábushka"},
+  {"pt": "tio",          "ru": "дядя",              "pron": "dyádya"},
+  {"pt": "tia",          "ru": "тётя",              "pron": "tyótya"},
+  {"pt": "primo",        "ru": "двоюродный брат",   "pron": "dvayúradniy brat"},
+  {"pt": "marido",       "ru": "муж",               "pron": "muzh"},
+  {"pt": "esposa",       "ru": "жена",              "pron": "zhiná"},
+  {"pt": "amigo",        "ru": "друг",              "pron": "drug"},
+  {"pt": "namorado",     "ru": "парень",            "pron": "párin"},
+  {"pt": "namorada",     "ru": "девушка",           "pron": "dévushka"},
+  {"pt": "filho único",  "ru": "единственный ребёнок","pron": "yedínstvenniy ribyónak"},
+  {"pt": "bebê",         "ru": "ребёнок",           "pron": "ribyónak"}
+]

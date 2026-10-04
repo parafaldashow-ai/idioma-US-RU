@@ -1,0 +1,20 @@
+[
+  {"pt": "mãe",       "en": "mother",      "pron": "móder"},
+  {"pt": "pai",       "en": "father",      "pron": "fóder"},
+  {"pt": "irmão",     "en": "brother",     "pron": "bróder"},
+  {"pt": "irmã",      "en": "sister",      "pron": "síster"},
+  {"pt": "filho",     "en": "son",         "pron": "sán"},
+  {"pt": "filha",     "en": "daughter",    "pron": "dóter"},
+  {"pt": "avô",       "en": "grandfather", "pron": "gréndfóder"},
+  {"pt": "avó",       "en": "grandmother", "pron": "grénmóder"},
+  {"pt": "tio",       "en": "uncle",       "pron": "ánkol"},
+  {"pt": "tia",       "en": "aunt",        "pron": "ént"},
+  {"pt": "primo",     "en": "cousin",      "pron": "cázin"},
+  {"pt": "marido",    "en": "husband",     "pron": "rázband"},
+  {"pt": "esposa",    "en": "wife",        "pron": "uáif"},
+  {"pt": "amigo",     "en": "friend",      "pron": "frénd"},
+  {"pt": "namorado",  "en": "boyfriend",   "pron": "bóifrend"},
+  {"pt": "namorada",  "en": "girlfriend",  "pron": "guérlfrend"},
+  {"pt": "filho único","en": "only child", "pron": "óunli cháild"},
+  {"pt": "bebê",      "en": "baby",        "pron": "béibi"}
+]

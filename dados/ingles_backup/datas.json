@@ -1,0 +1,612 @@
+[
+  {
+    "pt": "segunda-feira",
+    "en": "Monday",
+    "pron": "mándei"
+  },
+  {
+    "pt": "terça-feira",
+    "en": "Tuesday",
+    "pron": "tiúsdei"
+  },
+  {
+    "pt": "quarta-feira",
+    "en": "Wednesday",
+    "pron": "uénsdei"
+  },
+  {
+    "pt": "quinta-feira",
+    "en": "Thursday",
+    "pron": "thérsdei"
+  },
+  {
+    "pt": "sexta-feira",
+    "en": "Friday",
+    "pron": "fráidei"
+  },
+  {
+    "pt": "sábado",
+    "en": "Saturday",
+    "pron": "séteredéi"
+  },
+  {
+    "pt": "domingo",
+    "en": "Sunday",
+    "pron": "sándei"
+  },
+  {
+    "pt": "fim de semana",
+    "en": "weekend",
+    "pron": "uíkend"
+  },
+  {
+    "pt": "dia útil",
+    "en": "weekday",
+    "pron": "uíkdei"
+  },
+  {
+    "pt": "feriado",
+    "en": "holiday",
+    "pron": "rólidei"
+  },
+  {
+    "pt": "janeiro",
+    "en": "January",
+    "pron": "djéniueri"
+  },
+  {
+    "pt": "fevereiro",
+    "en": "February",
+    "pron": "fébrueri"
+  },
+  {
+    "pt": "março",
+    "en": "March",
+    "pron": "márch"
+  },
+  {
+    "pt": "abril",
+    "en": "April",
+    "pron": "éipril"
+  },
+  {
+    "pt": "maio",
+    "en": "May",
+    "pron": "méi"
+  },
+  {
+    "pt": "junho",
+    "en": "June",
+    "pron": "djún"
+  },
+  {
+    "pt": "julho",
+    "en": "July",
+    "pron": "djulái"
+  },
+  {
+    "pt": "agosto",
+    "en": "August",
+    "pron": "ógost"
+  },
+  {
+    "pt": "setembro",
+    "en": "September",
+    "pron": "septémber"
+  },
+  {
+    "pt": "outubro",
+    "en": "October",
+    "pron": "októuber"
+  },
+  {
+    "pt": "novembro",
+    "en": "November",
+    "pron": "novémber"
+  },
+  {
+    "pt": "dezembro",
+    "en": "December",
+    "pron": "disémber"
+  },
+  {
+    "pt": "primavera",
+    "en": "spring",
+    "pron": "spríng"
+  },
+  {
+    "pt": "verão",
+    "en": "summer",
+    "pron": "sámer"
+  },
+  {
+    "pt": "outono",
+    "en": "autumn",
+    "pron": "ótom"
+  },
+  {
+    "pt": "inverno",
+    "en": "winter",
+    "pron": "uínter"
+  },
+  {
+    "pt": "hoje",
+    "en": "today",
+    "pron": "tudéi"
+  },
+  {
+    "pt": "amanhã",
+    "en": "tomorrow",
+    "pron": "tumórou"
+  },
+  {
+    "pt": "ontem",
+    "en": "yesterday",
+    "pron": "iéstérdéi"
+  },
+  {
+    "pt": "anteontem",
+    "en": "day before yesterday",
+    "pron": "déi bifór iéstérdéi"
+  },
+  {
+    "pt": "depois de amanhã",
+    "en": "day after tomorrow",
+    "pron": "déi éfter tumórou"
+  },
+  {
+    "pt": "agora",
+    "en": "now",
+    "pron": "náu"
+  },
+  {
+    "pt": "depois",
+    "en": "later",
+    "pron": "léiter"
+  },
+  {
+    "pt": "mais tarde",
+    "en": "later on",
+    "pron": "léiter ón"
+  },
+  {
+    "pt": "cedo",
+    "en": "early",
+    "pron": "érli"
+  },
+  {
+    "pt": "tarde",
+    "en": "late",
+    "pron": "léit"
+  },
+  {
+    "pt": "manhã",
+    "en": "morning",
+    "pron": "mórning"
+  },
+  {
+    "pt": "tarde (período)",
+    "en": "afternoon",
+    "pron": "áfternun"
+  },
+  {
+    "pt": "noite",
+    "en": "night",
+    "pron": "náit"
+  },
+  {
+    "pt": "madrugada",
+    "en": "dawn",
+    "pron": "dón"
+  },
+  {
+    "pt": "meio-dia",
+    "en": "noon",
+    "pron": "nún"
+  },
+  {
+    "pt": "meia-noite",
+    "en": "midnight",
+    "pron": "mídnáit"
+  },
+  {
+    "pt": "esta noite",
+    "en": "tonight",
+    "pron": "tunáit"
+  },
+  {
+    "pt": "esta manhã",
+    "en": "this morning",
+    "pron": "dis mórning"
+  },
+  {
+    "pt": "esta tarde",
+    "en": "this afternoon",
+    "pron": "dis áfternun"
+  },
+  {
+    "pt": "dia",
+    "en": "day",
+    "pron": "déi"
+  },
+  {
+    "pt": "semana",
+    "en": "week",
+    "pron": "uík"
+  },
+  {
+    "pt": "quinzena",
+    "en": "fortnight",
+    "pron": "fórtnáit"
+  },
+  {
+    "pt": "mês",
+    "en": "month",
+    "pron": "mánth"
+  },
+  {
+    "pt": "bimestre",
+    "en": "two months",
+    "pron": "tú mánths"
+  },
+  {
+    "pt": "trimestre",
+    "en": "quarter",
+    "pron": "kuórter"
+  },
+  {
+    "pt": "semestre",
+    "en": "semester",
+    "pron": "siméster"
+  },
+  {
+    "pt": "ano",
+    "en": "year",
+    "pron": "íer"
+  },
+  {
+    "pt": "década",
+    "en": "decade",
+    "pron": "dékeid"
+  },
+  {
+    "pt": "século",
+    "en": "century",
+    "pron": "sénchuri"
+  },
+  {
+    "pt": "milênio",
+    "en": "millennium",
+    "pron": "milénium"
+  },
+  {
+    "pt": "hora",
+    "en": "hour",
+    "pron": "áuer"
+  },
+  {
+    "pt": "minuto",
+    "en": "minute",
+    "pron": "mínit"
+  },
+  {
+    "pt": "segundo",
+    "en": "second",
+    "pron": "sékond"
+  },
+  {
+    "pt": "instante",
+    "en": "instant",
+    "pron": "ínstant"
+  },
+  {
+    "pt": "momento",
+    "en": "moment",
+    "pron": "môument"
+  },
+  {
+    "pt": "passado",
+    "en": "past",
+    "pron": "pést"
+  },
+  {
+    "pt": "presente",
+    "en": "present",
+    "pron": "prézant"
+  },
+  {
+    "pt": "futuro",
+    "en": "future",
+    "pron": "fiúchur"
+  },
+  {
+    "pt": "calendário",
+    "en": "calendar",
+    "pron": "kélendar"
+  },
+  {
+    "pt": "data",
+    "en": "date",
+    "pron": "déit"
+  },
+  {
+    "pt": "aniversário",
+    "en": "birthday",
+    "pron": "bérthdéi"
+  },
+  {
+    "pt": "ano novo",
+    "en": "new year",
+    "pron": "niú íer"
+  },
+  {
+    "pt": "natal",
+    "en": "Christmas",
+    "pron": "krísmass"
+  },
+  {
+    "pt": "páscoa",
+    "en": "Easter",
+    "pron": "íster"
+  },
+  {
+    "pt": "carnaval",
+    "en": "carnival",
+    "pron": "kárnivol"
+  },
+  {
+    "pt": "dia das mães",
+    "en": "Mother's Day",
+    "pron": "máders déi"
+  },
+  {
+    "pt": "dia dos pais",
+    "en": "Father's Day",
+    "pron": "fáders déi"
+  },
+  {
+    "pt": "dia dos namorados",
+    "en": "Valentine's Day",
+    "pron": "vélentains déi"
+  },
+  {
+    "pt": "halloween",
+    "en": "Halloween",
+    "pron": "rélouín"
+  },
+  {
+    "pt": "ação de graças",
+    "en": "Thanksgiving",
+    "pron": "thénksguíving"
+  },
+  {
+    "pt": "feriado nacional",
+    "en": "national holiday",
+    "pron": "néshonal rólidei"
+  },
+  {
+    "pt": "feriado religioso",
+    "en": "religious holiday",
+    "pron": "rilídjas rólidei"
+  },
+  {
+    "pt": "primeiro",
+    "en": "first",
+    "pron": "férst"
+  },
+  {
+    "pt": "terceiro",
+    "en": "third",
+    "pron": "thérd"
+  },
+  {
+    "pt": "quarto",
+    "en": "fourth",
+    "pron": "fórth"
+  },
+  {
+    "pt": "quinto",
+    "en": "fifth",
+    "pron": "fífth"
+  },
+  {
+    "pt": "sexto",
+    "en": "sixth",
+    "pron": "síksth"
+  },
+  {
+    "pt": "sétimo",
+    "en": "seventh",
+    "pron": "séventh"
+  },
+  {
+    "pt": "oitavo",
+    "en": "eighth",
+    "pron": "éith"
+  },
+  {
+    "pt": "nono",
+    "en": "ninth",
+    "pron": "náinth"
+  },
+  {
+    "pt": "décimo",
+    "en": "tenth",
+    "pron": "ténth"
+  },
+  {
+    "pt": "sempre",
+    "en": "always",
+    "pron": "ólueis"
+  },
+  {
+    "pt": "nunca",
+    "en": "never",
+    "pron": "néver"
+  },
+  {
+    "pt": "às vezes",
+    "en": "sometimes",
+    "pron": "sámtáims"
+  },
+  {
+    "pt": "frequentemente",
+    "en": "often",
+    "pron": "ófen"
+  },
+  {
+    "pt": "raramente",
+    "en": "rarely",
+    "pron": "rérli"
+  },
+  {
+    "pt": "todos os dias",
+    "en": "every day",
+    "pron": "évri déi"
+  },
+  {
+    "pt": "toda semana",
+    "en": "every week",
+    "pron": "évri uík"
+  },
+  {
+    "pt": "todo mês",
+    "en": "every month",
+    "pron": "évri mánth"
+  },
+  {
+    "pt": "todo ano",
+    "en": "every year",
+    "pron": "évri íer"
+  },
+  {
+    "pt": "de vez em quando",
+    "en": "once in a while",
+    "pron": "uáns in e uáil"
+  },
+  {
+    "pt": "diariamente",
+    "en": "daily",
+    "pron": "déili"
+  },
+  {
+    "pt": "semanalmente",
+    "en": "weekly",
+    "pron": "uíkli"
+  },
+  {
+    "pt": "mensalmente",
+    "en": "monthly",
+    "pron": "mánthli"
+  },
+  {
+    "pt": "anualmente",
+    "en": "yearly",
+    "pron": "íerli"
+  },
+  {
+    "pt": "de novo",
+    "en": "again",
+    "pron": "aguén"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "en": "what day is it today?",
+    "pron": "uót déi is it tudéi"
+  },
+  {
+    "pt": "hoje é segunda",
+    "en": "today is Monday",
+    "pron": "tudéi is mándei"
+  },
+  {
+    "pt": "que horas são?",
+    "en": "what time is it?",
+    "pron": "uót táim is it"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "en": "what day is tomorrow?",
+    "pron": "uót déi is tumórou"
+  },
+  {
+    "pt": "nos vemos amanhã",
+    "en": "see you tomorrow",
+    "pron": "sí iu tumórou"
+  },
+  {
+    "pt": "nos vemos na segunda",
+    "en": "see you on Monday",
+    "pron": "sí iu ón mándei"
+  },
+  {
+    "pt": "que semana longa!",
+    "en": "what a long week!",
+    "pron": "uót e long uík"
+  },
+  {
+    "pt": "boa semana!",
+    "en": "have a good week!",
+    "pron": "rév e gúd uík"
+  },
+  {
+    "pt": "bom fim de semana!",
+    "en": "have a nice weekend!",
+    "pron": "rév e náis uíkend"
+  },
+  {
+    "pt": "até amanhã",
+    "en": "until tomorrow",
+    "pron": "antíl tumórou"
+  },
+  {
+    "pt": "que horas você pode?",
+    "en": "what time can you?",
+    "pron": "uót táim kén iu"
+  },
+  {
+    "pt": "estou atrasado",
+    "en": "I'm late",
+    "pron": "áim léit"
+  },
+  {
+    "pt": "cheguei cedo",
+    "en": "I arrived early",
+    "pron": "ái aráivd érli"
+  },
+  {
+    "pt": "que horas começa?",
+    "en": "what time does it start?",
+    "pron": "uót táim dáz it stárt"
+  },
+  {
+    "pt": "quanto tempo dura?",
+    "en": "how long does it last?",
+    "pron": "ráu long dáz it lést"
+  },
+  {
+    "pt": "daqui a pouco",
+    "en": "in a bit",
+    "pron": "in e bít"
+  },
+  {
+    "pt": "mais cedo",
+    "en": "earlier",
+    "pron": "érlier"
+  },
+  {
+    "pt": "mais tarde",
+    "en": "later",
+    "pron": "léiter"
+  },
+  {
+    "pt": "nos próximos dias",
+    "en": "in the next days",
+    "pron": "in de nékst déis"
+  },
+  {
+    "pt": "que dia cai o feriado?",
+    "en": "what day is the holiday?",
+    "pron": "uót déi is de rólidei"
+  }
+]

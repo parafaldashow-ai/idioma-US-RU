@@ -1,0 +1,757 @@
+[
+  {
+    "pt": "ser",
+    "en": "to be",
+    "pron": "tu bí"
+  },
+  {
+    "pt": "estar",
+    "en": "to be",
+    "pron": "tu bí"
+  },
+  {
+    "pt": "ter",
+    "en": "to have",
+    "pron": "tu rév"
+  },
+  {
+    "pt": "haver",
+    "en": "there is",
+    "pron": "dér is"
+  },
+  {
+    "pt": "existir",
+    "en": "to exist",
+    "pron": "tu egzíst"
+  },
+  {
+    "pt": "possuir",
+    "en": "to own",
+    "pron": "tu ôun"
+  },
+  {
+    "pt": "estar com",
+    "en": "to have on",
+    "pron": "tu rév ón"
+  },
+  {
+    "pt": "ir",
+    "en": "to go",
+    "pron": "tu gôu"
+  },
+  {
+    "pt": "vir",
+    "en": "to come",
+    "pron": "tu kám"
+  },
+  {
+    "pt": "chegar",
+    "en": "to arrive",
+    "pron": "tu aráiv"
+  },
+  {
+    "pt": "sair",
+    "en": "to leave",
+    "pron": "tu lív"
+  },
+  {
+    "pt": "voltar",
+    "en": "to return",
+    "pron": "tu ritérn"
+  },
+  {
+    "pt": "entrar",
+    "en": "to enter",
+    "pron": "tu énter"
+  },
+  {
+    "pt": "subir",
+    "en": "to go up",
+    "pron": "tu gôu áp"
+  },
+  {
+    "pt": "descer",
+    "en": "to go down",
+    "pron": "tu gôu dáun"
+  },
+  {
+    "pt": "correr",
+    "en": "to run",
+    "pron": "tu rán"
+  },
+  {
+    "pt": "andar",
+    "en": "to walk",
+    "pron": "tu uók"
+  },
+  {
+    "pt": "dirigir",
+    "en": "to drive",
+    "pron": "tu dráiv"
+  },
+  {
+    "pt": "voar",
+    "en": "to fly",
+    "pron": "tu flái"
+  },
+  {
+    "pt": "nadar",
+    "en": "to swim",
+    "pron": "tu suím"
+  },
+  {
+    "pt": "pular",
+    "en": "to jump",
+    "pron": "tu djámp"
+  },
+  {
+    "pt": "dançar",
+    "en": "to dance",
+    "pron": "tu déns"
+  },
+  {
+    "pt": "cair",
+    "en": "to fall",
+    "pron": "tu fól"
+  },
+  {
+    "pt": "levantar",
+    "en": "to lift",
+    "pron": "tu líft"
+  },
+  {
+    "pt": "empurrar",
+    "en": "to push",
+    "pron": "tu púsh"
+  },
+  {
+    "pt": "puxar",
+    "en": "to pull",
+    "pron": "tu púl"
+  },
+  {
+    "pt": "carregar",
+    "en": "to carry",
+    "pron": "tu kéri"
+  },
+  {
+    "pt": "correr (apressar)",
+    "en": "to rush",
+    "pron": "tu rásh"
+  },
+  {
+    "pt": "caminhar",
+    "en": "to stroll",
+    "pron": "tu strôul"
+  },
+  {
+    "pt": "passear",
+    "en": "to take a walk",
+    "pron": "tu téik e uók"
+  },
+  {
+    "pt": "fazer",
+    "en": "to do",
+    "pron": "tu dú"
+  },
+  {
+    "pt": "fazer (criar)",
+    "en": "to make",
+    "pron": "tu méik"
+  },
+  {
+    "pt": "querer",
+    "en": "to want",
+    "pron": "tu uónt"
+  },
+  {
+    "pt": "precisar",
+    "en": "to need",
+    "pron": "tu níd"
+  },
+  {
+    "pt": "poder",
+    "en": "can",
+    "pron": "kén"
+  },
+  {
+    "pt": "conseguir",
+    "en": "to manage",
+    "pron": "tu ménedj"
+  },
+  {
+    "pt": "saber",
+    "en": "to know",
+    "pron": "tu nôu"
+  },
+  {
+    "pt": "conhecer",
+    "en": "to meet",
+    "pron": "tu mít"
+  },
+  {
+    "pt": "gostar",
+    "en": "to like",
+    "pron": "tu láik"
+  },
+  {
+    "pt": "amar",
+    "en": "to love",
+    "pron": "tu láv"
+  },
+  {
+    "pt": "odiar",
+    "en": "to hate",
+    "pron": "tu réit"
+  },
+  {
+    "pt": "preferir",
+    "en": "to prefer",
+    "pron": "tu prifér"
+  },
+  {
+    "pt": "escolher",
+    "en": "to choose",
+    "pron": "tu chúz"
+  },
+  {
+    "pt": "decidir",
+    "en": "to decide",
+    "pron": "tu dissáid"
+  },
+  {
+    "pt": "tentar",
+    "en": "to try",
+    "pron": "tu trái"
+  },
+  {
+    "pt": "conseguir",
+    "en": "to succeed",
+    "pron": "tu saksíd"
+  },
+  {
+    "pt": "falhar",
+    "en": "to fail",
+    "pron": "tu féil"
+  },
+  {
+    "pt": "começar",
+    "en": "to start",
+    "pron": "tu stárt"
+  },
+  {
+    "pt": "terminar",
+    "en": "to finish",
+    "pron": "tu fínish"
+  },
+  {
+    "pt": "continuar",
+    "en": "to continue",
+    "pron": "tu kontíniu"
+  },
+  {
+    "pt": "parar",
+    "en": "to stop",
+    "pron": "tu stóp"
+  },
+  {
+    "pt": "falar",
+    "en": "to speak",
+    "pron": "tu spík"
+  },
+  {
+    "pt": "dizer",
+    "en": "to say",
+    "pron": "tu séi"
+  },
+  {
+    "pt": "contar",
+    "en": "to tell",
+    "pron": "tu tél"
+  },
+  {
+    "pt": "perguntar",
+    "en": "to ask",
+    "pron": "tu ésk"
+  },
+  {
+    "pt": "responder",
+    "en": "to answer",
+    "pron": "tu énsar"
+  },
+  {
+    "pt": "ouvir",
+    "en": "to listen",
+    "pron": "tu lísan"
+  },
+  {
+    "pt": "escutar",
+    "en": "to hear",
+    "pron": "tu rír"
+  },
+  {
+    "pt": "ver",
+    "en": "to see",
+    "pron": "tu sí"
+  },
+  {
+    "pt": "olhar",
+    "en": "to look",
+    "pron": "tu lúk"
+  },
+  {
+    "pt": "ler",
+    "en": "to read",
+    "pron": "tu ríd"
+  },
+  {
+    "pt": "escrever",
+    "en": "to write",
+    "pron": "tu ráit"
+  },
+  {
+    "pt": "estudar",
+    "en": "to study",
+    "pron": "tu stádi"
+  },
+  {
+    "pt": "aprender",
+    "en": "to learn",
+    "pron": "tu lérn"
+  },
+  {
+    "pt": "ensinar",
+    "en": "to teach",
+    "pron": "tu tích"
+  },
+  {
+    "pt": "explicar",
+    "en": "to explain",
+    "pron": "tu ekspléin"
+  },
+  {
+    "pt": "traduzir",
+    "en": "to translate",
+    "pron": "tu trénsleit"
+  },
+  {
+    "pt": "chamar",
+    "en": "to call",
+    "pron": "tu kól"
+  },
+  {
+    "pt": "conversar",
+    "en": "to talk",
+    "pron": "tu tók"
+  },
+  {
+    "pt": "gritar",
+    "en": "to shout",
+    "pron": "tu sháut"
+  },
+  {
+    "pt": "sussurrar",
+    "en": "to whisper",
+    "pron": "tu uísper"
+  },
+  {
+    "pt": "concordar",
+    "en": "to agree",
+    "pron": "tu agrí"
+  },
+  {
+    "pt": "discordar",
+    "en": "to disagree",
+    "pron": "tu disagric"
+  },
+  {
+    "pt": "prometer",
+    "en": "to promise",
+    "pron": "tu prómis"
+  },
+  {
+    "pt": "avisar",
+    "en": "to warn",
+    "pron": "tu uórn"
+  },
+  {
+    "pt": "mentir",
+    "en": "to lie",
+    "pron": "tu lái"
+  },
+  {
+    "pt": "reclamar",
+    "en": "to complain",
+    "pron": "tu kompléin"
+  },
+  {
+    "pt": "comer",
+    "en": "to eat",
+    "pron": "tu ít"
+  },
+  {
+    "pt": "beber",
+    "en": "to drink",
+    "pron": "tu drínk"
+  },
+  {
+    "pt": "dormir",
+    "en": "to sleep",
+    "pron": "tu slíp"
+  },
+  {
+    "pt": "acordar",
+    "en": "to wake up",
+    "pron": "tu uéik áp"
+  },
+  {
+    "pt": "levantar-se",
+    "en": "to get up",
+    "pron": "tu guét áp"
+  },
+  {
+    "pt": "trabalhar",
+    "en": "to work",
+    "pron": "tu uórk"
+  },
+  {
+    "pt": "descansar",
+    "en": "to rest",
+    "pron": "tu rést"
+  },
+  {
+    "pt": "brincar",
+    "en": "to play",
+    "pron": "tu pléi"
+  },
+  {
+    "pt": "jogar",
+    "en": "to play",
+    "pron": "tu pléi"
+  },
+  {
+    "pt": "ganhar",
+    "en": "to win",
+    "pron": "tu uín"
+  },
+  {
+    "pt": "perder",
+    "en": "to lose",
+    "pron": "tu lúz"
+  },
+  {
+    "pt": "ganhar (receber)",
+    "en": "to earn",
+    "pron": "tu érn"
+  },
+  {
+    "pt": "cuidar",
+    "en": "to take care",
+    "pron": "tu téik kér"
+  },
+  {
+    "pt": "ajudar",
+    "en": "to help",
+    "pron": "tu rélp"
+  },
+  {
+    "pt": "usar",
+    "en": "to use",
+    "pron": "tu iús"
+  },
+  {
+    "pt": "vestir",
+    "en": "to wear",
+    "pron": "tu uér"
+  },
+  {
+    "pt": "tirar (roupa)",
+    "en": "to take off",
+    "pron": "tu téik óf"
+  },
+  {
+    "pt": "colocar",
+    "en": "to put",
+    "pron": "tu pút"
+  },
+  {
+    "pt": "guardar",
+    "en": "to keep",
+    "pron": "tu kíp"
+  },
+  {
+    "pt": "limpar",
+    "en": "to clean",
+    "pron": "tu klín"
+  },
+  {
+    "pt": "lavar",
+    "en": "to wash",
+    "pron": "tu uósh"
+  },
+  {
+    "pt": "cozinhar",
+    "en": "to cook",
+    "pron": "tu kúk"
+  },
+  {
+    "pt": "cortar",
+    "en": "to cut",
+    "pron": "tu kát"
+  },
+  {
+    "pt": "abrir",
+    "en": "to open",
+    "pron": "tu ôupen"
+  },
+  {
+    "pt": "fechar",
+    "en": "to close",
+    "pron": "tu klôuz"
+  },
+  {
+    "pt": "comprar",
+    "en": "to buy",
+    "pron": "tu bái"
+  },
+  {
+    "pt": "vender",
+    "en": "to sell",
+    "pron": "tu sél"
+  },
+  {
+    "pt": "pagar",
+    "en": "to pay",
+    "pron": "tu péi"
+  },
+  {
+    "pt": "dar",
+    "en": "to give",
+    "pron": "tu guív"
+  },
+  {
+    "pt": "receber",
+    "en": "to receive",
+    "pron": "tu risív"
+  },
+  {
+    "pt": "trocar",
+    "en": "to exchange",
+    "pron": "tu ekstchéindj"
+  },
+  {
+    "pt": "procurar",
+    "en": "to look for",
+    "pron": "tu lúk fór"
+  },
+  {
+    "pt": "encontrar",
+    "en": "to find",
+    "pron": "tu fáind"
+  },
+  {
+    "pt": "perder (objeto)",
+    "en": "to lose",
+    "pron": "tu lúz"
+  },
+  {
+    "pt": "achar",
+    "en": "to think",
+    "pron": "tu thínk"
+  },
+  {
+    "pt": "pensar",
+    "en": "to think",
+    "pron": "tu thínk"
+  },
+  {
+    "pt": "acreditar",
+    "en": "to believe",
+    "pron": "tu bilív"
+  },
+  {
+    "pt": "sentir",
+    "en": "to feel",
+    "pron": "tu fíl"
+  },
+  {
+    "pt": "lembrar",
+    "en": "to remember",
+    "pron": "tu rimémber"
+  },
+  {
+    "pt": "esquecer",
+    "en": "to forget",
+    "pron": "tu forgét"
+  },
+  {
+    "pt": "entender",
+    "en": "to understand",
+    "pron": "tu ándersténd"
+  },
+  {
+    "pt": "imaginar",
+    "en": "to imagine",
+    "pron": "tu imédjin"
+  },
+  {
+    "pt": "esperar",
+    "en": "to hope",
+    "pron": "tu rôup"
+  },
+  {
+    "pt": "esperar (aguardar)",
+    "en": "to wait",
+    "pron": "tu uéit"
+  },
+  {
+    "pt": "rir",
+    "en": "to laugh",
+    "pron": "tu léf"
+  },
+  {
+    "pt": "chorar",
+    "en": "to cry",
+    "pron": "tu krái"
+  },
+  {
+    "pt": "sorrir",
+    "en": "to smile",
+    "pron": "tu smáil"
+  },
+  {
+    "pt": "sonhar",
+    "en": "to dream",
+    "pron": "tu drím"
+  },
+  {
+    "pt": "levantar-se (cama)",
+    "en": "to get up",
+    "pron": "tu guét áp"
+  },
+  {
+    "pt": "sair (passear)",
+    "en": "to go out",
+    "pron": "tu gôu áut"
+  },
+  {
+    "pt": "voltar (retornar)",
+    "en": "to come back",
+    "pron": "tu kám bék"
+  },
+  {
+    "pt": "desistir",
+    "en": "to give up",
+    "pron": "tu guív áp"
+  },
+  {
+    "pt": "continuar",
+    "en": "to go on",
+    "pron": "tu gôu ón"
+  },
+  {
+    "pt": "cuidar de",
+    "en": "to look after",
+    "pron": "tu lúk áfter"
+  },
+  {
+    "pt": "esperar",
+    "en": "to look forward",
+    "pron": "tu lúk fórward"
+  },
+  {
+    "pt": "descobrir",
+    "en": "to find out",
+    "pron": "tu fáind áut"
+  },
+  {
+    "pt": "preencher",
+    "en": "to fill in",
+    "pron": "tu fíl ín"
+  },
+  {
+    "pt": "desligar",
+    "en": "to turn off",
+    "pron": "tu térn óf"
+  },
+  {
+    "pt": "ligar",
+    "en": "to turn on",
+    "pron": "tu térn ón"
+  },
+  {
+    "pt": "pegar (apanhar)",
+    "en": "to pick up",
+    "pron": "tu pík áp"
+  },
+  {
+    "pt": "deixar (largar)",
+    "en": "to put down",
+    "pron": "tu pút dáun"
+  },
+  {
+    "pt": "crescer",
+    "en": "to grow up",
+    "pron": "tu grôu áp"
+  },
+  {
+    "pt": "cair (briga)",
+    "en": "to fall out",
+    "pron": "tu fól áut"
+  },
+  {
+    "pt": "eu quero",
+    "en": "I want",
+    "pron": "ái uónt"
+  },
+  {
+    "pt": "eu preciso",
+    "en": "I need",
+    "pron": "ái níd"
+  },
+  {
+    "pt": "eu posso",
+    "en": "I can",
+    "pron": "ái kén"
+  },
+  {
+    "pt": "eu vou",
+    "en": "I'm going to",
+    "pron": "áim góuing tu"
+  },
+  {
+    "pt": "eu gosto de",
+    "en": "I like to",
+    "pron": "ái láik tu"
+  },
+  {
+    "pt": "eu sei",
+    "en": "I know",
+    "pron": "ái nôu"
+  },
+  {
+    "pt": "eu acho que",
+    "en": "I think that",
+    "pron": "ái thínk dét"
+  },
+  {
+    "pt": "eu entendo",
+    "en": "I understand",
+    "pron": "ái ándersténd"
+  },
+  {
+    "pt": "não sei",
+    "en": "I don't know",
+    "pron": "ái dônt nôu"
+  },
+  {
+    "pt": "não entendo",
+    "en": "I don't understand",
+    "pron": "ái dônt ándersténd"
+  },
+  {
+    "pt": "não consigo",
+    "en": "I can't",
+    "pron": "ái ként"
+  }
+]

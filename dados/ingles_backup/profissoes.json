@@ -1,0 +1,247 @@
+[
+  {
+    "pt": "médico",
+    "en": "doctor",
+    "pron": "dóktor"
+  },
+  {
+    "pt": "enfermeiro",
+    "en": "nurse",
+    "pron": "nérs"
+  },
+  {
+    "pt": "dentista",
+    "en": "dentist",
+    "pron": "déntist"
+  },
+  {
+    "pt": "professor",
+    "en": "teacher",
+    "pron": "tícher"
+  },
+  {
+    "pt": "engenheiro",
+    "en": "engineer",
+    "pron": "endjinír"
+  },
+  {
+    "pt": "advogado",
+    "en": "lawyer",
+    "pron": "lóyer"
+  },
+  {
+    "pt": "juiz",
+    "en": "judge",
+    "pron": "djáj"
+  },
+  {
+    "pt": "policial",
+    "en": "police officer",
+    "pron": "polís ófiser"
+  },
+  {
+    "pt": "bombeiro",
+    "en": "firefighter",
+    "pron": "fáirfáiter"
+  },
+  {
+    "pt": "soldado",
+    "en": "soldier",
+    "pron": "sóuldjer"
+  },
+  {
+    "pt": "cozinheiro",
+    "en": "cook",
+    "pron": "kuk"
+  },
+  {
+    "pt": "chef",
+    "en": "chef",
+    "pron": "shef"
+  },
+  {
+    "pt": "garçom",
+    "en": "waiter",
+    "pron": "uéiter"
+  },
+  {
+    "pt": "motorista",
+    "en": "driver",
+    "pron": "dráiver"
+  },
+  {
+    "pt": "piloto",
+    "en": "pilot",
+    "pron": "páilot"
+  },
+  {
+    "pt": "programador",
+    "en": "programmer",
+    "pron": "prógramer"
+  },
+  {
+    "pt": "designer",
+    "en": "designer",
+    "pron": "dizáiner"
+  },
+  {
+    "pt": "vendedor",
+    "en": "salesperson",
+    "pron": "séilspérson"
+  },
+  {
+    "pt": "estudante",
+    "en": "student",
+    "pron": "stúdent"
+  },
+  {
+    "pt": "jornalista",
+    "en": "journalist",
+    "pron": "djérnalist"
+  },
+  {
+    "pt": "cientista",
+    "en": "scientist",
+    "pron": "sáientist"
+  },
+  {
+    "pt": "artista",
+    "en": "artist",
+    "pron": "ártist"
+  },
+  {
+    "pt": "músico",
+    "en": "musician",
+    "pron": "miuzíshan"
+  },
+  {
+    "pt": "escritor",
+    "en": "writer",
+    "pron": "ráiter"
+  },
+  {
+    "pt": "ator",
+    "en": "actor",
+    "pron": "éktor"
+  },
+  {
+    "pt": "fotógrafo",
+    "en": "photographer",
+    "pron": "fotógrafer"
+  },
+  {
+    "pt": "arquiteto",
+    "en": "architect",
+    "pron": "árkitekt"
+  },
+  {
+    "pt": "contador",
+    "en": "accountant",
+    "pron": "akáuntant"
+  },
+  {
+    "pt": "eletricista",
+    "en": "electrician",
+    "pron": "eletríshan"
+  },
+  {
+    "pt": "encanador",
+    "en": "plumber",
+    "pron": "plámer"
+  },
+  {
+    "pt": "pedreiro",
+    "en": "bricklayer",
+    "pron": "bríkleier"
+  },
+  {
+    "pt": "carpinteiro",
+    "en": "carpenter",
+    "pron": "kárpenter"
+  },
+  {
+    "pt": "mecânico",
+    "en": "mechanic",
+    "pron": "mekénik"
+  },
+  {
+    "pt": "agricultor",
+    "en": "farmer",
+    "pron": "fármer"
+  },
+  {
+    "pt": "pescador",
+    "en": "fisherman",
+    "pron": "físherman"
+  },
+  {
+    "pt": "padeiro",
+    "en": "baker",
+    "pron": "béiker"
+  },
+  {
+    "pt": "açougueiro",
+    "en": "butcher",
+    "pron": "búcher"
+  },
+  {
+    "pt": "cabeleireiro",
+    "en": "hairdresser",
+    "pron": "rédreser"
+  },
+  {
+    "pt": "barbeiro",
+    "en": "barber",
+    "pron": "bárber"
+  },
+  {
+    "pt": "veterinário",
+    "en": "vet",
+    "pron": "vet"
+  },
+  {
+    "pt": "psicólogo",
+    "en": "psychologist",
+    "pron": "saikólogist"
+  },
+  {
+    "pt": "secretária",
+    "en": "secretary",
+    "pron": "sékritéri"
+  },
+  {
+    "pt": "recepcionista",
+    "en": "receptionist",
+    "pron": "risépshanist"
+  },
+  {
+    "pt": "gerente",
+    "en": "manager",
+    "pron": "ménedjer"
+  },
+  {
+    "pt": "diretor",
+    "en": "director",
+    "pron": "diréktor"
+  },
+  {
+    "pt": "presidente",
+    "en": "president",
+    "pron": "prézident"
+  },
+  {
+    "pt": "político",
+    "en": "politician",
+    "pron": "polotíshan"
+  },
+  {
+    "pt": "empresário",
+    "en": "businessman",
+    "pron": "bíznisman"
+  },
+  {
+    "pt": "banqueiro",
+    "en": "banker",
+    "pron": "bénker"
+  }
+]

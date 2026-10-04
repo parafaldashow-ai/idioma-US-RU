@@ -1,0 +1,782 @@
+[
+  {
+    "pt": "viagem",
+    "en": "trip",
+    "pron": "tríp"
+  },
+  {
+    "pt": "viagem (jornada)",
+    "en": "travel",
+    "pron": "trévol"
+  },
+  {
+    "pt": "férias",
+    "en": "vacation",
+    "pron": "vekéishon"
+  },
+  {
+    "pt": "feriado",
+    "en": "holiday",
+    "pron": "rólidei"
+  },
+  {
+    "pt": "passaporte",
+    "en": "passport",
+    "pron": "péspourt"
+  },
+  {
+    "pt": "visto",
+    "en": "visa",
+    "pron": "víza"
+  },
+  {
+    "pt": "documento",
+    "en": "document",
+    "pron": "dókiument"
+  },
+  {
+    "pt": "identidade",
+    "en": "ID",
+    "pron": "ái dí"
+  },
+  {
+    "pt": "passagem",
+    "en": "ticket",
+    "pron": "tíkit"
+  },
+  {
+    "pt": "reserva",
+    "en": "reservation",
+    "pron": "rezervéishon"
+  },
+  {
+    "pt": "seguro viagem",
+    "en": "travel insurance",
+    "pron": "trévol inshúrans"
+  },
+  {
+    "pt": "roteiro",
+    "en": "itinerary",
+    "pron": "aitíneréri"
+  },
+  {
+    "pt": "mala",
+    "en": "suitcase",
+    "pron": "sútkeis"
+  },
+  {
+    "pt": "mochila",
+    "en": "backpack",
+    "pron": "békpék"
+  },
+  {
+    "pt": "bagagem de mão",
+    "en": "carry-on",
+    "pron": "kéri ón"
+  },
+  {
+    "pt": "guia",
+    "en": "guide",
+    "pron": "gáid"
+  },
+  {
+    "pt": "mapa",
+    "en": "map",
+    "pron": "mép"
+  },
+  {
+    "pt": "guia turístico",
+    "en": "guidebook",
+    "pron": "gáidbúk"
+  },
+  {
+    "pt": "turista",
+    "en": "tourist",
+    "pron": "túrist"
+  },
+  {
+    "pt": "viajante",
+    "en": "traveler",
+    "pron": "trévoler"
+  },
+  {
+    "pt": "aeroporto",
+    "en": "airport",
+    "pron": "érport"
+  },
+  {
+    "pt": "voo",
+    "en": "flight",
+    "pron": "fláit"
+  },
+  {
+    "pt": "voo direto",
+    "en": "direct flight",
+    "pron": "dirékt fláit"
+  },
+  {
+    "pt": "voo com conexão",
+    "en": "connecting flight",
+    "pron": "konékting fláit"
+  },
+  {
+    "pt": "escala",
+    "en": "layover",
+    "pron": "léiôuver"
+  },
+  {
+    "pt": "check-in",
+    "en": "check-in",
+    "pron": "chék ín"
+  },
+  {
+    "pt": "embarque",
+    "en": "boarding",
+    "pron": "bórding"
+  },
+  {
+    "pt": "cartão de embarque",
+    "en": "boarding pass",
+    "pron": "bórding pés"
+  },
+  {
+    "pt": "portão",
+    "en": "gate",
+    "pron": "guéit"
+  },
+  {
+    "pt": "poltrona",
+    "en": "seat",
+    "pron": "sít"
+  },
+  {
+    "pt": "corredor",
+    "en": "aisle",
+    "pron": "áil"
+  },
+  {
+    "pt": "janela",
+    "en": "window",
+    "pron": "uíndou"
+  },
+  {
+    "pt": "bagagem",
+    "en": "luggage",
+    "pron": "lágidj"
+  },
+  {
+    "pt": "esteira",
+    "en": "conveyor belt",
+    "pron": "konvéior bélt"
+  },
+  {
+    "pt": "alfândega",
+    "en": "customs",
+    "pron": "ká stoms"
+  },
+  {
+    "pt": "imigração",
+    "en": "immigration",
+    "pron": "imigréishon"
+  },
+  {
+    "pt": "passaporte",
+    "en": "passport control",
+    "pron": "péspourt kontrol"
+  },
+  {
+    "pt": "raio-x",
+    "en": "x-ray",
+    "pron": "éks réi"
+  },
+  {
+    "pt": "detector de metal",
+    "en": "metal detector",
+    "pron": "métal ditéktor"
+  },
+  {
+    "pt": "atraso",
+    "en": "delay",
+    "pron": "diléi"
+  },
+  {
+    "pt": "cancelado",
+    "en": "canceled",
+    "pron": "kénseld"
+  },
+  {
+    "pt": "turbulência",
+    "en": "turbulence",
+    "pron": "térbiulens"
+  },
+  {
+    "pt": "piloto",
+    "en": "pilot",
+    "pron": "páilot"
+  },
+  {
+    "pt": "comissário",
+    "en": "flight attendant",
+    "pron": "fláit eténdant"
+  },
+  {
+    "pt": "primeira classe",
+    "en": "first class",
+    "pron": "férst klés"
+  },
+  {
+    "pt": "classe executiva",
+    "en": "business class",
+    "pron": "bíznis klés"
+  },
+  {
+    "pt": "classe econômica",
+    "en": "economy class",
+    "pron": "ikónomi klés"
+  },
+  {
+    "pt": "hotel",
+    "en": "hotel",
+    "pron": "routél"
+  },
+  {
+    "pt": "pousada",
+    "en": "inn",
+    "pron": "ín"
+  },
+  {
+    "pt": "hostel",
+    "en": "hostel",
+    "pron": "róstel"
+  },
+  {
+    "pt": "resort",
+    "en": "resort",
+    "pron": "rizórt"
+  },
+  {
+    "pt": "quarto",
+    "en": "room",
+    "pron": "rúm"
+  },
+  {
+    "pt": "quarto individual",
+    "en": "single room",
+    "pron": "síngol rúm"
+  },
+  {
+    "pt": "quarto duplo",
+    "en": "double room",
+    "pron": "dábol rúm"
+  },
+  {
+    "pt": "quarto de casal",
+    "en": "double bed room",
+    "pron": "dábol béd rúm"
+  },
+  {
+    "pt": "suíte",
+    "en": "suite",
+    "pron": "suít"
+  },
+  {
+    "pt": "recepcionista",
+    "en": "receptionist",
+    "pron": "risépshanist"
+  },
+  {
+    "pt": "chave",
+    "en": "key",
+    "pron": "kí"
+  },
+  {
+    "pt": "cartão-chave",
+    "en": "key card",
+    "pron": "kí kárd"
+  },
+  {
+    "pt": "elevador",
+    "en": "elevator",
+    "pron": "éleveitor"
+  },
+  {
+    "pt": "café da manhã",
+    "en": "breakfast",
+    "pron": "brékfast"
+  },
+  {
+    "pt": "meia-pensão",
+    "en": "half board",
+    "pron": "réf bórd"
+  },
+  {
+    "pt": "pensão completa",
+    "en": "full board",
+    "pron": "fúl bórd"
+  },
+  {
+    "pt": "check-out",
+    "en": "check-out",
+    "pron": "chék áut"
+  },
+  {
+    "pt": "conta",
+    "en": "bill",
+    "pron": "bíl"
+  },
+  {
+    "pt": "toalha",
+    "en": "towel",
+    "pron": "táuel"
+  },
+  {
+    "pt": "sabonete",
+    "en": "soap",
+    "pron": "sôup"
+  },
+  {
+    "pt": "ar-condicionado",
+    "en": "air conditioning",
+    "pron": "ér kondíshoning"
+  },
+  {
+    "pt": "wi-fi",
+    "en": "wi-fi",
+    "pron": "uáifái"
+  },
+  {
+    "pt": "táxi",
+    "en": "taxi",
+    "pron": "téksi"
+  },
+  {
+    "pt": "ônibus",
+    "en": "bus",
+    "pron": "bás"
+  },
+  {
+    "pt": "metrô",
+    "en": "subway",
+    "pron": "sábuei"
+  },
+  {
+    "pt": "trem",
+    "en": "train",
+    "pron": "tréin"
+  },
+  {
+    "pt": "aluguel de carro",
+    "en": "car rental",
+    "pron": "kár réntal"
+  },
+  {
+    "pt": "aplicativo",
+    "en": "app",
+    "pron": "ép"
+  },
+  {
+    "pt": "motorista",
+    "en": "driver",
+    "pron": "dráiver"
+  },
+  {
+    "pt": "passageiro",
+    "en": "passenger",
+    "pron": "pésendjer"
+  },
+  {
+    "pt": "bilhete",
+    "en": "ticket",
+    "pron": "tíkit"
+  },
+  {
+    "pt": "ponto de ônibus",
+    "en": "bus stop",
+    "pron": "bás stóp"
+  },
+  {
+    "pt": "estação",
+    "en": "station",
+    "pron": "stéishon"
+  },
+  {
+    "pt": "aluguel de bike",
+    "en": "bike rental",
+    "pron": "báik réntal"
+  },
+  {
+    "pt": "caminhada",
+    "en": "walk",
+    "pron": "uók"
+  },
+  {
+    "pt": "trânsito",
+    "en": "traffic",
+    "pron": "tréfik"
+  },
+  {
+    "pt": "atração",
+    "en": "attraction",
+    "pron": "atrékshon"
+  },
+  {
+    "pt": "ponto turístico",
+    "en": "tourist spot",
+    "pron": "túrist spót"
+  },
+  {
+    "pt": "museu",
+    "en": "museum",
+    "pron": "miuzíum"
+  },
+  {
+    "pt": "monumento",
+    "en": "monument",
+    "pron": "móniument"
+  },
+  {
+    "pt": "igreja",
+    "en": "church",
+    "pron": "chérch"
+  },
+  {
+    "pt": "castelo",
+    "en": "castle",
+    "pron": "késol"
+  },
+  {
+    "pt": "praça",
+    "en": "square",
+    "pron": "skué r"
+  },
+  {
+    "pt": "parque",
+    "en": "park",
+    "pron": "párk"
+  },
+  {
+    "pt": "praia",
+    "en": "beach",
+    "pron": "bích"
+  },
+  {
+    "pt": "montanha",
+    "en": "mountain",
+    "pron": "máunten"
+  },
+  {
+    "pt": "cidade histórica",
+    "en": "historic town",
+    "pron": "ristórik táun"
+  },
+  {
+    "pt": "tour guiado",
+    "en": "guided tour",
+    "pron": "gáidid túr"
+  },
+  {
+    "pt": "ingresso",
+    "en": "entrance ticket",
+    "pron": "éntrens tíkit"
+  },
+  {
+    "pt": "lembrança",
+    "en": "souvenir",
+    "pron": "suvinír"
+  },
+  {
+    "pt": "foto",
+    "en": "photo",
+    "pron": "fôutou"
+  },
+  {
+    "pt": "selfie",
+    "en": "selfie",
+    "pron": "sélfi"
+  },
+  {
+    "pt": "museu de arte",
+    "en": "art museum",
+    "pron": "árt miuzíum"
+  },
+  {
+    "pt": "vista",
+    "en": "view",
+    "pron": "viú"
+  },
+  {
+    "pt": "mirante",
+    "en": "viewpoint",
+    "pron": "viúpoint"
+  },
+  {
+    "pt": "horário de funcionamento",
+    "en": "opening hours",
+    "pron": "ôupening áuers"
+  },
+  {
+    "pt": "restaurante",
+    "en": "restaurant",
+    "pron": "réstorant"
+  },
+  {
+    "pt": "cardápio",
+    "en": "menu",
+    "pron": "ményu"
+  },
+  {
+    "pt": "gorjeta",
+    "en": "tip",
+    "pron": "típ"
+  },
+  {
+    "pt": "prato típico",
+    "en": "local dish",
+    "pron": "lôukol dísh"
+  },
+  {
+    "pt": "comida local",
+    "en": "local food",
+    "pron": "lôukol fúd"
+  },
+  {
+    "pt": "recomendação",
+    "en": "recommendation",
+    "pron": "rekumendéishon"
+  },
+  {
+    "pt": "para viagem",
+    "en": "to go",
+    "pron": "tu gôu"
+  },
+  {
+    "pt": "sem gelo",
+    "en": "no ice",
+    "pron": "nôu áis"
+  },
+  {
+    "pt": "vegetariano",
+    "en": "vegetarian",
+    "pron": "vedjetérion"
+  },
+  {
+    "pt": "alérgico a",
+    "en": "allergic to",
+    "pron": "alérdjik tu"
+  },
+  {
+    "pt": "dinheiro",
+    "en": "money",
+    "pron": "máni"
+  },
+  {
+    "pt": "câmbio",
+    "en": "exchange",
+    "pron": "ekstchéindj"
+  },
+  {
+    "pt": "casa de câmbio",
+    "en": "exchange office",
+    "pron": "ekstchéindj ófis"
+  },
+  {
+    "pt": "caixa eletrônico",
+    "en": "ATM",
+    "pron": "ei ti ém"
+  },
+  {
+    "pt": "cartão de crédito",
+    "en": "credit card",
+    "pron": "krédit kárd"
+  },
+  {
+    "pt": "dinheiro em espécie",
+    "en": "cash",
+    "pron": "késh"
+  },
+  {
+    "pt": "recibo",
+    "en": "receipt",
+    "pron": "risít"
+  },
+  {
+    "pt": "imposto",
+    "en": "tax",
+    "pron": "téks"
+  },
+  {
+    "pt": "tax free",
+    "en": "tax free",
+    "pron": "téks frí"
+  },
+  {
+    "pt": "farmácia",
+    "en": "pharmacy",
+    "pron": "fármasi"
+  },
+  {
+    "pt": "hospital",
+    "en": "hospital",
+    "pron": "róspital"
+  },
+  {
+    "pt": "médico",
+    "en": "doctor",
+    "pron": "dóktor"
+  },
+  {
+    "pt": "remédio",
+    "en": "medicine",
+    "pron": "mésdisin"
+  },
+  {
+    "pt": "receita médica",
+    "en": "prescription",
+    "pron": "priskrípshon"
+  },
+  {
+    "pt": "dor de cabeça",
+    "en": "headache",
+    "pron": "rédeik"
+  },
+  {
+    "pt": "dor de barriga",
+    "en": "stomachache",
+    "pron": "stómakéik"
+  },
+  {
+    "pt": "enjoo",
+    "en": "nausea",
+    "pron": "nózia"
+  },
+  {
+    "pt": "emergência",
+    "en": "emergency",
+    "pron": "imérdjensi"
+  },
+  {
+    "pt": "ambulância",
+    "en": "ambulance",
+    "pron": "émbiulans"
+  },
+  {
+    "pt": "onde fica o banheiro?",
+    "en": "where is the bathroom?",
+    "pron": "uér is de béthrum"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "en": "where is the hotel?",
+    "pron": "uér is de routél"
+  },
+  {
+    "pt": "onde é a estação?",
+    "en": "where is the station?",
+    "pron": "uér is de stéishon"
+  },
+  {
+    "pt": "quanto custa?",
+    "en": "how much does it cost?",
+    "pron": "ráu mách dáz it kóst"
+  },
+  {
+    "pt": "aceita cartão?",
+    "en": "do you accept cards?",
+    "pron": "du iu aksépt kárds"
+  },
+  {
+    "pt": "onde posso trocar dinheiro?",
+    "en": "where can I exchange money?",
+    "pron": "uér kén ái ekstchéindj máni"
+  },
+  {
+    "pt": "pode me ajudar?",
+    "en": "can you help me?",
+    "pron": "kén iu rélp mi"
+  },
+  {
+    "pt": "estou perdido",
+    "en": "I'm lost",
+    "pron": "áim lóst"
+  },
+  {
+    "pt": "falo pouco inglês",
+    "en": "I speak a little English",
+    "pron": "ái spík e lítol ínglish"
+  },
+  {
+    "pt": "pode falar devagar?",
+    "en": "can you speak slowly?",
+    "pron": "kén iu spík slôuli"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "en": "how long does it take?",
+    "pron": "ráu long dáz it téik"
+  },
+  {
+    "pt": "é longe daqui?",
+    "en": "is it far from here?",
+    "pron": "is it fár from rír"
+  },
+  {
+    "pt": "que horas abre?",
+    "en": "what time does it open?",
+    "pron": "uót táim dáz it ôupen"
+  },
+  {
+    "pt": "que horas fecha?",
+    "en": "what time does it close?",
+    "pron": "uót táim dáz it klôuz"
+  },
+  {
+    "pt": "tem wifi aqui?",
+    "en": "is there wifi here?",
+    "pron": "is dér uáifái rír"
+  },
+  {
+    "pt": "qual a senha do wifi?",
+    "en": "what's the wifi password?",
+    "pron": "uóts de uáifái péssuord"
+  },
+  {
+    "pt": "posso tirar uma foto?",
+    "en": "can I take a picture?",
+    "pron": "kén ái téik e píkcher"
+  },
+  {
+    "pt": "pode tirar uma foto minha?",
+    "en": "can you take a picture of me?",
+    "pron": "kén iu téik e píkcher óv mi"
+  },
+  {
+    "pt": "que lugar lindo!",
+    "en": "what a beautiful place!",
+    "pron": "uót e biútiful pléis"
+  },
+  {
+    "pt": "estou adorando a viagem",
+    "en": "I'm loving the trip",
+    "pron": "áim láving de tríp"
+  },
+  {
+    "pt": "foi uma viagem incrível",
+    "en": "it was an amazing trip",
+    "pron": "it uós en améizing tríp"
+  },
+  {
+    "pt": "quero voltar",
+    "en": "I want to come back",
+    "pron": "ái uónt tu kám bék"
+  },
+  {
+    "pt": "recomendo visitar",
+    "en": "I recommend visiting",
+    "pron": "ái rekuménd vísiting"
+  },
+  {
+    "pt": "vale muito a pena",
+    "en": "it's really worth it",
+    "pron": "its ríli uérth it"
+  }
+]

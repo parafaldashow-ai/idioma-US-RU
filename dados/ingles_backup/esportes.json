@@ -1,0 +1,862 @@
+[
+  {
+    "pt": "esporte",
+    "en": "sport",
+    "pron": "spórt"
+  },
+  {
+    "pt": "futebol",
+    "en": "soccer",
+    "pron": "sóker"
+  },
+  {
+    "pt": "futebol americano",
+    "en": "football",
+    "pron": "fútból"
+  },
+  {
+    "pt": "basquete",
+    "en": "basketball",
+    "pron": "báskitból"
+  },
+  {
+    "pt": "vôlei",
+    "en": "volleyball",
+    "pron": "vóliból"
+  },
+  {
+    "pt": "tênis",
+    "en": "tennis",
+    "pron": "ténis"
+  },
+  {
+    "pt": "tênis de mesa",
+    "en": "table tennis",
+    "pron": "téibol ténis"
+  },
+  {
+    "pt": "natação",
+    "en": "swimming",
+    "pron": "suíming"
+  },
+  {
+    "pt": "atletismo",
+    "en": "athletics",
+    "pron": "ethlétiks"
+  },
+  {
+    "pt": "corrida",
+    "en": "running",
+    "pron": "ráning"
+  },
+  {
+    "pt": "ciclismo",
+    "en": "cycling",
+    "pron": "sáikling"
+  },
+  {
+    "pt": "boxe",
+    "en": "boxing",
+    "pron": "bóksing"
+  },
+  {
+    "pt": "artes marciais",
+    "en": "martial arts",
+    "pron": "márshal árts"
+  },
+  {
+    "pt": "judô",
+    "en": "judo",
+    "pron": "djúdou"
+  },
+  {
+    "pt": "karatê",
+    "en": "karate",
+    "pron": "karáti"
+  },
+  {
+    "pt": "jiu-jitsu",
+    "en": "jiu-jitsu",
+    "pron": "djú djútsu"
+  },
+  {
+    "pt": "muay thai",
+    "en": "muay thai",
+    "pron": "muei tái"
+  },
+  {
+    "pt": "ginástica",
+    "en": "gymnastics",
+    "pron": "djimnéstiks"
+  },
+  {
+    "pt": "yoga",
+    "en": "yoga",
+    "pron": "iôuga"
+  },
+  {
+    "pt": "pilates",
+    "en": "pilates",
+    "pron": "pilátis"
+  },
+  {
+    "pt": "escalada",
+    "en": "climbing",
+    "pron": "kláiming"
+  },
+  {
+    "pt": "surfe",
+    "en": "surfing",
+    "pron": "sérfing"
+  },
+  {
+    "pt": "skate",
+    "en": "skateboarding",
+    "pron": "skéitbórding"
+  },
+  {
+    "pt": "patinação",
+    "en": "skating",
+    "pron": "skéiting"
+  },
+  {
+    "pt": "esqui",
+    "en": "skiing",
+    "pron": "skíing"
+  },
+  {
+    "pt": "hóquei",
+    "en": "hockey",
+    "pron": "róki"
+  },
+  {
+    "pt": "golfe",
+    "en": "golf",
+    "pron": "gólf"
+  },
+  {
+    "pt": "beisebol",
+    "en": "baseball",
+    "pron": "béisból"
+  },
+  {
+    "pt": "rugby",
+    "en": "rugby",
+    "pron": "rágbi"
+  },
+  {
+    "pt": "handebol",
+    "en": "handball",
+    "pron": "réndból"
+  },
+  {
+    "pt": "badminton",
+    "en": "badminton",
+    "pron": "bédminton"
+  },
+  {
+    "pt": "esgrima",
+    "en": "fencing",
+    "pron": "fénsing"
+  },
+  {
+    "pt": "equitação",
+    "en": "horse riding",
+    "pron": "rórs ráiding"
+  },
+  {
+    "pt": "pesca",
+    "en": "fishing",
+    "pron": "físhing"
+  },
+  {
+    "pt": "caça",
+    "en": "hunting",
+    "pron": "ránting"
+  },
+  {
+    "pt": "paraquedismo",
+    "en": "skydiving",
+    "pron": "skáidáiving"
+  },
+  {
+    "pt": "mergulho",
+    "en": "diving",
+    "pron": "dáiving"
+  },
+  {
+    "pt": "canoagem",
+    "en": "canoeing",
+    "pron": "kanúing"
+  },
+  {
+    "pt": "vela",
+    "en": "sailing",
+    "pron": "séiling"
+  },
+  {
+    "pt": "hipismo",
+    "en": "equestrian",
+    "pron": "ikuéstrian"
+  },
+  {
+    "pt": "boliche",
+    "en": "bowling",
+    "pron": "bôuling"
+  },
+  {
+    "pt": "sinuca",
+    "en": "billiards",
+    "pron": "bíliards"
+  },
+  {
+    "pt": "damas",
+    "en": "checkers",
+    "pron": "chékers"
+  },
+  {
+    "pt": "xadrez",
+    "en": "chess",
+    "pron": "chés"
+  },
+  {
+    "pt": "pôquer",
+    "en": "poker",
+    "pron": "pôuker"
+  },
+  {
+    "pt": "eSports",
+    "en": "eSports",
+    "pron": "í spórts"
+  },
+  {
+    "pt": "atleta",
+    "en": "athlete",
+    "pron": "éthlit"
+  },
+  {
+    "pt": "jogador",
+    "en": "player",
+    "pron": "pléier"
+  },
+  {
+    "pt": "técnico",
+    "en": "coach",
+    "pron": "kôuch"
+  },
+  {
+    "pt": "árbitro",
+    "en": "referee",
+    "pron": "réferi"
+  },
+  {
+    "pt": "juiz",
+    "en": "judge",
+    "pron": "djáj"
+  },
+  {
+    "pt": "torcedor",
+    "en": "fan",
+    "pron": "fén"
+  },
+  {
+    "pt": "time",
+    "en": "team",
+    "pron": "tím"
+  },
+  {
+    "pt": "capitão",
+    "en": "captain",
+    "pron": "képten"
+  },
+  {
+    "pt": "goleiro",
+    "en": "goalkeeper",
+    "pron": "gôulkíper"
+  },
+  {
+    "pt": "zagueiro",
+    "en": "defender",
+    "pron": "dífénder"
+  },
+  {
+    "pt": "atacante",
+    "en": "forward",
+    "pron": "fórward"
+  },
+  {
+    "pt": "meio-campista",
+    "en": "midfielder",
+    "pron": "mídfílder"
+  },
+  {
+    "pt": "campeão",
+    "en": "champion",
+    "pron": "chém pion"
+  },
+  {
+    "pt": "vice-campeão",
+    "en": "runner-up",
+    "pron": "ráner áp"
+  },
+  {
+    "pt": "medalhista",
+    "en": "medalist",
+    "pron": "médalist"
+  },
+  {
+    "pt": "jogo",
+    "en": "game",
+    "pron": "guéim"
+  },
+  {
+    "pt": "partida",
+    "en": "match",
+    "pron": "métch"
+  },
+  {
+    "pt": "campeonato",
+    "en": "championship",
+    "pron": "chém pionship"
+  },
+  {
+    "pt": "torneio",
+    "en": "tournament",
+    "pron": "túrnament"
+  },
+  {
+    "pt": "copa",
+    "en": "cup",
+    "pron": "káp"
+  },
+  {
+    "pt": "olimpíadas",
+    "en": "Olympics",
+    "pron": "olím piks"
+  },
+  {
+    "pt": "competição",
+    "en": "competition",
+    "pron": "kompetíshon"
+  },
+  {
+    "pt": "treino",
+    "en": "training",
+    "pron": "tréining"
+  },
+  {
+    "pt": "aquecimento",
+    "en": "warm-up",
+    "pron": "uórm áp"
+  },
+  {
+    "pt": "eliminatória",
+    "en": "qualifier",
+    "pron": "kuólifáier"
+  },
+  {
+    "pt": "final",
+    "en": "final",
+    "pron": "fáinal"
+  },
+  {
+    "pt": "semifinal",
+    "en": "semifinal",
+    "pron": "semi fáinal"
+  },
+  {
+    "pt": "quartas de final",
+    "en": "quarterfinals",
+    "pron": "kuórterfáinals"
+  },
+  {
+    "pt": "oitavas de final",
+    "en": "round of 16",
+    "pron": "ráund óv síkstín"
+  },
+  {
+    "pt": "fase de grupos",
+    "en": "group stage",
+    "pron": "grúp stéidj"
+  },
+  {
+    "pt": "prorrogação",
+    "en": "overtime",
+    "pron": "ôuvertáim"
+  },
+  {
+    "pt": "pênalti",
+    "en": "penalty",
+    "pron": "pénalti"
+  },
+  {
+    "pt": "falta",
+    "en": "foul",
+    "pron": "fául"
+  },
+  {
+    "pt": "cartão amarelo",
+    "en": "yellow card",
+    "pron": "iélou kárd"
+  },
+  {
+    "pt": "cartão vermelho",
+    "en": "red card",
+    "pron": "réd kárd"
+  },
+  {
+    "pt": "gol",
+    "en": "goal",
+    "pron": "gôul"
+  },
+  {
+    "pt": "ponto",
+    "en": "point",
+    "pron": "póint"
+  },
+  {
+    "pt": "placar",
+    "en": "score",
+    "pron": "skór"
+  },
+  {
+    "pt": "empate",
+    "en": "tie",
+    "pron": "tái"
+  },
+  {
+    "pt": "vitória",
+    "en": "victory",
+    "pron": "víktori"
+  },
+  {
+    "pt": "derrota",
+    "en": "defeat",
+    "pron": "difít"
+  },
+  {
+    "pt": "recorde",
+    "en": "record",
+    "pron": "rékord"
+  },
+  {
+    "pt": "medalha de ouro",
+    "en": "gold medal",
+    "pron": "gôuld médal"
+  },
+  {
+    "pt": "medalha de prata",
+    "en": "silver medal",
+    "pron": "sílver médal"
+  },
+  {
+    "pt": "medalha de bronze",
+    "en": "bronze medal",
+    "pron": "brónz médal"
+  },
+  {
+    "pt": "bola",
+    "en": "ball",
+    "pron": "ból"
+  },
+  {
+    "pt": "raquete",
+    "en": "racket",
+    "pron": "rékit"
+  },
+  {
+    "pt": "luva",
+    "en": "glove",
+    "pron": "gláv"
+  },
+  {
+    "pt": "capacete",
+    "en": "helmet",
+    "pron": "rélmet"
+  },
+  {
+    "pt": "uniforme",
+    "en": "uniform",
+    "pron": "iúniform"
+  },
+  {
+    "pt": "camisa",
+    "en": "jersey",
+    "pron": "djérsi"
+  },
+  {
+    "pt": "chuteira",
+    "en": "cleats",
+    "pron": "klíts"
+  },
+  {
+    "pt": "tênis esportivo",
+    "en": "sneakers",
+    "pron": "sníkers"
+  },
+  {
+    "pt": "rede",
+    "en": "net",
+    "pron": "nét"
+  },
+  {
+    "pt": "trave",
+    "en": "goalpost",
+    "pron": "gôulpôust"
+  },
+  {
+    "pt": "cesta",
+    "en": "hoop",
+    "pron": "rúp"
+  },
+  {
+    "pt": "taco",
+    "en": "bat",
+    "pron": "bét"
+  },
+  {
+    "pt": "prancha",
+    "en": "board",
+    "pron": "bórd"
+  },
+  {
+    "pt": "bastão",
+    "en": "stick",
+    "pron": "stík"
+  },
+  {
+    "pt": "halteres",
+    "en": "dumbbells",
+    "pron": "dámbels"
+  },
+  {
+    "pt": "corda",
+    "en": "rope",
+    "pron": "rôup"
+  },
+  {
+    "pt": "apito",
+    "en": "whistle",
+    "pron": "uísol"
+  },
+  {
+    "pt": "cronômetro",
+    "en": "stopwatch",
+    "pron": "stópuóch"
+  },
+  {
+    "pt": "jogar",
+    "en": "to play",
+    "pron": "tu pléi"
+  },
+  {
+    "pt": "treinar",
+    "en": "to train",
+    "pron": "tu tréin"
+  },
+  {
+    "pt": "correr",
+    "en": "to run",
+    "pron": "tu rán"
+  },
+  {
+    "pt": "nadar",
+    "en": "to swim",
+    "pron": "tu suím"
+  },
+  {
+    "pt": "chutar",
+    "en": "to kick",
+    "pron": "tu kík"
+  },
+  {
+    "pt": "arremessar",
+    "en": "to throw",
+    "pron": "tu thrôu"
+  },
+  {
+    "pt": "pegar",
+    "en": "to catch",
+    "pron": "tu kéch"
+  },
+  {
+    "pt": "marcar",
+    "en": "to score",
+    "pron": "tu skór"
+  },
+  {
+    "pt": "ganhar",
+    "en": "to win",
+    "pron": "tu uín"
+  },
+  {
+    "pt": "perder",
+    "en": "to lose",
+    "pron": "tu lúz"
+  },
+  {
+    "pt": "empatar",
+    "en": "to tie",
+    "pron": "tu tái"
+  },
+  {
+    "pt": "vencer",
+    "en": "to defeat",
+    "pron": "tu difít"
+  },
+  {
+    "pt": "competir",
+    "en": "to compete",
+    "pron": "tu kompet"
+  },
+  {
+    "pt": "aquecer",
+    "en": "to warm up",
+    "pron": "tu uórm áp"
+  },
+  {
+    "pt": "alongar",
+    "en": "to stretch",
+    "pron": "tu strétch"
+  },
+  {
+    "pt": "descansar",
+    "en": "to rest",
+    "pron": "tu rést"
+  },
+  {
+    "pt": "treinar (peso)",
+    "en": "to lift",
+    "pron": "tu líft"
+  },
+  {
+    "pt": "pedalar",
+    "en": "to pedal",
+    "pron": "tu pédal"
+  },
+  {
+    "pt": "escalar",
+    "en": "to climb",
+    "pron": "tu kláim"
+  },
+  {
+    "pt": "mergulhar",
+    "en": "to dive",
+    "pron": "tu dáiv"
+  },
+  {
+    "pt": "surfar",
+    "en": "to surf",
+    "pron": "tu sérf"
+  },
+  {
+    "pt": "patinar",
+    "en": "to skate",
+    "pron": "tu skéit"
+  },
+  {
+    "pt": "esquiar",
+    "en": "to ski",
+    "pron": "tu skí"
+  },
+  {
+    "pt": "torcer",
+    "en": "to cheer",
+    "pron": "tu chír"
+  },
+  {
+    "pt": "estádio",
+    "en": "stadium",
+    "pron": "stéidium"
+  },
+  {
+    "pt": "quadra",
+    "en": "court",
+    "pron": "kórt"
+  },
+  {
+    "pt": "campo",
+    "en": "field",
+    "pron": "fíld"
+  },
+  {
+    "pt": "ginásio",
+    "en": "gymnasium",
+    "pron": "djimnézium"
+  },
+  {
+    "pt": "piscina",
+    "en": "pool",
+    "pron": "púl"
+  },
+  {
+    "pt": "pista",
+    "en": "track",
+    "pron": "trék"
+  },
+  {
+    "pt": "academia",
+    "en": "gym",
+    "pron": "djím"
+  },
+  {
+    "pt": "vestiário",
+    "en": "locker room",
+    "pron": "lóker rúm"
+  },
+  {
+    "pt": "arquibancada",
+    "en": "bleachers",
+    "pron": "blíchers"
+  },
+  {
+    "pt": "ringue",
+    "en": "ring",
+    "pron": "ríng"
+  },
+  {
+    "pt": "tatame",
+    "en": "mat",
+    "pron": "mét"
+  },
+  {
+    "pt": "montanha",
+    "en": "mountain",
+    "pron": "máunten"
+  },
+  {
+    "pt": "praia",
+    "en": "beach",
+    "pron": "bích"
+  },
+  {
+    "pt": "parque",
+    "en": "park",
+    "pron": "párk"
+  },
+  {
+    "pt": "você gosta de futebol?",
+    "en": "do you like soccer?",
+    "pron": "du iu láik sóker"
+  },
+  {
+    "pt": "quem ganhou?",
+    "en": "who won?",
+    "pron": "rú uán"
+  },
+  {
+    "pt": "qual o placar?",
+    "en": "what's the score?",
+    "pron": "uóts de skór"
+  },
+  {
+    "pt": "quando é o jogo?",
+    "en": "when is the game?",
+    "pron": "uén is de guéim"
+  },
+  {
+    "pt": "que horas começa?",
+    "en": "what time does it start?",
+    "pron": "uót táim dáz it stárt"
+  },
+  {
+    "pt": "qual o seu time?",
+    "en": "what's your team?",
+    "pron": "uóts iór tím"
+  },
+  {
+    "pt": "sou torcedor do...",
+    "en": "I'm a fan of...",
+    "pron": "áim e fén óv"
+  },
+  {
+    "pt": "torço pro...",
+    "en": "I root for...",
+    "pron": "ái rút fór"
+  },
+  {
+    "pt": "vamos ganhar!",
+    "en": "we're going to win!",
+    "pron": "uír góuing tu uín"
+  },
+  {
+    "pt": "que jogo emocionante!",
+    "en": "what an exciting game!",
+    "pron": "uót en eksáiting guéim"
+  },
+  {
+    "pt": "foi incrível",
+    "en": "it was amazing",
+    "pron": "it uós améizing"
+  },
+  {
+    "pt": "que pena!",
+    "en": "what a pity!",
+    "pron": "uót e píti"
+  },
+  {
+    "pt": "ele é muito bom",
+    "en": "he's very good",
+    "pron": "ríz véri gúd"
+  },
+  {
+    "pt": "joga bem",
+    "en": "plays well",
+    "pron": "pléis uél"
+  },
+  {
+    "pt": "estou treinando",
+    "en": "I'm training",
+    "pron": "áim tréining"
+  },
+  {
+    "pt": "vou à academia",
+    "en": "I go to the gym",
+    "pron": "ái gôu tu de djím"
+  },
+  {
+    "pt": "faço musculação",
+    "en": "I lift weights",
+    "pron": "ái líft uéits"
+  },
+  {
+    "pt": "corro todos os dias",
+    "en": "I run every day",
+    "pron": "ái rán évri déi"
+  },
+  {
+    "pt": "jogo bola com amigos",
+    "en": "I play soccer with friends",
+    "pron": "ái pléi sóker uíth frénds"
+  },
+  {
+    "pt": "vamos jogar?",
+    "en": "want to play?",
+    "pron": "uónt tu pléi"
+  },
+  {
+    "pt": "topa um futebol?",
+    "en": "up for some soccer?",
+    "pron": "áp fór sám sóker"
+  },
+  {
+    "pt": "sou faixa preta",
+    "en": "I'm a black belt",
+    "pron": "áim e blék bélt"
+  },
+  {
+    "pt": "pratico yoga",
+    "en": "I do yoga",
+    "pron": "ái dú iôuga"
+  },
+  {
+    "pt": "faço natação",
+    "en": "I swim",
+    "pron": "ái suím"
+  },
+  {
+    "pt": "malho há anos",
+    "en": "I've worked out for years",
+    "pron": "áiv uórkt áut fór íers"
+  }
+]

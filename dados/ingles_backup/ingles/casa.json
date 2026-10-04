@@ -1,0 +1,557 @@
+[
+  {
+    "pt": "casa",
+    "en": "house",
+    "pron": "ráus"
+  },
+  {
+    "pt": "apartamento",
+    "en": "apartment",
+    "pron": "apártment"
+  },
+  {
+    "pt": "quarto",
+    "en": "bedroom",
+    "pron": "bédrum"
+  },
+  {
+    "pt": "sala de estar",
+    "en": "living room",
+    "pron": "líving rum"
+  },
+  {
+    "pt": "sala de jantar",
+    "en": "dining room",
+    "pron": "dáining rum"
+  },
+  {
+    "pt": "cozinha",
+    "en": "kitchen",
+    "pron": "kítchen"
+  },
+  {
+    "pt": "banheiro",
+    "en": "bathroom",
+    "pron": "béthrum"
+  },
+  {
+    "pt": "garagem",
+    "en": "garage",
+    "pron": "garáj"
+  },
+  {
+    "pt": "jardim",
+    "en": "garden",
+    "pron": "gárden"
+  },
+  {
+    "pt": "quintal",
+    "en": "backyard",
+    "pron": "békiard"
+  },
+  {
+    "pt": "varanda",
+    "en": "balcony",
+    "pron": "bélkoni"
+  },
+  {
+    "pt": "porão",
+    "en": "basement",
+    "pron": "béismeint"
+  },
+  {
+    "pt": "sótão",
+    "en": "attic",
+    "pron": "étik"
+  },
+  {
+    "pt": "escritório",
+    "en": "office",
+    "pron": "ófis"
+  },
+  {
+    "pt": "corredor",
+    "en": "hallway",
+    "pron": "róluei"
+  },
+  {
+    "pt": "lavanderia",
+    "en": "laundry room",
+    "pron": "lóndri rum"
+  },
+  {
+    "pt": "porta",
+    "en": "door",
+    "pron": "dór"
+  },
+  {
+    "pt": "janela",
+    "en": "window",
+    "pron": "uíndou"
+  },
+  {
+    "pt": "parede",
+    "en": "wall",
+    "pron": "uól"
+  },
+  {
+    "pt": "chão",
+    "en": "floor",
+    "pron": "flór"
+  },
+  {
+    "pt": "teto",
+    "en": "ceiling",
+    "pron": "síling"
+  },
+  {
+    "pt": "telhado",
+    "en": "roof",
+    "pron": "rúf"
+  },
+  {
+    "pt": "escada",
+    "en": "stairs",
+    "pron": "stérs"
+  },
+  {
+    "pt": "elevador",
+    "en": "elevator",
+    "pron": "éleveitor"
+  },
+  {
+    "pt": "campainha",
+    "en": "doorbell",
+    "pron": "dórbel"
+  },
+  {
+    "pt": "fechadura",
+    "en": "lock",
+    "pron": "lók"
+  },
+  {
+    "pt": "maçaneta",
+    "en": "doorknob",
+    "pron": "dórnob"
+  },
+  {
+    "pt": "tomada",
+    "en": "outlet",
+    "pron": "áutlet"
+  },
+  {
+    "pt": "interruptor",
+    "en": "switch",
+    "pron": "suích"
+  },
+  {
+    "pt": "cama",
+    "en": "bed",
+    "pron": "béd"
+  },
+  {
+    "pt": "mesa",
+    "en": "table",
+    "pron": "téibol"
+  },
+  {
+    "pt": "cadeira",
+    "en": "chair",
+    "pron": "chér"
+  },
+  {
+    "pt": "sofá",
+    "en": "sofa",
+    "pron": "sóufa"
+  },
+  {
+    "pt": "poltrona",
+    "en": "armchair",
+    "pron": "ármchér"
+  },
+  {
+    "pt": "armário",
+    "en": "cabinet",
+    "pron": "kébinet"
+  },
+  {
+    "pt": "guarda-roupa",
+    "en": "wardrobe",
+    "pron": "uórdroub"
+  },
+  {
+    "pt": "estante",
+    "en": "shelf",
+    "pron": "shelf"
+  },
+  {
+    "pt": "gaveta",
+    "en": "drawer",
+    "pron": "dróer"
+  },
+  {
+    "pt": "escrivaninha",
+    "en": "desk",
+    "pron": "désk"
+  },
+  {
+    "pt": "banco",
+    "en": "stool",
+    "pron": "stúl"
+  },
+  {
+    "pt": "berço",
+    "en": "crib",
+    "pron": "kríb"
+  },
+  {
+    "pt": "tapete",
+    "en": "carpet",
+    "pron": "kárpit"
+  },
+  {
+    "pt": "cortina",
+    "en": "curtain",
+    "pron": "kérten"
+  },
+  {
+    "pt": "quadro",
+    "en": "picture",
+    "pron": "píkcher"
+  },
+  {
+    "pt": "espelho",
+    "en": "mirror",
+    "pron": "míror"
+  },
+  {
+    "pt": "vaso",
+    "en": "vase",
+    "pron": "véis"
+  },
+  {
+    "pt": "geladeira",
+    "en": "refrigerator",
+    "pron": "rifrídjareitor"
+  },
+  {
+    "pt": "freezer",
+    "en": "freezer",
+    "pron": "frízer"
+  },
+  {
+    "pt": "fogão",
+    "en": "stove",
+    "pron": "stôuv"
+  },
+  {
+    "pt": "forno",
+    "en": "oven",
+    "pron": "áven"
+  },
+  {
+    "pt": "micro-ondas",
+    "en": "microwave",
+    "pron": "máicro-uéiv"
+  },
+  {
+    "pt": "máquina de lavar",
+    "en": "washing machine",
+    "pron": "uóshing mashín"
+  },
+  {
+    "pt": "lava-louças",
+    "en": "dishwasher",
+    "pron": "díshuóshe"
+  },
+  {
+    "pt": "aspirador",
+    "en": "vacuum cleaner",
+    "pron": "vékium klíner"
+  },
+  {
+    "pt": "liquidificador",
+    "en": "blender",
+    "pron": "blénder"
+  },
+  {
+    "pt": "torradeira",
+    "en": "toaster",
+    "pron": "tôuster"
+  },
+  {
+    "pt": "cafeteira",
+    "en": "coffee maker",
+    "pron": "cófi méiker"
+  },
+  {
+    "pt": "pia",
+    "en": "sink",
+    "pron": "sínk"
+  },
+  {
+    "pt": "chuveiro",
+    "en": "shower",
+    "pron": "sháuer"
+  },
+  {
+    "pt": "banheira",
+    "en": "bathtub",
+    "pron": "béthtab"
+  },
+  {
+    "pt": "vaso sanitário",
+    "en": "toilet",
+    "pron": "tóilet"
+  },
+  {
+    "pt": "toalha",
+    "en": "towel",
+    "pron": "táuel"
+  },
+  {
+    "pt": "sabão",
+    "en": "soap",
+    "pron": "sôup"
+  },
+  {
+    "pt": "shampoo",
+    "en": "shampoo",
+    "pron": "shémpu"
+  },
+  {
+    "pt": "condicionador",
+    "en": "conditioner",
+    "pron": "kondíshoner"
+  },
+  {
+    "pt": "escova de dente",
+    "en": "toothbrush",
+    "pron": "túthbrash"
+  },
+  {
+    "pt": "pasta de dente",
+    "en": "toothpaste",
+    "pron": "túthpeist"
+  },
+  {
+    "pt": "papel higiênico",
+    "en": "toilet paper",
+    "pron": "tóilet péiper"
+  },
+  {
+    "pt": "pente",
+    "en": "comb",
+    "pron": "kôum"
+  },
+  {
+    "pt": "escova de cabelo",
+    "en": "hairbrush",
+    "pron": "rérbrash"
+  },
+  {
+    "pt": "travesseiro",
+    "en": "pillow",
+    "pron": "pílou"
+  },
+  {
+    "pt": "lençol",
+    "en": "sheet",
+    "pron": "shít"
+  },
+  {
+    "pt": "cobertor",
+    "en": "blanket",
+    "pron": "blénkit"
+  },
+  {
+    "pt": "edredom",
+    "en": "duvet",
+    "pron": "duvéi"
+  },
+  {
+    "pt": "colchão",
+    "en": "mattress",
+    "pron": "métres"
+  },
+  {
+    "pt": "abajur",
+    "en": "lamp",
+    "pron": "lémp"
+  },
+  {
+    "pt": "despertador",
+    "en": "alarm clock",
+    "pron": "alárm klók"
+  },
+  {
+    "pt": "lâmpada",
+    "en": "light bulb",
+    "pron": "láit balb"
+  },
+  {
+    "pt": "luz",
+    "en": "light",
+    "pron": "láit"
+  },
+  {
+    "pt": "ventilador",
+    "en": "fan",
+    "pron": "fén"
+  },
+  {
+    "pt": "ar-condicionado",
+    "en": "air conditioner",
+    "pron": "ér kondíshoner"
+  },
+  {
+    "pt": "televisão",
+    "en": "television",
+    "pron": "télevíjan"
+  },
+  {
+    "pt": "relógio",
+    "en": "clock",
+    "pron": "klók"
+  },
+  {
+    "pt": "chave",
+    "en": "key",
+    "pron": "kí"
+  },
+  {
+    "pt": "livro",
+    "en": "book",
+    "pron": "búk"
+  },
+  {
+    "pt": "caneta",
+    "en": "pen",
+    "pron": "pén"
+  },
+  {
+    "pt": "lápis",
+    "en": "pencil",
+    "pron": "pénsol"
+  },
+  {
+    "pt": "papel",
+    "en": "paper",
+    "pron": "péiper"
+  },
+  {
+    "pt": "celular",
+    "en": "cell phone",
+    "pron": "sél fôun"
+  },
+  {
+    "pt": "computador",
+    "en": "computer",
+    "pron": "kompiúter"
+  },
+  {
+    "pt": "lixo",
+    "en": "trash",
+    "pron": "trésh"
+  },
+  {
+    "pt": "lixeira",
+    "en": "trash can",
+    "pron": "trésh kén"
+  },
+  {
+    "pt": "vassoura",
+    "en": "broom",
+    "pron": "brúm"
+  },
+  {
+    "pt": "rodo",
+    "en": "mop",
+    "pron": "móp"
+  },
+  {
+    "pt": "balde",
+    "en": "bucket",
+    "pron": "bákit"
+  },
+  {
+    "pt": "escada de mão",
+    "en": "ladder",
+    "pron": "léder"
+  },
+  {
+    "pt": "ferramenta",
+    "en": "tool",
+    "pron": "túl"
+  },
+  {
+    "pt": "martelo",
+    "en": "hammer",
+    "pron": "rémer"
+  },
+  {
+    "pt": "chave de fenda",
+    "en": "screwdriver",
+    "pron": "skrúdráiver"
+  },
+  {
+    "pt": "parafuso",
+    "en": "screw",
+    "pron": "skrú"
+  },
+  {
+    "pt": "prego",
+    "en": "nail",
+    "pron": "néil"
+  },
+  {
+    "pt": "estou em casa",
+    "en": "I'm at home",
+    "pron": "áim ét rôum"
+  },
+  {
+    "pt": "vou pra casa",
+    "en": "I'm going home",
+    "pron": "áim góuing rôum"
+  },
+  {
+    "pt": "abra a porta",
+    "en": "open the door",
+    "pron": "ôupen de dór"
+  },
+  {
+    "pt": "feche a janela",
+    "en": "close the window",
+    "pron": "klôuz de uíndou"
+  },
+  {
+    "pt": "apague a luz",
+    "en": "turn off the light",
+    "pron": "térn óf de láit"
+  },
+  {
+    "pt": "acenda a luz",
+    "en": "turn on the light",
+    "pron": "térn ón de láit"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "en": "where is the bathroom?",
+    "pron": "uér is de béthrum"
+  },
+  {
+    "pt": "estou limpando",
+    "en": "I'm cleaning",
+    "pron": "áim klíning"
+  },
+  {
+    "pt": "estou cozinhando",
+    "en": "I'm cooking",
+    "pron": "áim kúking"
+  },
+  {
+    "pt": "estou dormindo",
+    "en": "I'm sleeping",
+    "pron": "áim slíping"
+  }
+]
