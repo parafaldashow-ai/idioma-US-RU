@@ -1,52 +1,247 @@
 [
-  { "pt": "médico", "ru": "врач", "pron": "vrach" },
-  { "pt": "enfermeiro", "ru": "медсестра", "pron": "medsistrá" },
-  { "pt": "dentista", "ru": "стоматолог", "pron": "stamatólog" },
-  { "pt": "professor", "ru": "учитель", "pron": "utchítel'" },
-  { "pt": "engenheiro", "ru": "инженер", "pron": "injenír" },
-  { "pt": "advogado", "ru": "адвокат", "pron": "advakát" },
-  { "pt": "juiz", "ru": "судья", "pron": "sud'yá" },
-  { "pt": "policial", "ru": "полицейский", "pron": "palitséyskiy" },
-  { "pt": "bombeiro", "ru": "пожарный", "pron": "pajárniy" },
-  { "pt": "soldado", "ru": "солдат", "pron": "saldát" },
-  { "pt": "cozinheiro", "ru": "повар", "pron": "póvar" },
-  { "pt": "chef", "ru": "шеф-повар", "pron": "shef póvar" },
-  { "pt": "garçom", "ru": "официант", "pron": "afitsiánt" },
-  { "pt": "motorista", "ru": "водитель", "pron": "vadítel'" },
-  { "pt": "piloto", "ru": "пилот", "pron": "pilót" },
-  { "pt": "programador", "ru": "программист", "pron": "pragrámist" },
-  { "pt": "designer", "ru": "дизайнер", "pron": "dizáyner" },
-  { "pt": "vendedor", "ru": "продавец", "pron": "pradavéts" },
-  { "pt": "estudante", "ru": "студент", "pron": "studént" },
-  { "pt": "jornalista", "ru": "журналист", "pron": "jurnalíst" },
-  { "pt": "cientista", "ru": "учёный", "pron": "utchóniy" },
-  { "pt": "artista", "ru": "художник", "pron": "khudójnik" },
-  { "pt": "músico", "ru": "музыкант", "pron": "muzikánt" },
-  { "pt": "escritor", "ru": "писатель", "pron": "pisátel'" },
-  { "pt": "ator", "ru": "актёр", "pron": "aktyór" },
-  { "pt": "fotógrafo", "ru": "фотограф", "pron": "fotógraf" },
-  { "pt": "arquiteto", "ru": "архитектор", "pron": "arkhit'éktar" },
-  { "pt": "contador", "ru": "бухгалтер", "pron": "bugálter" },
-  { "pt": "eletricista", "ru": "электрик", "pron": "eléktrik" },
-  { "pt": "encanador", "ru": "сантехник", "pron": "santékhnik" },
-  { "pt": "pedreiro", "ru": "каменщик", "pron": "kámenshchik" },
-  { "pt": "carpinteiro", "ru": "плотник", "pron": "plótnik" },
-  { "pt": "mecânico", "ru": "механик", "pron": "mekhánik" },
-  { "pt": "agricultor", "ru": "фермер", "pron": "férmer" },
-  { "pt": "pescador", "ru": "рыбак", "pron": "ribák" },
-  { "pt": "padeiro", "ru": "пекарь", "pron": "pékar'" },
-  { "pt": "açougueiro", "ru": "мясник", "pron": "misník" },
-  { "pt": "cabeleireiro", "ru": "парикмахер", "pron": "parikmákher" },
-  { "pt": "barbeiro", "ru": "барбер", "pron": "bárber" },
-  { "pt": "veterinário", "ru": "ветеринар", "pron": "veterinár" },
-  { "pt": "psicólogo", "ru": "психолог", "pron": "psikhólog" },
-  { "pt": "padeiro", "ru": "пекарь", "pron": "pékar'" },
-  { "pt": "secretária", "ru": "секретарь", "pron": "sekretár'" },
-  { "pt": "recepcionista", "ru": "администратор", "pron": "administrátor" },
-  { "pt": "gerente", "ru": "менеджер", "pron": "ménedjer" },
-  { "pt": "diretor", "ru": "директор", "pron": "diréktor" },
-  { "pt": "presidente", "ru": "президент", "pron": "prezidént" },
-  { "pt": "político", "ru": "политик", "pron": "polítik" },
-  { "pt": "empresário", "ru": "бизнесмен", "pron": "biznesmén" },
-  { "pt": "banqueiro", "ru": "банкир", "pron": "bankír" }
+  {
+    "pt": "médico",
+    "ru": "врач",
+    "pron": "vrach"
+  },
+  {
+    "pt": "enfermeiro",
+    "ru": "медсестра",
+    "pron": "medsistrá"
+  },
+  {
+    "pt": "dentista",
+    "ru": "стоматолог",
+    "pron": "stamatólog"
+  },
+  {
+    "pt": "professor",
+    "ru": "учитель",
+    "pron": "utchítel'"
+  },
+  {
+    "pt": "engenheiro",
+    "ru": "инженер",
+    "pron": "injenír"
+  },
+  {
+    "pt": "advogado",
+    "ru": "адвокат",
+    "pron": "advakát"
+  },
+  {
+    "pt": "juiz",
+    "ru": "судья",
+    "pron": "sud'yá"
+  },
+  {
+    "pt": "policial",
+    "ru": "полицейский",
+    "pron": "palitséyskiy"
+  },
+  {
+    "pt": "bombeiro",
+    "ru": "пожарный",
+    "pron": "pajárniy"
+  },
+  {
+    "pt": "soldado",
+    "ru": "солдат",
+    "pron": "saldát"
+  },
+  {
+    "pt": "cozinheiro",
+    "ru": "повар",
+    "pron": "póvar"
+  },
+  {
+    "pt": "chef",
+    "ru": "шеф-повар",
+    "pron": "shef póvar"
+  },
+  {
+    "pt": "garçom",
+    "ru": "официант",
+    "pron": "afitsiánt"
+  },
+  {
+    "pt": "motorista",
+    "ru": "водитель",
+    "pron": "vadítel'"
+  },
+  {
+    "pt": "piloto",
+    "ru": "пилот",
+    "pron": "pilót"
+  },
+  {
+    "pt": "programador",
+    "ru": "программист",
+    "pron": "pragrámist"
+  },
+  {
+    "pt": "designer",
+    "ru": "дизайнер",
+    "pron": "dizáyner"
+  },
+  {
+    "pt": "vendedor",
+    "ru": "продавец",
+    "pron": "pradavéts"
+  },
+  {
+    "pt": "estudante",
+    "ru": "студент",
+    "pron": "studént"
+  },
+  {
+    "pt": "jornalista",
+    "ru": "журналист",
+    "pron": "jurnalíst"
+  },
+  {
+    "pt": "cientista",
+    "ru": "учёный",
+    "pron": "utchóniy"
+  },
+  {
+    "pt": "artista",
+    "ru": "художник",
+    "pron": "khudójnik"
+  },
+  {
+    "pt": "músico",
+    "ru": "музыкант",
+    "pron": "muzikánt"
+  },
+  {
+    "pt": "escritor",
+    "ru": "писатель",
+    "pron": "pisátel'"
+  },
+  {
+    "pt": "ator",
+    "ru": "актёр",
+    "pron": "aktyór"
+  },
+  {
+    "pt": "fotógrafo",
+    "ru": "фотограф",
+    "pron": "fotógraf"
+  },
+  {
+    "pt": "arquiteto",
+    "ru": "архитектор",
+    "pron": "arkhit'éktar"
+  },
+  {
+    "pt": "contador",
+    "ru": "бухгалтер",
+    "pron": "bugálter"
+  },
+  {
+    "pt": "eletricista",
+    "ru": "электрик",
+    "pron": "eléktrik"
+  },
+  {
+    "pt": "encanador",
+    "ru": "сантехник",
+    "pron": "santékhnik"
+  },
+  {
+    "pt": "pedreiro",
+    "ru": "каменщик",
+    "pron": "kámenshchik"
+  },
+  {
+    "pt": "carpinteiro",
+    "ru": "плотник",
+    "pron": "plótnik"
+  },
+  {
+    "pt": "mecânico",
+    "ru": "механик",
+    "pron": "mekhánik"
+  },
+  {
+    "pt": "agricultor",
+    "ru": "фермер",
+    "pron": "férmer"
+  },
+  {
+    "pt": "pescador",
+    "ru": "рыбак",
+    "pron": "ribák"
+  },
+  {
+    "pt": "padeiro",
+    "ru": "пекарь",
+    "pron": "pékar'"
+  },
+  {
+    "pt": "açougueiro",
+    "ru": "мясник",
+    "pron": "misník"
+  },
+  {
+    "pt": "cabeleireiro",
+    "ru": "парикмахер",
+    "pron": "parikmákher"
+  },
+  {
+    "pt": "barbeiro",
+    "ru": "барбер",
+    "pron": "bárber"
+  },
+  {
+    "pt": "veterinário",
+    "ru": "ветеринар",
+    "pron": "veterinár"
+  },
+  {
+    "pt": "psicólogo",
+    "ru": "психолог",
+    "pron": "psikhólog"
+  },
+  {
+    "pt": "secretária",
+    "ru": "секретарь",
+    "pron": "sekretár'"
+  },
+  {
+    "pt": "recepcionista",
+    "ru": "администратор",
+    "pron": "administrátor"
+  },
+  {
+    "pt": "gerente",
+    "ru": "менеджер",
+    "pron": "ménedjer"
+  },
+  {
+    "pt": "diretor",
+    "ru": "директор",
+    "pron": "diréktor"
+  },
+  {
+    "pt": "presidente",
+    "ru": "президент",
+    "pron": "prezidént"
+  },
+  {
+    "pt": "político",
+    "ru": "политик",
+    "pron": "polítik"
+  },
+  {
+    "pt": "empresário",
+    "ru": "бизнесмен",
+    "pron": "biznesmén"
+  },
+  {
+    "pt": "banqueiro",
+    "ru": "банкир",
+    "pron": "bankír"
+  }
 ]

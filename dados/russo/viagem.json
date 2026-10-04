@@ -1,161 +1,782 @@
 [
-  { "pt": "viagem", "ru": "поездка", "pron": "payéstka" },
-  { "pt": "viagem (jornada)", "ru": "путешествие", "pron": "puteshéstviye" },
-  { "pt": "férias", "ru": "отпуск", "pron": "ótpusk" },
-  { "pt": "feriado", "ru": "праздник", "pron": "prázdnik" },
-  { "pt": "passaporte", "ru": "паспорт", "pron": "pásport" },
-  { "pt": "visto", "ru": "виза", "pron": "víza" },
-  { "pt": "documento", "ru": "документ", "pron": "dokumént" },
-  { "pt": "identidade", "ru": "удостоверение", "pron": "udastaveréniye" },
-  { "pt": "passagem", "ru": "билет", "pron": "bilét" },
-  { "pt": "reserva", "ru": "бронь", "pron": "bron'" },
-  { "pt": "seguro viagem", "ru": "страховка", "pron": "strakhófka" },
-  { "pt": "roteiro", "ru": "маршрут", "pron": "marsh rút" },
-  { "pt": "mala", "ru": "чемодан", "pron": "tchemadán" },
-  { "pt": "mochila", "ru": "рюкзак", "pron": "ryukzák" },
-  { "pt": "bagagem de mão", "ru": "ручная кладь", "pron": "rutchnáya klad'" },
-  { "pt": "guia", "ru": "гид", "pron": "git" },
-  { "pt": "mapa", "ru": "карта", "pron": "kárta" },
-  { "pt": "guia turístico", "ru": "путеводитель", "pron": "putevadítel'" },
-  { "pt": "turista", "ru": "турист", "pron": "turíst" },
-  { "pt": "viajante", "ru": "путешественник", "pron": "puteshéstvennik" },
-  { "pt": "aeroporto", "ru": "аэропорт", "pron": "aerapórt" },
-  { "pt": "voo", "ru": "рейс", "pron": "reys" },
-  { "pt": "voo direto", "ru": "прямой рейс", "pron": "pryamóy reys" },
-  { "pt": "voo com conexão", "ru": "рейс с пересадкой", "pron": "reys s peresádkay" },
-  { "pt": "escala", "ru": "пересадка", "pron": "peresádka" },
-  { "pt": "check-in", "ru": "регистрация", "pron": "registrátsiya" },
-  { "pt": "embarque", "ru": "посадка", "pron": "pasádka" },
-  { "pt": "cartão de embarque", "ru": "посадочный талон", "pron": "pasádatch niy talón" },
-  { "pt": "portão", "ru": "выход на посадку", "pron": "víkhad na pasádku" },
-  { "pt": "poltrona", "ru": "кресло", "pron": "krésla" },
-  { "pt": "corredor", "ru": "проход", "pron": "prakhód" },
-  { "pt": "janela", "ru": "окно", "pron": "aknó" },
-  { "pt": "bagagem", "ru": "багаж", "pron": "bagáj" },
-  { "pt": "esteira", "ru": "лента выдачи багажа", "pron": "lénta vídatchi bagajá" },
-  { "pt": "alfândega", "ru": "таможня", "pron": "tamójnya" },
-  { "pt": "imigração", "ru": "паспортный контроль", "pron": "pásportniy kantról'" },
-  { "pt": "passaporte", "ru": "паспортный контроль", "pron": "pásportniy kantról'" },
-  { "pt": "raio-x", "ru": "рентген", "pron": "rentgén" },
-  { "pt": "detector de metal", "ru": "металлодетектор", "pron": "metalladetéktor" },
-  { "pt": "atraso", "ru": "задержка", "pron": "zadérjka" },
-  { "pt": "cancelado", "ru": "отменён", "pron": "atmenyón" },
-  { "pt": "turbulência", "ru": "турбулентность", "pron": "turbuléntnast'" },
-  { "pt": "piloto", "ru": "пилот", "pron": "pilót" },
-  { "pt": "comissário", "ru": "стюард", "pron": "styuárd" },
-  { "pt": "primeira classe", "ru": "первый класс", "pron": "pérviy klass" },
-  { "pt": "classe executiva", "ru": "бизнес-класс", "pron": "bíznes klass" },
-  { "pt": "classe econômica", "ru": "эконом-класс", "pron": "ekanóm klass" },
-  { "pt": "hotel", "ru": "отель", "pron": "atél'" },
-  { "pt": "pousada", "ru": "гостиница", "pron": "gastínitsa" },
-  { "pt": "hostel", "ru": "хостел", "pron": "khostél" },
-  { "pt": "resort", "ru": "курорт", "pron": "kurórt" },
-  { "pt": "quarto", "ru": "номер", "pron": "nómer" },
-  { "pt": "quarto individual", "ru": "одноместный номер", "pron": "adnaméstniy nómer" },
-  { "pt": "quarto duplo", "ru": "двухместный номер", "pron": "dvukhméstniy nómer" },
-  { "pt": "quarto de casal", "ru": "номер с двуспальной кроватью", "pron": "nómer s dvuspál'nay kravát'yu" },
-  { "pt": "suíte", "ru": "люкс", "pron": "lyuks" },
-  { "pt": "recepcionista", "ru": "администратор", "pron": "administrátor" },
-  { "pt": "chave", "ru": "ключ", "pron": "klyutch" },
-  { "pt": "cartão-chave", "ru": "ключ-карта", "pron": "klyutch kárta" },
-  { "pt": "elevador", "ru": "лифт", "pron": "lift" },
-  { "pt": "café da manhã", "ru": "завтрак", "pron": "záftrak" },
-  { "pt": "meia-pensão", "ru": "полупансион", "pron": "pulupansión" },
-  { "pt": "pensão completa", "ru": "полный пансион", "pron": "pólniy pansión" },
-  { "pt": "check-out", "ru": "выезд", "pron": "víyest" },
-  { "pt": "conta", "ru": "счёт", "pron": "shchot" },
-  { "pt": "toalha", "ru": "полотенце", "pron": "palaténtse" },
-  { "pt": "sabonete", "ru": "мыло", "pron": "míla" },
-  { "pt": "ar-condicionado", "ru": "кондиционер", "pron": "kanditsianér" },
-  { "pt": "wi-fi", "ru": "вай-фай", "pron": "vay fáy" },
-  { "pt": "táxi", "ru": "такси", "pron": "taksí" },
-  { "pt": "ônibus", "ru": "автобус", "pron": "aftóbus" },
-  { "pt": "metrô", "ru": "метро", "pron": "metró" },
-  { "pt": "trem", "ru": "поезд", "pron": "póyest" },
-  { "pt": "aluguel de carro", "ru": "аренда машины", "pron": "aréndа mashíni" },
-  { "pt": "aplicativo", "ru": "приложение", "pron": "prilajéniye" },
-  { "pt": "motorista", "ru": "водитель", "pron": "vadítel'" },
-  { "pt": "passageiro", "ru": "пассажир", "pron": "passajír" },
-  { "pt": "bilhete", "ru": "билет", "pron": "bilét" },
-  { "pt": "mapa", "ru": "карта", "pron": "kárta" },
-  { "pt": "ponto de ônibus", "ru": "автобусная остановка", "pron": "aftóbusnaya astanófka" },
-  { "pt": "estação", "ru": "станция", "pron": "stántsiya" },
-  { "pt": "aluguel de bike", "ru": "аренда велосипеда", "pron": "aréndа velasipéda" },
-  { "pt": "caminhada", "ru": "прогулка", "pron": "pragúlka" },
-  { "pt": "trânsito", "ru": "пробка", "pron": "própka" },
-  { "pt": "atração", "ru": "достопримечательность", "pron": "dastaprime tchátel'nast'" },
-  { "pt": "ponto turístico", "ru": "достопримечательность", "pron": "dastaprime tchátel'nast'" },
-  { "pt": "museu", "ru": "музей", "pron": "muzéy" },
-  { "pt": "monumento", "ru": "памятник", "pron": "pámyatnik" },
-  { "pt": "igreja", "ru": "церковь", "pron": "tsérkav'" },
-  { "pt": "castelo", "ru": "замок", "pron": "zámak" },
-  { "pt": "praça", "ru": "площадь", "pron": "plóshchad'" },
-  { "pt": "parque", "ru": "парк", "pron": "park" },
-  { "pt": "praia", "ru": "пляж", "pron": "plyaj" },
-  { "pt": "montanha", "ru": "гора", "pron": "gará" },
-  { "pt": "cidade histórica", "ru": "исторический город", "pron": "istaré tcheskiy górat" },
-  { "pt": "tour guiado", "ru": "экскурсия", "pron": "ekskúrsiya" },
-  { "pt": "ingresso", "ru": "входной билет", "pron": "vkhadnóy bilét" },
-  { "pt": "lembrança", "ru": "сувенир", "pron": "suvenír" },
-  { "pt": "foto", "ru": "фотография", "pron": "fatagráfiya" },
-  { "pt": "selfie", "ru": "селфи", "pron": "sélfi" },
-  { "pt": "museu de arte", "ru": "художественный музей", "pron": "khudójestvenniy muzéy" },
-  { "pt": "vista", "ru": "вид", "pron": "vit" },
-  { "pt": "mirante", "ru": "смотровая площадка", "pron": "smatróvaya plóshchadka" },
-  { "pt": "horário de funcionamento", "ru": "часы работы", "pron": "tchasí rabóti" },
-  { "pt": "restaurante", "ru": "ресторан", "pron": "restarán" },
-  { "pt": "cardápio", "ru": "меню", "pron": "menyú" },
-  { "pt": "conta", "ru": "счёт", "pron": "shchot" },
-  { "pt": "gorjeta", "ru": "чаевые", "pron": "tchayevíye" },
-  { "pt": "prato típico", "ru": "местное блюдо", "pron": "myéstnaye blyúda" },
-  { "pt": "comida local", "ru": "местная еда", "pron": "myéstnaya yedá" },
-  { "pt": "recomendação", "ru": "рекомендация", "pron": "rekomendátsiya" },
-  { "pt": "para viagem", "ru": "с собой", "pron": "s sabóy" },
-  { "pt": "sem gelo", "ru": "без льда", "pron": "bez l'da" },
-  { "pt": "vegetariano", "ru": "вегетарианский", "pron": "vegetariánskiy" },
-  { "pt": "alérgico a", "ru": "аллергия на", "pron": "allérgiya na" },
-  { "pt": "dinheiro", "ru": "деньги", "pron": "dén'gi" },
-  { "pt": "câmbio", "ru": "обмен", "pron": "abmén" },
-  { "pt": "casa de câmbio", "ru": "обменный пункт", "pron": "abménniy punkt" },
-  { "pt": "caixa eletrônico", "ru": "банкомат", "pron": "bankamát" },
-  { "pt": "cartão de crédito", "ru": "кредитная карта", "pron": "kredítnaya kárta" },
-  { "pt": "dinheiro em espécie", "ru": "наличные", "pron": "nalítchniye" },
-  { "pt": "recibo", "ru": "чек", "pron": "tchek" },
-  { "pt": "imposto", "ru": "налог", "pron": "nalók" },
-  { "pt": "tax free", "ru": "такс-фри", "pron": "taks fri" },
-  { "pt": "gorjeta", "ru": "чаевые", "pron": "tchayevíye" },
-  { "pt": "farmácia", "ru": "аптека", "pron": "aptéka" },
-  { "pt": "hospital", "ru": "больница", "pron": "bal'nítsa" },
-  { "pt": "médico", "ru": "врач", "pron": "vrach" },
-  { "pt": "remédio", "ru": "лекарство", "pron": "likárstva" },
-  { "pt": "receita médica", "ru": "рецепт", "pron": "retsept" },
-  { "pt": "dor de cabeça", "ru": "головная боль", "pron": "galavnáya bol'" },
-  { "pt": "dor de barriga", "ru": "боль в животе", "pron": "bol' v jivóte" },
-  { "pt": "enjoo", "ru": "тошнота", "pron": "tashnatá" },
-  { "pt": "emergência", "ru": "скорая помощь", "pron": "skóraya pómashch'" },
-  { "pt": "ambulância", "ru": "скорая", "pron": "skóraya" },
-  { "pt": "onde fica o banheiro?", "ru": "где туалет?", "pron": "gdye tualét" },
-  { "pt": "onde fica o hotel?", "ru": "где отель?", "pron": "gdye atél'" },
-  { "pt": "onde é a estação?", "ru": "где станция?", "pron": "gdye stántsiya" },
-  { "pt": "quanto custa?", "ru": "сколько стоит?", "pron": "skól'ka stóit" },
-  { "pt": "aceita cartão?", "ru": "принимаете карты?", "pron": "prinimáyete kárti" },
-  { "pt": "onde posso trocar dinheiro?", "ru": "где можно обменять деньги?", "pron": "gdye mójna abmenyát' dén'gi" },
-  { "pt": "pode me ajudar?", "ru": "можете мне помочь?", "pron": "mójite mne pamótch'" },
-  { "pt": "estou perdido", "ru": "я заблудился", "pron": "ya zabludílsya" },
-  { "pt": "falo pouco inglês", "ru": "я плохо говорю по-английски", "pron": "ya plókhа gavaryú pa anglíyski" },
-  { "pt": "pode falar devagar?", "ru": "можете говорить медленнее?", "pron": "mójite gavarít' myédlenneye" },
-  { "pt": "quanto tempo demora?", "ru": "сколько времени займёт?", "pron": "skól'ka vrémeni zaymyót" },
-  { "pt": "é longe daqui?", "ru": "это далеко отсюда?", "pron": "éta dalekó atsyúda" },
-  { "pt": "que horas abre?", "ru": "во сколько открывается?", "pron": "va skól'ka atkriváyetsya" },
-  { "pt": "que horas fecha?", "ru": "во сколько закрывается?", "pron": "va skól'ka zakriváyetsya" },
-  { "pt": "tem wifi aqui?", "ru": "здесь есть вай-фай?", "pron": "zdyes' yest' vay fáy" },
-  { "pt": "qual a senha do wifi?", "ru": "какой пароль от вай-фая?", "pron": "kakóy paról' at vay fáya" },
-  { "pt": "posso tirar uma foto?", "ru": "можно сфотографировать?", "pron": "mójna sfatagráfiravat'" },
-  { "pt": "pode tirar uma foto minha?", "ru": "можете меня сфотографировать?", "pron": "mójite minyá sfatagráfiravat'" },
-  { "pt": "que lugar lindo!", "ru": "какое красивое место!", "pron": "kakóye krasívaye myésta" },
-  { "pt": "estou adorando a viagem", "ru": "мне очень нравится поездка", "pron": "mne ótchen' nrávitsya payéstka" },
-  { "pt": "foi uma viagem incrível", "ru": "это была удивительная поездка", "pron": "éta bilá udivítel'naya payéstka" },
-  { "pt": "quero voltar", "ru": "хочу вернуться", "pron": "khatchú vernút'sya" },
-  { "pt": "recomendo visitar", "ru": "рекомендую посетить", "pron": "rekomendúyu pasetít'" },
-  { "pt": "vale muito a pena", "ru": "это стоит того", "pron": "éta stóit tavó" }
+  {
+    "pt": "viagem",
+    "ru": "поездка",
+    "pron": "payéstka"
+  },
+  {
+    "pt": "viagem (jornada)",
+    "ru": "путешествие",
+    "pron": "puteshéstviye"
+  },
+  {
+    "pt": "férias",
+    "ru": "отпуск",
+    "pron": "ótpusk"
+  },
+  {
+    "pt": "feriado",
+    "ru": "праздник",
+    "pron": "prázdnik"
+  },
+  {
+    "pt": "passaporte",
+    "ru": "паспорт",
+    "pron": "pásport"
+  },
+  {
+    "pt": "visto",
+    "ru": "виза",
+    "pron": "víza"
+  },
+  {
+    "pt": "documento",
+    "ru": "документ",
+    "pron": "dokumént"
+  },
+  {
+    "pt": "identidade",
+    "ru": "удостоверение",
+    "pron": "udastaveréniye"
+  },
+  {
+    "pt": "passagem",
+    "ru": "билет",
+    "pron": "bilét"
+  },
+  {
+    "pt": "reserva",
+    "ru": "бронь",
+    "pron": "bron'"
+  },
+  {
+    "pt": "seguro viagem",
+    "ru": "страховка",
+    "pron": "strakhófka"
+  },
+  {
+    "pt": "roteiro",
+    "ru": "маршрут",
+    "pron": "marsh rút"
+  },
+  {
+    "pt": "mala",
+    "ru": "чемодан",
+    "pron": "tchemadán"
+  },
+  {
+    "pt": "mochila",
+    "ru": "рюкзак",
+    "pron": "ryukzák"
+  },
+  {
+    "pt": "bagagem de mão",
+    "ru": "ручная кладь",
+    "pron": "rutchnáya klad'"
+  },
+  {
+    "pt": "guia",
+    "ru": "гид",
+    "pron": "git"
+  },
+  {
+    "pt": "mapa",
+    "ru": "карта",
+    "pron": "kárta"
+  },
+  {
+    "pt": "guia turístico",
+    "ru": "путеводитель",
+    "pron": "putevadítel'"
+  },
+  {
+    "pt": "turista",
+    "ru": "турист",
+    "pron": "turíst"
+  },
+  {
+    "pt": "viajante",
+    "ru": "путешественник",
+    "pron": "puteshéstvennik"
+  },
+  {
+    "pt": "aeroporto",
+    "ru": "аэропорт",
+    "pron": "aerapórt"
+  },
+  {
+    "pt": "voo",
+    "ru": "рейс",
+    "pron": "reys"
+  },
+  {
+    "pt": "voo direto",
+    "ru": "прямой рейс",
+    "pron": "pryamóy reys"
+  },
+  {
+    "pt": "voo com conexão",
+    "ru": "рейс с пересадкой",
+    "pron": "reys s peresádkay"
+  },
+  {
+    "pt": "escala",
+    "ru": "пересадка",
+    "pron": "peresádka"
+  },
+  {
+    "pt": "check-in",
+    "ru": "регистрация",
+    "pron": "registrátsiya"
+  },
+  {
+    "pt": "embarque",
+    "ru": "посадка",
+    "pron": "pasádka"
+  },
+  {
+    "pt": "cartão de embarque",
+    "ru": "посадочный талон",
+    "pron": "pasádatch niy talón"
+  },
+  {
+    "pt": "portão",
+    "ru": "выход на посадку",
+    "pron": "víkhad na pasádku"
+  },
+  {
+    "pt": "poltrona",
+    "ru": "кресло",
+    "pron": "krésla"
+  },
+  {
+    "pt": "corredor",
+    "ru": "проход",
+    "pron": "prakhód"
+  },
+  {
+    "pt": "janela",
+    "ru": "окно",
+    "pron": "aknó"
+  },
+  {
+    "pt": "bagagem",
+    "ru": "багаж",
+    "pron": "bagáj"
+  },
+  {
+    "pt": "esteira",
+    "ru": "лента выдачи багажа",
+    "pron": "lénta vídatchi bagajá"
+  },
+  {
+    "pt": "alfândega",
+    "ru": "таможня",
+    "pron": "tamójnya"
+  },
+  {
+    "pt": "imigração",
+    "ru": "паспортный контроль",
+    "pron": "pásportniy kantról'"
+  },
+  {
+    "pt": "passaporte",
+    "ru": "паспортный контроль",
+    "pron": "pásportniy kantról'"
+  },
+  {
+    "pt": "raio-x",
+    "ru": "рентген",
+    "pron": "rentgén"
+  },
+  {
+    "pt": "detector de metal",
+    "ru": "металлодетектор",
+    "pron": "metalladetéktor"
+  },
+  {
+    "pt": "atraso",
+    "ru": "задержка",
+    "pron": "zadérjka"
+  },
+  {
+    "pt": "cancelado",
+    "ru": "отменён",
+    "pron": "atmenyón"
+  },
+  {
+    "pt": "turbulência",
+    "ru": "турбулентность",
+    "pron": "turbuléntnast'"
+  },
+  {
+    "pt": "piloto",
+    "ru": "пилот",
+    "pron": "pilót"
+  },
+  {
+    "pt": "comissário",
+    "ru": "стюард",
+    "pron": "styuárd"
+  },
+  {
+    "pt": "primeira classe",
+    "ru": "первый класс",
+    "pron": "pérviy klass"
+  },
+  {
+    "pt": "classe executiva",
+    "ru": "бизнес-класс",
+    "pron": "bíznes klass"
+  },
+  {
+    "pt": "classe econômica",
+    "ru": "эконом-класс",
+    "pron": "ekanóm klass"
+  },
+  {
+    "pt": "hotel",
+    "ru": "отель",
+    "pron": "atél'"
+  },
+  {
+    "pt": "pousada",
+    "ru": "гостиница",
+    "pron": "gastínitsa"
+  },
+  {
+    "pt": "hostel",
+    "ru": "хостел",
+    "pron": "khostél"
+  },
+  {
+    "pt": "resort",
+    "ru": "курорт",
+    "pron": "kurórt"
+  },
+  {
+    "pt": "quarto",
+    "ru": "номер",
+    "pron": "nómer"
+  },
+  {
+    "pt": "quarto individual",
+    "ru": "одноместный номер",
+    "pron": "adnaméstniy nómer"
+  },
+  {
+    "pt": "quarto duplo",
+    "ru": "двухместный номер",
+    "pron": "dvukhméstniy nómer"
+  },
+  {
+    "pt": "quarto de casal",
+    "ru": "номер с двуспальной кроватью",
+    "pron": "nómer s dvuspál'nay kravát'yu"
+  },
+  {
+    "pt": "suíte",
+    "ru": "люкс",
+    "pron": "lyuks"
+  },
+  {
+    "pt": "recepcionista",
+    "ru": "администратор",
+    "pron": "administrátor"
+  },
+  {
+    "pt": "chave",
+    "ru": "ключ",
+    "pron": "klyutch"
+  },
+  {
+    "pt": "cartão-chave",
+    "ru": "ключ-карта",
+    "pron": "klyutch kárta"
+  },
+  {
+    "pt": "elevador",
+    "ru": "лифт",
+    "pron": "lift"
+  },
+  {
+    "pt": "café da manhã",
+    "ru": "завтрак",
+    "pron": "záftrak"
+  },
+  {
+    "pt": "meia-pensão",
+    "ru": "полупансион",
+    "pron": "pulupansión"
+  },
+  {
+    "pt": "pensão completa",
+    "ru": "полный пансион",
+    "pron": "pólniy pansión"
+  },
+  {
+    "pt": "check-out",
+    "ru": "выезд",
+    "pron": "víyest"
+  },
+  {
+    "pt": "conta",
+    "ru": "счёт",
+    "pron": "shchot"
+  },
+  {
+    "pt": "toalha",
+    "ru": "полотенце",
+    "pron": "palaténtse"
+  },
+  {
+    "pt": "sabonete",
+    "ru": "мыло",
+    "pron": "míla"
+  },
+  {
+    "pt": "ar-condicionado",
+    "ru": "кондиционер",
+    "pron": "kanditsianér"
+  },
+  {
+    "pt": "wi-fi",
+    "ru": "вай-фай",
+    "pron": "vay fáy"
+  },
+  {
+    "pt": "táxi",
+    "ru": "такси",
+    "pron": "taksí"
+  },
+  {
+    "pt": "ônibus",
+    "ru": "автобус",
+    "pron": "aftóbus"
+  },
+  {
+    "pt": "metrô",
+    "ru": "метро",
+    "pron": "metró"
+  },
+  {
+    "pt": "trem",
+    "ru": "поезд",
+    "pron": "póyest"
+  },
+  {
+    "pt": "aluguel de carro",
+    "ru": "аренда машины",
+    "pron": "aréndа mashíni"
+  },
+  {
+    "pt": "aplicativo",
+    "ru": "приложение",
+    "pron": "prilajéniye"
+  },
+  {
+    "pt": "motorista",
+    "ru": "водитель",
+    "pron": "vadítel'"
+  },
+  {
+    "pt": "passageiro",
+    "ru": "пассажир",
+    "pron": "passajír"
+  },
+  {
+    "pt": "bilhete",
+    "ru": "билет",
+    "pron": "bilét"
+  },
+  {
+    "pt": "ponto de ônibus",
+    "ru": "автобусная остановка",
+    "pron": "aftóbusnaya astanófka"
+  },
+  {
+    "pt": "estação",
+    "ru": "станция",
+    "pron": "stántsiya"
+  },
+  {
+    "pt": "aluguel de bike",
+    "ru": "аренда велосипеда",
+    "pron": "aréndа velasipéda"
+  },
+  {
+    "pt": "caminhada",
+    "ru": "прогулка",
+    "pron": "pragúlka"
+  },
+  {
+    "pt": "trânsito",
+    "ru": "пробка",
+    "pron": "própka"
+  },
+  {
+    "pt": "atração",
+    "ru": "достопримечательность",
+    "pron": "dastaprime tchátel'nast'"
+  },
+  {
+    "pt": "ponto turístico",
+    "ru": "достопримечательность",
+    "pron": "dastaprime tchátel'nast'"
+  },
+  {
+    "pt": "museu",
+    "ru": "музей",
+    "pron": "muzéy"
+  },
+  {
+    "pt": "monumento",
+    "ru": "памятник",
+    "pron": "pámyatnik"
+  },
+  {
+    "pt": "igreja",
+    "ru": "церковь",
+    "pron": "tsérkav'"
+  },
+  {
+    "pt": "castelo",
+    "ru": "замок",
+    "pron": "zámak"
+  },
+  {
+    "pt": "praça",
+    "ru": "площадь",
+    "pron": "plóshchad'"
+  },
+  {
+    "pt": "parque",
+    "ru": "парк",
+    "pron": "park"
+  },
+  {
+    "pt": "praia",
+    "ru": "пляж",
+    "pron": "plyaj"
+  },
+  {
+    "pt": "montanha",
+    "ru": "гора",
+    "pron": "gará"
+  },
+  {
+    "pt": "cidade histórica",
+    "ru": "исторический город",
+    "pron": "istaré tcheskiy górat"
+  },
+  {
+    "pt": "tour guiado",
+    "ru": "экскурсия",
+    "pron": "ekskúrsiya"
+  },
+  {
+    "pt": "ingresso",
+    "ru": "входной билет",
+    "pron": "vkhadnóy bilét"
+  },
+  {
+    "pt": "lembrança",
+    "ru": "сувенир",
+    "pron": "suvenír"
+  },
+  {
+    "pt": "foto",
+    "ru": "фотография",
+    "pron": "fatagráfiya"
+  },
+  {
+    "pt": "selfie",
+    "ru": "селфи",
+    "pron": "sélfi"
+  },
+  {
+    "pt": "museu de arte",
+    "ru": "художественный музей",
+    "pron": "khudójestvenniy muzéy"
+  },
+  {
+    "pt": "vista",
+    "ru": "вид",
+    "pron": "vit"
+  },
+  {
+    "pt": "mirante",
+    "ru": "смотровая площадка",
+    "pron": "smatróvaya plóshchadka"
+  },
+  {
+    "pt": "horário de funcionamento",
+    "ru": "часы работы",
+    "pron": "tchasí rabóti"
+  },
+  {
+    "pt": "restaurante",
+    "ru": "ресторан",
+    "pron": "restarán"
+  },
+  {
+    "pt": "cardápio",
+    "ru": "меню",
+    "pron": "menyú"
+  },
+  {
+    "pt": "gorjeta",
+    "ru": "чаевые",
+    "pron": "tchayevíye"
+  },
+  {
+    "pt": "prato típico",
+    "ru": "местное блюдо",
+    "pron": "myéstnaye blyúda"
+  },
+  {
+    "pt": "comida local",
+    "ru": "местная еда",
+    "pron": "myéstnaya yedá"
+  },
+  {
+    "pt": "recomendação",
+    "ru": "рекомендация",
+    "pron": "rekomendátsiya"
+  },
+  {
+    "pt": "para viagem",
+    "ru": "с собой",
+    "pron": "s sabóy"
+  },
+  {
+    "pt": "sem gelo",
+    "ru": "без льда",
+    "pron": "bez l'da"
+  },
+  {
+    "pt": "vegetariano",
+    "ru": "вегетарианский",
+    "pron": "vegetariánskiy"
+  },
+  {
+    "pt": "alérgico a",
+    "ru": "аллергия на",
+    "pron": "allérgiya na"
+  },
+  {
+    "pt": "dinheiro",
+    "ru": "деньги",
+    "pron": "dén'gi"
+  },
+  {
+    "pt": "câmbio",
+    "ru": "обмен",
+    "pron": "abmén"
+  },
+  {
+    "pt": "casa de câmbio",
+    "ru": "обменный пункт",
+    "pron": "abménniy punkt"
+  },
+  {
+    "pt": "caixa eletrônico",
+    "ru": "банкомат",
+    "pron": "bankamát"
+  },
+  {
+    "pt": "cartão de crédito",
+    "ru": "кредитная карта",
+    "pron": "kredítnaya kárta"
+  },
+  {
+    "pt": "dinheiro em espécie",
+    "ru": "наличные",
+    "pron": "nalítchniye"
+  },
+  {
+    "pt": "recibo",
+    "ru": "чек",
+    "pron": "tchek"
+  },
+  {
+    "pt": "imposto",
+    "ru": "налог",
+    "pron": "nalók"
+  },
+  {
+    "pt": "tax free",
+    "ru": "такс-фри",
+    "pron": "taks fri"
+  },
+  {
+    "pt": "farmácia",
+    "ru": "аптека",
+    "pron": "aptéka"
+  },
+  {
+    "pt": "hospital",
+    "ru": "больница",
+    "pron": "bal'nítsa"
+  },
+  {
+    "pt": "médico",
+    "ru": "врач",
+    "pron": "vrach"
+  },
+  {
+    "pt": "remédio",
+    "ru": "лекарство",
+    "pron": "likárstva"
+  },
+  {
+    "pt": "receita médica",
+    "ru": "рецепт",
+    "pron": "retsept"
+  },
+  {
+    "pt": "dor de cabeça",
+    "ru": "головная боль",
+    "pron": "galavnáya bol'"
+  },
+  {
+    "pt": "dor de barriga",
+    "ru": "боль в животе",
+    "pron": "bol' v jivóte"
+  },
+  {
+    "pt": "enjoo",
+    "ru": "тошнота",
+    "pron": "tashnatá"
+  },
+  {
+    "pt": "emergência",
+    "ru": "скорая помощь",
+    "pron": "skóraya pómashch'"
+  },
+  {
+    "pt": "ambulância",
+    "ru": "скорая",
+    "pron": "skóraya"
+  },
+  {
+    "pt": "onde fica o banheiro?",
+    "ru": "где туалет?",
+    "pron": "gdye tualét"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "ru": "где отель?",
+    "pron": "gdye atél'"
+  },
+  {
+    "pt": "onde é a estação?",
+    "ru": "где станция?",
+    "pron": "gdye stántsiya"
+  },
+  {
+    "pt": "quanto custa?",
+    "ru": "сколько стоит?",
+    "pron": "skól'ka stóit"
+  },
+  {
+    "pt": "aceita cartão?",
+    "ru": "принимаете карты?",
+    "pron": "prinimáyete kárti"
+  },
+  {
+    "pt": "onde posso trocar dinheiro?",
+    "ru": "где можно обменять деньги?",
+    "pron": "gdye mójna abmenyát' dén'gi"
+  },
+  {
+    "pt": "pode me ajudar?",
+    "ru": "можете мне помочь?",
+    "pron": "mójite mne pamótch'"
+  },
+  {
+    "pt": "estou perdido",
+    "ru": "я заблудился",
+    "pron": "ya zabludílsya"
+  },
+  {
+    "pt": "falo pouco inglês",
+    "ru": "я плохо говорю по-английски",
+    "pron": "ya plókhа gavaryú pa anglíyski"
+  },
+  {
+    "pt": "pode falar devagar?",
+    "ru": "можете говорить медленнее?",
+    "pron": "mójite gavarít' myédlenneye"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "ru": "сколько времени займёт?",
+    "pron": "skól'ka vrémeni zaymyót"
+  },
+  {
+    "pt": "é longe daqui?",
+    "ru": "это далеко отсюда?",
+    "pron": "éta dalekó atsyúda"
+  },
+  {
+    "pt": "que horas abre?",
+    "ru": "во сколько открывается?",
+    "pron": "va skól'ka atkriváyetsya"
+  },
+  {
+    "pt": "que horas fecha?",
+    "ru": "во сколько закрывается?",
+    "pron": "va skól'ka zakriváyetsya"
+  },
+  {
+    "pt": "tem wifi aqui?",
+    "ru": "здесь есть вай-фай?",
+    "pron": "zdyes' yest' vay fáy"
+  },
+  {
+    "pt": "qual a senha do wifi?",
+    "ru": "какой пароль от вай-фая?",
+    "pron": "kakóy paról' at vay fáya"
+  },
+  {
+    "pt": "posso tirar uma foto?",
+    "ru": "можно сфотографировать?",
+    "pron": "mójna sfatagráfiravat'"
+  },
+  {
+    "pt": "pode tirar uma foto minha?",
+    "ru": "можете меня сфотографировать?",
+    "pron": "mójite minyá sfatagráfiravat'"
+  },
+  {
+    "pt": "que lugar lindo!",
+    "ru": "какое красивое место!",
+    "pron": "kakóye krasívaye myésta"
+  },
+  {
+    "pt": "estou adorando a viagem",
+    "ru": "мне очень нравится поездка",
+    "pron": "mne ótchen' nrávitsya payéstka"
+  },
+  {
+    "pt": "foi uma viagem incrível",
+    "ru": "это была удивительная поездка",
+    "pron": "éta bilá udivítel'naya payéstka"
+  },
+  {
+    "pt": "quero voltar",
+    "ru": "хочу вернуться",
+    "pron": "khatchú vernút'sya"
+  },
+  {
+    "pt": "recomendo visitar",
+    "ru": "рекомендую посетить",
+    "pron": "rekomendúyu pasetít'"
+  },
+  {
+    "pt": "vale muito a pena",
+    "ru": "это стоит того",
+    "pron": "éta stóit tavó"
+  }
 ]

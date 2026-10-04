@@ -1,154 +1,757 @@
 [
-  { "pt": "ser", "ru": "быть", "pron": "bit'" },
-  { "pt": "estar", "ru": "быть", "pron": "bit'" },
-  { "pt": "ter", "ru": "иметь", "pron": "imét'" },
-  { "pt": "haver", "ru": "есть", "pron": "yest'" },
-  { "pt": "existir", "ru": "существовать", "pron": "sushestvovát'" },
-  { "pt": "possuir", "ru": "владеть", "pron": "vladét'" },
-  { "pt": "estar com", "ru": "иметь при себе", "pron": "imét' pri sibé" },
-  { "pt": "ir", "ru": "идти", "pron": "idtí" },
-  { "pt": "vir", "ru": "приходить", "pron": "prikhadít'" },
-  { "pt": "chegar", "ru": "прибывать", "pron": "pribivát'" },
-  { "pt": "sair", "ru": "уходить", "pron": "ukhadít'" },
-  { "pt": "voltar", "ru": "возвращаться", "pron": "vazvrashchát'sya" },
-  { "pt": "entrar", "ru": "входить", "pron": "vkhadít'" },
-  { "pt": "subir", "ru": "подниматься", "pron": "padnimát'sya" },
-  { "pt": "descer", "ru": "спускаться", "pron": "spuskát'sya" },
-  { "pt": "correr", "ru": "бегать", "pron": "bégat'" },
-  { "pt": "andar", "ru": "ходить", "pron": "khadít'" },
-  { "pt": "dirigir", "ru": "водить", "pron": "vadít'" },
-  { "pt": "voar", "ru": "летать", "pron": "letát'" },
-  { "pt": "nadar", "ru": "плавать", "pron": "plávat'" },
-  { "pt": "pular", "ru": "прыгать", "pron": "prígat'" },
-  { "pt": "dançar", "ru": "танцевать", "pron": "tantsevát'" },
-  { "pt": "cair", "ru": "падать", "pron": "pádat'" },
-  { "pt": "levantar", "ru": "поднимать", "pron": "padnimát'" },
-  { "pt": "empurrar", "ru": "толкать", "pron": "talkát'" },
-  { "pt": "puxar", "ru": "тянуть", "pron": "tinút'" },
-  { "pt": "carregar", "ru": "носить", "pron": "nasít'" },
-  { "pt": "correr (apressar)", "ru": "спешить", "pron": "speshít'" },
-  { "pt": "caminhar", "ru": "гулять", "pron": "gulyát'" },
-  { "pt": "passear", "ru": "прогуливаться", "pron": "pragúlivat'sya" },
-  { "pt": "fazer", "ru": "делать", "pron": "délat'" },
-  { "pt": "fazer (criar)", "ru": "создавать", "pron": "sazdavát'" },
-  { "pt": "querer", "ru": "хотеть", "pron": "khatét'" },
-  { "pt": "precisar", "ru": "нуждаться", "pron": "nujdát'sya" },
-  { "pt": "poder", "ru": "мочь", "pron": "moch'" },
-  { "pt": "conseguir", "ru": "суметь", "pron": "sumét'" },
-  { "pt": "saber", "ru": "знать", "pron": "znat'" },
-  { "pt": "conhecer", "ru": "знакомиться", "pron": "znakómitsya" },
-  { "pt": "gostar", "ru": "нравиться", "pron": "nrávitsya" },
-  { "pt": "amar", "ru": "любить", "pron": "lyubít'" },
-  { "pt": "odiar", "ru": "ненавидеть", "pron": "nenavídet'" },
-  { "pt": "preferir", "ru": "предпочитать", "pron": "predpotchitát'" },
-  { "pt": "escolher", "ru": "выбирать", "pron": "vibirát'" },
-  { "pt": "decidir", "ru": "решать", "pron": "reshát'" },
-  { "pt": "tentar", "ru": "пытаться", "pron": "pitát'sya" },
-  { "pt": "conseguir", "ru": "добиваться", "pron": "dabivát'sya" },
-  { "pt": "falhar", "ru": "терпеть неудачу", "pron": "terpét' neudátchu" },
-  { "pt": "começar", "ru": "начинать", "pron": "natchnát'" },
-  { "pt": "terminar", "ru": "заканчивать", "pron": "zakántchivat'" },
-  { "pt": "continuar", "ru": "продолжать", "pron": "pradalját'" },
-  { "pt": "parar", "ru": "останавливаться", "pron": "astanávlivat'sya" },
-  { "pt": "falar", "ru": "говорить", "pron": "gavarít'" },
-  { "pt": "dizer", "ru": "сказать", "pron": "skazát'" },
-  { "pt": "contar", "ru": "рассказывать", "pron": "rasskázyvat'" },
-  { "pt": "perguntar", "ru": "спрашивать", "pron": "spráshivat'" },
-  { "pt": "responder", "ru": "отвечать", "pron": "atvechát'" },
-  { "pt": "ouvir", "ru": "слушать", "pron": "slúshat'" },
-  { "pt": "escutar", "ru": "слышать", "pron": "slíshat'" },
-  { "pt": "ver", "ru": "видеть", "pron": "vídet'" },
-  { "pt": "olhar", "ru": "смотреть", "pron": "smatrét'" },
-  { "pt": "ler", "ru": "читать", "pron": "tchitát'" },
-  { "pt": "escrever", "ru": "писать", "pron": "pisát'" },
-  { "pt": "estudar", "ru": "учиться", "pron": "utchít'sya" },
-  { "pt": "aprender", "ru": "учить", "pron": "utchít'" },
-  { "pt": "ensinar", "ru": "преподавать", "pron": "prepadavát'" },
-  { "pt": "explicar", "ru": "объяснять", "pron": "ob'yasnyát'" },
-  { "pt": "traduzir", "ru": "переводить", "pron": "perevadít'" },
-  { "pt": "chamar", "ru": "звать", "pron": "zvat'" },
-  { "pt": "conversar", "ru": "разговаривать", "pron": "razgavárivat'" },
-  { "pt": "gritar", "ru": "кричать", "pron": "kritchát'" },
-  { "pt": "sussurrar", "ru": "шептать", "pron": "sheptát'" },
-  { "pt": "concordar", "ru": "соглашаться", "pron": "saglashát'sya" },
-  { "pt": "discordar", "ru": "не соглашаться", "pron": "ne saglashát'sya" },
-  { "pt": "prometer", "ru": "обещать", "pron": "abeshchát'" },
-  { "pt": "avisar", "ru": "предупреждать", "pron": "preduprejdát'" },
-  { "pt": "mentir", "ru": "врать", "pron": "vrat'" },
-  { "pt": "reclamar", "ru": "жаловаться", "pron": "jálavat'sya" },
-  { "pt": "comer", "ru": "есть", "pron": "yest'" },
-  { "pt": "beber", "ru": "пить", "pron": "pit'" },
-  { "pt": "dormir", "ru": "спать", "pron": "spat'" },
-  { "pt": "acordar", "ru": "просыпаться", "pron": "prasipát'sya" },
-  { "pt": "levantar-se", "ru": "вставать", "pron": "vstavát'" },
-  { "pt": "trabalhar", "ru": "работать", "pron": "rabótat'" },
-  { "pt": "descansar", "ru": "отдыхать", "pron": "atdikhát'" },
-  { "pt": "brincar", "ru": "играть", "pron": "igrát'" },
-  { "pt": "jogar", "ru": "играть", "pron": "igrát'" },
-  { "pt": "ganhar", "ru": "побеждать", "pron": "pabejdát'" },
-  { "pt": "perder", "ru": "проигрывать", "pron": "praígrivat'" },
-  { "pt": "ganhar (receber)", "ru": "зарабатывать", "pron": "zarabátyvat'" },
-  { "pt": "cuidar", "ru": "заботиться", "pron": "zabótit'sya" },
-  { "pt": "ajudar", "ru": "помогать", "pron": "pamagát'" },
-  { "pt": "usar", "ru": "использовать", "pron": "ispól'zavat'" },
-  { "pt": "vestir", "ru": "носить", "pron": "nasít'" },
-  { "pt": "tirar (roupa)", "ru": "снимать", "pron": "snimát'" },
-  { "pt": "colocar", "ru": "класть", "pron": "klast'" },
-  { "pt": "guardar", "ru": "хранить", "pron": "khranít'" },
-  { "pt": "limpar", "ru": "убирать", "pron": "ubirát'" },
-  { "pt": "lavar", "ru": "мыть", "pron": "mit'" },
-  { "pt": "cozinhar", "ru": "готовить", "pron": "gatóvit'" },
-  { "pt": "cortar", "ru": "резать", "pron": "rézat'" },
-  { "pt": "abrir", "ru": "открывать", "pron": "atkrivát'" },
-  { "pt": "fechar", "ru": "закрывать", "pron": "zakrivát'" },
-  { "pt": "comprar", "ru": "покупать", "pron": "pakupát'" },
-  { "pt": "vender", "ru": "продавать", "pron": "pradavát'" },
-  { "pt": "pagar", "ru": "платить", "pron": "platít'" },
-  { "pt": "dar", "ru": "давать", "pron": "davát'" },
-  { "pt": "receber", "ru": "получать", "pron": "palutchát'" },
-  { "pt": "trocar", "ru": "менять", "pron": "minyát'" },
-  { "pt": "procurar", "ru": "искать", "pron": "iskát'" },
-  { "pt": "encontrar", "ru": "находить", "pron": "nakhadít'" },
-  { "pt": "perder (objeto)", "ru": "терять", "pron": "terát'" },
-  { "pt": "achar", "ru": "думать", "pron": "dúmat'" },
-  { "pt": "pensar", "ru": "мыслить", "pron": "míslit'" },
-  { "pt": "acreditar", "ru": "верить", "pron": "vérit'" },
-  { "pt": "sentir", "ru": "чувствовать", "pron": "tchústvavat'" },
-  { "pt": "lembrar", "ru": "помнить", "pron": "pómnit'" },
-  { "pt": "esquecer", "ru": "забывать", "pron": "zabivát'" },
-  { "pt": "entender", "ru": "понимать", "pron": "panimát'" },
-  { "pt": "imaginar", "ru": "представлять", "pron": "predstavlyát'" },
-  { "pt": "esperar", "ru": "надеяться", "pron": "nadéyat'sya" },
-  { "pt": "esperar (aguardar)", "ru": "ждать", "pron": "jdat'" },
-  { "pt": "rir", "ru": "смеяться", "pron": "smeyát'sya" },
-  { "pt": "chorar", "ru": "плакать", "pron": "plákat'" },
-  { "pt": "sorrir", "ru": "улыбаться", "pron": "ulibát'sya" },
-  { "pt": "sonhar", "ru": "мечтать", "pron": "metchtát'" },
-  { "pt": "levantar-se (cama)", "ru": "вставать с постели", "pron": "vstavát' s pastéli" },
-  { "pt": "sair (passear)", "ru": "выходить", "pron": "vikhodít'" },
-  { "pt": "voltar (retornar)", "ru": "возвращаться", "pron": "vazvrashchát'sya" },
-  { "pt": "desistir", "ru": "сдаваться", "pron": "sdavát'sya" },
-  { "pt": "continuar", "ru": "продолжать", "pron": "pradalját'" },
-  { "pt": "procurar", "ru": "искать", "pron": "iskát'" },
-  { "pt": "cuidar de", "ru": "ухаживать", "pron": "ukhájivat'" },
-  { "pt": "esperar", "ru": "ожидать", "pron": "ajidát'" },
-  { "pt": "descobrir", "ru": "узнавать", "pron": "uznavát'" },
-  { "pt": "preencher", "ru": "заполнять", "pron": "zapalnyát'" },
-  { "pt": "desligar", "ru": "выключать", "pron": "viklyutchát'" },
-  { "pt": "ligar", "ru": "включать", "pron": "fklyutchát'" },
-  { "pt": "pegar (apanhar)", "ru": "подбирать", "pron": "padbirát'" },
-  { "pt": "deixar (largar)", "ru": "оставлять", "pron": "astavlyát'" },
-  { "pt": "crescer", "ru": "расти", "pron": "rastí" },
-  { "pt": "cair (briga)", "ru": "ссориться", "pron": "ssórit'sya" },
-  { "pt": "eu quero", "ru": "я хочу", "pron": "ya khatchú" },
-  { "pt": "eu preciso", "ru": "мне нужно", "pron": "mne nújna" },
-  { "pt": "eu posso", "ru": "я могу", "pron": "ya magú" },
-  { "pt": "eu vou", "ru": "я собираюсь", "pron": "ya sabiráyus'" },
-  { "pt": "eu gosto de", "ru": "мне нравится", "pron": "mne nrávitsya" },
-  { "pt": "eu sei", "ru": "я знаю", "pron": "ya znáyu" },
-  { "pt": "eu acho que", "ru": "я думаю, что", "pron": "ya dúmayu shto" },
-  { "pt": "eu entendo", "ru": "я понимаю", "pron": "ya panimáyu" },
-  { "pt": "não sei", "ru": "я не знаю", "pron": "ya ne znáyu" },
-  { "pt": "não entendo", "ru": "я не понимаю", "pron": "ya ne panimáyu" },
-  { "pt": "não consigo", "ru": "я не могу", "pron": "ya ne magú" }
+  {
+    "pt": "ser",
+    "ru": "быть",
+    "pron": "bit'"
+  },
+  {
+    "pt": "estar",
+    "ru": "быть",
+    "pron": "bit'"
+  },
+  {
+    "pt": "ter",
+    "ru": "иметь",
+    "pron": "imét'"
+  },
+  {
+    "pt": "haver",
+    "ru": "есть",
+    "pron": "yest'"
+  },
+  {
+    "pt": "existir",
+    "ru": "существовать",
+    "pron": "sushestvovát'"
+  },
+  {
+    "pt": "possuir",
+    "ru": "владеть",
+    "pron": "vladét'"
+  },
+  {
+    "pt": "estar com",
+    "ru": "иметь при себе",
+    "pron": "imét' pri sibé"
+  },
+  {
+    "pt": "ir",
+    "ru": "идти",
+    "pron": "idtí"
+  },
+  {
+    "pt": "vir",
+    "ru": "приходить",
+    "pron": "prikhadít'"
+  },
+  {
+    "pt": "chegar",
+    "ru": "прибывать",
+    "pron": "pribivát'"
+  },
+  {
+    "pt": "sair",
+    "ru": "уходить",
+    "pron": "ukhadít'"
+  },
+  {
+    "pt": "voltar",
+    "ru": "возвращаться",
+    "pron": "vazvrashchát'sya"
+  },
+  {
+    "pt": "entrar",
+    "ru": "входить",
+    "pron": "vkhadít'"
+  },
+  {
+    "pt": "subir",
+    "ru": "подниматься",
+    "pron": "padnimát'sya"
+  },
+  {
+    "pt": "descer",
+    "ru": "спускаться",
+    "pron": "spuskát'sya"
+  },
+  {
+    "pt": "correr",
+    "ru": "бегать",
+    "pron": "bégat'"
+  },
+  {
+    "pt": "andar",
+    "ru": "ходить",
+    "pron": "khadít'"
+  },
+  {
+    "pt": "dirigir",
+    "ru": "водить",
+    "pron": "vadít'"
+  },
+  {
+    "pt": "voar",
+    "ru": "летать",
+    "pron": "letát'"
+  },
+  {
+    "pt": "nadar",
+    "ru": "плавать",
+    "pron": "plávat'"
+  },
+  {
+    "pt": "pular",
+    "ru": "прыгать",
+    "pron": "prígat'"
+  },
+  {
+    "pt": "dançar",
+    "ru": "танцевать",
+    "pron": "tantsevát'"
+  },
+  {
+    "pt": "cair",
+    "ru": "падать",
+    "pron": "pádat'"
+  },
+  {
+    "pt": "levantar",
+    "ru": "поднимать",
+    "pron": "padnimát'"
+  },
+  {
+    "pt": "empurrar",
+    "ru": "толкать",
+    "pron": "talkát'"
+  },
+  {
+    "pt": "puxar",
+    "ru": "тянуть",
+    "pron": "tinút'"
+  },
+  {
+    "pt": "carregar",
+    "ru": "носить",
+    "pron": "nasít'"
+  },
+  {
+    "pt": "correr (apressar)",
+    "ru": "спешить",
+    "pron": "speshít'"
+  },
+  {
+    "pt": "caminhar",
+    "ru": "гулять",
+    "pron": "gulyát'"
+  },
+  {
+    "pt": "passear",
+    "ru": "прогуливаться",
+    "pron": "pragúlivat'sya"
+  },
+  {
+    "pt": "fazer",
+    "ru": "делать",
+    "pron": "délat'"
+  },
+  {
+    "pt": "fazer (criar)",
+    "ru": "создавать",
+    "pron": "sazdavát'"
+  },
+  {
+    "pt": "querer",
+    "ru": "хотеть",
+    "pron": "khatét'"
+  },
+  {
+    "pt": "precisar",
+    "ru": "нуждаться",
+    "pron": "nujdát'sya"
+  },
+  {
+    "pt": "poder",
+    "ru": "мочь",
+    "pron": "moch'"
+  },
+  {
+    "pt": "conseguir",
+    "ru": "суметь",
+    "pron": "sumét'"
+  },
+  {
+    "pt": "saber",
+    "ru": "знать",
+    "pron": "znat'"
+  },
+  {
+    "pt": "conhecer",
+    "ru": "знакомиться",
+    "pron": "znakómitsya"
+  },
+  {
+    "pt": "gostar",
+    "ru": "нравиться",
+    "pron": "nrávitsya"
+  },
+  {
+    "pt": "amar",
+    "ru": "любить",
+    "pron": "lyubít'"
+  },
+  {
+    "pt": "odiar",
+    "ru": "ненавидеть",
+    "pron": "nenavídet'"
+  },
+  {
+    "pt": "preferir",
+    "ru": "предпочитать",
+    "pron": "predpotchitát'"
+  },
+  {
+    "pt": "escolher",
+    "ru": "выбирать",
+    "pron": "vibirát'"
+  },
+  {
+    "pt": "decidir",
+    "ru": "решать",
+    "pron": "reshát'"
+  },
+  {
+    "pt": "tentar",
+    "ru": "пытаться",
+    "pron": "pitát'sya"
+  },
+  {
+    "pt": "conseguir",
+    "ru": "добиваться",
+    "pron": "dabivát'sya"
+  },
+  {
+    "pt": "falhar",
+    "ru": "терпеть неудачу",
+    "pron": "terpét' neudátchu"
+  },
+  {
+    "pt": "começar",
+    "ru": "начинать",
+    "pron": "natchnát'"
+  },
+  {
+    "pt": "terminar",
+    "ru": "заканчивать",
+    "pron": "zakántchivat'"
+  },
+  {
+    "pt": "continuar",
+    "ru": "продолжать",
+    "pron": "pradalját'"
+  },
+  {
+    "pt": "parar",
+    "ru": "останавливаться",
+    "pron": "astanávlivat'sya"
+  },
+  {
+    "pt": "falar",
+    "ru": "говорить",
+    "pron": "gavarít'"
+  },
+  {
+    "pt": "dizer",
+    "ru": "сказать",
+    "pron": "skazát'"
+  },
+  {
+    "pt": "contar",
+    "ru": "рассказывать",
+    "pron": "rasskázyvat'"
+  },
+  {
+    "pt": "perguntar",
+    "ru": "спрашивать",
+    "pron": "spráshivat'"
+  },
+  {
+    "pt": "responder",
+    "ru": "отвечать",
+    "pron": "atvechát'"
+  },
+  {
+    "pt": "ouvir",
+    "ru": "слушать",
+    "pron": "slúshat'"
+  },
+  {
+    "pt": "escutar",
+    "ru": "слышать",
+    "pron": "slíshat'"
+  },
+  {
+    "pt": "ver",
+    "ru": "видеть",
+    "pron": "vídet'"
+  },
+  {
+    "pt": "olhar",
+    "ru": "смотреть",
+    "pron": "smatrét'"
+  },
+  {
+    "pt": "ler",
+    "ru": "читать",
+    "pron": "tchitát'"
+  },
+  {
+    "pt": "escrever",
+    "ru": "писать",
+    "pron": "pisát'"
+  },
+  {
+    "pt": "estudar",
+    "ru": "учиться",
+    "pron": "utchít'sya"
+  },
+  {
+    "pt": "aprender",
+    "ru": "учить",
+    "pron": "utchít'"
+  },
+  {
+    "pt": "ensinar",
+    "ru": "преподавать",
+    "pron": "prepadavát'"
+  },
+  {
+    "pt": "explicar",
+    "ru": "объяснять",
+    "pron": "ob'yasnyát'"
+  },
+  {
+    "pt": "traduzir",
+    "ru": "переводить",
+    "pron": "perevadít'"
+  },
+  {
+    "pt": "chamar",
+    "ru": "звать",
+    "pron": "zvat'"
+  },
+  {
+    "pt": "conversar",
+    "ru": "разговаривать",
+    "pron": "razgavárivat'"
+  },
+  {
+    "pt": "gritar",
+    "ru": "кричать",
+    "pron": "kritchát'"
+  },
+  {
+    "pt": "sussurrar",
+    "ru": "шептать",
+    "pron": "sheptát'"
+  },
+  {
+    "pt": "concordar",
+    "ru": "соглашаться",
+    "pron": "saglashát'sya"
+  },
+  {
+    "pt": "discordar",
+    "ru": "не соглашаться",
+    "pron": "ne saglashát'sya"
+  },
+  {
+    "pt": "prometer",
+    "ru": "обещать",
+    "pron": "abeshchát'"
+  },
+  {
+    "pt": "avisar",
+    "ru": "предупреждать",
+    "pron": "preduprejdát'"
+  },
+  {
+    "pt": "mentir",
+    "ru": "врать",
+    "pron": "vrat'"
+  },
+  {
+    "pt": "reclamar",
+    "ru": "жаловаться",
+    "pron": "jálavat'sya"
+  },
+  {
+    "pt": "comer",
+    "ru": "есть",
+    "pron": "yest'"
+  },
+  {
+    "pt": "beber",
+    "ru": "пить",
+    "pron": "pit'"
+  },
+  {
+    "pt": "dormir",
+    "ru": "спать",
+    "pron": "spat'"
+  },
+  {
+    "pt": "acordar",
+    "ru": "просыпаться",
+    "pron": "prasipát'sya"
+  },
+  {
+    "pt": "levantar-se",
+    "ru": "вставать",
+    "pron": "vstavát'"
+  },
+  {
+    "pt": "trabalhar",
+    "ru": "работать",
+    "pron": "rabótat'"
+  },
+  {
+    "pt": "descansar",
+    "ru": "отдыхать",
+    "pron": "atdikhát'"
+  },
+  {
+    "pt": "brincar",
+    "ru": "играть",
+    "pron": "igrát'"
+  },
+  {
+    "pt": "jogar",
+    "ru": "играть",
+    "pron": "igrát'"
+  },
+  {
+    "pt": "ganhar",
+    "ru": "побеждать",
+    "pron": "pabejdát'"
+  },
+  {
+    "pt": "perder",
+    "ru": "проигрывать",
+    "pron": "praígrivat'"
+  },
+  {
+    "pt": "ganhar (receber)",
+    "ru": "зарабатывать",
+    "pron": "zarabátyvat'"
+  },
+  {
+    "pt": "cuidar",
+    "ru": "заботиться",
+    "pron": "zabótit'sya"
+  },
+  {
+    "pt": "ajudar",
+    "ru": "помогать",
+    "pron": "pamagát'"
+  },
+  {
+    "pt": "usar",
+    "ru": "использовать",
+    "pron": "ispól'zavat'"
+  },
+  {
+    "pt": "vestir",
+    "ru": "носить",
+    "pron": "nasít'"
+  },
+  {
+    "pt": "tirar (roupa)",
+    "ru": "снимать",
+    "pron": "snimát'"
+  },
+  {
+    "pt": "colocar",
+    "ru": "класть",
+    "pron": "klast'"
+  },
+  {
+    "pt": "guardar",
+    "ru": "хранить",
+    "pron": "khranít'"
+  },
+  {
+    "pt": "limpar",
+    "ru": "убирать",
+    "pron": "ubirát'"
+  },
+  {
+    "pt": "lavar",
+    "ru": "мыть",
+    "pron": "mit'"
+  },
+  {
+    "pt": "cozinhar",
+    "ru": "готовить",
+    "pron": "gatóvit'"
+  },
+  {
+    "pt": "cortar",
+    "ru": "резать",
+    "pron": "rézat'"
+  },
+  {
+    "pt": "abrir",
+    "ru": "открывать",
+    "pron": "atkrivát'"
+  },
+  {
+    "pt": "fechar",
+    "ru": "закрывать",
+    "pron": "zakrivát'"
+  },
+  {
+    "pt": "comprar",
+    "ru": "покупать",
+    "pron": "pakupát'"
+  },
+  {
+    "pt": "vender",
+    "ru": "продавать",
+    "pron": "pradavát'"
+  },
+  {
+    "pt": "pagar",
+    "ru": "платить",
+    "pron": "platít'"
+  },
+  {
+    "pt": "dar",
+    "ru": "давать",
+    "pron": "davát'"
+  },
+  {
+    "pt": "receber",
+    "ru": "получать",
+    "pron": "palutchát'"
+  },
+  {
+    "pt": "trocar",
+    "ru": "менять",
+    "pron": "minyát'"
+  },
+  {
+    "pt": "procurar",
+    "ru": "искать",
+    "pron": "iskát'"
+  },
+  {
+    "pt": "encontrar",
+    "ru": "находить",
+    "pron": "nakhadít'"
+  },
+  {
+    "pt": "perder (objeto)",
+    "ru": "терять",
+    "pron": "terát'"
+  },
+  {
+    "pt": "achar",
+    "ru": "думать",
+    "pron": "dúmat'"
+  },
+  {
+    "pt": "pensar",
+    "ru": "мыслить",
+    "pron": "míslit'"
+  },
+  {
+    "pt": "acreditar",
+    "ru": "верить",
+    "pron": "vérit'"
+  },
+  {
+    "pt": "sentir",
+    "ru": "чувствовать",
+    "pron": "tchústvavat'"
+  },
+  {
+    "pt": "lembrar",
+    "ru": "помнить",
+    "pron": "pómnit'"
+  },
+  {
+    "pt": "esquecer",
+    "ru": "забывать",
+    "pron": "zabivát'"
+  },
+  {
+    "pt": "entender",
+    "ru": "понимать",
+    "pron": "panimát'"
+  },
+  {
+    "pt": "imaginar",
+    "ru": "представлять",
+    "pron": "predstavlyát'"
+  },
+  {
+    "pt": "esperar",
+    "ru": "надеяться",
+    "pron": "nadéyat'sya"
+  },
+  {
+    "pt": "esperar (aguardar)",
+    "ru": "ждать",
+    "pron": "jdat'"
+  },
+  {
+    "pt": "rir",
+    "ru": "смеяться",
+    "pron": "smeyát'sya"
+  },
+  {
+    "pt": "chorar",
+    "ru": "плакать",
+    "pron": "plákat'"
+  },
+  {
+    "pt": "sorrir",
+    "ru": "улыбаться",
+    "pron": "ulibát'sya"
+  },
+  {
+    "pt": "sonhar",
+    "ru": "мечтать",
+    "pron": "metchtát'"
+  },
+  {
+    "pt": "levantar-se (cama)",
+    "ru": "вставать с постели",
+    "pron": "vstavát' s pastéli"
+  },
+  {
+    "pt": "sair (passear)",
+    "ru": "выходить",
+    "pron": "vikhodít'"
+  },
+  {
+    "pt": "voltar (retornar)",
+    "ru": "возвращаться",
+    "pron": "vazvrashchát'sya"
+  },
+  {
+    "pt": "desistir",
+    "ru": "сдаваться",
+    "pron": "sdavát'sya"
+  },
+  {
+    "pt": "continuar",
+    "ru": "продолжать",
+    "pron": "pradalját'"
+  },
+  {
+    "pt": "cuidar de",
+    "ru": "ухаживать",
+    "pron": "ukhájivat'"
+  },
+  {
+    "pt": "esperar",
+    "ru": "ожидать",
+    "pron": "ajidát'"
+  },
+  {
+    "pt": "descobrir",
+    "ru": "узнавать",
+    "pron": "uznavát'"
+  },
+  {
+    "pt": "preencher",
+    "ru": "заполнять",
+    "pron": "zapalnyát'"
+  },
+  {
+    "pt": "desligar",
+    "ru": "выключать",
+    "pron": "viklyutchát'"
+  },
+  {
+    "pt": "ligar",
+    "ru": "включать",
+    "pron": "fklyutchát'"
+  },
+  {
+    "pt": "pegar (apanhar)",
+    "ru": "подбирать",
+    "pron": "padbirát'"
+  },
+  {
+    "pt": "deixar (largar)",
+    "ru": "оставлять",
+    "pron": "astavlyát'"
+  },
+  {
+    "pt": "crescer",
+    "ru": "расти",
+    "pron": "rastí"
+  },
+  {
+    "pt": "cair (briga)",
+    "ru": "ссориться",
+    "pron": "ssórit'sya"
+  },
+  {
+    "pt": "eu quero",
+    "ru": "я хочу",
+    "pron": "ya khatchú"
+  },
+  {
+    "pt": "eu preciso",
+    "ru": "мне нужно",
+    "pron": "mne nújna"
+  },
+  {
+    "pt": "eu posso",
+    "ru": "я могу",
+    "pron": "ya magú"
+  },
+  {
+    "pt": "eu vou",
+    "ru": "я собираюсь",
+    "pron": "ya sabiráyus'"
+  },
+  {
+    "pt": "eu gosto de",
+    "ru": "мне нравится",
+    "pron": "mne nrávitsya"
+  },
+  {
+    "pt": "eu sei",
+    "ru": "я знаю",
+    "pron": "ya znáyu"
+  },
+  {
+    "pt": "eu acho que",
+    "ru": "я думаю, что",
+    "pron": "ya dúmayu shto"
+  },
+  {
+    "pt": "eu entendo",
+    "ru": "я понимаю",
+    "pron": "ya panimáyu"
+  },
+  {
+    "pt": "não sei",
+    "ru": "я не знаю",
+    "pron": "ya ne znáyu"
+  },
+  {
+    "pt": "não entendo",
+    "ru": "я не понимаю",
+    "pron": "ya ne panimáyu"
+  },
+  {
+    "pt": "não consigo",
+    "ru": "я не могу",
+    "pron": "ya ne magú"
+  }
 ]

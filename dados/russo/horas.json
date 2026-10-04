@@ -1,199 +1,982 @@
 [
-  {"pt": "hora",                    "ru": "час",                    "pron": "chas"},
-  {"pt": "hora (relógio)",          "ru": "час",                    "pron": "chas"},
-  {"pt": "minuto",                  "ru": "минута",                "pron": "minúta"},
-  {"pt": "segundo",                 "ru": "секунда",               "pron": "sikúnda"},
-  {"pt": "manhã",                   "ru": "утро",                  "pron": "útra"},
-  {"pt": "tarde",                   "ru": "день",                  "pron": "den"},
-  {"pt": "noite",                   "ru": "вечер",                 "pron": "véchir"},
-  {"pt": "noite (dormir)",          "ru": "ночь",                  "pron": "noch"},
-  {"pt": "meio-dia",                "ru": "полдень",               "pron": "póldin"},
-  {"pt": "meia-noite",              "ru": "полночь",               "pron": "pólnach"},
-  {"pt": "madrugada",               "ru": "рассвет",               "pron": "rassvét"},
-  {"pt": "amanhecer",               "ru": "восход",                "pron": "vas khód"},
-  {"pt": "anoitecer",               "ru": "закат",                 "pron": "zakát"},
-  {"pt": "agora",                   "ru": "сейчас",                "pron": "siychás"},
-  {"pt": "mais tarde",              "ru": "позже",                 "pron": "pózzhe"},
-  {"pt": "cedo",                    "ru": "рано",                  "pron": "rána"},
-  {"pt": "tarde (atrasado)",        "ru": "поздно",                "pron": "pózdna"},
-  {"pt": "em ponto",                "ru": "ровно",                 "pron": "róvna"},
-  {"pt": "aproximadamente",         "ru": "около",                 "pron": "ókala"},
-  {"pt": "mais ou menos",           "ru": "примерно",              "pron": "primérna"},
-  {"pt": "primeiro",                "ru": "первый",                "pron": "pérviy"},
-  {"pt": "segundo",                 "ru": "второй",                "pron": "ftaróy"},
-  {"pt": "terceiro",                "ru": "третий",                "pron": "trétiy"},
-  {"pt": "quarto",                  "ru": "четвертый",             "pron": "chitvórtiy"},
-  {"pt": "quinto",                  "ru": "пятый",                 "pron": "pyátiy"},
-  {"pt": "sexto",                   "ru": "шестой",                "pron": "shistóy"},
-  {"pt": "sétimo",                  "ru": "седьмой",               "pron": "sid'móy"},
-  {"pt": "oitavo",                  "ru": "восьмой",               "pron": "vas'móy"},
-  {"pt": "nono",                    "ru": "девятый",               "pron": "divyátiy"},
-  {"pt": "décimo",                  "ru": "десятый",               "pron": "disyátiy"},
-  {"pt": "último",                  "ru": "последний",             "pron": "paslédniy"},
-  {"pt": "próximo",                 "ru": "следующий",             "pron": "sléduyushchiy"},
-  {"pt": "penúltimo",               "ru": "предпоследний",         "pron": "pritpaslédniy"},
-  {"pt": "uma hora",                "ru": "час",                   "pron": "chas"},
-  {"pt": "duas horas",              "ru": "два часа",              "pron": "dva chasá"},
-  {"pt": "três horas",              "ru": "три часа",              "pron": "tri chasá"},
-  {"pt": "quatro horas",            "ru": "четыре часа",           "pron": "chitýri chasá"},
-  {"pt": "cinco horas",             "ru": "пять часов",            "pron": "pyat chasóv"},
-  {"pt": "seis horas",              "ru": "шесть часов",           "pron": "shest chasóv"},
-  {"pt": "sete horas",              "ru": "семь часов",            "pron": "sem chasóv"},
-  {"pt": "oito horas",              "ru": "восемь часов",          "pron": "vósim chasóv"},
-  {"pt": "nove horas",              "ru": "девять часов",          "pron": "dévit chasóv"},
-  {"pt": "dez horas",               "ru": "десять часов",          "pron": "désit chasóv"},
-  {"pt": "onze horas",              "ru": "одиннадцать часов",     "pron": "adínatsat chasóv"},
-  {"pt": "meio-dia e meia",         "ru": "полпервого",            "pron": "palpérvava"},
-  {"pt": "quinze minutos",          "ru": "пятнадцать минут",      "pron": "pitnátsat minút"},
-  {"pt": "trinta minutos",          "ru": "тридцать минут",        "pron": "trítsat minút"},
-  {"pt": "quarenta e cinco minutos","ru": "сорок пять минут",      "pron": "sórak pyat minút"},
-  {"pt": "e quinze",                "ru": "четверть",              "pron": "chétvert'"},
-  {"pt": "e meia",                  "ru": "половина",              "pron": "palavína"},
-  {"pt": "quinze para",             "ru": "без пятнадцати",        "pron": "bez pitnátsati"},
-  {"pt": "dez para",                "ru": "без десяти",            "pron": "bez disití"},
-  {"pt": "cinco para",              "ru": "без пяти",              "pron": "bez pití"},
-  {"pt": "e cinco",                 "ru": "пять минут",            "pron": "pyat minút"},
-  {"pt": "e dez",                   "ru": "десять минут",          "pron": "désit minút"},
-  {"pt": "e vinte",                 "ru": "двадцать минут",        "pron": "dvátsat minút"},
-  {"pt": "em ponto",                "ru": "ровно",                 "pron": "róvna"},
-  {"pt": "dia",                     "ru": "день",                  "pron": "den"},
-  {"pt": "hoje",                    "ru": "сегодня",               "pron": "sivódnya"},
-  {"pt": "amanhã",                  "ru": "завтра",                "pron": "závtra"},
-  {"pt": "ontem",                   "ru": "вчера",                 "pron": "fchirá"},
-  {"pt": "anteontem",               "ru": "позавчера",             "pron": "pazafchirá"},
-  {"pt": "depois de amanhã",        "ru": "послезавтра",           "pron": "poslizávtra"},
-  {"pt": "esta noite",              "ru": "сегодня вечером",       "pron": "sivódnya véchirim"},
-  {"pt": "esta manhã",              "ru": "сегодня утром",         "pron": "sivódnya útram"},
-  {"pt": "esta tarde",              "ru": "сегодня днем",          "pron": "sivódnya dnyom"},
-  {"pt": "ontem à noite",           "ru": "вчера вечером",         "pron": "fchirá véchirim"},
-  {"pt": "amanhã cedo",             "ru": "завтра утром",          "pron": "závtra útram"},
-  {"pt": "amanhã à noite",          "ru": "завтра вечером",        "pron": "závtra véchirim"},
-  {"pt": "todos os dias",           "ru": "каждый день",           "pron": "kázhdiy den"},
-  {"pt": "dia útil",                "ru": "будний день",           "pron": "búdniy den"},
-  {"pt": "fim de semana",           "ru": "выходные",              "pron": "vykhadnýye"},
-  {"pt": "dia santo",               "ru": "святой день",           "pron": "svitóy den"},
-  {"pt": "semana",                  "ru": "неделя",                "pron": "nidélya"},
-  {"pt": "esta semana",             "ru": "на этой неделе",        "pron": "na étay nidéli"},
-  {"pt": "semana passada",          "ru": "на прошлой неделе",     "pron": "na próshlay nidéli"},
-  {"pt": "semana que vem",          "ru": "на следующей неделе",   "pron": "na sléduyushchey nidéli"},
-  {"pt": "semanalmente",            "ru": "еженедельно",           "pron": "yizhinidél'na"},
-  {"pt": "duas semanas",            "ru": "две недели",            "pron": "dve nidéli"},
-  {"pt": "quinzena",                "ru": "две недели",            "pron": "dve nidéli"},
-  {"pt": "mês",                     "ru": "месяц",                 "pron": "mésits"},
-  {"pt": "este mês",                "ru": "в этом месяце",         "pron": "v étam mésitse"},
-  {"pt": "mês passado",             "ru": "в прошлом месяце",      "pron": "f próshlam mésitse"},
-  {"pt": "mês que vem",             "ru": "в следующем месяце",    "pron": "f sléduyushchem mésitse"},
-  {"pt": "mensalmente",             "ru": "ежемесячно",            "pron": "yizhimésichna"},
-  {"pt": "janeiro",                 "ru": "январь",                "pron": "yanvár"},
-  {"pt": "fevereiro",               "ru": "февраль",               "pron": "fivrál"},
-  {"pt": "março",                   "ru": "март",                  "pron": "mart"},
-  {"pt": "abril",                   "ru": "апрель",                "pron": "aprél"},
-  {"pt": "maio",                    "ru": "май",                   "pron": "may"},
-  {"pt": "junho",                   "ru": "июнь",                  "pron": "iyún"},
-  {"pt": "julho",                   "ru": "июль",                  "pron": "iyúl"},
-  {"pt": "agosto",                  "ru": "август",                "pron": "ávgust"},
-  {"pt": "setembro",                "ru": "сентябрь",              "pron": "sintyábr"},
-  {"pt": "outubro",                 "ru": "октябрь",               "pron": "aktyábr"},
-  {"pt": "novembro",                "ru": "ноябрь",                "pron": "nayábr"},
-  {"pt": "dezembro",                "ru": "декабрь",               "pron": "dikábr"},
-  {"pt": "ano",                     "ru": "год",                   "pron": "god"},
-  {"pt": "este ano",                "ru": "в этом году",           "pron": "v étam gadú"},
-  {"pt": "ano passado",             "ru": "в прошлом году",        "pron": "f próshlam gadú"},
-  {"pt": "ano que vem",             "ru": "в следующем году",      "pron": "f sléduyushchem gadú"},
-  {"pt": "anualmente",              "ru": "ежегодно",              "pron": "yizhigódna"},
-  {"pt": "década",                  "ru": "десятилетие",           "pron": "disitilétiye"},
-  {"pt": "século",                  "ru": "век",                   "pron": "vek"},
-  {"pt": "milênio",                 "ru": "тысячелетие",           "pron": "tisichilétiye"},
-  {"pt": "primavera",               "ru": "весна",                 "pron": "visná"},
-  {"pt": "verão",                   "ru": "лето",                  "pron": "léta"},
-  {"pt": "outono",                  "ru": "осень",                 "pron": "ósin"},
-  {"pt": "inverno",                 "ru": "зима",                  "pron": "zimá"},
-  {"pt": "feriado",                 "ru": "праздник",              "pron": "prázdnik"},
-  {"pt": "ano novo",                "ru": "Новый год",             "pron": "nóviy god"},
-  {"pt": "natal",                   "ru": "Рождество",             "pron": "razhdestvó"},
-  {"pt": "véspera de natal",        "ru": "Сочельник",             "pron": "sachél'nik"},
-  {"pt": "páscoa",                  "ru": "Пасха",                 "pron": "páskha"},
-  {"pt": "carnaval",                "ru": "карнавал",              "pron": "karnavál"},
-  {"pt": "dia das mães",            "ru": "День матери",           "pron": "den máteri"},
-  {"pt": "dia dos pais",            "ru": "День отца",             "pron": "den attsá"},
-  {"pt": "dia dos namorados",       "ru": "День святого Валентина","pron": "den svitóva valentína"},
-  {"pt": "halloween",               "ru": "Хэллоуин",              "pron": "khellóuin"},
-  {"pt": "ação de graças",          "ru": "День благодарения",     "pron": "den blagadaréniya"},
-  {"pt": "dia do trabalho",         "ru": "День труда",            "pron": "den trudá"},
-  {"pt": "independência",           "ru": "День независимости",    "pron": "den nizavísimasti"},
-  {"pt": "aniversário",             "ru": "день рождения",         "pron": "den razhdéniya"},
-  {"pt": "aniversário de casamento","ru": "годовщина свадьбы",     "pron": "gadavshchína svád'by"},
-  {"pt": "sempre",                  "ru": "всегда",                "pron": "vsigdá"},
-  {"pt": "nunca",                   "ru": "никогда",               "pron": "nikagdá"},
-  {"pt": "às vezes",                "ru": "иногда",                "pron": "inagdá"},
-  {"pt": "frequentemente",          "ru": "часто",                 "pron": "chásta"},
-  {"pt": "raramente",               "ru": "редко",                 "pron": "rédka"},
-  {"pt": "diariamente",             "ru": "ежедневно",             "pron": "yizhednévna"},
-  {"pt": "de vez em quando",        "ru": "время от времени",      "pron": "vrémya at vrémeni"},
-  {"pt": "toda hora",               "ru": "всё время",             "pron": "vsyo vrémya"},
-  {"pt": "de novo",                 "ru": "снова",                 "pron": "snóva"},
-  {"pt": "quase sempre",            "ru": "почти всегда",          "pron": "pach tí vsigdá"},
-  {"pt": "quase nunca",             "ru": "почти никогда",         "pron": "pach tí nikagdá"},
-  {"pt": "que horas são?",          "ru": "который час?",           "pron": "katóriy chas"},
-  {"pt": "são três horas",          "ru": "три часа",              "pron": "tri chasá"},
-  {"pt": "são três e meia",         "ru": "полчетвертого",         "pron": "palchitvértava"},
-  {"pt": "são três e quinze",       "ru": "четверть четвертого",   "pron": "chétvert' chitvértava"},
-  {"pt": "são quinze para as quatro","ru": "без пятнадцати четыре","pron": "bez pitnátsati chitýri"},
-  {"pt": "que dia é hoje?",         "ru": "какое сегодня число?",  "pron": "kakóye sivódnya chisló"},
-  {"pt": "hoje é segunda-feira",    "ru": "сегодня понедельник",   "pron": "sivódnya panidél'nik"},
-  {"pt": "que dia é amanhã?",       "ru": "какой завтра день?",    "pron": "kakóy závtra den"},
-  {"pt": "que dia foi ontem?",      "ru": "какой вчера был день?", "pron": "kakóy fchirá byl den"},
-  {"pt": "em que mês estamos?",     "ru": "какой сейчас месяц?",   "pron": "kakóy siychás mésits"},
-  {"pt": "que ano estamos?",        "ru": "какой сейчас год?",     "pron": "kakóy siychás god"},
-  {"pt": "que horas você tem?",     "ru": "сколько у вас времени?", "pron": "skól'ka u vas vrémeni"},
-  {"pt": "que horas abre?",         "ru": "во сколько открывается?","pron": "va skól'ka atkryváyetsya"},
-  {"pt": "que horas fecha?",        "ru": "во сколько закрывается?","pron": "va skól'ka zakryváyetsya"},
-  {"pt": "que horas começa?",       "ru": "во сколько начинается?","pron": "va skól'ka nachináyetsya"},
-  {"pt": "quanto tempo demora?",    "ru": "сколько времени занимает?","pron": "skól'ka vrémeni zanimáyet"},
-  {"pt": "está na hora",            "ru": "пора",                  "pron": "pará"},
-  {"pt": "é hora de ir",            "ru": "пора идти",             "pron": "pará idtí"},
-  {"pt": "estou atrasado",          "ru": "я опоздал",             "pron": "ya apazdál"},
-  {"pt": "cheguei cedo",            "ru": "я пришел рано",         "pron": "ya prishól rána"},
-  {"pt": "daqui a pouco",           "ru": "скоро",                 "pron": "skóra"},
-  {"pt": "nos vemos amanhã",        "ru": "увидимся завтра",       "pron": "uvídimsya závtra"},
-  {"pt": "nos vemos na segunda",    "ru": "увидимся в понедельник","pron": "uvídimsya f panidél'nik"},
-  {"pt": "até amanhã",              "ru": "до завтра",             "pron": "da závtra"},
-  {"pt": "até mais tarde",          "ru": "до вечера",             "pron": "da véchira"},
-  {"pt": "bom dia",                 "ru": "доброе утро",           "pron": "dóbraye útra"},
-  {"pt": "boa tarde",               "ru": "добрый день",           "pron": "dóbriy den"},
-  {"pt": "boa noite",               "ru": "добрый вечер",          "pron": "dóbriy véchir"},
-  {"pt": "que dia maravilhoso!",    "ru": "какой прекрасный день!","pron": "kakóy prikrásniy den"},
-  {"pt": "que horas você pode?",    "ru": "во сколько вы можете?", "pron": "va skól'ka vy mózhete"},
-  {"pt": "quando você pode?",       "ru": "когда вы можете?",      "pron": "kagdá vy mózhete"},
-  {"pt": "qual o melhor dia?",      "ru": "какой лучший день?",    "pron": "kakóy lúchshiy den"},
-  {"pt": "estou livre amanhã",      "ru": "я свободен завтра",     "pron": "ya svabóden závtra"},
-  {"pt": "não tenho tempo",         "ru": "у меня нет времени",    "pron": "u minyá net vrémeni"},
-  {"pt": "vou pensar",              "ru": "я подумаю",             "pron": "ya padúmayu"},
-  {"pt": "que semana longa!",       "ru": "какая долгая неделя!",  "pron": "kakáya dólgaya nidélya"},
-  {"pt": "boa semana!",             "ru": "хорошей недели!",       "pron": "kharóshey nidéli"},
-  {"pt": "bom fim de semana!",      "ru": "хороших выходных!",     "pron": "kharóshikh vykhadnýkh"},
-  {"pt": "feliz aniversário!",      "ru": "с днём рождения!",      "pron": "z dnyom razhdéniya"},
-  {"pt": "feliz ano novo!",         "ru": "с Новым годом!",        "pron": "s nóvym gódam"},
-  {"pt": "feliz natal!",            "ru": "с Рождеством!",         "pron": "s razhdestvóm"},
-  {"pt": "boas festas!",            "ru": "с праздником!",         "pron": "s prázdnikam"},
-  {"pt": "por uma hora",            "ru": "в течение часа",        "pron": "f tichénii chasá"},
-  {"pt": "por duas horas",          "ru": "в течение двух часов",  "pron": "f tichénii dvukh chasóv"},
-  {"pt": "por um dia",              "ru": "в течение дня",         "pron": "f tichénii dnya"},
-  {"pt": "por uma semana",          "ru": "в течение недели",      "pron": "f tichénii nidéli"},
-  {"pt": "por um mês",              "ru": "в течение месяца",      "pron": "f tichénii mésitsa"},
-  {"pt": "por um ano",              "ru": "в течение года",        "pron": "f tichénii góda"},
-  {"pt": "daqui a uma hora",        "ru": "через час",             "pron": "chéri z chas"},
-  {"pt": "daqui a dois dias",       "ru": "через два дня",         "pron": "chéri z dva dnya"},
-  {"pt": "daqui a uma semana",      "ru": "через неделю",          "pron": "chéri z nidéliu"},
-  {"pt": "daqui a um mês",          "ru": "через месяц",           "pron": "chéri z mésits"},
-  {"pt": "há uma hora",             "ru": "час назад",             "pron": "chas nazád"},
-  {"pt": "há dois dias",            "ru": "два дня назад",         "pron": "dva dnyá nazád"},
-  {"pt": "há uma semana",           "ru": "неделю назад",          "pron": "nidéliu nazád"},
-  {"pt": "há um mês",               "ru": "месяц назад",           "pron": "mésits nazád"},
-  {"pt": "há muito tempo",          "ru": "давно",                 "pron": "davnó"},
-  {"pt": "recentemente",            "ru": "недавно",               "pron": "nidávna"},
-  {"pt": "ultimamente",             "ru": "в последнее время",     "pron": "f paslédneye vrémya"},
-  {"pt": "em breve",                "ru": "скоро",                 "pron": "skóra"},
-  {"pt": "em breve possível",       "ru": "как можно скорее",      "pron": "kak mózhna skaréye"},
-  {"pt": "imediatamente",           "ru": "немедленно",            "pron": "nimédlinna"}
+  {
+    "pt": "hora",
+    "ru": "час",
+    "pron": "chas"
+  },
+  {
+    "pt": "hora (relógio)",
+    "ru": "час",
+    "pron": "chas"
+  },
+  {
+    "pt": "minuto",
+    "ru": "минута",
+    "pron": "minúta"
+  },
+  {
+    "pt": "segundo",
+    "ru": "секунда",
+    "pron": "sikúnda"
+  },
+  {
+    "pt": "manhã",
+    "ru": "утро",
+    "pron": "útra"
+  },
+  {
+    "pt": "tarde",
+    "ru": "день",
+    "pron": "den"
+  },
+  {
+    "pt": "noite",
+    "ru": "вечер",
+    "pron": "véchir"
+  },
+  {
+    "pt": "noite (dormir)",
+    "ru": "ночь",
+    "pron": "noch"
+  },
+  {
+    "pt": "meio-dia",
+    "ru": "полдень",
+    "pron": "póldin"
+  },
+  {
+    "pt": "meia-noite",
+    "ru": "полночь",
+    "pron": "pólnach"
+  },
+  {
+    "pt": "madrugada",
+    "ru": "рассвет",
+    "pron": "rassvét"
+  },
+  {
+    "pt": "amanhecer",
+    "ru": "восход",
+    "pron": "vas khód"
+  },
+  {
+    "pt": "anoitecer",
+    "ru": "закат",
+    "pron": "zakát"
+  },
+  {
+    "pt": "agora",
+    "ru": "сейчас",
+    "pron": "siychás"
+  },
+  {
+    "pt": "mais tarde",
+    "ru": "позже",
+    "pron": "pózzhe"
+  },
+  {
+    "pt": "cedo",
+    "ru": "рано",
+    "pron": "rána"
+  },
+  {
+    "pt": "tarde (atrasado)",
+    "ru": "поздно",
+    "pron": "pózdna"
+  },
+  {
+    "pt": "em ponto",
+    "ru": "ровно",
+    "pron": "róvna"
+  },
+  {
+    "pt": "aproximadamente",
+    "ru": "около",
+    "pron": "ókala"
+  },
+  {
+    "pt": "mais ou menos",
+    "ru": "примерно",
+    "pron": "primérna"
+  },
+  {
+    "pt": "primeiro",
+    "ru": "первый",
+    "pron": "pérviy"
+  },
+  {
+    "pt": "terceiro",
+    "ru": "третий",
+    "pron": "trétiy"
+  },
+  {
+    "pt": "quarto",
+    "ru": "четвертый",
+    "pron": "chitvórtiy"
+  },
+  {
+    "pt": "quinto",
+    "ru": "пятый",
+    "pron": "pyátiy"
+  },
+  {
+    "pt": "sexto",
+    "ru": "шестой",
+    "pron": "shistóy"
+  },
+  {
+    "pt": "sétimo",
+    "ru": "седьмой",
+    "pron": "sid'móy"
+  },
+  {
+    "pt": "oitavo",
+    "ru": "восьмой",
+    "pron": "vas'móy"
+  },
+  {
+    "pt": "nono",
+    "ru": "девятый",
+    "pron": "divyátiy"
+  },
+  {
+    "pt": "décimo",
+    "ru": "десятый",
+    "pron": "disyátiy"
+  },
+  {
+    "pt": "último",
+    "ru": "последний",
+    "pron": "paslédniy"
+  },
+  {
+    "pt": "próximo",
+    "ru": "следующий",
+    "pron": "sléduyushchiy"
+  },
+  {
+    "pt": "penúltimo",
+    "ru": "предпоследний",
+    "pron": "pritpaslédniy"
+  },
+  {
+    "pt": "uma hora",
+    "ru": "час",
+    "pron": "chas"
+  },
+  {
+    "pt": "duas horas",
+    "ru": "два часа",
+    "pron": "dva chasá"
+  },
+  {
+    "pt": "três horas",
+    "ru": "три часа",
+    "pron": "tri chasá"
+  },
+  {
+    "pt": "quatro horas",
+    "ru": "четыре часа",
+    "pron": "chitýri chasá"
+  },
+  {
+    "pt": "cinco horas",
+    "ru": "пять часов",
+    "pron": "pyat chasóv"
+  },
+  {
+    "pt": "seis horas",
+    "ru": "шесть часов",
+    "pron": "shest chasóv"
+  },
+  {
+    "pt": "sete horas",
+    "ru": "семь часов",
+    "pron": "sem chasóv"
+  },
+  {
+    "pt": "oito horas",
+    "ru": "восемь часов",
+    "pron": "vósim chasóv"
+  },
+  {
+    "pt": "nove horas",
+    "ru": "девять часов",
+    "pron": "dévit chasóv"
+  },
+  {
+    "pt": "dez horas",
+    "ru": "десять часов",
+    "pron": "désit chasóv"
+  },
+  {
+    "pt": "onze horas",
+    "ru": "одиннадцать часов",
+    "pron": "adínatsat chasóv"
+  },
+  {
+    "pt": "meio-dia e meia",
+    "ru": "полпервого",
+    "pron": "palpérvava"
+  },
+  {
+    "pt": "quinze minutos",
+    "ru": "пятнадцать минут",
+    "pron": "pitnátsat minút"
+  },
+  {
+    "pt": "trinta minutos",
+    "ru": "тридцать минут",
+    "pron": "trítsat minút"
+  },
+  {
+    "pt": "quarenta e cinco minutos",
+    "ru": "сорок пять минут",
+    "pron": "sórak pyat minút"
+  },
+  {
+    "pt": "e quinze",
+    "ru": "четверть",
+    "pron": "chétvert'"
+  },
+  {
+    "pt": "e meia",
+    "ru": "половина",
+    "pron": "palavína"
+  },
+  {
+    "pt": "quinze para",
+    "ru": "без пятнадцати",
+    "pron": "bez pitnátsati"
+  },
+  {
+    "pt": "dez para",
+    "ru": "без десяти",
+    "pron": "bez disití"
+  },
+  {
+    "pt": "cinco para",
+    "ru": "без пяти",
+    "pron": "bez pití"
+  },
+  {
+    "pt": "e cinco",
+    "ru": "пять минут",
+    "pron": "pyat minút"
+  },
+  {
+    "pt": "e dez",
+    "ru": "десять минут",
+    "pron": "désit minút"
+  },
+  {
+    "pt": "e vinte",
+    "ru": "двадцать минут",
+    "pron": "dvátsat minút"
+  },
+  {
+    "pt": "em ponto",
+    "ru": "ровно",
+    "pron": "róvna"
+  },
+  {
+    "pt": "dia",
+    "ru": "день",
+    "pron": "den"
+  },
+  {
+    "pt": "hoje",
+    "ru": "сегодня",
+    "pron": "sivódnya"
+  },
+  {
+    "pt": "amanhã",
+    "ru": "завтра",
+    "pron": "závtra"
+  },
+  {
+    "pt": "ontem",
+    "ru": "вчера",
+    "pron": "fchirá"
+  },
+  {
+    "pt": "anteontem",
+    "ru": "позавчера",
+    "pron": "pazafchirá"
+  },
+  {
+    "pt": "depois de amanhã",
+    "ru": "послезавтра",
+    "pron": "poslizávtra"
+  },
+  {
+    "pt": "esta noite",
+    "ru": "сегодня вечером",
+    "pron": "sivódnya véchirim"
+  },
+  {
+    "pt": "esta manhã",
+    "ru": "сегодня утром",
+    "pron": "sivódnya útram"
+  },
+  {
+    "pt": "esta tarde",
+    "ru": "сегодня днем",
+    "pron": "sivódnya dnyom"
+  },
+  {
+    "pt": "ontem à noite",
+    "ru": "вчера вечером",
+    "pron": "fchirá véchirim"
+  },
+  {
+    "pt": "amanhã cedo",
+    "ru": "завтра утром",
+    "pron": "závtra útram"
+  },
+  {
+    "pt": "amanhã à noite",
+    "ru": "завтра вечером",
+    "pron": "závtra véchirim"
+  },
+  {
+    "pt": "todos os dias",
+    "ru": "каждый день",
+    "pron": "kázhdiy den"
+  },
+  {
+    "pt": "dia útil",
+    "ru": "будний день",
+    "pron": "búdniy den"
+  },
+  {
+    "pt": "fim de semana",
+    "ru": "выходные",
+    "pron": "vykhadnýye"
+  },
+  {
+    "pt": "dia santo",
+    "ru": "святой день",
+    "pron": "svitóy den"
+  },
+  {
+    "pt": "semana",
+    "ru": "неделя",
+    "pron": "nidélya"
+  },
+  {
+    "pt": "esta semana",
+    "ru": "на этой неделе",
+    "pron": "na étay nidéli"
+  },
+  {
+    "pt": "semana passada",
+    "ru": "на прошлой неделе",
+    "pron": "na próshlay nidéli"
+  },
+  {
+    "pt": "semana que vem",
+    "ru": "на следующей неделе",
+    "pron": "na sléduyushchey nidéli"
+  },
+  {
+    "pt": "semanalmente",
+    "ru": "еженедельно",
+    "pron": "yizhinidél'na"
+  },
+  {
+    "pt": "duas semanas",
+    "ru": "две недели",
+    "pron": "dve nidéli"
+  },
+  {
+    "pt": "quinzena",
+    "ru": "две недели",
+    "pron": "dve nidéli"
+  },
+  {
+    "pt": "mês",
+    "ru": "месяц",
+    "pron": "mésits"
+  },
+  {
+    "pt": "este mês",
+    "ru": "в этом месяце",
+    "pron": "v étam mésitse"
+  },
+  {
+    "pt": "mês passado",
+    "ru": "в прошлом месяце",
+    "pron": "f próshlam mésitse"
+  },
+  {
+    "pt": "mês que vem",
+    "ru": "в следующем месяце",
+    "pron": "f sléduyushchem mésitse"
+  },
+  {
+    "pt": "mensalmente",
+    "ru": "ежемесячно",
+    "pron": "yizhimésichna"
+  },
+  {
+    "pt": "janeiro",
+    "ru": "январь",
+    "pron": "yanvár"
+  },
+  {
+    "pt": "fevereiro",
+    "ru": "февраль",
+    "pron": "fivrál"
+  },
+  {
+    "pt": "março",
+    "ru": "март",
+    "pron": "mart"
+  },
+  {
+    "pt": "abril",
+    "ru": "апрель",
+    "pron": "aprél"
+  },
+  {
+    "pt": "maio",
+    "ru": "май",
+    "pron": "may"
+  },
+  {
+    "pt": "junho",
+    "ru": "июнь",
+    "pron": "iyún"
+  },
+  {
+    "pt": "julho",
+    "ru": "июль",
+    "pron": "iyúl"
+  },
+  {
+    "pt": "agosto",
+    "ru": "август",
+    "pron": "ávgust"
+  },
+  {
+    "pt": "setembro",
+    "ru": "сентябрь",
+    "pron": "sintyábr"
+  },
+  {
+    "pt": "outubro",
+    "ru": "октябрь",
+    "pron": "aktyábr"
+  },
+  {
+    "pt": "novembro",
+    "ru": "ноябрь",
+    "pron": "nayábr"
+  },
+  {
+    "pt": "dezembro",
+    "ru": "декабрь",
+    "pron": "dikábr"
+  },
+  {
+    "pt": "ano",
+    "ru": "год",
+    "pron": "god"
+  },
+  {
+    "pt": "este ano",
+    "ru": "в этом году",
+    "pron": "v étam gadú"
+  },
+  {
+    "pt": "ano passado",
+    "ru": "в прошлом году",
+    "pron": "f próshlam gadú"
+  },
+  {
+    "pt": "ano que vem",
+    "ru": "в следующем году",
+    "pron": "f sléduyushchem gadú"
+  },
+  {
+    "pt": "anualmente",
+    "ru": "ежегодно",
+    "pron": "yizhigódna"
+  },
+  {
+    "pt": "década",
+    "ru": "десятилетие",
+    "pron": "disitilétiye"
+  },
+  {
+    "pt": "século",
+    "ru": "век",
+    "pron": "vek"
+  },
+  {
+    "pt": "milênio",
+    "ru": "тысячелетие",
+    "pron": "tisichilétiye"
+  },
+  {
+    "pt": "primavera",
+    "ru": "весна",
+    "pron": "visná"
+  },
+  {
+    "pt": "verão",
+    "ru": "лето",
+    "pron": "léta"
+  },
+  {
+    "pt": "outono",
+    "ru": "осень",
+    "pron": "ósin"
+  },
+  {
+    "pt": "inverno",
+    "ru": "зима",
+    "pron": "zimá"
+  },
+  {
+    "pt": "feriado",
+    "ru": "праздник",
+    "pron": "prázdnik"
+  },
+  {
+    "pt": "ano novo",
+    "ru": "Новый год",
+    "pron": "nóviy god"
+  },
+  {
+    "pt": "natal",
+    "ru": "Рождество",
+    "pron": "razhdestvó"
+  },
+  {
+    "pt": "véspera de natal",
+    "ru": "Сочельник",
+    "pron": "sachél'nik"
+  },
+  {
+    "pt": "páscoa",
+    "ru": "Пасха",
+    "pron": "páskha"
+  },
+  {
+    "pt": "carnaval",
+    "ru": "карнавал",
+    "pron": "karnavál"
+  },
+  {
+    "pt": "dia das mães",
+    "ru": "День матери",
+    "pron": "den máteri"
+  },
+  {
+    "pt": "dia dos pais",
+    "ru": "День отца",
+    "pron": "den attsá"
+  },
+  {
+    "pt": "dia dos namorados",
+    "ru": "День святого Валентина",
+    "pron": "den svitóva valentína"
+  },
+  {
+    "pt": "halloween",
+    "ru": "Хэллоуин",
+    "pron": "khellóuin"
+  },
+  {
+    "pt": "ação de graças",
+    "ru": "День благодарения",
+    "pron": "den blagadaréniya"
+  },
+  {
+    "pt": "dia do trabalho",
+    "ru": "День труда",
+    "pron": "den trudá"
+  },
+  {
+    "pt": "independência",
+    "ru": "День независимости",
+    "pron": "den nizavísimasti"
+  },
+  {
+    "pt": "aniversário",
+    "ru": "день рождения",
+    "pron": "den razhdéniya"
+  },
+  {
+    "pt": "aniversário de casamento",
+    "ru": "годовщина свадьбы",
+    "pron": "gadavshchína svád'by"
+  },
+  {
+    "pt": "sempre",
+    "ru": "всегда",
+    "pron": "vsigdá"
+  },
+  {
+    "pt": "nunca",
+    "ru": "никогда",
+    "pron": "nikagdá"
+  },
+  {
+    "pt": "às vezes",
+    "ru": "иногда",
+    "pron": "inagdá"
+  },
+  {
+    "pt": "frequentemente",
+    "ru": "часто",
+    "pron": "chásta"
+  },
+  {
+    "pt": "raramente",
+    "ru": "редко",
+    "pron": "rédka"
+  },
+  {
+    "pt": "diariamente",
+    "ru": "ежедневно",
+    "pron": "yizhednévna"
+  },
+  {
+    "pt": "de vez em quando",
+    "ru": "время от времени",
+    "pron": "vrémya at vrémeni"
+  },
+  {
+    "pt": "toda hora",
+    "ru": "всё время",
+    "pron": "vsyo vrémya"
+  },
+  {
+    "pt": "de novo",
+    "ru": "снова",
+    "pron": "snóva"
+  },
+  {
+    "pt": "quase sempre",
+    "ru": "почти всегда",
+    "pron": "pach tí vsigdá"
+  },
+  {
+    "pt": "quase nunca",
+    "ru": "почти никогда",
+    "pron": "pach tí nikagdá"
+  },
+  {
+    "pt": "que horas são?",
+    "ru": "который час?",
+    "pron": "katóriy chas"
+  },
+  {
+    "pt": "são três horas",
+    "ru": "три часа",
+    "pron": "tri chasá"
+  },
+  {
+    "pt": "são três e meia",
+    "ru": "полчетвертого",
+    "pron": "palchitvértava"
+  },
+  {
+    "pt": "são três e quinze",
+    "ru": "четверть четвертого",
+    "pron": "chétvert' chitvértava"
+  },
+  {
+    "pt": "são quinze para as quatro",
+    "ru": "без пятнадцати четыре",
+    "pron": "bez pitnátsati chitýri"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "ru": "какое сегодня число?",
+    "pron": "kakóye sivódnya chisló"
+  },
+  {
+    "pt": "hoje é segunda-feira",
+    "ru": "сегодня понедельник",
+    "pron": "sivódnya panidél'nik"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "ru": "какой завтра день?",
+    "pron": "kakóy závtra den"
+  },
+  {
+    "pt": "que dia foi ontem?",
+    "ru": "какой вчера был день?",
+    "pron": "kakóy fchirá byl den"
+  },
+  {
+    "pt": "em que mês estamos?",
+    "ru": "какой сейчас месяц?",
+    "pron": "kakóy siychás mésits"
+  },
+  {
+    "pt": "que ano estamos?",
+    "ru": "какой сейчас год?",
+    "pron": "kakóy siychás god"
+  },
+  {
+    "pt": "que horas você tem?",
+    "ru": "сколько у вас времени?",
+    "pron": "skól'ka u vas vrémeni"
+  },
+  {
+    "pt": "que horas abre?",
+    "ru": "во сколько открывается?",
+    "pron": "va skól'ka atkryváyetsya"
+  },
+  {
+    "pt": "que horas fecha?",
+    "ru": "во сколько закрывается?",
+    "pron": "va skól'ka zakryváyetsya"
+  },
+  {
+    "pt": "que horas começa?",
+    "ru": "во сколько начинается?",
+    "pron": "va skól'ka nachináyetsya"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "ru": "сколько времени занимает?",
+    "pron": "skól'ka vrémeni zanimáyet"
+  },
+  {
+    "pt": "está na hora",
+    "ru": "пора",
+    "pron": "pará"
+  },
+  {
+    "pt": "é hora de ir",
+    "ru": "пора идти",
+    "pron": "pará idtí"
+  },
+  {
+    "pt": "estou atrasado",
+    "ru": "я опоздал",
+    "pron": "ya apazdál"
+  },
+  {
+    "pt": "cheguei cedo",
+    "ru": "я пришел рано",
+    "pron": "ya prishól rána"
+  },
+  {
+    "pt": "daqui a pouco",
+    "ru": "скоро",
+    "pron": "skóra"
+  },
+  {
+    "pt": "nos vemos amanhã",
+    "ru": "увидимся завтра",
+    "pron": "uvídimsya závtra"
+  },
+  {
+    "pt": "nos vemos na segunda",
+    "ru": "увидимся в понедельник",
+    "pron": "uvídimsya f panidél'nik"
+  },
+  {
+    "pt": "até amanhã",
+    "ru": "до завтра",
+    "pron": "da závtra"
+  },
+  {
+    "pt": "até mais tarde",
+    "ru": "до вечера",
+    "pron": "da véchira"
+  },
+  {
+    "pt": "bom dia",
+    "ru": "доброе утро",
+    "pron": "dóbraye útra"
+  },
+  {
+    "pt": "boa tarde",
+    "ru": "добрый день",
+    "pron": "dóbriy den"
+  },
+  {
+    "pt": "boa noite",
+    "ru": "добрый вечер",
+    "pron": "dóbriy véchir"
+  },
+  {
+    "pt": "que dia maravilhoso!",
+    "ru": "какой прекрасный день!",
+    "pron": "kakóy prikrásniy den"
+  },
+  {
+    "pt": "que horas você pode?",
+    "ru": "во сколько вы можете?",
+    "pron": "va skól'ka vy mózhete"
+  },
+  {
+    "pt": "quando você pode?",
+    "ru": "когда вы можете?",
+    "pron": "kagdá vy mózhete"
+  },
+  {
+    "pt": "qual o melhor dia?",
+    "ru": "какой лучший день?",
+    "pron": "kakóy lúchshiy den"
+  },
+  {
+    "pt": "estou livre amanhã",
+    "ru": "я свободен завтра",
+    "pron": "ya svabóden závtra"
+  },
+  {
+    "pt": "não tenho tempo",
+    "ru": "у меня нет времени",
+    "pron": "u minyá net vrémeni"
+  },
+  {
+    "pt": "vou pensar",
+    "ru": "я подумаю",
+    "pron": "ya padúmayu"
+  },
+  {
+    "pt": "que semana longa!",
+    "ru": "какая долгая неделя!",
+    "pron": "kakáya dólgaya nidélya"
+  },
+  {
+    "pt": "boa semana!",
+    "ru": "хорошей недели!",
+    "pron": "kharóshey nidéli"
+  },
+  {
+    "pt": "bom fim de semana!",
+    "ru": "хороших выходных!",
+    "pron": "kharóshikh vykhadnýkh"
+  },
+  {
+    "pt": "feliz aniversário!",
+    "ru": "с днём рождения!",
+    "pron": "z dnyom razhdéniya"
+  },
+  {
+    "pt": "feliz ano novo!",
+    "ru": "с Новым годом!",
+    "pron": "s nóvym gódam"
+  },
+  {
+    "pt": "feliz natal!",
+    "ru": "с Рождеством!",
+    "pron": "s razhdestvóm"
+  },
+  {
+    "pt": "boas festas!",
+    "ru": "с праздником!",
+    "pron": "s prázdnikam"
+  },
+  {
+    "pt": "por uma hora",
+    "ru": "в течение часа",
+    "pron": "f tichénii chasá"
+  },
+  {
+    "pt": "por duas horas",
+    "ru": "в течение двух часов",
+    "pron": "f tichénii dvukh chasóv"
+  },
+  {
+    "pt": "por um dia",
+    "ru": "в течение дня",
+    "pron": "f tichénii dnya"
+  },
+  {
+    "pt": "por uma semana",
+    "ru": "в течение недели",
+    "pron": "f tichénii nidéli"
+  },
+  {
+    "pt": "por um mês",
+    "ru": "в течение месяца",
+    "pron": "f tichénii mésitsa"
+  },
+  {
+    "pt": "por um ano",
+    "ru": "в течение года",
+    "pron": "f tichénii góda"
+  },
+  {
+    "pt": "daqui a uma hora",
+    "ru": "через час",
+    "pron": "chéri z chas"
+  },
+  {
+    "pt": "daqui a dois dias",
+    "ru": "через два дня",
+    "pron": "chéri z dva dnya"
+  },
+  {
+    "pt": "daqui a uma semana",
+    "ru": "через неделю",
+    "pron": "chéri z nidéliu"
+  },
+  {
+    "pt": "daqui a um mês",
+    "ru": "через месяц",
+    "pron": "chéri z mésits"
+  },
+  {
+    "pt": "há uma hora",
+    "ru": "час назад",
+    "pron": "chas nazád"
+  },
+  {
+    "pt": "há dois dias",
+    "ru": "два дня назад",
+    "pron": "dva dnyá nazád"
+  },
+  {
+    "pt": "há uma semana",
+    "ru": "неделю назад",
+    "pron": "nidéliu nazád"
+  },
+  {
+    "pt": "há um mês",
+    "ru": "месяц назад",
+    "pron": "mésits nazád"
+  },
+  {
+    "pt": "há muito tempo",
+    "ru": "давно",
+    "pron": "davnó"
+  },
+  {
+    "pt": "recentemente",
+    "ru": "недавно",
+    "pron": "nidávna"
+  },
+  {
+    "pt": "ultimamente",
+    "ru": "в последнее время",
+    "pron": "f paslédneye vrémya"
+  },
+  {
+    "pt": "em breve",
+    "ru": "скоро",
+    "pron": "skóra"
+  },
+  {
+    "pt": "em breve possível",
+    "ru": "как можно скорее",
+    "pron": "kak mózhna skaréye"
+  },
+  {
+    "pt": "imediatamente",
+    "ru": "немедленно",
+    "pron": "nimédlinna"
+  }
 ]
