@@ -83,7 +83,7 @@ def render():
         "Os 4 modos de exercicio",
         "<b>🎯 Multipla escolha</b> - escolhe entre 4 opcoes<br>"
         "<b>⌨️ Digitar</b> - escreve a resposta<br>"
-        "<b>🔊 Ouvir</b> - ouve o audio e digita<br>"
+        "<b>🔊 Ouça e Traduza</b> - ouve o audio e digita<br>"
         "<b>🧩 Associar pares</b> - liga PT com EN (jogo de memoria)",
         "#fbbf24"
     )

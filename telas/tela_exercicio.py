@@ -134,7 +134,7 @@ def render_menu(idioma, info, codigo):
     modos = [
         ("multipla_escolha", "🎯", "Multipla", "#34d399"),
         ("digitar",          "⌨️", "Digitar",  "#60a5fa"),
-        ("ouvir",            "🔊", "Ouvir",    "#a78bfa"),
+        ("Ouvir", "🔊", "Ouça e Traduza", "#a78bfa"),
         ("associar",         "🧩", "Associar", "#fbbf24"),
     ]
 
