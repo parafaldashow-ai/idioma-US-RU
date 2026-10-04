@@ -36,7 +36,7 @@ def render():
         "O conteudo esta dividido em <b>5 niveis</b> (Iniciante, Basico, Intermediario, "
         "Avancado e Critico), com varios modulos cada.<br><br>"
         "Cada modulo tem <b>cards de estudo</b> (com audio e pronuncia), "
-        "<b>exercicios</b> (4 modos diferentes) e <b>flashcards</b> (revisao ativa).",
+        "<b>exercicios</b> (5 modos diferentes) e <b>flashcards</b> (revisao ativa).",
         "#34d399"
     )
 
@@ -80,15 +80,35 @@ def render():
     # Bloco 5: Modos de exercicio
     bloco(
         "✏️",
-        "Os 4 modos de exercicio",
+        "Os 5 modos de exercicio",
         "<b>🎯 Multipla escolha</b> - escolhe entre 4 opcoes<br>"
         "<b>⌨️ Digitar</b> - escreve a resposta<br>"
-        "<b>🔊 Ouça e Traduza</b> - ouve o audio e digita<br>"
-        "<b>🧩 Associar pares</b> - liga PT com EN (jogo de memoria)",
+        "<b>🔊 Ouça e Traduza</b> - ouve o audio em ingles e digita a traducao<br>"
+        "<b>🧩 Associar pares</b> - liga PT com EN (jogo de memoria)<br>"
+        "<b>🎤 Pronúncia</b> - fala no microfone e o app verifica se voce acertou",
         "#fbbf24"
     )
 
-    # Bloco 6: Modos de flashcard
+    # Bloco 6: Modo Pronuncia (novo!)
+    bloco(
+        "🎤",
+        "Como usar o modo Pronúncia",
+        "<b>1.</b> Escolha um modulo (ex: Saudações).<br>"
+        "<b>2.</b> Vai aparecer a palavra em <b>ingles</b> e a tradução em <b>português</b>.<br>"
+        "<b>3.</b> Clica em <b>🔊 Ouvir</b> pra escutar a pronúncia correta.<br>"
+        "<b>4.</b> Clica no <b>microfone</b> e fala a palavra em voz alta.<br>"
+        "<b>5.</b> Clica em <b>✅ Verificar pronúncia</b>.<br>"
+        "<b>6.</b> O app transcreve o que você falou e compara com a palavra.<br><br>"
+        "✅ Se acertou, ganha ponto. ❌ Se errou, mostra o que foi entendido.<br><br>"
+        "💡 <b>Dicas:</b><br>"
+        "• Fale <b>devagar</b> e <b>claro</b>.<br>"
+        "• Se o app não entender, tenta de novo.<br>"
+        "• Funciona melhor com <b>fone de ouvido</b>.<br>"
+        "• Precisa permitir o acesso ao <b>microfone</b> no navegador.",
+        "#f472b6"
+    )
+
+    # Bloco 7: Modos de flashcard
     bloco(
         "🎴",
         "Os 3 modos de flashcard",
@@ -98,7 +118,7 @@ def render():
         "#ec4899"
     )
 
-    # Bloco 7: Como estudar
+    # Bloco 8: Como estudar
     bloco(
         "💡",
         "Como estudar de forma eficiente",
@@ -106,33 +126,34 @@ def render():
         "<b>2.</b> Passe pelos cards (veja + ouca)<br>"
         "<b>3.</b> Faca exercicios (multipla escolha)<br>"
         "<b>4.</b> Errou? Vai no <b>❌ As que errei</b> e revisa<br>"
-        "<b>5.</b> Volte pros exercicios<br>"
+        "<b>5.</b> Teste sua <b>pronúncia</b> no modo 🎤<br>"
         "<b>6.</b> Revise no <b>🔥 Nao dominadas</b><br>"
         "<b>7.</b> So domina quem acerta 3x em momentos diferentes<br><br>"
         "Nao tenha pressa. Aprender lingua leva tempo.",
         "#f97316"
     )
 
-    # Bloco 8: Sobre a pronuncia
+    # Bloco 9: Sobre a pronuncia
     bloco(
         "🔊",
-        "Sobre a pronuncia",
+        "Sobre a pronuncia (texto)",
         "A pronuncia esta entre colchetes azuis. Exemplo:<br><br>"
         "<code>hello -> [rélou]</code><br><br>"
         "Significa que <b>hello</b> se pronuncia <b>relou</b>.<br><br>"
         "⚠️ Nao e perfeita - serve como <b>guia</b>.<br><br>"
         "O melhor jeito de aprender pronuncia e <b>ouvir o audio</b> "
-        "varias vezes e imitar.",
+        "varias vezes e imitar. E agora voce pode testar sua pronúncia "
+        "no modo <b>🎤 Pronúncia</b>!",
         "#60a5fa"
     )
 
-    # Bloco 9: Dicas
+    # Bloco 10: Dicas
     bloco(
         "🎓",
         "Dicas para aprender mais rapido",
         "• <b>Estude todos os dias</b> - 15 min por dia vale mais que 2h no domingo<br>"
         "• <b>Ouca o audio</b> - nao confie so na leitura<br>"
-        "• <b>Fale em voz alta</b> - repita as palavras<br>"
+        "• <b>Fale em voz alta</b> - repita as palavras (use o modo Pronúncia!)<br>"
         "• <b>Revise sempre</b> - Flashcards sao seus amigos<br>"
         "• <b>Nao pule etapas</b> - domine o Iniciante antes de ir pro Basico<br>"
         "• <b>Use o streak</b> - mantenha a sequencia de dias",
