@@ -2,9 +2,12 @@ import streamlit as st
 import random
 import unicodedata
 import re
+import io
+import wave
+import speech_recognition as sr
 from config import IDIOMAS
 from logica.navegacao import ir_para, voltar
-from logica.gerenciador_dados import carregar_modulo, listar_modulos_flat
+from logica.gerenciador_dados import carregar_modulo, listar_modulos_flat, carregar_indice_modulos
 from logica.gerenciador_exercicios import registrar_exercicio, registrar_sessao
 from logica.gerenciador_audio import gerar_audio
 
@@ -110,6 +113,8 @@ def render():
         render_ouvir(idioma, codigo)
     elif st.session_state.ex_tipo == "associar":
         render_associar(idioma, codigo)
+    elif st.session_state.ex_tipo == "pronuncia":
+        render_pronuncia(idioma, codigo)
 
 
 def resetar_sessao():
@@ -134,11 +139,12 @@ def render_menu(idioma, info, codigo):
     modos = [
         ("multipla_escolha", "🎯", "Multipla", "#34d399"),
         ("digitar",          "⌨️", "Digitar",  "#60a5fa"),
-        ("ouvir", "🔊", "Ouça e Traduza", "#a78bfa"),
+        ("ouvir",            "🔊", "Ouça e Traduza", "#a78bfa"),
         ("associar",         "🧩", "Associar", "#fbbf24"),
+        ("pronuncia",        "🎤", "Pronúncia", "#f472b6"),
     ]
 
-    cols = st.columns(4)
+    cols = st.columns(5)
     for col, (modo_id, icone, nome, cor) in zip(cols, modos):
         with col:
             ativo = st.session_state.ex_modo_selecionado == modo_id
@@ -169,30 +175,69 @@ def render_menu(idioma, info, codigo):
     tipo = st.session_state.ex_modo_selecionado
 
     st.markdown("---")
-    st.markdown(f"### 2. Escolha o modulo")
+    st.markdown("### 2. Escolha o módulo")
 
-    modulos = listar_modulos_flat(idioma)
+    # Carrega níveis com módulos aninhados
+    indice = carregar_indice_modulos(idioma)
+    niveis = indice.get("niveis", [])
 
-    modulos_com_conteudo = []
-    for mod in modulos:
-        itens = carregar_modulo(idioma, mod["id"])
-        if itens:
-            modulos_com_conteudo.append({**mod, "total_itens": len(itens)})
+    # Filtra módulos com conteúdo, mantendo estrutura por nível
+    niveis_com_conteudo = []
+    for nivel in niveis:
+        modulos_com_conteudo = []
+        for mod in nivel.get("modulos", []):
+            itens = carregar_modulo(idioma, mod["id"])
+            if itens:
+                modulos_com_conteudo.append({**mod, "total_itens": len(itens)})
+        if modulos_com_conteudo:
+            niveis_com_conteudo.append({
+                **nivel,
+                "modulos": modulos_com_conteudo,
+            })
 
-    if not modulos_com_conteudo:
-        st.warning("Nenhum modulo com conteudo.")
+    if not niveis_com_conteudo:
+        st.warning("Nenhum módulo com conteúdo.")
         return
 
-    for i in range(0, len(modulos_com_conteudo), 3):
-        cols = st.columns(3)
-        for col, mod in zip(cols, modulos_com_conteudo[i:i+3]):
-            with col:
-                if st.button(
-                    f"{mod['icone']} {mod['nome']} ({mod['total_itens']})",
-                    use_container_width=True,
-                    key=f"ex_mod_{tipo}_{mod['id']}",
-                ):
-                    iniciar_sessao(idioma, mod["id"], mod["nome"], mod["total_itens"], codigo, tipo)
+    # Renderiza cada nível
+    for nivel in niveis_com_conteudo:
+        cor = nivel.get("cor", "#60a5fa")
+        icone = nivel.get("icone", "🔵")
+        nome = nivel.get("nome", "").upper()
+        descricao = nivel.get("descricao", "")
+
+        # Cabeçalho do nível
+        st.markdown(
+            f"""
+            <div style="
+                background: linear-gradient(90deg, {cor}22, transparent);
+                border-left: 4px solid {cor};
+                padding: 12px 20px;
+                border-radius: 8px;
+                margin: 24px 0 16px 0;
+            ">
+                <h3 style="margin: 0; color: {cor}; font-size: 20px;">
+                    {icone} {nome}
+                </h3>
+                <p style="margin: 4px 0 0 0; color: #94a3b8; font-size: 14px;">
+                    {descricao}
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        # Cards dos módulos do nível
+        for i in range(0, len(nivel["modulos"]), 3):
+            cols = st.columns(3)
+            for col, mod in zip(cols, nivel["modulos"][i:i+3]):
+                with col:
+                    if st.button(
+                        f"{mod['icone']} {mod['nome']} ({mod['total_itens']})",
+                        use_container_width=True,
+                        key=f"ex_mod_{tipo}_{mod['id']}",
+                    ):
+                        iniciar_sessao(idioma, mod["id"], mod["nome"], mod["total_itens"], codigo, tipo)
 
 
 def iniciar_sessao(idioma, modulo_id, modulo_nome, total, codigo, tipo):
@@ -268,7 +313,7 @@ def render_mc(idioma, codigo):
     item = questao["item"]
     opcoes = questao["opcoes"]
 
-    st.progress((idx + 1) / total)
+    st.progress(min((idx + 1) / total, 1.0))
     st.caption(f"Questao {idx + 1} de {total} - Modulo: {st.session_state.ex_modulo_nome}")
 
     palavra = item.get(codigo, "?")
@@ -348,7 +393,7 @@ def render_digitar(idioma, codigo):
     questao = questoes[idx]
     item = questao["item"]
 
-    st.progress((idx + 1) / total)
+    st.progress(min((idx + 1) / total, 1.0))
     st.caption(f"Questao {idx + 1} de {total} - Modulo: {st.session_state.ex_modulo_nome}")
 
     palavra = item.get(codigo, "?")
@@ -448,7 +493,14 @@ def render_resultado(idioma):
         total, acertos, erros,
     )
 
-    nome_tipo = "Multipla escolha" if tipo == "multipla_escolha" else "Digitar"
+    nomes_tipo = {
+        "multipla_escolha": "Multipla escolha",
+        "digitar": "Digitar",
+        "ouvir": "Ouça e Traduza",
+        "associar": "Associar",
+        "pronuncia": "Pronúncia",
+    }
+    nome_tipo = nomes_tipo.get(tipo, tipo)
 
     st.markdown(f"## Sessao finalizada - {nome_tipo}")
     st.markdown("---")
@@ -461,7 +513,7 @@ def render_resultado(idioma):
     with col3:
         st.metric("Taxa", f"{pct}%")
 
-    st.progress(pct / 100)
+    st.progress(min(pct / 100, 1.0))
 
     st.markdown("---")
 
@@ -491,7 +543,6 @@ def render_resultado(idioma):
             st.rerun()
 
 
-
 def render_ouvir(idioma, codigo):
     questoes = st.session_state.ex_questoes
     idx = st.session_state.ex_idx
@@ -505,7 +556,7 @@ def render_ouvir(idioma, codigo):
     questao = questoes[idx]
     item = questao["item"]
 
-    st.progress((idx + 1) / total)
+    st.progress(min((idx + 1) / total, 1.0))
     st.caption(f"🔊 Questao {idx + 1} de {total} · Modulo: {st.session_state.ex_modulo_nome}")
 
     palavra = item.get(codigo, "?")
@@ -598,6 +649,133 @@ def render_ouvir(idioma, codigo):
             st.session_state.ex_dica_mostrada = False
             st.rerun()
 
+
+def render_pronuncia(idioma, codigo):
+    questoes = st.session_state.ex_questoes
+    idx = st.session_state.ex_idx
+    total = len(questoes)
+
+    if idx >= total:
+        st.session_state.ex_finalizado = True
+        st.rerun()
+        return
+
+    questao = questoes[idx]
+    item = questao["item"]
+
+    st.progress(min((idx + 1) / total, 1.0))
+    st.caption(f"🎤 Questão {idx + 1} de {total} · Módulo: {st.session_state.ex_modulo_nome}")
+
+    palavra_en = item.get(codigo, "?")
+    trad_pt = item.get("pt", "?")
+    pron = item.get("pron", "")
+
+    # Card da pergunta
+    pergunta_html = (
+        '<div style="background: linear-gradient(135deg, #1a2332, #253045); '
+        'border: 1px solid #2d3748; border-radius: 24px; padding: 32px 24px; '
+        'text-align: center; margin: 24px 0;">'
+        '<div style="color: #a8b2c1; font-size: 13px; letter-spacing: 3px; text-transform: uppercase;">🎤 Pronuncie em voz alta</div>'
+        f'<div style="font-size: 42px; font-weight: bold; color: #ffffff; margin: 16px 0;">{palavra_en}</div>'
+        f'<div style="color: #94a3b8; font-size: 15px;">({trad_pt})</div>'
+        '</div>'
+    )
+    st.markdown(pergunta_html, unsafe_allow_html=True)
+
+    if not st.session_state.ex_respondido:
+        # Botão pra ouvir o áudio
+        col_a, col_b = st.columns(2)
+        with col_a:
+            if st.button("🔊 Ouvir", use_container_width=True, key=f"ouvir_pron_{idx}"):
+                try:
+                    audio_bytes = gerar_audio(palavra_en, codigo)
+                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
+                except Exception as e:
+                    st.caption(f"🔇 Audio indisponível: {e}")
+
+        with col_b:
+            st.caption("🎙️ Grave a palavra abaixo")
+
+        # Microfone
+        audio_input = st.audio_input("Fale agora:", key=f"mic_{idx}")
+
+        if audio_input:
+            st.audio(audio_input)
+
+            if st.button("✅ Verificar pronúncia", use_container_width=True, type="primary", key=f"verificar_pron_{idx}"):
+                try:
+                    audio_bytes = audio_input.read()
+                    wav_io = io.BytesIO(audio_bytes)
+
+                    with wave.open(wav_io, 'rb') as wav_file:
+                        frames = wav_file.readframes(wav_file.getnframes())
+                        sample_rate = wav_file.getframerate()
+                        sample_width = wav_file.getsampwidth()
+
+                    recognizer = sr.Recognizer()
+                    audio_data = sr.AudioData(frames, sample_rate, sample_width)
+                    texto_falado = recognizer.recognize_google(audio_data, language="en-US")
+
+                    # Normaliza pra comparar
+                    falado_norm = normalizar(texto_falado)
+                    esperado_norm = normalizar(palavra_en)
+
+                    acertou = (falado_norm == esperado_norm)
+
+                    st.session_state.ex_respondido = True
+                    st.session_state.ex_resposta_dada = texto_falado
+                    st.session_state.ex_resposta_correta = acertou
+                    st.session_state.ex_resposta_certa = palavra_en
+
+                    registrar_exercicio(
+                        idioma, st.session_state.ex_modulo, item["pt"],
+                        "pronuncia", acertou
+                    )
+                    st.session_state.ex_respostas.append(acertou)
+                    st.rerun()
+
+                except sr.UnknownValueError:
+                    st.error("❌ Não entendi o que você falou. Tenta de novo.")
+                except sr.RequestError as e:
+                    st.error(f"❌ Erro na API: {e}")
+                except wave.Error as e:
+                    st.error(f"❌ Erro no áudio: {e}")
+                except Exception as e:
+                    st.error(f"❌ Erro: {type(e).__name__}: {e}")
+
+    else:
+        resp_correta = st.session_state.ex_resposta_correta
+        resp_dada = st.session_state.ex_resposta_dada
+
+        if resp_correta:
+            st.success(f"🎉 Correto! Você falou **{resp_dada}** = **{palavra_en}**")
+        else:
+            st.error(f"❌ Você falou '{resp_dada}', mas era '{palavra_en}'. Tenta de novo!")
+
+        if pron:
+            st.markdown(
+                f'<div style="background: rgba(96, 165, 250, 0.15); '
+                f'border: 2px solid #60a5fa; border-radius: 14px; '
+                f'padding: 16px 24px; margin-top: 16px; text-align: center;">'
+                f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
+                f'🔊 {pron}'
+                f'</span>'
+                f'</div>',
+                unsafe_allow_html=True
+            )
+
+        # Re-toca o áudio correto
+        try:
+            audio_bytes = gerar_audio(palavra_en, codigo)
+            st.audio(audio_bytes, format="audio/mp3")
+        except Exception as e:
+            st.caption(f"🔇 Audio indisponível: {e}")
+
+        if st.button("➡️ Próxima questão", use_container_width=True, type="primary", key=f"prox_pron_{idx}"):
+            st.session_state.ex_idx += 1
+            st.session_state.ex_respondido = False
+            st.session_state.ex_dica_mostrada = False
+            st.rerun()
 
 
 def render_associar(idioma, codigo):
@@ -844,7 +1022,6 @@ def render_associar(idioma, codigo):
     if st.button("🔄 Reiniciar sessao", use_container_width=True, key="reiniciar_assoc"):
         resetar_associar()
         st.rerun()
-
 
 
 def resetar_associar():
