@@ -435,33 +435,45 @@ def render_digitar(idioma, codigo):
 
         if resp_correta:
             st.success(f"Correto! {palavra} = {trad_certa}")
+            if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_dig"):
+                st.session_state.ex_idx += 1
+                st.session_state.ex_respondido = False
+                st.session_state.ex_dica_mostrada = False
+                st.rerun()
         else:
             st.error(f"Errou. Voce digitou '{resp_dada}', mas era '{trad_certa}'")
 
-        pron = item.get("pron", "")
-        if pron:
-            st.markdown(
-                f'<div style="background: rgba(96, 165, 250, 0.15); '
-                f'border: 2px solid #60a5fa; border-radius: 14px; '
-                f'padding: 14px 20px; margin-top: 12px; text-align: center;">'
-                f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
-                f'🔊 {pron}'
-                f'</span>'
-                f'</div>',
-                unsafe_allow_html=True
-            )
+            pron = item.get("pron", "")
+            if pron:
+                st.markdown(
+                    f'<div style="background: rgba(96, 165, 250, 0.15); '
+                    f'border: 2px solid #60a5fa; border-radius: 14px; '
+                    f'padding: 14px 20px; margin-top: 12px; text-align: center;">'
+                    f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
+                    f'🔊 {pron}'
+                    f'</span>'
+                    f'</div>',
+                    unsafe_allow_html=True
+                )
 
-        try:
-            audio_bytes = gerar_audio(palavra, codigo)
-            st.audio(audio_bytes, format="audio/mp3")
-        except Exception as e:
-            st.caption(f"Audio indisponivel: {e}")
+            try:
+                audio_bytes = gerar_audio(palavra, codigo)
+                st.audio(audio_bytes, format="audio/mp3")
+            except Exception as e:
+                st.caption(f"Audio indisponivel: {e}")
 
-        if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_dig"):
-            st.session_state.ex_idx += 1
-            st.session_state.ex_respondido = False
-            st.session_state.ex_dica_mostrada = False
-            st.rerun()
+            col_a, col_b = st.columns(2)
+            with col_a:
+                if st.button("🔄 Repetir", use_container_width=True, key="repetir_dig"):
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
+            with col_b:
+                if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_dig"):
+                    st.session_state.ex_idx += 1
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
 
 
 def render_resultado(idioma):
@@ -607,33 +619,45 @@ def render_ouvir(idioma, codigo):
 
         if resp_correta:
             st.success(f"🎉 Correto! Voce ouviu **{palavra}** = **{trad_certa}**")
+            if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_ouvir"):
+                st.session_state.ex_idx += 1
+                st.session_state.ex_respondido = False
+                st.session_state.ex_dica_mostrada = False
+                st.rerun()
         else:
             st.error(f"❌ Errou. Voce digitou '{resp_dada}', mas era '{trad_certa}' (audio: {palavra})")
 
-        pron = item.get("pron", "")
-        if pron:
-            st.markdown(
-                f'<div style="background: rgba(96, 165, 250, 0.15); '
-                f'border: 2px solid #60a5fa; border-radius: 14px; '
-                f'padding: 16px 24px; margin-top: 16px; text-align: center;">'
-                f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
-                f'🔊 {pron}'
-                f'</span>'
-                f'</div>',
-                unsafe_allow_html=True
-            )
+            pron = item.get("pron", "")
+            if pron:
+                st.markdown(
+                    f'<div style="background: rgba(96, 165, 250, 0.15); '
+                    f'border: 2px solid #60a5fa; border-radius: 14px; '
+                    f'padding: 16px 24px; margin-top: 16px; text-align: center;">'
+                    f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
+                    f'🔊 {pron}'
+                    f'</span>'
+                    f'</div>',
+                    unsafe_allow_html=True
+                )
 
-        try:
-            audio_bytes = gerar_audio(palavra, codigo)
-            st.audio(audio_bytes, format="audio/mp3")
-        except Exception as e:
-            st.caption(f"🔇 Audio indisponivel: {e}")
+            try:
+                audio_bytes = gerar_audio(palavra, codigo)
+                st.audio(audio_bytes, format="audio/mp3")
+            except Exception as e:
+                st.caption(f"🔇 Audio indisponivel: {e}")
 
-        if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_ouvir"):
-            st.session_state.ex_idx += 1
-            st.session_state.ex_respondido = False
-            st.session_state.ex_dica_mostrada = False
-            st.rerun()
+            col_a, col_b = st.columns(2)
+            with col_a:
+                if st.button("🔄 Repetir", use_container_width=True, key="repetir_ouvir"):
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
+            with col_b:
+                if st.button("➡️ Proxima questao", use_container_width=True, type="primary", key="prox_q_ouvir"):
+                    st.session_state.ex_idx += 1
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
 
 
 def render_pronuncia(idioma, codigo):
@@ -689,7 +713,6 @@ def render_pronuncia(idioma, codigo):
             st.audio(audio['bytes'])
 
             try:
-                # Converte pra WAV mono 16kHz (formato que o Google aceita)
                 audio_seg = AudioSegment.from_file(io.BytesIO(audio['bytes']))
                 audio_seg = audio_seg.set_frame_rate(16000).set_channels(1).set_sample_width(2)
 
@@ -733,32 +756,44 @@ def render_pronuncia(idioma, codigo):
 
         if resp_correta:
             st.success(f"🎉 Correto! Você falou **{resp_dada}** = **{palavra_en}**")
+            if st.button("➡️ Próxima questão", use_container_width=True, type="primary", key=f"prox_pron_{idx}"):
+                st.session_state.ex_idx += 1
+                st.session_state.ex_respondido = False
+                st.session_state.ex_dica_mostrada = False
+                st.rerun()
         else:
             st.error(f"❌ Você falou '{resp_dada}', mas era '{palavra_en}'. Tenta de novo!")
 
-        if pron:
-            st.markdown(
-                f'<div style="background: rgba(96, 165, 250, 0.15); '
-                f'border: 2px solid #60a5fa; border-radius: 14px; '
-                f'padding: 16px 24px; margin-top: 16px; text-align: center;">'
-                f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
-                f'🔊 {pron}'
-                f'</span>'
-                f'</div>',
-                unsafe_allow_html=True
-            )
+            if pron:
+                st.markdown(
+                    f'<div style="background: rgba(96, 165, 250, 0.15); '
+                    f'border: 2px solid #60a5fa; border-radius: 14px; '
+                    f'padding: 16px 24px; margin-top: 16px; text-align: center;">'
+                    f'<span style="font-size: 24px; color: #60a5fa; font-weight: 700;">'
+                    f'🔊 {pron}'
+                    f'</span>'
+                    f'</div>',
+                    unsafe_allow_html=True
+                )
 
-        try:
-            audio_bytes = gerar_audio(palavra_en, codigo)
-            st.audio(audio_bytes, format="audio/mp3")
-        except Exception as e:
-            st.caption(f"🔇 Audio indisponível: {e}")
+            try:
+                audio_bytes = gerar_audio(palavra_en, codigo)
+                st.audio(audio_bytes, format="audio/mp3")
+            except Exception as e:
+                st.caption(f"🔇 Audio indisponível: {e}")
 
-        if st.button("➡️ Próxima questão", use_container_width=True, type="primary", key=f"prox_pron_{idx}"):
-            st.session_state.ex_idx += 1
-            st.session_state.ex_respondido = False
-            st.session_state.ex_dica_mostrada = False
-            st.rerun()
+            col_a, col_b = st.columns(2)
+            with col_a:
+                if st.button("🔄 Repetir", use_container_width=True, key=f"repetir_pron_{idx}"):
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
+            with col_b:
+                if st.button("➡️ Próxima questão", use_container_width=True, type="primary", key=f"prox_pron_{idx}"):
+                    st.session_state.ex_idx += 1
+                    st.session_state.ex_respondido = False
+                    st.session_state.ex_dica_mostrada = False
+                    st.rerun()
 
 
 def render_associar(idioma, codigo):
