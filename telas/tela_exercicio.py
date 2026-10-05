@@ -5,6 +5,8 @@ import re
 import io
 import wave
 import speech_recognition as sr
+from streamlit_mic_recorder import mic_recorder
+from pydub import AudioSegment
 from config import IDIOMAS
 from logica.navegacao import ir_para, voltar
 from logica.gerenciador_dados import carregar_modulo, listar_modulos_flat, carregar_indice_modulos
@@ -17,21 +19,15 @@ def normalizar(texto):
     if not texto:
         return ""
 
-    # Remove acentos
     nfkd = unicodedata.normalize("NFKD", texto)
     sem_acento = "".join(c for c in nfkd if not unicodedata.combining(c))
-
-    # Minusculo
     texto_limpo = sem_acento.lower()
 
-    # Remove pontuacao
     for char in "!?.,;:()[]{}":
         texto_limpo = texto_limpo.replace(char, "")
 
-    # Colapsa espacos
     texto_limpo = " ".join(texto_limpo.split())
 
-    # Remove palavras extras comuns do final
     extras = [" voce", " vc", " tu", " a", " o", " de", " da", " do"]
     mudou = True
     while mudou:
@@ -131,11 +127,9 @@ def resetar_sessao():
 def render_menu(idioma, info, codigo):
     st.markdown("### 1. Escolha o modo de exercicio")
 
-    # Inicializa o modo selecionado
     if "ex_modo_selecionado" not in st.session_state:
         st.session_state.ex_modo_selecionado = "multipla_escolha"
 
-    # Define os modos com suas cores e icones
     modos = [
         ("multipla_escolha", "🎯", "Multipla", "#34d399"),
         ("digitar",          "⌨️", "Digitar",  "#60a5fa"),
@@ -177,11 +171,9 @@ def render_menu(idioma, info, codigo):
     st.markdown("---")
     st.markdown("### 2. Escolha o módulo")
 
-    # Carrega níveis com módulos aninhados
     indice = carregar_indice_modulos(idioma)
     niveis = indice.get("niveis", [])
 
-    # Filtra módulos com conteúdo, mantendo estrutura por nível
     niveis_com_conteudo = []
     for nivel in niveis:
         modulos_com_conteudo = []
@@ -199,14 +191,12 @@ def render_menu(idioma, info, codigo):
         st.warning("Nenhum módulo com conteúdo.")
         return
 
-    # Renderiza cada nível
     for nivel in niveis_com_conteudo:
         cor = nivel.get("cor", "#60a5fa")
         icone = nivel.get("icone", "🔵")
         nome = nivel.get("nome", "").upper()
         descricao = nivel.get("descricao", "")
 
-        # Cabeçalho do nível
         st.markdown(
             f"""
             <div style="
@@ -227,7 +217,6 @@ def render_menu(idioma, info, codigo):
             unsafe_allow_html=True,
         )
 
-        # Cards dos módulos do nível
         for i in range(0, len(nivel["modulos"]), 3):
             cols = st.columns(3)
             for col, mod in zip(cols, nivel["modulos"][i:i+3]):
@@ -562,7 +551,6 @@ def render_ouvir(idioma, codigo):
     palavra = item.get(codigo, "?")
     trad_certa = item.get("pt", "?")
 
-    # Card da pergunta (sem mostrar o texto!)
     pergunta_html = (
         '<div style="background: linear-gradient(135deg, #1a2332, #253045); '
         'border: 1px solid #2d3748; border-radius: 24px; padding: 40px 32px; '
@@ -575,7 +563,6 @@ def render_ouvir(idioma, codigo):
     st.markdown(pergunta_html, unsafe_allow_html=True)
 
     if not st.session_state.ex_respondido:
-        # Toca o audio automaticamente na primeira vez
         try:
             audio_bytes = gerar_audio(palavra, codigo)
             st.audio(audio_bytes, format="audio/mp3", autoplay=True)
@@ -636,7 +623,6 @@ def render_ouvir(idioma, codigo):
                 unsafe_allow_html=True
             )
 
-        # Toca o audio de novo pra comparar
         try:
             audio_bytes = gerar_audio(palavra, codigo)
             st.audio(audio_bytes, format="audio/mp3")
@@ -670,7 +656,6 @@ def render_pronuncia(idioma, codigo):
     trad_pt = item.get("pt", "?")
     pron = item.get("pron", "")
 
-    # Card da pergunta
     pergunta_html = (
         '<div style="background: linear-gradient(135deg, #1a2332, #253045); '
         'border: 1px solid #2d3748; border-radius: 24px; padding: 32px 24px; '
@@ -683,65 +668,64 @@ def render_pronuncia(idioma, codigo):
     st.markdown(pergunta_html, unsafe_allow_html=True)
 
     if not st.session_state.ex_respondido:
-        # Botão pra ouvir o áudio
-        col_a, col_b = st.columns(2)
-        with col_a:
-            if st.button("🔊 Ouvir", use_container_width=True, key=f"ouvir_pron_{idx}"):
-                try:
-                    audio_bytes = gerar_audio(palavra_en, codigo)
-                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
-                except Exception as e:
-                    st.caption(f"🔇 Audio indisponível: {e}")
+        if st.button("🔊 Ouvir", use_container_width=True, key=f"ouvir_pron_{idx}"):
+            try:
+                audio_bytes_ref = gerar_audio(palavra_en, codigo)
+                st.audio(audio_bytes_ref, format="audio/mp3", autoplay=True)
+            except Exception as e:
+                st.caption(f"🔇 Audio indisponível: {e}")
 
-        with col_b:
-            st.caption("🎙️ Grave a palavra abaixo")
+        st.caption("🎙️ Clique em 'Gravar', fale a palavra, e clique em 'Parar'.")
 
-        # Microfone
-        audio_input = st.audio_input("Fale agora:", key=f"mic_{idx}")
+        audio = mic_recorder(
+            start_prompt="🎤 Gravar",
+            stop_prompt="⏹️ Parar",
+            just_once=False,
+            use_container_width=False,
+            key=f"mic_{idx}",
+        )
 
-        if audio_input:
-            st.audio(audio_input)
+        if audio:
+            st.audio(audio['bytes'])
 
-            if st.button("✅ Verificar pronúncia", use_container_width=True, type="primary", key=f"verificar_pron_{idx}"):
-                try:
-                    audio_bytes = audio_input.read()
-                    wav_io = io.BytesIO(audio_bytes)
+            try:
+                # Converte pra WAV mono 16kHz (formato que o Google aceita)
+                audio_seg = AudioSegment.from_file(io.BytesIO(audio['bytes']))
+                audio_seg = audio_seg.set_frame_rate(16000).set_channels(1).set_sample_width(2)
 
-                    with wave.open(wav_io, 'rb') as wav_file:
-                        frames = wav_file.readframes(wav_file.getnframes())
-                        sample_rate = wav_file.getframerate()
-                        sample_width = wav_file.getsampwidth()
+                wav_io = io.BytesIO()
+                audio_seg.export(wav_io, format="wav")
+                wav_io.seek(0)
 
-                    recognizer = sr.Recognizer()
-                    audio_data = sr.AudioData(frames, sample_rate, sample_width)
-                    texto_falado = recognizer.recognize_google(audio_data, language="en-US")
+                recognizer = sr.Recognizer()
+                with sr.AudioFile(wav_io) as source:
+                    audio_data = recognizer.record(source)
 
-                    # Normaliza pra comparar
-                    falado_norm = normalizar(texto_falado)
-                    esperado_norm = normalizar(palavra_en)
+                texto_falado = recognizer.recognize_google(audio_data, language="en-US")
 
-                    acertou = (falado_norm == esperado_norm)
+                falado_norm = normalizar(texto_falado)
+                esperado_norm = normalizar(palavra_en)
 
-                    st.session_state.ex_respondido = True
-                    st.session_state.ex_resposta_dada = texto_falado
-                    st.session_state.ex_resposta_correta = acertou
-                    st.session_state.ex_resposta_certa = palavra_en
+                acertou = (falado_norm == esperado_norm)
 
-                    registrar_exercicio(
-                        idioma, st.session_state.ex_modulo, item["pt"],
-                        "pronuncia", acertou
-                    )
-                    st.session_state.ex_respostas.append(acertou)
-                    st.rerun()
+                st.session_state.ex_respondido = True
+                st.session_state.ex_resposta_dada = texto_falado
+                st.session_state.ex_resposta_correta = acertou
+                st.session_state.ex_resposta_certa = palavra_en
 
-                except sr.UnknownValueError:
-                    st.error("❌ Não entendi o que você falou. Tenta de novo.")
-                except sr.RequestError as e:
-                    st.error(f"❌ Erro na API: {e}")
-                except wave.Error as e:
-                    st.error(f"❌ Erro no áudio: {e}")
-                except Exception as e:
-                    st.error(f"❌ Erro: {type(e).__name__}: {e}")
+                registrar_exercicio(
+                    idioma, st.session_state.ex_modulo, item["pt"],
+                    "pronuncia", acertou
+                )
+                st.session_state.ex_respostas.append(acertou)
+                st.rerun()
+
+            except sr.UnknownValueError:
+                st.error("❌ Não entendi o que você falou. Tenta de novo.")
+            except sr.RequestError as e:
+                st.error(f"❌ Erro na API: {e}")
+            except Exception as e:
+                st.error(f"❌ Erro: {type(e).__name__}: {e}")
 
     else:
         resp_correta = st.session_state.ex_resposta_correta
@@ -764,7 +748,6 @@ def render_pronuncia(idioma, codigo):
                 unsafe_allow_html=True
             )
 
-        # Re-toca o áudio correto
         try:
             audio_bytes = gerar_audio(palavra_en, codigo)
             st.audio(audio_bytes, format="audio/mp3")
@@ -796,9 +779,6 @@ def render_associar(idioma, codigo):
     PARES_POR_RODADA = 4
     TOTAL_RODADAS = 5
 
-    # ============================================
-    # INICIALIZA ESTADO
-    # ============================================
     if "as_lista_embaralhada" not in st.session_state or not st.session_state.as_lista_embaralhada:
         lista = questoes.copy()
         random.shuffle(lista)
@@ -810,7 +790,6 @@ def render_associar(idioma, codigo):
         st.session_state.as_selecionado_pt = None
         st.session_state.as_erros_rodada = 0
 
-    # Mensagem de feedback persistente
     if "as_msg_feedback" not in st.session_state:
         st.session_state.as_msg_feedback = None
 
@@ -824,22 +803,18 @@ def render_associar(idioma, codigo):
     fim = inicio + PARES_POR_RODADA
     rodada = lista_embaralhada[inicio:fim]
 
-    # Embaralha coluna EN (com ID unico por item pra garantir par certo)
     chave_rodada = f"as_en_rodada_{rodada_num}"
     if chave_rodada not in st.session_state:
         en_embaralhada = []
         for idx, item in enumerate(rodada):
             item_copia = dict(item)
-            item_copia["_id_temp"] = idx  # ID unico pra rastrear
+            item_copia["_id_temp"] = idx
             en_embaralhada.append(item_copia)
         random.shuffle(en_embaralhada)
         st.session_state[chave_rodada] = en_embaralhada
 
     en_embaralhada = st.session_state[chave_rodada]
 
-    # ============================================
-    # SESSAO COMPLETA (verifica ANTES de mostrar progresso)
-    # ============================================
     if rodada_num > total_rodadas_possiveis:
         st.markdown("## 🏁 Sessao completa!")
         st.markdown("---")
@@ -862,28 +837,18 @@ def render_associar(idioma, codigo):
                 st.rerun()
         return
 
-    # ============================================
-    # HEADER (so aparece se ainda nao acabou)
-    # ============================================
     pct_progresso = min(rodada_num / total_rodadas_possiveis, 1.0) if total_rodadas_possiveis > 0 else 0.0
     st.progress(pct_progresso)
     st.caption(f"🧩 Rodada {rodada_num} de {total_rodadas_possiveis} · Modulo: {st.session_state.ex_modulo_nome}")
 
-    # ============================================
-    # MOSTRA FEEDBACK PENDENTE
-    # ============================================
     if st.session_state.as_msg_feedback:
         tipo, texto = st.session_state.as_msg_feedback
         if tipo == "erro":
             st.error(texto)
         elif tipo == "acerto":
             st.success(texto)
-        # Limpa depois de mostrar
         st.session_state.as_msg_feedback = None
 
-    # ============================================
-    # SESSAO COMPLETA
-    # ============================================
     if rodada_num > total_rodadas_possiveis:
         st.markdown("## 🏁 Sessao completa!")
         st.markdown("---")
@@ -906,9 +871,6 @@ def render_associar(idioma, codigo):
                 st.rerun()
         return
 
-    # ============================================
-    # RODADA COMPLETA
-    # ============================================
     if len(st.session_state.as_pares_feitos) >= len(rodada):
         st.success(f"🎉 Rodada {rodada_num} completa!")
         acertos_r = len(rodada) - st.session_state.as_erros_rodada
@@ -929,12 +891,8 @@ def render_associar(idioma, codigo):
             st.rerun()
         return
 
-    # ============================================
-    # MOSTRA AS DUAS COLUNAS
-    # ============================================
     col_pt, col_en = st.columns(2)
 
-    # Coluna PT
     with col_pt:
         st.markdown("#### 🇧🇷 Portugues")
         for i, item in enumerate(rodada):
@@ -958,7 +916,6 @@ def render_associar(idioma, codigo):
                     st.session_state.as_msg_feedback = None
                     st.rerun()
 
-    # Coluna EN
     with col_en:
         st.markdown(f"#### {IDIOMAS[idioma]['nome']}")
         for i, item in enumerate(en_embaralhada):
@@ -980,7 +937,6 @@ def render_associar(idioma, codigo):
                         st.rerun()
                     else:
                         if st.session_state.as_selecionado_pt == pt_item:
-                            # ACERTOU
                             st.session_state.as_pares_feitos.append(pt_item)
 
                             from logica.gerenciador_exercicios import registrar_exercicio
@@ -993,7 +949,6 @@ def render_associar(idioma, codigo):
                             st.session_state.as_msg_feedback = ("acerto", f"✅ Acertou! {pt_item} = {traducao}")
                             st.rerun()
                         else:
-                            # ERROU - mostra feedback e MANTEM o PT selecionado
                             st.session_state.as_erros_rodada += 1
                             palavra_errada = st.session_state.as_selecionado_pt
 
@@ -1003,21 +958,14 @@ def render_associar(idioma, codigo):
                                 "associar", False
                             )
 
-                            # MANTEM o PT selecionado pra pessoa tentar de novo
                             st.session_state.as_msg_feedback = ("erro", f"❌ Errou! **{palavra_errada}** nao combina com **{traducao}**. Tenta de novo!")
                             st.rerun()
 
-    # ============================================
-    # FEEDBACK
-    # ============================================
     if st.session_state.as_selecionado_pt:
         st.info(f"👆 Agora escolhe a traducao de **{st.session_state.as_selecionado_pt}**")
     else:
         st.caption("👈 Escolhe uma palavra em portugues pra comecar")
 
-    # ============================================
-    # BOTAO REINICIAR
-    # ============================================
     st.markdown("---")
     if st.button("🔄 Reiniciar sessao", use_container_width=True, key="reiniciar_assoc"):
         resetar_associar()
@@ -1033,7 +981,6 @@ def resetar_associar():
     st.session_state.as_selecionado_pt = None
     st.session_state.as_erros_rodada = 0
     st.session_state.as_msg_feedback = None
-    # Limpa todas as rodadas antigas
     chaves = [k for k in st.session_state.keys() if k.startswith("as_en_rodada_")]
     for k in chaves:
         del st.session_state[k]

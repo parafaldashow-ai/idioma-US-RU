@@ -1,3 +1,5 @@
 streamlit>=1.30
 gtts>=2.5
 SpeechRecognition
+streamlit-mic-recorder
+pydub
