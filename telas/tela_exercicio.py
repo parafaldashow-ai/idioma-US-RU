@@ -14,20 +14,252 @@ from logica.gerenciador_exercicios import registrar_exercicio, registrar_sessao
 from logica.gerenciador_audio import gerar_audio
 
 
+# ============================================================
+# DICIONARIO DE SINONIMOS / VARIACOES ACEITAVEIS
+# ============================================================
+# Toda palavra que aparece como CHAVE vira o VALOR na normalizacao.
+# Ex: "okay" vira "ok", "gonna" vira "going to", etc.
+SINONIMOS = {
+    # ===== OK / Okay =====
+    "okay": "ok",
+    "ok": "ok",
+    "k": "ok",
+
+    # ===== Contrações (Google costuma expandir) =====
+    "i am": "im",
+    "im": "im",
+    "i'm": "im",
+    "you are": "youre",
+    "youre": "youre",
+    "you're": "youre",
+    "we are": "were",
+    "we're": "were",
+    "they are": "theyre",
+    "theyre": "theyre",
+    "they're": "theyre",
+    "he is": "hes",
+    "hes": "hes",
+    "he's": "hes",
+    "she is": "shes",
+    "shes": "shes",
+    "she's": "shes",
+    "it is": "its",
+    "its": "its",
+    "it's": "its",
+    "that is": "thats",
+    "thats": "thats",
+    "that's": "thats",
+    "what is": "whats",
+    "whats": "whats",
+    "what's": "whats",
+    "let us": "lets",
+    "lets": "lets",
+    "let's": "lets",
+
+    # ===== Negativas =====
+    "do not": "dont",
+    "dont": "dont",
+    "don't": "dont",
+    "does not": "doesnt",
+    "doesnt": "doesnt",
+    "doesn't": "doesnt",
+    "did not": "didnt",
+    "didnt": "didnt",
+    "didn't": "didnt",
+    "is not": "isnt",
+    "isnt": "isnt",
+    "isn't": "isnt",
+    "are not": "arent",
+    "arent": "arent",
+    "aren't": "arent",
+    "was not": "wasnt",
+    "wasnt": "wasnt",
+    "wasn't": "wasnt",
+    "were not": "werent",
+    "werent": "werent",
+    "weren't": "werent",
+    "can not": "cant",
+    "cannot": "cant",
+    "cant": "cant",
+    "can't": "cant",
+    "will not": "wont",
+    "wont": "wont",
+    "won't": "wont",
+    "would not": "wouldnt",
+    "wouldnt": "wouldnt",
+    "wouldn't": "wouldnt",
+    "should not": "shouldnt",
+    "shouldnt": "shouldnt",
+    "shouldn't": "shouldnt",
+    "could not": "couldnt",
+    "couldnt": "couldnt",
+    "couldn't": "couldnt",
+    "have not": "havent",
+    "havent": "havent",
+    "haven't": "havent",
+    "has not": "hasnt",
+    "hasnt": "hasnt",
+    "hasn't": "hasnt",
+    "had not": "hadnt",
+    "hadnt": "hadnt",
+    "hadn't": "hadnt",
+
+    # ===== Verbos informais =====
+    "going to": "gonna",
+    "gonna": "gonna",
+    "want to": "wanna",
+    "wanna": "wanna",
+    "got to": "gotta",
+    "gotta": "gotta",
+    "do not know": "dunno",
+    "dont know": "dunno",
+    "dunno": "dunno",
+    "let me": "lemme",
+    "lemme": "lemme",
+    "give me": "gimme",
+    "gimme": "gimme",
+    "kind of": "kinda",
+    "kinda": "kinda",
+    "sort of": "sorta",
+    "sorta": "sorta",
+    "out of": "outta",
+    "outta": "outta",
+
+    # ===== Numeros =====
+    "0": "zero",
+    "zero": "zero",
+    "1": "one",
+    "one": "one",
+    "2": "two",
+    "two": "two",
+    "3": "three",
+    "three": "three",
+    "4": "four",
+    "four": "four",
+    "5": "five",
+    "five": "five",
+    "6": "six",
+    "six": "six",
+    "7": "seven",
+    "seven": "seven",
+    "8": "eight",
+    "eight": "eight",
+    "9": "nine",
+    "nine": "nine",
+    "10": "ten",
+    "ten": "ten",
+    "11": "eleven",
+    "eleven": "eleven",
+    "12": "twelve",
+    "twelve": "twelve",
+    "13": "thirteen",
+    "thirteen": "thirteen",
+    "20": "twenty",
+    "twenty": "twenty",
+    "30": "thirty",
+    "thirty": "thirty",
+    "50": "fifty",
+    "fifty": "fifty",
+    "100": "hundred",
+    "hundred": "hundred",
+    "1000": "thousand",
+    "thousand": "thousand",
+
+    # ===== Homofonos =====
+    "their": "there",
+    "theyre": "there",
+    "too": "to",
+    "two": "to",
+    "write": "right",
+    "rite": "right",
+    "see": "sea",
+    "meet": "meat",
+    "hear": "here",
+    "wear": "where",
+    "weather": "whether",
+    "whose": "whos",
+    "whos": "whos",
+    "who is": "whos",
+    "who's": "whos",
+    "witch": "which",
+
+    # ===== Palavras compostas =====
+    "good bye": "goodbye",
+    "goodbye": "goodbye",
+    "thank you": "thankyou",
+    "thankyou": "thankyou",
+    "thanks": "thankyou",
+    "icecream": "ice cream",
+    "ice cream": "ice cream",
+    "every body": "everybody",
+    "everybody": "everybody",
+    "any body": "anybody",
+    "anybody": "anybody",
+    "some body": "somebody",
+    "somebody": "somebody",
+    "no body": "nobody",
+    "nobody": "nobody",
+
+    # ===== Singular x Plural =====
+    "apples": "apple",
+    "colors": "color",
+    "colour": "color",
+    "books": "book",
+    "cats": "cat",
+    "dogs": "dog",
+    "cars": "car",
+    "houses": "house",
+    "friends": "friend",
+    "peoples": "people",
+    "childrens": "children",
+    "mans": "man",
+    "womans": "woman",
+    "women": "woman",
+
+    # ===== Variacoes de escrita (EUA x UK) =====
+    "favorite": "favorite",
+    "favourite": "favorite",
+    "theater": "theater",
+    "theatre": "theater",
+    "center": "center",
+    "centre": "center",
+    "defense": "defense",
+    "defence": "defense",
+    "organize": "organize",
+    "organise": "organize",
+    "realize": "realize",
+    "realise": "realize",
+    "traveling": "traveling",
+    "travelling": "traveling",
+}
+
+
 def normalizar(texto):
-    """Normaliza texto pra comparacao tolerante."""
+    """Normaliza texto pra comparacao tolerante.
+
+    Faz:
+    - Remove acentos
+    - Deixa minusculo
+    - Remove pontuacao
+    - Remove palavras extras do final
+    - Aplica sinonimos (okay -> ok, gonna -> going to, etc.)
+    """
     if not texto:
         return ""
 
+    # 1. Remove acentos e normaliza unicode
     nfkd = unicodedata.normalize("NFKD", texto)
     sem_acento = "".join(c for c in nfkd if not unicodedata.combining(c))
     texto_limpo = sem_acento.lower()
 
-    for char in "!?.,;:()[]{}":
+    # 2. Remove pontuacao (incluindo apostrofos e hifens)
+    for char in "!?.,;:()[]{}\"'-":
         texto_limpo = texto_limpo.replace(char, "")
 
+    # 3. Normaliza espacos multiplos
     texto_limpo = " ".join(texto_limpo.split())
 
+    # 4. Remove palavras extras do final
     extras = [" voce", " vc", " tu", " a", " o", " de", " da", " do"]
     mudou = True
     while mudou:
@@ -37,6 +269,28 @@ def normalizar(texto):
                 texto_limpo = texto_limpo[:-len(extra)].strip()
                 mudou = True
 
+    # 5. Aplica sinonimos (o grande truque!)
+    #    Faz duas passadas pra pegar tanto palavras unicas quanto
+    #    expressoes compostas (ex: "do not" -> "dont")
+    palavras = texto_limpo.split()
+    resultado = []
+    i = 0
+    while i < len(palavras):
+        # Tenta combinar 3, 2 ou 1 palavra
+        combinou = False
+        for n in (3, 2, 1):
+            if i + n <= len(palavras):
+                trecho = " ".join(palavras[i:i+n])
+                if trecho in SINONIMOS:
+                    resultado.append(SINONIMOS[trecho])
+                    i += n
+                    combinou = True
+                    break
+        if not combinou:
+            resultado.append(palavras[i])
+            i += 1
+
+    texto_limpo = " ".join(resultado)
     return texto_limpo
 
 
@@ -883,28 +1137,6 @@ def render_associar(idioma, codigo):
         elif tipo == "acerto":
             st.success(texto)
         st.session_state.as_msg_feedback = None
-
-    if rodada_num > total_rodadas_possiveis:
-        st.markdown("## 🏁 Sessao completa!")
-        st.markdown("---")
-
-        col1, col2 = st.columns(2)
-        with col1:
-            st.metric("✅ Acertos", st.session_state.as_acertos_total)
-        with col2:
-            st.metric("❌ Erros", st.session_state.as_erros_total)
-
-        st.markdown("---")
-        col_a, col_b = st.columns(2)
-        with col_a:
-            if st.button("🔄 Nova sessao", use_container_width=True, type="primary", key="nova_sessao_assoc"):
-                resetar_associar()
-                st.rerun()
-        with col_b:
-            if st.button("📚 Escolher outro modulo", use_container_width=True, key="outro_mod_assoc"):
-                resetar_sessao()
-                st.rerun()
-        return
 
     if len(st.session_state.as_pares_feitos) >= len(rodada):
         st.success(f"🎉 Rodada {rodada_num} completa!")
