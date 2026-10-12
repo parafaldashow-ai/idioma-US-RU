@@ -1,0 +1,307 @@
+[
+  {
+    "pt": "eu sou / eu estou",
+    "es": "yo soy / estoy",
+    "pron": "yo sói / estói"
+  },
+  {
+    "pt": "voce e / voce esta",
+    "es": "tú eres / estás",
+    "pron": "tú éres / estás"
+  },
+  {
+    "pt": "ele e / ele esta",
+    "es": "él es / está",
+    "pron": "él es / está"
+  },
+  {
+    "pt": "ela e / ela esta",
+    "es": "ella es / está",
+    "pron": "éya es / está"
+  },
+  {
+    "pt": "isso e / isso esta",
+    "es": "eso es / está",
+    "pron": "éso es / está"
+  },
+  {
+    "pt": "nos somos / estamos",
+    "es": "nosotros somos / estamos",
+    "pron": "nosótros sómos / estámos"
+  },
+  {
+    "pt": "voces sao / estao",
+    "es": "ustedes son / están",
+    "pron": "ustédes son / están"
+  },
+  {
+    "pt": "eles sao / estao",
+    "es": "ellos son / están",
+    "pron": "éyos son / están"
+  },
+  {
+    "pt": "eu sou (contraido)",
+    "es": "yo soy",
+    "pron": "yo sói"
+  },
+  {
+    "pt": "voce e (contraido)",
+    "es": "tú eres",
+    "pron": "tú éres"
+  },
+  {
+    "pt": "ele e (contraido)",
+    "es": "él es",
+    "pron": "él es"
+  },
+  {
+    "pt": "ela e (contraido)",
+    "es": "ella es",
+    "pron": "éya es"
+  },
+  {
+    "pt": "isso e (contraido)",
+    "es": "eso es",
+    "pron": "éso es"
+  },
+  {
+    "pt": "nos somos (contraido)",
+    "es": "nosotros somos",
+    "pron": "nosótros sómos"
+  },
+  {
+    "pt": "eles sao (contraido)",
+    "es": "ellos son",
+    "pron": "éyos son"
+  },
+  {
+    "pt": "eu sou do Brasil",
+    "es": "soy de Brasil",
+    "pron": "sói de Brasíl"
+  },
+  {
+    "pt": "eu sou brasileiro",
+    "es": "soy brasileño",
+    "pron": "sói brasiléño"
+  },
+  {
+    "pt": "meu nome e Joao",
+    "es": "me llamo Juan",
+    "pron": "me yámo juán"
+  },
+  {
+    "pt": "qual e o seu nome?",
+    "es": "¿cómo te llamas?",
+    "pron": "kómo te yámas"
+  },
+  {
+    "pt": "prazer em conhecer",
+    "es": "mucho gusto",
+    "pron": "múcho gústo"
+  },
+  {
+    "pt": "eu sou estudante",
+    "es": "soy estudiante",
+    "pron": "sói estudiánte"
+  },
+  {
+    "pt": "eu sou professor",
+    "es": "soy profesor",
+    "pron": "sói profesór"
+  },
+  {
+    "pt": "eu tenho 25 anos",
+    "es": "tengo 25 años",
+    "pron": "téngo béinti sínko áños"
+  },
+  {
+    "pt": "ela tem 30 anos",
+    "es": "ella tiene 30 años",
+    "pron": "éya tiéne tréinta áños"
+  },
+  {
+    "pt": "ele tem 18 anos",
+    "es": "él tiene 18 años",
+    "pron": "él tiéne diesiócho áños"
+  },
+  {
+    "pt": "quantos anos voce tem?",
+    "es": "¿cuántos años tienes?",
+    "pron": "kuántos áños tiénes"
+  },
+  {
+    "pt": "nos temos 40 anos",
+    "es": "tenemos 40 años",
+    "pron": "tenémos kuarénta áños"
+  },
+  {
+    "pt": "eu estou cansado",
+    "es": "estoy cansado",
+    "pron": "estói kansádo"
+  },
+  {
+    "pt": "ela esta feliz",
+    "es": "ella está feliz",
+    "pron": "éya está felís"
+  },
+  {
+    "pt": "ele esta triste",
+    "es": "él está triste",
+    "pron": "él está tríste"
+  },
+  {
+    "pt": "nos estamos com fome",
+    "es": "tenemos hambre",
+    "pron": "tenémos ámbre"
+  },
+  {
+    "pt": "eu estou com sede",
+    "es": "tengo sed",
+    "pron": "téngo sed"
+  },
+  {
+    "pt": "ele esta com medo",
+    "es": "él tiene miedo",
+    "pron": "él tiéne miédo"
+  },
+  {
+    "pt": "estou animado",
+    "es": "estoy animado",
+    "pron": "estói animádo"
+  },
+  {
+    "pt": "ela esta com raiva",
+    "es": "ella está enojada",
+    "pron": "éya está enojáda"
+  },
+  {
+    "pt": "ele e alto",
+    "es": "él es alto",
+    "pron": "él es álto"
+  },
+  {
+    "pt": "ela e bonita",
+    "es": "ella es guapa",
+    "pron": "éya es guápa"
+  },
+  {
+    "pt": "isso e grande",
+    "es": "eso es grande",
+    "pron": "éso es gránde"
+  },
+  {
+    "pt": "isso e pequeno",
+    "es": "eso es pequeño",
+    "pron": "éso es pek éño"
+  },
+  {
+    "pt": "ele e inteligente",
+    "es": "él es inteligente",
+    "pron": "él es intelijénte"
+  },
+  {
+    "pt": "isso e muito bom",
+    "es": "eso es muy bueno",
+    "pron": "éso es mui buéno"
+  },
+  {
+    "pt": "eu estou em casa",
+    "es": "estoy en casa",
+    "pron": "estói en kása"
+  },
+  {
+    "pt": "ela esta no trabalho",
+    "es": "ella está en el trabajo",
+    "pron": "éya está en el trabájo"
+  },
+  {
+    "pt": "ele esta na escola",
+    "es": "él está en la escuela",
+    "pron": "él está en la eskuéla"
+  },
+  {
+    "pt": "nos estamos aqui",
+    "es": "estamos aquí",
+    "pron": "estámos akí"
+  },
+  {
+    "pt": "onde voce esta?",
+    "es": "¿dónde estás?",
+    "pron": "dónde estás"
+  },
+  {
+    "pt": "eles estao la",
+    "es": "ellos están allí",
+    "pron": "éyos están ayí"
+  },
+  {
+    "pt": "esta frio hoje",
+    "es": "hace frío hoy",
+    "pron": "áse frío ói"
+  },
+  {
+    "pt": "esta quente",
+    "es": "hace calor",
+    "pron": "áse kalór"
+  },
+  {
+    "pt": "esta chovendo",
+    "es": "está lloviendo",
+    "pron": "está yobiéndo"
+  },
+  {
+    "pt": "esta ensolarado",
+    "es": "está soleado",
+    "pron": "está soleádo"
+  },
+  {
+    "pt": "eu nao sou",
+    "es": "yo no soy",
+    "pron": "yo no sói"
+  },
+  {
+    "pt": "ele nao e",
+    "es": "él no es",
+    "pron": "él no es"
+  },
+  {
+    "pt": "nos nao somos",
+    "es": "no somos",
+    "pron": "no sómos"
+  },
+  {
+    "pt": "eu nao estou cansado",
+    "es": "no estoy cansado",
+    "pron": "no estói kansádo"
+  },
+  {
+    "pt": "ela nao e minha irma",
+    "es": "ella no es mi hermana",
+    "pron": "éya no es mi ermána"
+  },
+  {
+    "pt": "voce esta bem?",
+    "es": "¿estás bien?",
+    "pron": "estás bién"
+  },
+  {
+    "pt": "ele e seu amigo?",
+    "es": "¿es tu amigo?",
+    "pron": "es tu amígo"
+  },
+  {
+    "pt": "ela e sua mae?",
+    "es": "¿es tu madre?",
+    "pron": "es tu mádre"
+  },
+  {
+    "pt": "eles sao do Brasil?",
+    "es": "¿son de Brasil?",
+    "pron": "son de Brasíl"
+  },
+  {
+    "pt": "isso e novo?",
+    "es": "¿es nuevo?",
+    "pron": "es nuébo"
+  }
+]

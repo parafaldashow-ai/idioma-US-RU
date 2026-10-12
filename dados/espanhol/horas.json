@@ -1,0 +1,992 @@
+[
+  {
+    "pt": "hora",
+    "es": "hora",
+    "pron": "óra"
+  },
+  {
+    "pt": "hora (relógio)",
+    "es": "en punto",
+    "pron": "en púnto"
+  },
+  {
+    "pt": "minuto",
+    "es": "minuto",
+    "pron": "minúto"
+  },
+  {
+    "pt": "segundo",
+    "es": "segundo",
+    "pron": "segúndo"
+  },
+  {
+    "pt": "manhã",
+    "es": "mañana",
+    "pron": "mañána"
+  },
+  {
+    "pt": "tarde",
+    "es": "tarde",
+    "pron": "tárde"
+  },
+  {
+    "pt": "noite",
+    "es": "noche",
+    "pron": "nóche"
+  },
+  {
+    "pt": "noite (dormir)",
+    "es": "noche",
+    "pron": "nóche"
+  },
+  {
+    "pt": "meio-dia",
+    "es": "mediodía",
+    "pron": "mediodía"
+  },
+  {
+    "pt": "meia-noite",
+    "es": "medianoche",
+    "pron": "medianóche"
+  },
+  {
+    "pt": "madrugada",
+    "es": "madrugada",
+    "pron": "madrugáda"
+  },
+  {
+    "pt": "amanhecer",
+    "es": "amanecer",
+    "pron": "amanesér"
+  },
+  {
+    "pt": "anoitecer",
+    "es": "anochecer",
+    "pron": "anoch esér"
+  },
+  {
+    "pt": "agora",
+    "es": "ahora",
+    "pron": "áora"
+  },
+  {
+    "pt": "mais tarde",
+    "es": "más tarde",
+    "pron": "más tárde"
+  },
+  {
+    "pt": "cedo",
+    "es": "temprano",
+    "pron": "tempráno"
+  },
+  {
+    "pt": "tarde (atrasado)",
+    "es": "tarde",
+    "pron": "tárde"
+  },
+  {
+    "pt": "em ponto",
+    "es": "en punto",
+    "pron": "en púnto"
+  },
+  {
+    "pt": "aproximadamente",
+    "es": "aproximadamente",
+    "pron": "aproksimadaménte"
+  },
+  {
+    "pt": "mais ou menos",
+    "es": "más o menos",
+    "pron": "más o ménos"
+  },
+  {
+    "pt": "primeiro",
+    "es": "primero",
+    "pron": "priméro"
+  },
+  {
+    "pt": "terceiro",
+    "es": "tercero",
+    "pron": "terséro"
+  },
+  {
+    "pt": "quarto",
+    "es": "habitación",
+    "pron": "abitación"
+  },
+  {
+    "pt": "quinto",
+    "es": "quinto",
+    "pron": "kínto"
+  },
+  {
+    "pt": "sexto",
+    "es": "sexto",
+    "pron": "séksto"
+  },
+  {
+    "pt": "sétimo",
+    "es": "séptimo",
+    "pron": "séptimo"
+  },
+  {
+    "pt": "oitavo",
+    "es": "octavo",
+    "pron": "oktábo"
+  },
+  {
+    "pt": "nono",
+    "es": "noveno",
+    "pron": "nobéno"
+  },
+  {
+    "pt": "décimo",
+    "es": "décimo",
+    "pron": "désimo"
+  },
+  {
+    "pt": "último",
+    "es": "último",
+    "pron": "último"
+  },
+  {
+    "pt": "próximo",
+    "es": "próximo",
+    "pron": "próksimo"
+  },
+  {
+    "pt": "penúltimo",
+    "es": "penúltimo",
+    "pron": "penúltimo"
+  },
+  {
+    "pt": "uma hora",
+    "es": "la una",
+    "pron": "la úna"
+  },
+  {
+    "pt": "duas horas",
+    "es": "las dos",
+    "pron": "las dos"
+  },
+  {
+    "pt": "três horas",
+    "es": "las tres",
+    "pron": "las tres"
+  },
+  {
+    "pt": "quatro horas",
+    "es": "las cuatro",
+    "pron": "las kuátro"
+  },
+  {
+    "pt": "cinco horas",
+    "es": "las cinco",
+    "pron": "las sínko"
+  },
+  {
+    "pt": "seis horas",
+    "es": "las seis",
+    "pron": "las seis"
+  },
+  {
+    "pt": "sete horas",
+    "es": "las siete",
+    "pron": "las siéte"
+  },
+  {
+    "pt": "oito horas",
+    "es": "las ocho",
+    "pron": "las ócho"
+  },
+  {
+    "pt": "nove horas",
+    "es": "las nueve",
+    "pron": "las nuébe"
+  },
+  {
+    "pt": "dez horas",
+    "es": "las diez",
+    "pron": "las diés"
+  },
+  {
+    "pt": "onze horas",
+    "es": "las once",
+    "pron": "las ónse"
+  },
+  {
+    "pt": "meio-dia e meia",
+    "es": "las doce y media",
+    "pron": "las dóse i média"
+  },
+  {
+    "pt": "quinze minutos",
+    "es": "quince minutos",
+    "pron": "kínse minútos"
+  },
+  {
+    "pt": "trinta minutos",
+    "es": "treinta minutos",
+    "pron": "tréinta minútos"
+  },
+  {
+    "pt": "quarenta e cinco minutos",
+    "es": "cuarenta y cinco minutos",
+    "pron": "kuarénta i sínko minútos"
+  },
+  {
+    "pt": "e quinze",
+    "es": "y cuarto",
+    "pron": "i kuárto"
+  },
+  {
+    "pt": "e meia",
+    "es": "y media",
+    "pron": "i média"
+  },
+  {
+    "pt": "quinze para",
+    "es": "cuarto para",
+    "pron": "kuárto pára"
+  },
+  {
+    "pt": "dez para",
+    "es": "diez para",
+    "pron": "diés pára"
+  },
+  {
+    "pt": "cinco para",
+    "es": "cinco para",
+    "pron": "sínko pára"
+  },
+  {
+    "pt": "e cinco",
+    "es": "y cinco",
+    "pron": "i sínko"
+  },
+  {
+    "pt": "e dez",
+    "es": "y diez",
+    "pron": "i diés"
+  },
+  {
+    "pt": "e vinte",
+    "es": "y veinte",
+    "pron": "i béinte"
+  },
+  {
+    "pt": "em ponto",
+    "es": "en punto",
+    "pron": "en púnto"
+  },
+  {
+    "pt": "dia",
+    "es": "día",
+    "pron": "día"
+  },
+  {
+    "pt": "hoje",
+    "es": "hoy",
+    "pron": "ói"
+  },
+  {
+    "pt": "amanhã",
+    "es": "mañana",
+    "pron": "mañána"
+  },
+  {
+    "pt": "ontem",
+    "es": "ayer",
+    "pron": "ayér"
+  },
+  {
+    "pt": "anteontem",
+    "es": "anteayer",
+    "pron": "anteayér"
+  },
+  {
+    "pt": "depois de amanhã",
+    "es": "pasado mañana",
+    "pron": "pasádo mañána"
+  },
+  {
+    "pt": "esta noite",
+    "es": "esta noche",
+    "pron": "ésta nóche"
+  },
+  {
+    "pt": "esta manhã",
+    "es": "esta mañana",
+    "pron": "ésta mañána"
+  },
+  {
+    "pt": "esta tarde",
+    "es": "esta tarde",
+    "pron": "ésta tárde"
+  },
+  {
+    "pt": "ontem à noite",
+    "es": "anoche",
+    "pron": "anóche"
+  },
+  {
+    "pt": "amanhã cedo",
+    "es": "mañana temprano",
+    "pron": "mañána tempráno"
+  },
+  {
+    "pt": "amanhã à noite",
+    "es": "mañana por la noche",
+    "pron": "mañána por la nóche"
+  },
+  {
+    "pt": "todos os dias",
+    "es": "todos los días",
+    "pron": "tódos los días"
+  },
+  {
+    "pt": "dia útil",
+    "es": "día hábil",
+    "pron": "día ábil"
+  },
+  {
+    "pt": "fim de semana",
+    "es": "fin de semana",
+    "pron": "fin de semána"
+  },
+  {
+    "pt": "dia de semana",
+    "es": "día de semana",
+    "pron": "día de semána"
+  },
+  {
+    "pt": "dia santo",
+    "es": "día festivo",
+    "pron": "día festíbo"
+  },
+  {
+    "pt": "dia útil",
+    "es": "día hábil",
+    "pron": "día ábil"
+  },
+  {
+    "pt": "semana",
+    "es": "semana",
+    "pron": "semána"
+  },
+  {
+    "pt": "esta semana",
+    "es": "esta semana",
+    "pron": "ésta semána"
+  },
+  {
+    "pt": "semana passada",
+    "es": "la semana pasada",
+    "pron": "la semána pasáda"
+  },
+  {
+    "pt": "semana que vem",
+    "es": "la próxima semana",
+    "pron": "la próksima semána"
+  },
+  {
+    "pt": "semanalmente",
+    "es": "semanalmente",
+    "pron": "senanalménte"
+  },
+  {
+    "pt": "duas semanas",
+    "es": "dos semanas",
+    "pron": "dos semánas"
+  },
+  {
+    "pt": "quinzena",
+    "es": "quincena",
+    "pron": "kinséna"
+  },
+  {
+    "pt": "mês",
+    "es": "mes",
+    "pron": "mes"
+  },
+  {
+    "pt": "este mês",
+    "es": "este mes",
+    "pron": "éste mes"
+  },
+  {
+    "pt": "mês passado",
+    "es": "el mes pasado",
+    "pron": "el mes pasádo"
+  },
+  {
+    "pt": "mês que vem",
+    "es": "el próximo mes",
+    "pron": "el próksimo mes"
+  },
+  {
+    "pt": "mensalmente",
+    "es": "mensualmente",
+    "pron": "mensualménte"
+  },
+  {
+    "pt": "janeiro",
+    "es": "enero",
+    "pron": "enéro"
+  },
+  {
+    "pt": "fevereiro",
+    "es": "febrero",
+    "pron": "febréro"
+  },
+  {
+    "pt": "março",
+    "es": "marzo",
+    "pron": "márso"
+  },
+  {
+    "pt": "abril",
+    "es": "abril",
+    "pron": "abr íl"
+  },
+  {
+    "pt": "maio",
+    "es": "mayo",
+    "pron": "májo"
+  },
+  {
+    "pt": "junho",
+    "es": "junio",
+    "pron": "júnio"
+  },
+  {
+    "pt": "julho",
+    "es": "julio",
+    "pron": "júlio"
+  },
+  {
+    "pt": "agosto",
+    "es": "agosto",
+    "pron": "agósto"
+  },
+  {
+    "pt": "setembro",
+    "es": "septiembre",
+    "pron": "sept iémbre"
+  },
+  {
+    "pt": "outubro",
+    "es": "octubre",
+    "pron": "oktúbre"
+  },
+  {
+    "pt": "novembro",
+    "es": "noviembre",
+    "pron": "nobiémbre"
+  },
+  {
+    "pt": "dezembro",
+    "es": "diciembre",
+    "pron": "disiémbre"
+  },
+  {
+    "pt": "ano",
+    "es": "año",
+    "pron": "áño"
+  },
+  {
+    "pt": "este ano",
+    "es": "este año",
+    "pron": "éste áño"
+  },
+  {
+    "pt": "ano passado",
+    "es": "el año pasado",
+    "pron": "el áño pasádo"
+  },
+  {
+    "pt": "ano que vem",
+    "es": "el próximo año",
+    "pron": "el próksimo áño"
+  },
+  {
+    "pt": "anualmente",
+    "es": "anualmente",
+    "pron": "anualménte"
+  },
+  {
+    "pt": "década",
+    "es": "década",
+    "pron": "dékada"
+  },
+  {
+    "pt": "século",
+    "es": "siglo",
+    "pron": "síglo"
+  },
+  {
+    "pt": "milênio",
+    "es": "milenio",
+    "pron": "milénio"
+  },
+  {
+    "pt": "primavera",
+    "es": "primavera",
+    "pron": "primabéra"
+  },
+  {
+    "pt": "verão",
+    "es": "verano",
+    "pron": "beráno"
+  },
+  {
+    "pt": "outono",
+    "es": "otoño",
+    "pron": "otóño"
+  },
+  {
+    "pt": "inverno",
+    "es": "invierno",
+    "pron": "inbiérno"
+  },
+  {
+    "pt": "feriado",
+    "es": "feriado",
+    "pron": "feriádo"
+  },
+  {
+    "pt": "ano novo",
+    "es": "año nuevo",
+    "pron": "áño nuébo"
+  },
+  {
+    "pt": "natal",
+    "es": "navidad",
+    "pron": "nabidád"
+  },
+  {
+    "pt": "véspera de natal",
+    "es": "nochebuena",
+    "pron": "nochebuéna"
+  },
+  {
+    "pt": "páscoa",
+    "es": "pascua",
+    "pron": "páskua"
+  },
+  {
+    "pt": "carnaval",
+    "es": "carnaval",
+    "pron": "karnabál"
+  },
+  {
+    "pt": "dia das mães",
+    "es": "día de la madre",
+    "pron": "día de la mádre"
+  },
+  {
+    "pt": "dia dos pais",
+    "es": "día del padre",
+    "pron": "día del pádre"
+  },
+  {
+    "pt": "dia dos namorados",
+    "es": "día de los enamorados",
+    "pron": "día de los enamorádos"
+  },
+  {
+    "pt": "halloween",
+    "es": "halloween",
+    "pron": "jalouín"
+  },
+  {
+    "pt": "ação de graças",
+    "es": "día de acción de gracias",
+    "pron": "día de aksión de grásias"
+  },
+  {
+    "pt": "dia do trabalho",
+    "es": "día del trabajo",
+    "pron": "día del trabájo"
+  },
+  {
+    "pt": "independência",
+    "es": "independencia",
+    "pron": "independénsia"
+  },
+  {
+    "pt": "aniversário",
+    "es": "cumpleaños",
+    "pron": "kumpleáños"
+  },
+  {
+    "pt": "aniversário de casamento",
+    "es": "aniversario de boda",
+    "pron": "anibersário de bóda"
+  },
+  {
+    "pt": "sempre",
+    "es": "siempre",
+    "pron": "siémpre"
+  },
+  {
+    "pt": "nunca",
+    "es": "nunca",
+    "pron": "núnka"
+  },
+  {
+    "pt": "às vezes",
+    "es": "a veces",
+    "pron": "a béses"
+  },
+  {
+    "pt": "frequentemente",
+    "es": "frecuentemente",
+    "pron": "frekuenteménte"
+  },
+  {
+    "pt": "raramente",
+    "es": "raramente",
+    "pron": "raraménte"
+  },
+  {
+    "pt": "diariamente",
+    "es": "diariamente",
+    "pron": "diariaménte"
+  },
+  {
+    "pt": "de vez em quando",
+    "es": "de vez en cuando",
+    "pron": "de bes en kuándo"
+  },
+  {
+    "pt": "toda hora",
+    "es": "todo el tiempo",
+    "pron": "tódo el tiémpo"
+  },
+  {
+    "pt": "de novo",
+    "es": "de nuevo",
+    "pron": "de nuébo"
+  },
+  {
+    "pt": "quase sempre",
+    "es": "casi siempre",
+    "pron": "kási siémpre"
+  },
+  {
+    "pt": "quase nunca",
+    "es": "casi nunca",
+    "pron": "kási núnka"
+  },
+  {
+    "pt": "que horas são?",
+    "es": "¿qué hora es?",
+    "pron": "ke óra es"
+  },
+  {
+    "pt": "são três horas",
+    "es": "son las tres",
+    "pron": "son las tres"
+  },
+  {
+    "pt": "são três e meia",
+    "es": "son las tres y media",
+    "pron": "son las tres i média"
+  },
+  {
+    "pt": "são três e quinze",
+    "es": "son las tres y cuarto",
+    "pron": "son las tres i kuárto"
+  },
+  {
+    "pt": "são quinze para as quatro",
+    "es": "son cuarto para las cuatro",
+    "pron": "son kuárto pára las kuátro"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "es": "¿qué día es hoy?",
+    "pron": "ke día es ói"
+  },
+  {
+    "pt": "hoje é segunda-feira",
+    "es": "hoy es lunes",
+    "pron": "ói es lúnes"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "es": "¿qué día es mañana?",
+    "pron": "ke día es mañána"
+  },
+  {
+    "pt": "que dia foi ontem?",
+    "es": "¿qué día fue ayer?",
+    "pron": "ke día fué ayér"
+  },
+  {
+    "pt": "em que mês estamos?",
+    "es": "¿en qué mes estamos?",
+    "pron": "en ke mes estámos"
+  },
+  {
+    "pt": "que ano estamos?",
+    "es": "¿en qué año estamos?",
+    "pron": "en ke áño estámos"
+  },
+  {
+    "pt": "que horas você tem?",
+    "es": "¿qué hora tienes?",
+    "pron": "ke óra tiénes"
+  },
+  {
+    "pt": "que horas abre?",
+    "es": "¿a qué hora abre?",
+    "pron": "a ke óra ábre"
+  },
+  {
+    "pt": "que horas fecha?",
+    "es": "¿a qué hora cierra?",
+    "pron": "a ke óra siérra"
+  },
+  {
+    "pt": "que horas começa?",
+    "es": "¿a qué hora empieza?",
+    "pron": "a ke óra empiésa"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "es": "¿cuánto tiempo demora?",
+    "pron": "kuánto tiémpo demóra"
+  },
+  {
+    "pt": "está na hora",
+    "es": "es la hora",
+    "pron": "es la óra"
+  },
+  {
+    "pt": "é hora de ir",
+    "es": "es hora de ir",
+    "pron": "es óra de ir"
+  },
+  {
+    "pt": "estou atrasado",
+    "es": "estoy retrasado",
+    "pron": "estói retrasádo"
+  },
+  {
+    "pt": "cheguei cedo",
+    "es": "llegué temprano",
+    "pron": "llegé tempráno"
+  },
+  {
+    "pt": "daqui a pouco",
+    "es": "en un rato",
+    "pron": "en un ráto"
+  },
+  {
+    "pt": "nos vemos amanhã",
+    "es": "nos vemos mañana",
+    "pron": "nos bémos mañána"
+  },
+  {
+    "pt": "nos vemos na segunda",
+    "es": "nos vemos el lunes",
+    "pron": "nos bémos el lúnes"
+  },
+  {
+    "pt": "até amanhã",
+    "es": "hasta mañana",
+    "pron": "ásta mañána"
+  },
+  {
+    "pt": "até mais tarde",
+    "es": "hasta más tarde",
+    "pron": "ásta más tárde"
+  },
+  {
+    "pt": "bom dia",
+    "es": "buenos días",
+    "pron": "buénos días"
+  },
+  {
+    "pt": "boa tarde",
+    "es": "buenas tardes",
+    "pron": "buénas tárd es"
+  },
+  {
+    "pt": "boa noite",
+    "es": "buenas noches",
+    "pron": "buénas nóches"
+  },
+  {
+    "pt": "que dia maravilhoso!",
+    "es": "¡qué día maravilloso!",
+    "pron": "ke día marabiyóso"
+  },
+  {
+    "pt": "que horas você pode?",
+    "es": "¿a qué hora puedes?",
+    "pron": "a ke óra puédes"
+  },
+  {
+    "pt": "quando você pode?",
+    "es": "¿cuándo puedes?",
+    "pron": "kuándo puédes"
+  },
+  {
+    "pt": "qual o melhor dia?",
+    "es": "¿cuál es el mejor día?",
+    "pron": "kuál es el mejór día"
+  },
+  {
+    "pt": "estou livre amanhã",
+    "es": "estoy libre mañana",
+    "pron": "estói líbre mañána"
+  },
+  {
+    "pt": "não tenho tempo",
+    "es": "no tengo tiempo",
+    "pron": "no téngo tiémpo"
+  },
+  {
+    "pt": "vou pensar",
+    "es": "lo voy a pensar",
+    "pron": "lo bói a pensár"
+  },
+  {
+    "pt": "que semana longa!",
+    "es": "¡qué semana tan larga!",
+    "pron": "ke semána tan lárga"
+  },
+  {
+    "pt": "boa semana!",
+    "es": "¡buena semana!",
+    "pron": "buéna semána"
+  },
+  {
+    "pt": "bom fim de semana!",
+    "es": "¡buen fin de semana!",
+    "pron": "buén fin de semána"
+  },
+  {
+    "pt": "feliz aniversário!",
+    "es": "¡feliz cumpleaños!",
+    "pron": "felís kumpleáños"
+  },
+  {
+    "pt": "feliz ano novo!",
+    "es": "¡feliz año nuevo!",
+    "pron": "felís áño nuébo"
+  },
+  {
+    "pt": "feliz natal!",
+    "es": "¡feliz navidad!",
+    "pron": "felís nabidád"
+  },
+  {
+    "pt": "boas festas!",
+    "es": "¡felices fiestas!",
+    "pron": "felíses fiéstas"
+  },
+  {
+    "pt": "por uma hora",
+    "es": "por una hora",
+    "pron": "por úna óra"
+  },
+  {
+    "pt": "por duas horas",
+    "es": "por dos horas",
+    "pron": "por dos óras"
+  },
+  {
+    "pt": "por um dia",
+    "es": "por un día",
+    "pron": "por un día"
+  },
+  {
+    "pt": "por uma semana",
+    "es": "por una semana",
+    "pron": "por úna semána"
+  },
+  {
+    "pt": "por um mês",
+    "es": "por un mes",
+    "pron": "por un mes"
+  },
+  {
+    "pt": "por um ano",
+    "es": "por un año",
+    "pron": "por un áño"
+  },
+  {
+    "pt": "daqui a uma hora",
+    "es": "en una hora",
+    "pron": "en úna óra"
+  },
+  {
+    "pt": "daqui a dois dias",
+    "es": "en dos días",
+    "pron": "en dos días"
+  },
+  {
+    "pt": "daqui a uma semana",
+    "es": "en una semana",
+    "pron": "en úna semána"
+  },
+  {
+    "pt": "daqui a um mês",
+    "es": "en un mes",
+    "pron": "en un mes"
+  },
+  {
+    "pt": "há uma hora",
+    "es": "hace una hora",
+    "pron": "áse úna óra"
+  },
+  {
+    "pt": "há dois dias",
+    "es": "hace dos días",
+    "pron": "áse dos días"
+  },
+  {
+    "pt": "há uma semana",
+    "es": "hace una semana",
+    "pron": "áse úna semána"
+  },
+  {
+    "pt": "há um mês",
+    "es": "hace un mes",
+    "pron": "áse un mes"
+  },
+  {
+    "pt": "há muito tempo",
+    "es": "hace mucho tiempo",
+    "pron": "áse múcho tiémpo"
+  },
+  {
+    "pt": "recentemente",
+    "es": "recientemente",
+    "pron": "resienteménte"
+  },
+  {
+    "pt": "ultimamente",
+    "es": "últimamente",
+    "pron": "últimaménte"
+  },
+  {
+    "pt": "em breve",
+    "es": "pronto",
+    "pron": "prónto"
+  },
+  {
+    "pt": "em breve possível",
+    "es": "lo antes posible",
+    "pron": "lo ántes posíble"
+  },
+  {
+    "pt": "imediatamente",
+    "es": "inmediatamente",
+    "pron": "inmed iataménte"
+  }
+]

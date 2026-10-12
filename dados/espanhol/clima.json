@@ -1,0 +1,432 @@
+[
+  {
+    "pt": "sol",
+    "es": "sol",
+    "pron": "sol"
+  },
+  {
+    "pt": "lua",
+    "es": "luna",
+    "pron": "lúna"
+  },
+  {
+    "pt": "estrela",
+    "es": "estrella",
+    "pron": "estréya"
+  },
+  {
+    "pt": "céu",
+    "es": "cielo",
+    "pron": "siélo"
+  },
+  {
+    "pt": "planeta",
+    "es": "planeta",
+    "pron": "planéta"
+  },
+  {
+    "pt": "Terra",
+    "es": "Tierra",
+    "pron": "tiérra"
+  },
+  {
+    "pt": "nuvem",
+    "es": "nube",
+    "pron": "núbe"
+  },
+  {
+    "pt": "espaço",
+    "es": "espacio",
+    "pron": "espásio"
+  },
+  {
+    "pt": "chuva",
+    "es": "lluvia",
+    "pron": "yúbia"
+  },
+  {
+    "pt": "neve",
+    "es": "nieve",
+    "pron": "niébe"
+  },
+  {
+    "pt": "vento",
+    "es": "viento",
+    "pron": "biénto"
+  },
+  {
+    "pt": "tempestade",
+    "es": "tormenta",
+    "pron": "torménta"
+  },
+  {
+    "pt": "trovão",
+    "es": "trueno",
+    "pron": "truéno"
+  },
+  {
+    "pt": "relâmpago",
+    "es": "relámpago",
+    "pron": "relámpago"
+  },
+  {
+    "pt": "arco-íris",
+    "es": "arcoíris",
+    "pron": "arkoirís"
+  },
+  {
+    "pt": "neblina",
+    "es": "niebla",
+    "pron": "niébla"
+  },
+  {
+    "pt": "orvalho",
+    "es": "rocío",
+    "pron": "rosío"
+  },
+  {
+    "pt": "granizo",
+    "es": "granizo",
+    "pron": "graníso"
+  },
+  {
+    "pt": "tornado",
+    "es": "tornado",
+    "pron": "tornádo"
+  },
+  {
+    "pt": "furacão",
+    "es": "huracán",
+    "pron": "urakán"
+  },
+  {
+    "pt": "terremoto",
+    "es": "terremoto",
+    "pron": "terremóto"
+  },
+  {
+    "pt": "enchente",
+    "es": "inundación",
+    "pron": "inundasión"
+  },
+  {
+    "pt": "calor",
+    "es": "calor",
+    "pron": "kalór"
+  },
+  {
+    "pt": "frio",
+    "es": "frío",
+    "pron": "frío"
+  },
+  {
+    "pt": "morno",
+    "es": "tibio",
+    "pron": "tíbio"
+  },
+  {
+    "pt": "fresco",
+    "es": "fresco",
+    "pron": "frésko"
+  },
+  {
+    "pt": "úmido",
+    "es": "húmedo",
+    "pron": "úmedo"
+  },
+  {
+    "pt": "seco",
+    "es": "seco",
+    "pron": "séko"
+  },
+  {
+    "pt": "primavera",
+    "es": "primavera",
+    "pron": "primabéra"
+  },
+  {
+    "pt": "verão",
+    "es": "verano",
+    "pron": "beráno"
+  },
+  {
+    "pt": "outono",
+    "es": "otoño",
+    "pron": "otóño"
+  },
+  {
+    "pt": "inverno",
+    "es": "invierno",
+    "pron": "inbiérno"
+  },
+  {
+    "pt": "árvore",
+    "es": "árbol",
+    "pron": "árbol"
+  },
+  {
+    "pt": "flor",
+    "es": "flor",
+    "pron": "flor"
+  },
+  {
+    "pt": "folha",
+    "es": "hoja",
+    "pron": "ója"
+  },
+  {
+    "pt": "grama",
+    "es": "gramo",
+    "pron": "grámo"
+  },
+  {
+    "pt": "semente",
+    "es": "semilla",
+    "pron": "semíya"
+  },
+  {
+    "pt": "raiz",
+    "es": "raíz",
+    "pron": "raís"
+  },
+  {
+    "pt": "tronco",
+    "es": "tronco",
+    "pron": "trónko"
+  },
+  {
+    "pt": "galho",
+    "es": "rama",
+    "pron": "ráma"
+  },
+  {
+    "pt": "rosa",
+    "es": "rosa",
+    "pron": "rósa"
+  },
+  {
+    "pt": "girassol",
+    "es": "girasol",
+    "pron": "girasól"
+  },
+  {
+    "pt": "margarida",
+    "es": "margarita",
+    "pron": "margaríta"
+  },
+  {
+    "pt": "tulipa",
+    "es": "tulipán",
+    "pron": "tulipán"
+  },
+  {
+    "pt": "orquídea",
+    "es": "orquídea",
+    "pron": "orkídea"
+  },
+  {
+    "pt": "palmeira",
+    "es": "palmera",
+    "pron": "palméra"
+  },
+  {
+    "pt": "montanha",
+    "es": "montaña",
+    "pron": "montáña"
+  },
+  {
+    "pt": "rio",
+    "es": "río",
+    "pron": "río"
+  },
+  {
+    "pt": "mar",
+    "es": "mar",
+    "pron": "mar"
+  },
+  {
+    "pt": "oceano",
+    "es": "océano",
+    "pron": "oséano"
+  },
+  {
+    "pt": "praia",
+    "es": "playa",
+    "pron": "plája"
+  },
+  {
+    "pt": "ilha",
+    "es": "isla",
+    "pron": "ísla"
+  },
+  {
+    "pt": "lago",
+    "es": "lago",
+    "pron": "lágo"
+  },
+  {
+    "pt": "lagoa",
+    "es": "laguna",
+    "pron": "lagúna"
+  },
+  {
+    "pt": "floresta",
+    "es": "bosque",
+    "pron": "bóske"
+  },
+  {
+    "pt": "selva",
+    "es": "selva",
+    "pron": "sélba"
+  },
+  {
+    "pt": "deserto",
+    "es": "desierto",
+    "pron": "desiérto"
+  },
+  {
+    "pt": "caverna",
+    "es": "cueva",
+    "pron": "kuéba"
+  },
+  {
+    "pt": "cachoeira",
+    "es": "cascada",
+    "pron": "kaskáda"
+  },
+  {
+    "pt": "vulcão",
+    "es": "volcán",
+    "pron": "bolkán"
+  },
+  {
+    "pt": "vale",
+    "es": "valle",
+    "pron": "báye"
+  },
+  {
+    "pt": "campo",
+    "es": "campo",
+    "pron": "kámpo"
+  },
+  {
+    "pt": "fazenda",
+    "es": "granja",
+    "pron": "gránja"
+  },
+  {
+    "pt": "cidade",
+    "es": "ciudad",
+    "pron": "siudád"
+  },
+  {
+    "pt": "país",
+    "es": "país",
+    "pron": "país"
+  },
+  {
+    "pt": "terra",
+    "es": "tierra",
+    "pron": "tiérra"
+  },
+  {
+    "pt": "fogo",
+    "es": "fuego",
+    "pron": "fuégo"
+  },
+  {
+    "pt": "água",
+    "es": "agua",
+    "pron": "água"
+  },
+  {
+    "pt": "ar",
+    "es": "aire",
+    "pron": "áire"
+  },
+  {
+    "pt": "pedra",
+    "es": "piedra",
+    "pron": "piédra"
+  },
+  {
+    "pt": "areia",
+    "es": "arena",
+    "pron": "aréna"
+  },
+  {
+    "pt": "lama",
+    "es": "lodo",
+    "pron": "lódo"
+  },
+  {
+    "pt": "gelo",
+    "es": "hielo",
+    "pron": "iélo"
+  },
+  {
+    "pt": "poeira",
+    "es": "polvo",
+    "pron": "pólbo"
+  },
+  {
+    "pt": "metal",
+    "es": "metal",
+    "pron": "metál"
+  },
+  {
+    "pt": "madeira",
+    "es": "madera",
+    "pron": "madéra"
+  },
+  {
+    "pt": "como está o tempo?",
+    "es": "¿cómo está el tiempo?",
+    "pron": "kómo está el tiémpo"
+  },
+  {
+    "pt": "está chovendo",
+    "es": "está lloviendo",
+    "pron": "está yobiéndo"
+  },
+  {
+    "pt": "está nevando",
+    "es": "está nevando",
+    "pron": "está nebándo"
+  },
+  {
+    "pt": "está quente",
+    "es": "hace calor",
+    "pron": "áse kalór"
+  },
+  {
+    "pt": "está frio",
+    "es": "hace frío",
+    "pron": "áse frío"
+  },
+  {
+    "pt": "está nublado",
+    "es": "está nublado",
+    "pron": "está nubládo"
+  },
+  {
+    "pt": "está ensolarado",
+    "es": "está soleado",
+    "pron": "está soleádo"
+  },
+  {
+    "pt": "está ventando",
+    "es": "hace viento",
+    "pron": "áse biénto"
+  },
+  {
+    "pt": "vai chover amanhã?",
+    "es": "¿va a llover mañana?",
+    "pron": "ba a yobér mañána"
+  },
+  {
+    "pt": "que dia lindo!",
+    "es": "¡qué día tan lindo!",
+    "pron": "ke día tan líndo"
+  }
+]

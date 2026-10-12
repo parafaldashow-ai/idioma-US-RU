@@ -1,0 +1,92 @@
+[
+  {
+    "pt": "mãe",
+    "es": "madre",
+    "pron": "mádre"
+  },
+  {
+    "pt": "pai",
+    "es": "padre",
+    "pron": "pádre"
+  },
+  {
+    "pt": "irmão",
+    "es": "hermano",
+    "pron": "ermáno"
+  },
+  {
+    "pt": "irmã",
+    "es": "hermana",
+    "pron": "ermána"
+  },
+  {
+    "pt": "filho",
+    "es": "hijo",
+    "pron": "íjo"
+  },
+  {
+    "pt": "filha",
+    "es": "hija",
+    "pron": "íja"
+  },
+  {
+    "pt": "avô",
+    "es": "abuelo",
+    "pron": "abuél o"
+  },
+  {
+    "pt": "avó",
+    "es": "abuela",
+    "pron": "abuél a"
+  },
+  {
+    "pt": "tio",
+    "es": "tío",
+    "pron": "tío"
+  },
+  {
+    "pt": "tia",
+    "es": "tía",
+    "pron": "tía"
+  },
+  {
+    "pt": "primo",
+    "es": "primo",
+    "pron": "prímo"
+  },
+  {
+    "pt": "marido",
+    "es": "marido",
+    "pron": "marído"
+  },
+  {
+    "pt": "esposa",
+    "es": "esposa",
+    "pron": "espósa"
+  },
+  {
+    "pt": "amigo",
+    "es": "amigo",
+    "pron": "amígo"
+  },
+  {
+    "pt": "namorado",
+    "es": "novio",
+    "pron": "nóbio"
+  },
+  {
+    "pt": "namorada",
+    "es": "novia",
+    "pron": "nóbia"
+  },
+  {
+    "pt": "filho único",
+    "es": "hijo único",
+    "pron": "íjo único"
+  },
+  {
+    "pt": "bebê",
+    "es": "bebé",
+    "pron": "bebé"
+  }
+]

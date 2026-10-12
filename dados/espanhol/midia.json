@@ -1,0 +1,782 @@
+[
+  {
+    "pt": "música",
+    "es": "música",
+    "pron": "músika"
+  },
+  {
+    "pt": "canção",
+    "es": "canción",
+    "pron": "kansión"
+  },
+  {
+    "pt": "melodia",
+    "es": "melodía",
+    "pron": "melodía"
+  },
+  {
+    "pt": "ritmo",
+    "es": "ritmo",
+    "pron": "rítmo"
+  },
+  {
+    "pt": "letra",
+    "es": "letra",
+    "pron": "létra"
+  },
+  {
+    "pt": "refrão",
+    "es": "estribillo",
+    "pron": "estribíyo"
+  },
+  {
+    "pt": "verso",
+    "es": "verso",
+    "pron": "bérso"
+  },
+  {
+    "pt": "acorde",
+    "es": "acorde",
+    "pron": "akórde"
+  },
+  {
+    "pt": "nota",
+    "es": "billete",
+    "pron": "biyéte"
+  },
+  {
+    "pt": "batida",
+    "es": "batido",
+    "pron": "batído"
+  },
+  {
+    "pt": "harmonia",
+    "es": "harmonía",
+    "pron": "armonía"
+  },
+  {
+    "pt": "álbum",
+    "es": "álbum",
+    "pron": "álbum"
+  },
+  {
+    "pt": "single",
+    "es": "sencillo",
+    "pron": "sensíyo"
+  },
+  {
+    "pt": "playlist",
+    "es": "lista de reproducción",
+    "pron": "lísta de reproduksión"
+  },
+  {
+    "pt": "concerto",
+    "es": "concierto",
+    "pron": "konsiérto"
+  },
+  {
+    "pt": "show",
+    "es": "concierto",
+    "pron": "konsiérto"
+  },
+  {
+    "pt": "turnê",
+    "es": "gira",
+    "pron": "jíra"
+  },
+  {
+    "pt": "festival",
+    "es": "festival",
+    "pron": "festibál"
+  },
+  {
+    "pt": "palco",
+    "es": "escenario",
+    "pron": "esenário"
+  },
+  {
+    "pt": "plateia",
+    "es": "público",
+    "pron": "públiko"
+  },
+  {
+    "pt": "microfone",
+    "es": "micrófono",
+    "pron": "mikrófono"
+  },
+  {
+    "pt": "instrumento",
+    "es": "instrumento",
+    "pron": "instruménto"
+  },
+  {
+    "pt": "banda",
+    "es": "banda",
+    "pron": "bánda"
+  },
+  {
+    "pt": "orquestra",
+    "es": "orquesta",
+    "pron": "orkésta"
+  },
+  {
+    "pt": "coral",
+    "es": "coro",
+    "pron": "kóro"
+  },
+  {
+    "pt": "violão",
+    "es": "guitarra acústica",
+    "pron": "guitárra akústika"
+  },
+  {
+    "pt": "guitarra",
+    "es": "guitarra",
+    "pron": "guitárra"
+  },
+  {
+    "pt": "guitarra elétrica",
+    "es": "guitarra eléctrica",
+    "pron": "guitárra elektríka"
+  },
+  {
+    "pt": "baixo",
+    "es": "bajo",
+    "pron": "bájo"
+  },
+  {
+    "pt": "bateria",
+    "es": "batería",
+    "pron": "batería"
+  },
+  {
+    "pt": "piano",
+    "es": "piano",
+    "pron": "piáno"
+  },
+  {
+    "pt": "teclado",
+    "es": "teclado",
+    "pron": "tekládo"
+  },
+  {
+    "pt": "violino",
+    "es": "violín",
+    "pron": "biolín"
+  },
+  {
+    "pt": "violoncelo",
+    "es": "violonchelo",
+    "pron": "biolonchélo"
+  },
+  {
+    "pt": "flauta",
+    "es": "flauta",
+    "pron": "fláuta"
+  },
+  {
+    "pt": "saxofone",
+    "es": "saxofón",
+    "pron": "saksófon"
+  },
+  {
+    "pt": "trompete",
+    "es": "trompeta",
+    "pron": "trompéta"
+  },
+  {
+    "pt": "trombone",
+    "es": "trombón",
+    "pron": "trombón"
+  },
+  {
+    "pt": "clarinete",
+    "es": "clarinete",
+    "pron": "klarinéte"
+  },
+  {
+    "pt": "harpa",
+    "es": "arpa",
+    "pron": "árpa"
+  },
+  {
+    "pt": "acordeão",
+    "es": "acordeón",
+    "pron": "akordeón"
+  },
+  {
+    "pt": "cavaquinho",
+    "es": "ukelele",
+    "pron": "ukeléle"
+  },
+  {
+    "pt": "pandeiro",
+    "es": "pandereta",
+    "pron": "panderéta"
+  },
+  {
+    "pt": "violão clássico",
+    "es": "guitarra clásica",
+    "pron": "guitárra klásika"
+  },
+  {
+    "pt": "rock",
+    "es": "rock",
+    "pron": "rok"
+  },
+  {
+    "pt": "pop",
+    "es": "pop",
+    "pron": "pop"
+  },
+  {
+    "pt": "jazz",
+    "es": "jazz",
+    "pron": "yaz"
+  },
+  {
+    "pt": "blues",
+    "es": "blues",
+    "pron": "blus"
+  },
+  {
+    "pt": "samba",
+    "es": "samba",
+    "pron": "sámba"
+  },
+  {
+    "pt": "bossa nova",
+    "es": "bossa nova",
+    "pron": "bósa nóba"
+  },
+  {
+    "pt": "forró",
+    "es": "forró",
+    "pron": "forró"
+  },
+  {
+    "pt": "sertanejo",
+    "es": "música country",
+    "pron": "músika kóuntri"
+  },
+  {
+    "pt": "funk",
+    "es": "funk",
+    "pron": "fank"
+  },
+  {
+    "pt": "rap",
+    "es": "rap",
+    "pron": "rap"
+  },
+  {
+    "pt": "hip hop",
+    "es": "hip hop",
+    "pron": "ip jop"
+  },
+  {
+    "pt": "reggae",
+    "es": "reggae",
+    "pron": "reguéi"
+  },
+  {
+    "pt": "eletrônica",
+    "es": "electrónica",
+    "pron": "elektrónika"
+  },
+  {
+    "pt": "clássica",
+    "es": "clásica",
+    "pron": "klásika"
+  },
+  {
+    "pt": "ópera",
+    "es": "ópera",
+    "pron": "ópera"
+  },
+  {
+    "pt": "gospel",
+    "es": "gospel",
+    "pron": "góspel"
+  },
+  {
+    "pt": "pop rock",
+    "es": "pop rock",
+    "pron": "pop rok"
+  },
+  {
+    "pt": "heavy metal",
+    "es": "heavy metal",
+    "pron": "jébi métal"
+  },
+  {
+    "pt": "punk",
+    "es": "punk",
+    "pron": "pank"
+  },
+  {
+    "pt": "indie",
+    "es": "indie",
+    "pron": "índi"
+  },
+  {
+    "pt": "k-pop",
+    "es": "k-pop",
+    "pron": "kéi pop"
+  },
+  {
+    "pt": "latin",
+    "es": "latino",
+    "pron": "latíno"
+  },
+  {
+    "pt": "cinema",
+    "es": "cine",
+    "pron": "síne"
+  },
+  {
+    "pt": "filme",
+    "es": "película",
+    "pron": "pelíkula"
+  },
+  {
+    "pt": "filme (cinema)",
+    "es": "película",
+    "pron": "pelíkula"
+  },
+  {
+    "pt": "série",
+    "es": "serie",
+    "pron": "série"
+  },
+  {
+    "pt": "novela",
+    "es": "telenovela",
+    "pron": "telenobéla"
+  },
+  {
+    "pt": "documentário",
+    "es": "documental",
+    "pron": "dokumentál"
+  },
+  {
+    "pt": "animação",
+    "es": "animación",
+    "pron": "animasión"
+  },
+  {
+    "pt": "desenho",
+    "es": "dibujos animados",
+    "pron": "dibújos animádos"
+  },
+  {
+    "pt": "comédia",
+    "es": "comedia",
+    "pron": "komédia"
+  },
+  {
+    "pt": "drama",
+    "es": "drama",
+    "pron": "dráma"
+  },
+  {
+    "pt": "terror",
+    "es": "terror",
+    "pron": "terrór"
+  },
+  {
+    "pt": "suspense",
+    "es": "suspense",
+    "pron": "suspénse"
+  },
+  {
+    "pt": "ação",
+    "es": "acción",
+    "pron": "aksión"
+  },
+  {
+    "pt": "aventura",
+    "es": "aventura",
+    "pron": "abentúra"
+  },
+  {
+    "pt": "ficção científica",
+    "es": "ciencia ficción",
+    "pron": "siénsia fik sión"
+  },
+  {
+    "pt": "fantasia",
+    "es": "fantasía",
+    "pron": "fantasía"
+  },
+  {
+    "pt": "romance",
+    "es": "romance",
+    "pron": "románse"
+  },
+  {
+    "pt": "musical",
+    "es": "musical",
+    "pron": "músikal"
+  },
+  {
+    "pt": "biografia",
+    "es": "biografía",
+    "pron": "biografía"
+  },
+  {
+    "pt": "guerra",
+    "es": "guerra",
+    "pron": "guérra"
+  },
+  {
+    "pt": "faroeste",
+    "es": "western",
+    "pron": "uéstern"
+  },
+  {
+    "pt": "policial",
+    "es": "policía",
+    "pron": "polisía"
+  },
+  {
+    "pt": "diretor",
+    "es": "director",
+    "pron": "direktór"
+  },
+  {
+    "pt": "ator",
+    "es": "actor",
+    "pron": "aktór"
+  },
+  {
+    "pt": "atriz",
+    "es": "actriz",
+    "pron": "aktrís"
+  },
+  {
+    "pt": "elenco",
+    "es": "elenco",
+    "pron": "elénko"
+  },
+  {
+    "pt": "personagem",
+    "es": "personaje",
+    "pron": "personáje"
+  },
+  {
+    "pt": "protagonista",
+    "es": "protagonista",
+    "pron": "protagonísta"
+  },
+  {
+    "pt": "vilão",
+    "es": "villano",
+    "pron": "biyáno"
+  },
+  {
+    "pt": "roteiro",
+    "es": "itinerario",
+    "pron": "itinerário"
+  },
+  {
+    "pt": "cenário",
+    "es": "escenario",
+    "pron": "esenário"
+  },
+  {
+    "pt": "figurino",
+    "es": "vestuario",
+    "pron": "bestuário"
+  },
+  {
+    "pt": "maquiagem",
+    "es": "maquillaje",
+    "pron": "makiyáje"
+  },
+  {
+    "pt": "efeitos especiais",
+    "es": "efectos especiales",
+    "pron": "eféktos espesiáles"
+  },
+  {
+    "pt": "trilha sonora",
+    "es": "banda sonora",
+    "pron": "bánda sonóra"
+  },
+  {
+    "pt": "cena",
+    "es": "escena",
+    "pron": "eséna"
+  },
+  {
+    "pt": "episódio",
+    "es": "episodio",
+    "pron": "episódio"
+  },
+  {
+    "pt": "temporada",
+    "es": "temporada",
+    "pron": "temporáda"
+  },
+  {
+    "pt": "estreia",
+    "es": "estreno",
+    "pron": "estr éno"
+  },
+  {
+    "pt": "bilheteria",
+    "es": "taquilla",
+    "pron": "takíya"
+  },
+  {
+    "pt": "televisão",
+    "es": "televisión",
+    "pron": "telebisión"
+  },
+  {
+    "pt": "canal",
+    "es": "canal",
+    "pron": "kanál"
+  },
+  {
+    "pt": "programa",
+    "es": "programa",
+    "pron": "prográma"
+  },
+  {
+    "pt": "noticiário",
+    "es": "noticiero",
+    "pron": "notisiéro"
+  },
+  {
+    "pt": "jornal",
+    "es": "periódico",
+    "pron": "periodíko"
+  },
+  {
+    "pt": "revista",
+    "es": "revista",
+    "pron": "rebísta"
+  },
+  {
+    "pt": "livro",
+    "es": "libro",
+    "pron": "líbro"
+  },
+  {
+    "pt": "romance (livro)",
+    "es": "novela",
+    "pron": "nobéla"
+  },
+  {
+    "pt": "poesia",
+    "es": "poesía",
+    "pron": "poesía"
+  },
+  {
+    "pt": "conto",
+    "es": "cuento",
+    "pron": "kuénto"
+  },
+  {
+    "pt": "jornalista",
+    "es": "periodista",
+    "pron": "periodísta"
+  },
+  {
+    "pt": "apresentador",
+    "es": "presentador",
+    "pron": "presentadór"
+  },
+  {
+    "pt": "entrevista",
+    "es": "entrevista",
+    "pron": "entrebísta"
+  },
+  {
+    "pt": "reportagem",
+    "es": "reportaje",
+    "pron": "reportáje"
+  },
+  {
+    "pt": "podcast",
+    "es": "podcast",
+    "pron": "pódkast"
+  },
+  {
+    "pt": "streaming",
+    "es": "streaming",
+    "pron": "stríming"
+  },
+  {
+    "pt": "assistir",
+    "es": "ver",
+    "pron": "ber"
+  },
+  {
+    "pt": "ouvir",
+    "es": "oír",
+    "pron": "oír"
+  },
+  {
+    "pt": "baixar",
+    "es": "descargar",
+    "pron": "deskargár"
+  },
+  {
+    "pt": "compartilhar",
+    "es": "compartir",
+    "pron": "kompartír"
+  },
+  {
+    "pt": "curtir",
+    "es": "dar me gusta",
+    "pron": "dar me gústa"
+  },
+  {
+    "pt": "seguir",
+    "es": "seguir",
+    "pron": "segír"
+  },
+  {
+    "pt": "inscrever-se",
+    "es": "suscribirse",
+    "pron": "suskribírse"
+  },
+  {
+    "pt": "postar",
+    "es": "publicar",
+    "pron": "publikár"
+  },
+  {
+    "pt": "comentar",
+    "es": "comentar",
+    "pron": "komentár"
+  },
+  {
+    "pt": "youtuber",
+    "es": "youtuber",
+    "pron": "yutúber"
+  },
+  {
+    "pt": "influencer",
+    "es": "influencer",
+    "pron": "influénser"
+  },
+  {
+    "pt": "seguidor",
+    "es": "seguidor",
+    "pron": "segidór"
+  },
+  {
+    "pt": "live",
+    "es": "en vivo",
+    "pron": "en bíbo"
+  },
+  {
+    "pt": "vlog",
+    "es": "vlog",
+    "pron": "vlog"
+  },
+  {
+    "pt": "que música é essa?",
+    "es": "¿qué música es esta?",
+    "pron": "ke músika es ésta"
+  },
+  {
+    "pt": "quem canta?",
+    "es": "¿quién canta?",
+    "pron": "kién kánta"
+  },
+  {
+    "pt": "eu amo essa banda",
+    "es": "amo esta banda",
+    "pron": "ámo ésta bánda"
+  },
+  {
+    "pt": "que filme bom!",
+    "es": "¡qué buena película!",
+    "pron": "ke buéna pelíkula"
+  },
+  {
+    "pt": "já viu esse filme?",
+    "es": "¿ya viste esta película?",
+    "pron": "ya bíste ésta pelíkula"
+  },
+  {
+    "pt": "vale a pena assistir?",
+    "es": "¿vale la pena verla?",
+    "pron": "bále la péna bérla"
+  },
+  {
+    "pt": "é muito bom",
+    "es": "es muy bueno",
+    "pron": "es mui buéno"
+  },
+  {
+    "pt": "não gostei",
+    "es": "no me gustó",
+    "pron": "no me gustó"
+  },
+  {
+    "pt": "é hilário",
+    "es": "es graciosísimo",
+    "pron": "es grasiosísimo"
+  },
+  {
+    "pt": "chorei assistindo",
+    "es": "lloré viéndola",
+    "pron": "yoré biéndola"
+  },
+  {
+    "pt": "qual sua banda favorita?",
+    "es": "¿cuál es tu banda favorita?",
+    "pron": "kuál es tu bánda faboríta"
+  },
+  {
+    "pt": "qual seu filme favorito?",
+    "es": "¿cuál es tu película favorita?",
+    "pron": "kuál es tu pelíkula faboríta"
+  },
+  {
+    "pt": "vamos ao cinema?",
+    "es": "¿vamos al cine?",
+    "pron": "bámos al síne"
+  },
+  {
+    "pt": "tem legenda?",
+    "es": "¿tiene subtítulos?",
+    "pron": "tiéne subtítulos"
+  },
+  {
+    "pt": "é dublado?",
+    "es": "¿está doblada?",
+    "pron": "está dobláda"
+  },
+  {
+    "pt": "em que canal passa?",
+    "es": "¿en qué canal la pasan?",
+    "pron": "en ke kanál la pásan"
+  },
+  {
+    "pt": "que horas começa?",
+    "es": "¿a qué hora empieza?",
+    "pron": "a ke óra empiésa"
+  },
+  {
+    "pt": "quanto tempo dura?",
+    "es": "¿cuánto tiempo dura?",
+    "pron": "kuánto tiémpo dúra"
+  },
+  {
+    "pt": "adorei!",
+    "es": "¡me encantó!",
+    "pron": "me enkantó"
+  },
+  {
+    "pt": "recomendo!",
+    "es": "¡lo recomiendo!",
+    "pron": "lo rekomiéndo"
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "pt": "cachorro",
+    "es": "perro",
+    "pron": "pérro"
+  },
+  {
+    "pt": "gato",
+    "es": "gato",
+    "pron": "gáto"
+  },
+  {
+    "pt": "pássaro",
+    "es": "pájaro",
+    "pron": "pájaro"
+  },
+  {
+    "pt": "peixe",
+    "es": "pez",
+    "pron": "pes"
+  },
+  {
+    "pt": "hamster",
+    "es": "hámster",
+    "pron": "ámster"
+  },
+  {
+    "pt": "coelho",
+    "es": "conejo",
+    "pron": "konéjo"
+  },
+  {
+    "pt": "papagaio",
+    "es": "loro",
+    "pron": "lóro"
+  },
+  {
+    "pt": "tartaruga",
+    "es": "tortuga",
+    "pron": "tortúga"
+  },
+  {
+    "pt": "porquinho-da-índia",
+    "es": "conejillo de Indias",
+    "pron": "konejíyo de índias"
+  },
+  {
+    "pt": "cavalo",
+    "es": "caballo",
+    "pron": "kabáio"
+  },
+  {
+    "pt": "vaca",
+    "es": "vaca",
+    "pron": "báka"
+  },
+  {
+    "pt": "boi",
+    "es": "buey",
+    "pron": "buéi"
+  },
+  {
+    "pt": "bezerro",
+    "es": "ternero",
+    "pron": "ternéro"
+  },
+  {
+    "pt": "porco",
+    "es": "cerdo",
+    "pron": "sérdo"
+  },
+  {
+    "pt": "ovelha",
+    "es": "oveja",
+    "pron": "obéja"
+  },
+  {
+    "pt": "cordeiro",
+    "es": "cordero",
+    "pron": "kordéro"
+  },
+  {
+    "pt": "cabra",
+    "es": "cabra",
+    "pron": "kábra"
+  },
+  {
+    "pt": "galinha",
+    "es": "gallina",
+    "pron": "gayína"
+  },
+  {
+    "pt": "galo",
+    "es": "gallo",
+    "pron": "gáyo"
+  },
+  {
+    "pt": "pintinho",
+    "es": "pollito",
+    "pron": "poyíto"
+  },
+  {
+    "pt": "pato",
+    "es": "pato",
+    "pron": "páto"
+  },
+  {
+    "pt": "ganso",
+    "es": "ganso",
+    "pron": "gánso"
+  },
+  {
+    "pt": "peru",
+    "es": "pavo",
+    "pron": "pábo"
+  },
+  {
+    "pt": "burro",
+    "es": "tonto",
+    "pron": "tónto"
+  },
+  {
+    "pt": "mula",
+    "es": "mula",
+    "pron": "múla"
+  },
+  {
+    "pt": "leão",
+    "es": "león",
+    "pron": "león"
+  },
+  {
+    "pt": "leoa",
+    "es": "leona",
+    "pron": "leóna"
+  },
+  {
+    "pt": "tigre",
+    "es": "tigre",
+    "pron": "tígre"
+  },
+  {
+    "pt": "elefante",
+    "es": "elefante",
+    "pron": "elefánte"
+  },
+  {
+    "pt": "macaco",
+    "es": "mono",
+    "pron": "móno"
+  },
+  {
+    "pt": "gorila",
+    "es": "gorila",
+    "pron": "goríla"
+  },
+  {
+    "pt": "urso",
+    "es": "oso",
+    "pron": "óso"
+  },
+  {
+    "pt": "lobo",
+    "es": "lobo",
+    "pron": "lóbo"
+  },
+  {
+    "pt": "raposa",
+    "es": "zorro",
+    "pron": "sórro"
+  },
+  {
+    "pt": "cervo",
+    "es": "ciervo",
+    "pron": "siérbo"
+  },
+  {
+    "pt": "esquilo",
+    "es": "ardilla",
+    "pron": "ardíya"
+  },
+  {
+    "pt": "morcego",
+    "es": "murciélago",
+    "pron": "mursiélago"
+  },
+  {
+    "pt": "rato",
+    "es": "ratón",
+    "pron": "ratón"
+  },
+  {
+    "pt": "ratazana",
+    "es": "rata",
+    "pron": "ráta"
+  },
+  {
+    "pt": "coala",
+    "es": "koala",
+    "pron": "koála"
+  },
+  {
+    "pt": "panda",
+    "es": "panda",
+    "pron": "pánda"
+  },
+  {
+    "pt": "girafa",
+    "es": "jirafa",
+    "pron": "jiráfa"
+  },
+  {
+    "pt": "zebra",
+    "es": "cebra",
+    "pron": "sébra"
+  },
+  {
+    "pt": "rinoceronte",
+    "es": "rinoceronte",
+    "pron": "rinoserónte"
+  },
+  {
+    "pt": "hipopótamo",
+    "es": "hipopótamo",
+    "pron": "ipopótamo"
+  },
+  {
+    "pt": "camelo",
+    "es": "camello",
+    "pron": "kaméyo"
+  },
+  {
+    "pt": "lontra",
+    "es": "nutria",
+    "pron": "nútria"
+  },
+  {
+    "pt": "foca",
+    "es": "foca",
+    "pron": "fóka"
+  },
+  {
+    "pt": "baleia",
+    "es": "ballena",
+    "pron": "bayéna"
+  },
+  {
+    "pt": "golfinho",
+    "es": "delfín",
+    "pron": "delfín"
+  },
+  {
+    "pt": "tubarão",
+    "es": "tiburón",
+    "pron": "tiburón"
+  },
+  {
+    "pt": "cobra",
+    "es": "serpiente",
+    "pron": "serpiénte"
+  },
+  {
+    "pt": "lagarto",
+    "es": "lagarto",
+    "pron": "lagárto"
+  },
+  {
+    "pt": "jacaré",
+    "es": "caimán",
+    "pron": "kaimán"
+  },
+  {
+    "pt": "crocodilo",
+    "es": "cocodrilo",
+    "pron": "kokodrílo"
+  },
+  {
+    "pt": "sapo",
+    "es": "sapo",
+    "pron": "sápo"
+  },
+  {
+    "pt": "rã",
+    "es": "rana",
+    "pron": "rána"
+  },
+  {
+    "pt": "camaleão",
+    "es": "camaleón",
+    "pron": "kamaleón"
+  },
+  {
+    "pt": "águia",
+    "es": "águila",
+    "pron": "águila"
+  },
+  {
+    "pt": "coruja",
+    "es": "búho",
+    "pron": "búo"
+  },
+  {
+    "pt": "falção",
+    "es": "halcón",
+    "pron": "alkón"
+  },
+  {
+    "pt": "pombo",
+    "es": "paloma",
+    "pron": "palóma"
+  },
+  {
+    "pt": "gaivota",
+    "es": "gaviota",
+    "pron": "gabióta"
+  },
+  {
+    "pt": "pinguim",
+    "es": "pingüino",
+    "pron": "pingüíno"
+  },
+  {
+    "pt": "avestruz",
+    "es": "avestruz",
+    "pron": "abestrús"
+  },
+  {
+    "pt": "flamingo",
+    "es": "flamenco",
+    "pron": "flaménko"
+  },
+  {
+    "pt": "tucano",
+    "es": "tucán",
+    "pron": "tukán"
+  },
+  {
+    "pt": "beija-flor",
+    "es": "colibrí",
+    "pron": "kolibrí"
+  },
+  {
+    "pt": "aranha",
+    "es": "araña",
+    "pron": "aráña"
+  },
+  {
+    "pt": "abelha",
+    "es": "abeja",
+    "pron": "abéja"
+  },
+  {
+    "pt": "borboleta",
+    "es": "mariposa",
+    "pron": "maripósa"
+  },
+  {
+    "pt": "formiga",
+    "es": "hormiga",
+    "pron": "ormíga"
+  },
+  {
+    "pt": "mosquito",
+    "es": "mosquito",
+    "pron": "moskíto"
+  },
+  {
+    "pt": "mosca",
+    "es": "mosca",
+    "pron": "móska"
+  },
+  {
+    "pt": "barata",
+    "es": "cucaracha",
+    "pron": "kukarácha"
+  },
+  {
+    "pt": "besouro",
+    "es": "escarabajo",
+    "pron": "eskarabájo"
+  },
+  {
+    "pt": "grilo",
+    "es": "grillo",
+    "pron": "gríyo"
+  },
+  {
+    "pt": "escorpião",
+    "es": "escorpión",
+    "pron": "eskorpión"
+  },
+  {
+    "pt": "caracol",
+    "es": "caracol",
+    "pron": "karakól"
+  },
+  {
+    "pt": "minhoca",
+    "es": "lombriz",
+    "pron": "lombrís"
+  },
+  {
+    "pt": "lagarta",
+    "es": "oruga",
+    "pron": "orúga"
+  },
+  {
+    "pt": "o cachorro late",
+    "es": "el perro ladra",
+    "pron": "el pérro ládra"
+  },
+  {
+    "pt": "o gato mia",
+    "es": "el gato maúlla",
+    "pron": "el gáto maúya"
+  },
+  {
+    "pt": "a vaca muge",
+    "es": "la vaca muge",
+    "pron": "la báka múje"
+  },
+  {
+    "pt": "o cavalo relincha",
+    "es": "el caballo relincha",
+    "pron": "el kabáyo relíncha"
+  },
+  {
+    "pt": "o galo canta",
+    "es": "el gallo canta",
+    "pron": "el gáyo kánta"
+  },
+  {
+    "pt": "o pássaro canta",
+    "es": "el pájaro canta",
+    "pron": "el pájaro kánta"
+  },
+  {
+    "pt": "o lobo uiva",
+    "es": "el lobo aúlla",
+    "pron": "el lóbo aúya"
+  },
+  {
+    "pt": "a abelha zumbe",
+    "es": "la abeja zumba",
+    "pron": "la abéja súmba"
+  },
+  {
+    "pt": "eu tenho um cachorro",
+    "es": "tengo un perro",
+    "pron": "téngo un pérro"
+  },
+  {
+    "pt": "eu gosto de gatos",
+    "es": "me gustan los gatos",
+    "pron": "me gústan los gátos"
+  },
+  {
+    "pt": "tenho medo de cobra",
+    "es": "tengo miedo de serpientes",
+    "pron": "téngo miédo de serpiéntes"
+  },
+  {
+    "pt": "que animal é esse?",
+    "es": "¿qué animal es ese?",
+    "pron": "ke animál es ése"
+  },
+  {
+    "pt": "é perigoso?",
+    "es": "¿es peligroso?",
+    "pron": "es peligróso"
+  },
+  {
+    "pt": "é de estimação",
+    "es": "es mascota",
+    "pron": "es maskóta"
+  },
+  {
+    "pt": "animal selvagem",
+    "es": "animal salvaje",
+    "pron": "animál salbáje"
+  },
+  {
+    "pt": "no zoológico",
+    "es": "en el zoológico",
+    "pron": "en el soolójiko"
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "pt": "cabeça",
+    "es": "cabeza",
+    "pron": "kabésa"
+  },
+  {
+    "pt": "cabelo",
+    "es": "pelo",
+    "pron": "pélo"
+  },
+  {
+    "pt": "rosto",
+    "es": "cara",
+    "pron": "kára"
+  },
+  {
+    "pt": "testa",
+    "es": "frente",
+    "pron": "frénte"
+  },
+  {
+    "pt": "olho",
+    "es": "ojo",
+    "pron": "ójo"
+  },
+  {
+    "pt": "sobrancelha",
+    "es": "ceja",
+    "pron": "séja"
+  },
+  {
+    "pt": "cílios",
+    "es": "pestañas",
+    "pron": "pestáñas"
+  },
+  {
+    "pt": "pálpebra",
+    "es": "párpado",
+    "pron": "párpado"
+  },
+  {
+    "pt": "nariz",
+    "es": "nariz",
+    "pron": "narís"
+  },
+  {
+    "pt": "boca",
+    "es": "boca",
+    "pron": "bóka"
+  },
+  {
+    "pt": "lábio",
+    "es": "labio",
+    "pron": "lábio"
+  },
+  {
+    "pt": "dente",
+    "es": "diente",
+    "pron": "diénte"
+  },
+  {
+    "pt": "dentes",
+    "es": "dientes",
+    "pron": "diéntes"
+  },
+  {
+    "pt": "língua",
+    "es": "lengua",
+    "pron": "léngua"
+  },
+  {
+    "pt": "gengiva",
+    "es": "encía",
+    "pron": "ensía"
+  },
+  {
+    "pt": "queixo",
+    "es": "barbilla",
+    "pron": "barbíya"
+  },
+  {
+    "pt": "bochecha",
+    "es": "mejilla",
+    "pron": "mejíya"
+  },
+  {
+    "pt": "orelha",
+    "es": "oreja",
+    "pron": "oréja"
+  },
+  {
+    "pt": "pescoço",
+    "es": "cuello",
+    "pron": "kuéyo"
+  },
+  {
+    "pt": "garganta",
+    "es": "garganta",
+    "pron": "gargánta"
+  },
+  {
+    "pt": "ombro",
+    "es": "hombro",
+    "pron": "ómbro"
+  },
+  {
+    "pt": "peito",
+    "es": "pecho",
+    "pron": "pécho"
+  },
+  {
+    "pt": "seio",
+    "es": "seno",
+    "pron": "séno"
+  },
+  {
+    "pt": "barriga",
+    "es": "barriga",
+    "pron": "barríga"
+  },
+  {
+    "pt": "estômago",
+    "es": "estómago",
+    "pron": "estómago"
+  },
+  {
+    "pt": "costas",
+    "es": "espalda",
+    "pron": "espálda"
+  },
+  {
+    "pt": "coluna",
+    "es": "columna",
+    "pron": "kolúmna"
+  },
+  {
+    "pt": "cintura",
+    "es": "cintura",
+    "pron": "sintúra"
+  },
+  {
+    "pt": "quadril",
+    "es": "cadera",
+    "pron": "kadéra"
+  },
+  {
+    "pt": "lado",
+    "es": "lado",
+    "pron": "ládo"
+  },
+  {
+    "pt": "tórax",
+    "es": "tórax",
+    "pron": "tóraks"
+  },
+  {
+    "pt": "braço",
+    "es": "brazo",
+    "pron": "bráso"
+  },
+  {
+    "pt": "cotovelo",
+    "es": "codo",
+    "pron": "kódo"
+  },
+  {
+    "pt": "antebraço",
+    "es": "antebrazo",
+    "pron": "antebráso"
+  },
+  {
+    "pt": "pulso",
+    "es": "muñeca",
+    "pron": "muñéka"
+  },
+  {
+    "pt": "mão",
+    "es": "mano",
+    "pron": "máno"
+  },
+  {
+    "pt": "palma",
+    "es": "palma",
+    "pron": "pálma"
+  },
+  {
+    "pt": "dedo",
+    "es": "dedo",
+    "pron": "dédo"
+  },
+  {
+    "pt": "polegar",
+    "es": "pulgar",
+    "pron": "pulgár"
+  },
+  {
+    "pt": "indicador",
+    "es": "índice",
+    "pron": "índise"
+  },
+  {
+    "pt": "dedo médio",
+    "es": "dedo medio",
+    "pron": "dédo médio"
+  },
+  {
+    "pt": "dedo anelar",
+    "es": "dedo anular",
+    "pron": "dédo anulár"
+  },
+  {
+    "pt": "dedo mindinho",
+    "es": "meñique",
+    "pron": "meñíke"
+  },
+  {
+    "pt": "unha",
+    "es": "uña",
+    "pron": "úña"
+  },
+  {
+    "pt": "perna",
+    "es": "pierna",
+    "pron": "piérna"
+  },
+  {
+    "pt": "coxa",
+    "es": "muslo",
+    "pron": "múslo"
+  },
+  {
+    "pt": "joelho",
+    "es": "rodilla",
+    "pron": "rodíya"
+  },
+  {
+    "pt": "canela",
+    "es": "espinilla",
+    "pron": "espiníya"
+  },
+  {
+    "pt": "tornozelo",
+    "es": "tobillo",
+    "pron": "tobíyo"
+  },
+  {
+    "pt": "pé",
+    "es": "pie",
+    "pron": "pié"
+  },
+  {
+    "pt": "pés",
+    "es": "pies",
+    "pron": "piés"
+  },
+  {
+    "pt": "dedo do pé",
+    "es": "dedo del pie",
+    "pron": "dédo del pié"
+  },
+  {
+    "pt": "calcanhar",
+    "es": "talón",
+    "pron": "talón"
+  },
+  {
+    "pt": "sola",
+    "es": "suela",
+    "pron": "suéla"
+  },
+  {
+    "pt": "coração",
+    "es": "corazón",
+    "pron": "korasón"
+  },
+  {
+    "pt": "pulmão",
+    "es": "pulmón",
+    "pron": "pulmón"
+  },
+  {
+    "pt": "fígado",
+    "es": "hígado",
+    "pron": "ígádo"
+  },
+  {
+    "pt": "rim",
+    "es": "riñón",
+    "pron": "riñón"
+  },
+  {
+    "pt": "intestino",
+    "es": "intestino",
+    "pron": "intestíno"
+  },
+  {
+    "pt": "cérebro",
+    "es": "cerebro",
+    "pron": "serébro"
+  },
+  {
+    "pt": "veia",
+    "es": "vena",
+    "pron": "béna"
+  },
+  {
+    "pt": "artéria",
+    "es": "arteria",
+    "pron": "artéria"
+  },
+  {
+    "pt": "sangue",
+    "es": "sangre",
+    "pron": "sángre"
+  },
+  {
+    "pt": "osso",
+    "es": "hueso",
+    "pron": "uéso"
+  },
+  {
+    "pt": "músculo",
+    "es": "músculo",
+    "pron": "múskulo"
+  },
+  {
+    "pt": "pele",
+    "es": "piel",
+    "pron": "piél"
+  },
+  {
+    "pt": "nervo",
+    "es": "nervio",
+    "pron": "nérbio"
+  },
+  {
+    "pt": "pulso (batimento)",
+    "es": "pulso",
+    "pron": "púlso"
+  },
+  {
+    "pt": "respiração",
+    "es": "respiración",
+    "pron": "respirasión"
+  },
+  {
+    "pt": "voz",
+    "es": "voz",
+    "pron": "bos"
+  },
+  {
+    "pt": "lágrima",
+    "es": "lágrima",
+    "pron": "lágrima"
+  },
+  {
+    "pt": "suor",
+    "es": "sudor",
+    "pron": "sudór"
+  },
+  {
+    "pt": "saliva",
+    "es": "saliva",
+    "pron": "salíba"
+  },
+  {
+    "pt": "visão",
+    "es": "visión",
+    "pron": "bisión"
+  },
+  {
+    "pt": "audição",
+    "es": "audición",
+    "pron": "audisión"
+  },
+  {
+    "pt": "olfato",
+    "es": "olfato",
+    "pron": "olfáto"
+  },
+  {
+    "pt": "paladar",
+    "es": "gusto",
+    "pron": "gústo"
+  },
+  {
+    "pt": "tato",
+    "es": "tacto",
+    "pron": "tákto"
+  },
+  {
+    "pt": "alto",
+    "es": "alto",
+    "pron": "álto"
+  },
+  {
+    "pt": "baixo",
+    "es": "bajo",
+    "pron": "bájo"
+  },
+  {
+    "pt": "magro",
+    "es": "delgado",
+    "pron": "delgádo"
+  },
+  {
+    "pt": "gordo",
+    "es": "gordo",
+    "pron": "górdo"
+  },
+  {
+    "pt": "forte",
+    "es": "fuerte",
+    "pron": "fuérte"
+  },
+  {
+    "pt": "fraco",
+    "es": "débil",
+    "pron": "débil"
+  },
+  {
+    "pt": "bonito",
+    "es": "guapo",
+    "pron": "guápo"
+  },
+  {
+    "pt": "bonita",
+    "es": "guapa",
+    "pron": "guápa"
+  },
+  {
+    "pt": "feio",
+    "es": "feo",
+    "pron": "féo"
+  },
+  {
+    "pt": "jovem",
+    "es": "joven",
+    "pron": "jóben"
+  },
+  {
+    "pt": "velho",
+    "es": "viejo",
+    "pron": "biéjo"
+  },
+  {
+    "pt": "loiro",
+    "es": "rubio",
+    "pron": "rúbio"
+  },
+  {
+    "pt": "moreno",
+    "es": "moreno",
+    "pron": "moréno"
+  },
+  {
+    "pt": "ruivo",
+    "es": "pelirrojo",
+    "pron": "pelirrójo"
+  },
+  {
+    "pt": "careca",
+    "es": "calvo",
+    "pron": "kálbo"
+  },
+  {
+    "pt": "cabelo comprido",
+    "es": "pelo largo",
+    "pron": "pélo lárgo"
+  },
+  {
+    "pt": "cabelo curto",
+    "es": "pelo corto",
+    "pron": "pélo kórto"
+  },
+  {
+    "pt": "cabelo cacheado",
+    "es": "pelo rizado",
+    "pron": "pélo risádo"
+  },
+  {
+    "pt": "cabelo liso",
+    "es": "pelo liso",
+    "pron": "pélo líso"
+  },
+  {
+    "pt": "olhos azuis",
+    "es": "ojos azules",
+    "pron": "ójos asúles"
+  },
+  {
+    "pt": "olhos castanhos",
+    "es": "ojos marrones",
+    "pron": "ójos marrónes"
+  },
+  {
+    "pt": "olhos verdes",
+    "es": "ojos verdes",
+    "pron": "ójos bérd es"
+  },
+  {
+    "pt": "olhos pretos",
+    "es": "ojos negros",
+    "pron": "ójos négros"
+  },
+  {
+    "pt": "andar",
+    "es": "caminar",
+    "pron": "kaminár"
+  },
+  {
+    "pt": "correr",
+    "es": "correr",
+    "pron": "korrér"
+  },
+  {
+    "pt": "pular",
+    "es": "saltar",
+    "pron": "saltár"
+  },
+  {
+    "pt": "sentar",
+    "es": "sentarse",
+    "pron": "sentárse"
+  },
+  {
+    "pt": "levantar",
+    "es": "levantarse",
+    "pron": "lebantárse"
+  },
+  {
+    "pt": "deitar",
+    "es": "acostarse",
+    "pron": "akostárse"
+  },
+  {
+    "pt": "dormir",
+    "es": "dormir",
+    "pron": "dormír"
+  },
+  {
+    "pt": "acordar",
+    "es": "despertar",
+    "pron": "despertár"
+  },
+  {
+    "pt": "comer",
+    "es": "comer",
+    "pron": "komér"
+  },
+  {
+    "pt": "beber",
+    "es": "beber",
+    "pron": "bebér"
+  },
+  {
+    "pt": "respirar",
+    "es": "respirar",
+    "pron": "respirár"
+  },
+  {
+    "pt": "falar",
+    "es": "hablar",
+    "pron": "ablár"
+  },
+  {
+    "pt": "ouvir",
+    "es": "oír",
+    "pron": "oír"
+  },
+  {
+    "pt": "ver",
+    "es": "ver",
+    "pron": "ber"
+  },
+  {
+    "pt": "olhar",
+    "es": "mirar",
+    "pron": "mirár"
+  },
+  {
+    "pt": "tocar",
+    "es": "tocar",
+    "pron": "tokár"
+  },
+  {
+    "pt": "cheirar",
+    "es": "oler",
+    "pron": "olér"
+  },
+  {
+    "pt": "provar",
+    "es": "probar",
+    "pron": "probár"
+  },
+  {
+    "pt": "sorrir",
+    "es": "sonreír",
+    "pron": "sonreír"
+  },
+  {
+    "pt": "chorar",
+    "es": "llorar",
+    "pron": "yorár"
+  },
+  {
+    "pt": "rir",
+    "es": "reír",
+    "pron": "reír"
+  },
+  {
+    "pt": "espirrar",
+    "es": "estornudar",
+    "pron": "estornudár"
+  },
+  {
+    "pt": "tossir",
+    "es": "toser",
+    "pron": "tosér"
+  },
+  {
+    "pt": "bocejar",
+    "es": "bostezar",
+    "pron": "bostesár"
+  },
+  {
+    "pt": "piscar",
+    "es": "parpadear",
+    "pron": "parpadéar"
+  },
+  {
+    "pt": "morder",
+    "es": "morder",
+    "pron": "mordér"
+  },
+  {
+    "pt": "engolir",
+    "es": "tragar",
+    "pron": "tragár"
+  },
+  {
+    "pt": "mastigar",
+    "es": "masticar",
+    "pron": "mastikár"
+  },
+  {
+    "pt": "chutar",
+    "es": "patear",
+    "pron": "pateár"
+  },
+  {
+    "pt": "bater",
+    "es": "golpear",
+    "pron": "golpeár"
+  },
+  {
+    "pt": "segurar",
+    "es": "sostener",
+    "pron": "sostenér"
+  },
+  {
+    "pt": "apertar",
+    "es": "apretar",
+    "pron": "apretár"
+  },
+  {
+    "pt": "abraçar",
+    "es": "abrazar",
+    "pron": "abrasár"
+  },
+  {
+    "pt": "beijar",
+    "es": "besar",
+    "pron": "besár"
+  },
+  {
+    "pt": "empurrar",
+    "es": "empujar",
+    "pron": "empujár"
+  },
+  {
+    "pt": "puxar",
+    "es": "tirar",
+    "pron": "tirár"
+  },
+  {
+    "pt": "carregar",
+    "es": "cargar",
+    "pron": "kargár"
+  },
+  {
+    "pt": "levantar (peso)",
+    "es": "levantar",
+    "pron": "lebantár"
+  },
+  {
+    "pt": "pegar",
+    "es": "atrapar",
+    "pron": "atrapár"
+  },
+  {
+    "pt": "soltar",
+    "es": "soltar",
+    "pron": "soltár"
+  },
+  {
+    "pt": "saudável",
+    "es": "saludable",
+    "pron": "saludáble"
+  },
+  {
+    "pt": "doente",
+    "es": "enfermo",
+    "pron": "enférmo"
+  },
+  {
+    "pt": "cansado",
+    "es": "cansado",
+    "pron": "kansádo"
+  },
+  {
+    "pt": "com sono",
+    "es": "con sueño",
+    "pron": "kon suéño"
+  },
+  {
+    "pt": "com fome",
+    "es": "con hambre",
+    "pron": "kon ámbre"
+  },
+  {
+    "pt": "com sede",
+    "es": "con sed",
+    "pron": "kon sed"
+  },
+  {
+    "pt": "com dor",
+    "es": "con dolor",
+    "pron": "kon dolór"
+  },
+  {
+    "pt": "machucado",
+    "es": "lastimado",
+    "pron": "lastimádo"
+  },
+  {
+    "pt": "quebrado",
+    "es": "roto",
+    "pron": "róto"
+  },
+  {
+    "pt": "machucado (ferida)",
+    "es": "herido",
+    "pron": "erído"
+  },
+  {
+    "pt": "grávida",
+    "es": "embarazada",
+    "pron": "embarasáda"
+  },
+  {
+    "pt": "gripado",
+    "es": "resfriado",
+    "pron": "resfriádo"
+  },
+  {
+    "pt": "resfriado",
+    "es": "constipado",
+    "pron": "konstipádo"
+  },
+  {
+    "pt": "com febre",
+    "es": "con fiebre",
+    "pron": "kon fiébre"
+  },
+  {
+    "pt": "sarado",
+    "es": "en forma",
+    "pron": "en fórma"
+  },
+  {
+    "pt": "fora de forma",
+    "es": "fuera de forma",
+    "pron": "fuéra de fórma"
+  },
+  {
+    "pt": "dor de cabeça",
+    "es": "dolor de cabeza",
+    "pron": "dolór de kabésa"
+  },
+  {
+    "pt": "dor de barriga",
+    "es": "dolor de estómago",
+    "pron": "dolór de estómago"
+  },
+  {
+    "pt": "dor de dente",
+    "es": "dolor de dientes",
+    "pron": "dolór de diéntes"
+  },
+  {
+    "pt": "dor nas costas",
+    "es": "dolor de espalda",
+    "pron": "dolór de espálda"
+  },
+  {
+    "pt": "dor de garganta",
+    "es": "dolor de garganta",
+    "pron": "dolór de gargánta"
+  },
+  {
+    "pt": "dor de ouvido",
+    "es": "dolor de oído",
+    "pron": "dolór de oído"
+  },
+  {
+    "pt": "dor no peito",
+    "es": "dolor de pecho",
+    "pron": "dolór de pécho"
+  },
+  {
+    "pt": "dor nas pernas",
+    "es": "dolor en las piernas",
+    "pron": "dolór en las piérnas"
+  },
+  {
+    "pt": "meu braço dói",
+    "es": "me duele el brazo",
+    "pron": "me duéle el bráso"
+  },
+  {
+    "pt": "meu pé está inchado",
+    "es": "mi pie está hinchado",
+    "pron": "mi pié está inchádo"
+  },
+  {
+    "pt": "estou me sentindo mal",
+    "es": "me siento mal",
+    "pron": "me siénto mal"
+  },
+  {
+    "pt": "não estou bem",
+    "es": "no estoy bien",
+    "pron": "no estói bién"
+  },
+  {
+    "pt": "preciso de um médico",
+    "es": "necesito un médico",
+    "pron": "nesesíto un médiko"
+  },
+  {
+    "pt": "quebrei o braço",
+    "es": "me rompí el brazo",
+    "pron": "me rompí el bráso"
+  },
+  {
+    "pt": "quebrei a perna",
+    "es": "me rompí la pierna",
+    "pron": "me rompí la piérna"
+  },
+  {
+    "pt": "estou sangrando",
+    "es": "estoy sangrando",
+    "pron": "estói sangrándo"
+  },
+  {
+    "pt": "tomei um remédio",
+    "es": "tomé una medicina",
+    "pron": "tomé úna medisína"
+  },
+  {
+    "pt": "sou alérgico",
+    "es": "soy alérgico",
+    "pron": "sói alérjiko"
+  },
+  {
+    "pt": "tenho asma",
+    "es": "tengo asma",
+    "pron": "téngo ásma"
+  },
+  {
+    "pt": "tenho diabetes",
+    "es": "tengo diabetes",
+    "pron": "téngo diabétes"
+  },
+  {
+    "pt": "estou grávida",
+    "es": "estoy embarazada",
+    "pron": "estói embarasáda"
+  },
+  {
+    "pt": "estou de dieta",
+    "es": "estoy a dieta",
+    "pron": "estói a diéta"
+  },
+  {
+    "pt": "faço exercício",
+    "es": "hago ejercicio",
+    "pron": "ágo ejersísio"
+  },
+  {
+    "pt": "vou à academia",
+    "es": "voy al gimnasio",
+    "pron": "bói al jimnásio"
+  }
+]

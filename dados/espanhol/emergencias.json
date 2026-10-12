@@ -1,0 +1,252 @@
+[
+  {
+    "pt": "socorro!",
+    "es": "¡socorro!",
+    "pron": "sokórro"
+  },
+  {
+    "pt": "chame uma ambulância",
+    "es": "llame a una ambulancia",
+    "pron": "yáme a úna ambulánsia"
+  },
+  {
+    "pt": "chame a polícia",
+    "es": "llame a la policía",
+    "pron": "yáme a la polisía"
+  },
+  {
+    "pt": "chame os bombeiros",
+    "es": "llame a los bomberos",
+    "pron": "yáme a los bombéros"
+  },
+  {
+    "pt": "fogo!",
+    "es": "¡fuego!",
+    "pron": "fuégo"
+  },
+  {
+    "pt": "estou perdido",
+    "es": "estoy perdido",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "estou doente",
+    "es": "estoy enfermo",
+    "pron": "estói enférmo"
+  },
+  {
+    "pt": "preciso de médico",
+    "es": "necesito un médico",
+    "pron": "nesesíto un médiko"
+  },
+  {
+    "pt": "preciso de ajuda",
+    "es": "necesito ayuda",
+    "pron": "nesesíto ayúda"
+  },
+  {
+    "pt": "perigo",
+    "es": "peligro",
+    "pron": "pelígro"
+  },
+  {
+    "pt": "roubo",
+    "es": "robo",
+    "pron": "róbo"
+  },
+  {
+    "pt": "assalto",
+    "es": "asalto",
+    "pron": "asálto"
+  },
+  {
+    "pt": "acidente",
+    "es": "accidente",
+    "pron": "aksidénte"
+  },
+  {
+    "pt": "acidente de carro",
+    "es": "accidente de coche",
+    "pron": "aksidénte de kóche"
+  },
+  {
+    "pt": "incêndio",
+    "es": "incendio",
+    "pron": "inséndio"
+  },
+  {
+    "pt": "terremoto",
+    "es": "terremoto",
+    "pron": "terremóto"
+  },
+  {
+    "pt": "enchente",
+    "es": "inundación",
+    "pron": "inundasión"
+  },
+  {
+    "pt": "dor",
+    "es": "dolor",
+    "pron": "dolór"
+  },
+  {
+    "pt": "dor de cabeça",
+    "es": "dolor de cabeza",
+    "pron": "dolór de kabésa"
+  },
+  {
+    "pt": "dor de barriga",
+    "es": "dolor de estómago",
+    "pron": "dolór de estómago"
+  },
+  {
+    "pt": "febre",
+    "es": "fiebre",
+    "pron": "fiébre"
+  },
+  {
+    "pt": "tosse",
+    "es": "tos",
+    "pron": "tos"
+  },
+  {
+    "pt": "gripe",
+    "es": "gripe",
+    "pron": "grípe"
+  },
+  {
+    "pt": "alergia",
+    "es": "alergia",
+    "pron": "alérjia"
+  },
+  {
+    "pt": "remédio",
+    "es": "medicina",
+    "pron": "medisína"
+  },
+  {
+    "pt": "farmácia",
+    "es": "farmacia",
+    "pron": "farmásia"
+  },
+  {
+    "pt": "hospital",
+    "es": "hospital",
+    "pron": "ospitál"
+  },
+  {
+    "pt": "médico",
+    "es": "médico",
+    "pron": "médiko"
+  },
+  {
+    "pt": "enfermeiro",
+    "es": "enfermero",
+    "pron": "enferméro"
+  },
+  {
+    "pt": "estou machucado",
+    "es": "estoy herido",
+    "pron": "estói erído"
+  },
+  {
+    "pt": "quebrei o braço",
+    "es": "me rompí el brazo",
+    "pron": "me rompí el bráso"
+  },
+  {
+    "pt": "quebrei a perna",
+    "es": "me rompí la pierna",
+    "pron": "me rompí la piérna"
+  },
+  {
+    "pt": "sangrando",
+    "es": "sangrando",
+    "pron": "sangrándo"
+  },
+  {
+    "pt": "desmaiei",
+    "es": "me desmayé",
+    "pron": "me desmayé"
+  },
+  {
+    "pt": "não consigo respirar",
+    "es": "no puedo respirar",
+    "pron": "no puédo respirár"
+  },
+  {
+    "pt": "sou alérgico a...",
+    "es": "soy alérgico a...",
+    "pron": "sói alérjiko a"
+  },
+  {
+    "pt": "não falo inglês",
+    "es": "no hablo inglés",
+    "pron": "no áblo inglés"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "es": "¿dónde está el baño?",
+    "pron": "dónde está el báño"
+  },
+  {
+    "pt": "onde fica o hospital?",
+    "es": "¿dónde está el hospital?",
+    "pron": "dónde está el ospitál"
+  },
+  {
+    "pt": "onde fica a polícia?",
+    "es": "¿dónde está la policía?",
+    "pron": "dónde está la polisía"
+  },
+  {
+    "pt": "onde fica a embaixada?",
+    "es": "¿dónde está la embajada?",
+    "pron": "dónde está la embajáda"
+  },
+  {
+    "pt": "perdi meu passaporte",
+    "es": "perdí mi pasaporte",
+    "pron": "perdí mi pasapórte"
+  },
+  {
+    "pt": "perdi minha carteira",
+    "es": "perdí mi cartera",
+    "pron": "perdí mi kartéra"
+  },
+  {
+    "pt": "fui roubado",
+    "es": "me robaron",
+    "pron": "me robáron"
+  },
+  {
+    "pt": "meu celular foi roubado",
+    "es": "me robaron el celular",
+    "pron": "me robáron el selulár"
+  },
+  {
+    "pt": "preciso de um advogado",
+    "es": "necesito un abogado",
+    "pron": "nesesíto un abogádo"
+  },
+  {
+    "pt": "chame a polícia, por favor",
+    "es": "llame a la policía, por favor",
+    "pron": "yáme a la polisía por fabór"
+  },
+  {
+    "pt": "é uma emergência",
+    "es": "es una emergencia",
+    "pron": "es úna emerjénsia"
+  },
+  {
+    "pt": "rápido!",
+    "es": "¡rápido!",
+    "pron": "rápido"
+  },
+  {
+    "pt": "cuidado!",
+    "es": "¡cuidado!",
+    "pron": "kuidádo"
+  }
+]

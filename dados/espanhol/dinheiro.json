@@ -1,0 +1,627 @@
+[
+  {
+    "pt": "dinheiro",
+    "es": "dinero",
+    "pron": "dinéro"
+  },
+  {
+    "pt": "moeda",
+    "es": "moneda",
+    "pron": "monéda"
+  },
+  {
+    "pt": "nota",
+    "es": "billete",
+    "pron": "biyéte"
+  },
+  {
+    "pt": "cédula",
+    "es": "billete",
+    "pron": "biyéte"
+  },
+  {
+    "pt": "troco",
+    "es": "cambio",
+    "pron": "kámbio"
+  },
+  {
+    "pt": "conta",
+    "es": "cuenta",
+    "pron": "kuénta"
+  },
+  {
+    "pt": "preço",
+    "es": "precio",
+    "pron": "présio"
+  },
+  {
+    "pt": "valor",
+    "es": "valor",
+    "pron": "balór"
+  },
+  {
+    "pt": "desconto",
+    "es": "descuento",
+    "pron": "deskuénto"
+  },
+  {
+    "pt": "promoção",
+    "es": "oferta",
+    "pron": "oférta"
+  },
+  {
+    "pt": "imposto",
+    "es": "impuesto",
+    "pron": "impuést o"
+  },
+  {
+    "pt": "salário",
+    "es": "salario",
+    "pron": "salário"
+  },
+  {
+    "pt": "lucro",
+    "es": "ganancia",
+    "pron": "ganánsia"
+  },
+  {
+    "pt": "dívida",
+    "es": "deuda",
+    "pron": "déuda"
+  },
+  {
+    "pt": "receita",
+    "es": "ingresos",
+    "pron": "ingrésos"
+  },
+  {
+    "pt": "despesa",
+    "es": "gastos",
+    "pron": "gástos"
+  },
+  {
+    "pt": "orçamento",
+    "es": "presupuesto",
+    "pron": "presupu ésto"
+  },
+  {
+    "pt": "economia",
+    "es": "ahorro",
+    "pron": "aórro"
+  },
+  {
+    "pt": "investimento",
+    "es": "inversión",
+    "pron": "inbersión"
+  },
+  {
+    "pt": "juros",
+    "es": "interés",
+    "pron": "inter és"
+  },
+  {
+    "pt": "real",
+    "es": "real",
+    "pron": "reál"
+  },
+  {
+    "pt": "dólar",
+    "es": "dólar",
+    "pron": "dólar"
+  },
+  {
+    "pt": "euro",
+    "es": "euro",
+    "pron": "éuro"
+  },
+  {
+    "pt": "libra",
+    "es": "libra",
+    "pron": "líbra"
+  },
+  {
+    "pt": "iene",
+    "es": "yen",
+    "pron": "yen"
+  },
+  {
+    "pt": "rublo",
+    "es": "rublo",
+    "pron": "rúblo"
+  },
+  {
+    "pt": "peso",
+    "es": "peso",
+    "pron": "péso"
+  },
+  {
+    "pt": "câmbio",
+    "es": "cambio",
+    "pron": "kámbio"
+  },
+  {
+    "pt": "cartão de crédito",
+    "es": "tarjeta de crédito",
+    "pron": "tarjéta de krédito"
+  },
+  {
+    "pt": "cartão de débito",
+    "es": "tarjeta de débito",
+    "pron": "tarjéta de débito"
+  },
+  {
+    "pt": "dinheiro em espécie",
+    "es": "efectivo",
+    "pron": "efektíbo"
+  },
+  {
+    "pt": "cheque",
+    "es": "cheque",
+    "pron": "chéke"
+  },
+  {
+    "pt": "boleto",
+    "es": "boleto",
+    "pron": "boléto"
+  },
+  {
+    "pt": "pix",
+    "es": "transferencia instantánea",
+    "pron": "transferénsia instan tánea"
+  },
+  {
+    "pt": "carteira digital",
+    "es": "cartera digital",
+    "pron": "kartéra dijitál"
+  },
+  {
+    "pt": "transferência",
+    "es": "transferencia",
+    "pron": "transferénsia"
+  },
+  {
+    "pt": "depósito",
+    "es": "depósito",
+    "pron": "depósito"
+  },
+  {
+    "pt": "saque",
+    "es": "retiro",
+    "pron": "retíro"
+  },
+  {
+    "pt": "comprar",
+    "es": "comprar",
+    "pron": "komprár"
+  },
+  {
+    "pt": "vender",
+    "es": "vender",
+    "pron": "bendér"
+  },
+  {
+    "pt": "pagar",
+    "es": "pagar",
+    "pron": "pagár"
+  },
+  {
+    "pt": "gastar",
+    "es": "gastar",
+    "pron": "gastár"
+  },
+  {
+    "pt": "economizar",
+    "es": "ahorrar",
+    "pron": "aorrár"
+  },
+  {
+    "pt": "emprestar",
+    "es": "prestar",
+    "pron": "prestár"
+  },
+  {
+    "pt": "pedir emprestado",
+    "es": "pedir prestado",
+    "pron": "pedír prestádo"
+  },
+  {
+    "pt": "devolver",
+    "es": "devolver",
+    "pron": "debolbér"
+  },
+  {
+    "pt": "trocar",
+    "es": "cambiar",
+    "pron": "kambiár"
+  },
+  {
+    "pt": "investir",
+    "es": "invertir",
+    "pron": "inbertír"
+  },
+  {
+    "pt": "negociar",
+    "es": "negociar",
+    "pron": "negosiár"
+  },
+  {
+    "pt": "pechinchar",
+    "es": "regatear",
+    "pron": "regateár"
+  },
+  {
+    "pt": "cobrar",
+    "es": "cobrar",
+    "pron": "kobrár"
+  },
+  {
+    "pt": "pagar à vista",
+    "es": "pagar al contado",
+    "pron": "pagár al kontádo"
+  },
+  {
+    "pt": "pagar parcelado",
+    "es": "pagar a plazos",
+    "pron": "pagár a plásos"
+  },
+  {
+    "pt": "caro",
+    "es": "caro",
+    "pron": "káro"
+  },
+  {
+    "pt": "barato",
+    "es": "barato",
+    "pron": "baráto"
+  },
+  {
+    "pt": "grátis",
+    "es": "gratis",
+    "pron": "grátis"
+  },
+  {
+    "pt": "novo",
+    "es": "nuevo",
+    "pron": "nuébo"
+  },
+  {
+    "pt": "usado",
+    "es": "usado",
+    "pron": "usádo"
+  },
+  {
+    "pt": "em promoção",
+    "es": "en oferta",
+    "pron": "en oférta"
+  },
+  {
+    "pt": "caríssimo",
+    "es": "carísimo",
+    "pron": "karísimo"
+  },
+  {
+    "pt": "acessível",
+    "es": "accesible",
+    "pron": "aksesíble"
+  },
+  {
+    "pt": "razoável",
+    "es": "razonable",
+    "pron": "rasonáble"
+  },
+  {
+    "pt": "justo",
+    "es": "justo",
+    "pron": "jústo"
+  },
+  {
+    "pt": "abusivo",
+    "es": "abusivo",
+    "pron": "abusíbo"
+  },
+  {
+    "pt": "vale a pena",
+    "es": "vale la pena",
+    "pron": "bále la péna"
+  },
+  {
+    "pt": "não vale",
+    "es": "no vale la pena",
+    "pron": "no bále la péna"
+  },
+  {
+    "pt": "loja",
+    "es": "tienda",
+    "pron": "tiénda"
+  },
+  {
+    "pt": "mercado",
+    "es": "mercado",
+    "pron": "merk ádo"
+  },
+  {
+    "pt": "supermercado",
+    "es": "supermercado",
+    "pron": "supermerk ádo"
+  },
+  {
+    "pt": "shopping",
+    "es": "centro comercial",
+    "pron": "séntro komersiál"
+  },
+  {
+    "pt": "banco",
+    "es": "banco",
+    "pron": "bánko"
+  },
+  {
+    "pt": "caixa eletrônico",
+    "es": "cajero automático",
+    "pron": "kajéro automatiko"
+  },
+  {
+    "pt": "farmácia",
+    "es": "farmacia",
+    "pron": "farmásia"
+  },
+  {
+    "pt": "padaria",
+    "es": "panadería",
+    "pron": "panadería"
+  },
+  {
+    "pt": "livraria",
+    "es": "librería",
+    "pron": "librería"
+  },
+  {
+    "pt": "feira",
+    "es": "feria",
+    "pron": "féria"
+  },
+  {
+    "pt": "loja de roupas",
+    "es": "tienda de ropa",
+    "pron": "tiénda de rópa"
+  },
+  {
+    "pt": "loja de sapatos",
+    "es": "zapatería",
+    "pron": "sapatería"
+  },
+  {
+    "pt": "joalheria",
+    "es": "joyería",
+    "pron": "joyería"
+  },
+  {
+    "pt": "papelaria",
+    "es": "papelería",
+    "pron": "papelería"
+  },
+  {
+    "pt": "produto",
+    "es": "producto",
+    "pron": "prodúkto"
+  },
+  {
+    "pt": "mercadoria",
+    "es": "mercancía",
+    "pron": "mer kansía"
+  },
+  {
+    "pt": "comida",
+    "es": "comida",
+    "pron": "komída"
+  },
+  {
+    "pt": "bebida",
+    "es": "bebida",
+    "pron": "bebída"
+  },
+  {
+    "pt": "remédio",
+    "es": "medicina",
+    "pron": "medisína"
+  },
+  {
+    "pt": "roupa",
+    "es": "ropa",
+    "pron": "rópa"
+  },
+  {
+    "pt": "sapato",
+    "es": "zapato",
+    "pron": "sapáto"
+  },
+  {
+    "pt": "eletrônico",
+    "es": "electrónico",
+    "pron": "elektróniko"
+  },
+  {
+    "pt": "celular",
+    "es": "celular",
+    "pron": "selulár"
+  },
+  {
+    "pt": "computador",
+    "es": "computadora",
+    "pron": "komputadóra"
+  },
+  {
+    "pt": "brinquedo",
+    "es": "juguete",
+    "pron": "jugéte"
+  },
+  {
+    "pt": "presente",
+    "es": "regalo",
+    "pron": "regálo"
+  },
+  {
+    "pt": "lembrança",
+    "es": "recuerdo",
+    "pron": "reku érdo"
+  },
+  {
+    "pt": "vitrine",
+    "es": "escaparate",
+    "pron": "eskarapáte"
+  },
+  {
+    "pt": "prateleira",
+    "es": "estante",
+    "pron": "estánte"
+  },
+  {
+    "pt": "provador",
+    "es": "probador",
+    "pron": "probadór"
+  },
+  {
+    "pt": "caixa",
+    "es": "caja",
+    "pron": "kája"
+  },
+  {
+    "pt": "sacola",
+    "es": "bolsa",
+    "pron": "bólsa"
+  },
+  {
+    "pt": "etiqueta",
+    "es": "etiqueta",
+    "pron": "etiquéta"
+  },
+  {
+    "pt": "código de barras",
+    "es": "código de barras",
+    "pron": "kódigo de bárras"
+  },
+  {
+    "pt": "nota fiscal",
+    "es": "recibo",
+    "pron": "res íbo"
+  },
+  {
+    "pt": "garantia",
+    "es": "garantía",
+    "pron": "garantía"
+  },
+  {
+    "pt": "cliente",
+    "es": "cliente",
+    "pron": "kliénte"
+  },
+  {
+    "pt": "vendedor",
+    "es": "vendedor",
+    "pron": "bendedór"
+  },
+  {
+    "pt": "gerente",
+    "es": "gerente",
+    "pron": "jerénte"
+  },
+  {
+    "pt": "quanto custa?",
+    "es": "¿cuánto cuesta?",
+    "pron": "kuánto kuésta"
+  },
+  {
+    "pt": "é muito caro",
+    "es": "es muy caro",
+    "pron": "es mui káro"
+  },
+  {
+    "pt": "tem mais barato?",
+    "es": "¿tiene algo más barato?",
+    "pron": "tiéne álgo más baráto"
+  },
+  {
+    "pt": "aceita cartão?",
+    "es": "¿acepta tarjeta?",
+    "pron": "asépta tarjéta"
+  },
+  {
+    "pt": "aceita pix?",
+    "es": "¿acepta transferencia instantánea?",
+    "pron": "asépta transferénsia instan tánea"
+  },
+  {
+    "pt": "só dinheiro",
+    "es": "solo efectivo",
+    "pron": "sólo efektíbo"
+  },
+  {
+    "pt": "quero pagar",
+    "es": "quiero pagar",
+    "pron": "kiéro pagár"
+  },
+  {
+    "pt": "a conta, por favor",
+    "es": "la cuenta, por favor",
+    "pron": "la kuénta por fabór"
+  },
+  {
+    "pt": "pode me dar um desconto?",
+    "es": "¿me puede dar un descuento?",
+    "pron": "me puéde dar un deskuénto"
+  },
+  {
+    "pt": "tá caro demais",
+    "es": "es demasiado caro",
+    "pron": "es demasiádo káro"
+  },
+  {
+    "pt": "vou pensar",
+    "es": "lo voy a pensar",
+    "pron": "lo bói a pensár"
+  },
+  {
+    "pt": "só estou olhando",
+    "es": "solo estoy mirando",
+    "pron": "sólo estói mirándo"
+  },
+  {
+    "pt": "pode embrulhar?",
+    "es": "¿puede envolverlo?",
+    "pron": "puéde enbolbérlo"
+  },
+  {
+    "pt": "posso experimentar?",
+    "es": "¿puedo probármelo?",
+    "pron": "puédo probármelo"
+  },
+  {
+    "pt": "tem em outra cor?",
+    "es": "¿lo tiene en otro color?",
+    "pron": "lo tiéne en ótro kolór"
+  },
+  {
+    "pt": "tem em outro tamanho?",
+    "es": "¿lo tienes en otra talla?",
+    "pron": "lo tiénes en ótra táya"
+  },
+  {
+    "pt": "onde é o caixa?",
+    "es": "¿dónde está la caja?",
+    "pron": "dónde está la kája"
+  },
+  {
+    "pt": "quero trocar isso",
+    "es": "quiero cambiar esto",
+    "pron": "kiéro kambiár ésto"
+  },
+  {
+    "pt": "quero devolver",
+    "es": "quiero devolverlo",
+    "pron": "kiéro debolbérlo"
+  },
+  {
+    "pt": "qual o prazo de garantia?",
+    "es": "¿cuál es el plazo de garantía?",
+    "pron": "kuál es el pláso de garantía"
+  }
+]

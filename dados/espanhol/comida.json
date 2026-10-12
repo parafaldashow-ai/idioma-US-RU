@@ -1,0 +1,367 @@
+[
+  {
+    "pt": "água",
+    "es": "agua",
+    "pron": "água"
+  },
+  {
+    "pt": "água com gás",
+    "es": "agua con gas",
+    "pron": "água kon gas"
+  },
+  {
+    "pt": "pão",
+    "es": "pan",
+    "pron": "pan"
+  },
+  {
+    "pt": "café",
+    "es": "café",
+    "pron": "kafé"
+  },
+  {
+    "pt": "café com leite",
+    "es": "café con leche",
+    "pron": "kafé kon léche"
+  },
+  {
+    "pt": "chá",
+    "es": "té",
+    "pron": "te"
+  },
+  {
+    "pt": "leite",
+    "es": "leche",
+    "pron": "léche"
+  },
+  {
+    "pt": "suco",
+    "es": "jugo",
+    "pron": "júgo"
+  },
+  {
+    "pt": "cerveja",
+    "es": "cerveza",
+    "pron": "serbésa"
+  },
+  {
+    "pt": "vinho",
+    "es": "vino",
+    "pron": "bíno"
+  },
+  {
+    "pt": "refrigerante",
+    "es": "refresco",
+    "pron": "refrésko"
+  },
+  {
+    "pt": "carne",
+    "es": "carne",
+    "pron": "kárne"
+  },
+  {
+    "pt": "carne bovina",
+    "es": "carne de res",
+    "pron": "kárne de res"
+  },
+  {
+    "pt": "carne de porco",
+    "es": "carne de cerdo",
+    "pron": "kárne de sérdo"
+  },
+  {
+    "pt": "frango",
+    "es": "pollo",
+    "pron": "póyo"
+  },
+  {
+    "pt": "peixe",
+    "es": "pez",
+    "pron": "pes"
+  },
+  {
+    "pt": "camarão",
+    "es": "camarón",
+    "pron": "kamarón"
+  },
+  {
+    "pt": "arroz",
+    "es": "arroz",
+    "pron": "arrós"
+  },
+  {
+    "pt": "feijão",
+    "es": "frijoles",
+    "pron": "frijóles"
+  },
+  {
+    "pt": "macarrão",
+    "es": "pasta",
+    "pron": "pásta"
+  },
+  {
+    "pt": "pão de queijo",
+    "es": "pan de queso",
+    "pron": "pan de kése"
+  },
+  {
+    "pt": "queijo",
+    "es": "queso",
+    "pron": "késo"
+  },
+  {
+    "pt": "ovo",
+    "es": "huevo",
+    "pron": "uébo"
+  },
+  {
+    "pt": "sal",
+    "es": "sal",
+    "pron": "sal"
+  },
+  {
+    "pt": "açúcar",
+    "es": "azúcar",
+    "pron": "asúkar"
+  },
+  {
+    "pt": "pimenta",
+    "es": "pimienta",
+    "pron": "pimiénta"
+  },
+  {
+    "pt": "azeite",
+    "es": "aceite de oliva",
+    "pron": "aséite de olíba"
+  },
+  {
+    "pt": "manteiga",
+    "es": "mantequilla",
+    "pron": "mantekíya"
+  },
+  {
+    "pt": "maçã",
+    "es": "manzana",
+    "pron": "mansána"
+  },
+  {
+    "pt": "banana",
+    "es": "plátano",
+    "pron": "plátano"
+  },
+  {
+    "pt": "laranja",
+    "es": "naranja",
+    "pron": "naránja"
+  },
+  {
+    "pt": "uva",
+    "es": "uva",
+    "pron": "úba"
+  },
+  {
+    "pt": "morango",
+    "es": "fresa",
+    "pron": "frésa"
+  },
+  {
+    "pt": "limão",
+    "es": "limón",
+    "pron": "limón"
+  },
+  {
+    "pt": "melancia",
+    "es": "sandía",
+    "pron": "sandía"
+  },
+  {
+    "pt": "abacaxi",
+    "es": "piña",
+    "pron": "píña"
+  },
+  {
+    "pt": "manga",
+    "es": "mango",
+    "pron": "mángo"
+  },
+  {
+    "pt": "batata",
+    "es": "patata",
+    "pron": "patáta"
+  },
+  {
+    "pt": "batata frita",
+    "es": "papas fritas",
+    "pron": "pápas frítas"
+  },
+  {
+    "pt": "tomate",
+    "es": "tomate",
+    "pron": "tomáte"
+  },
+  {
+    "pt": "cebola",
+    "es": "cebolla",
+    "pron": "sebóya"
+  },
+  {
+    "pt": "alho",
+    "es": "ajo",
+    "pron": "ájo"
+  },
+  {
+    "pt": "cenoura",
+    "es": "zanahoria",
+    "pron": "sanáoria"
+  },
+  {
+    "pt": "alface",
+    "es": "lechuga",
+    "pron": "léchuga"
+  },
+  {
+    "pt": "sopa",
+    "es": "sopa",
+    "pron": "sópa"
+  },
+  {
+    "pt": "salada",
+    "es": "ensalada",
+    "pron": "ensaláda"
+  },
+  {
+    "pt": "sanduíche",
+    "es": "sándwich",
+    "pron": "sánduich"
+  },
+  {
+    "pt": "pizza",
+    "es": "pizza",
+    "pron": "pítsa"
+  },
+  {
+    "pt": "hambúrguer",
+    "es": "hamburguesa",
+    "pron": "amburgésa"
+  },
+  {
+    "pt": "sobremesa",
+    "es": "postre",
+    "pron": "póstre"
+  },
+  {
+    "pt": "bolo",
+    "es": "pastel",
+    "pron": "pastél"
+  },
+  {
+    "pt": "sorvete",
+    "es": "helado",
+    "pron": "eládo"
+  },
+  {
+    "pt": "chocolate",
+    "es": "chocolate",
+    "pron": "chokoláte"
+  },
+  {
+    "pt": "café da manhã",
+    "es": "desayuno",
+    "pron": "desajúno"
+  },
+  {
+    "pt": "almoço",
+    "es": "almuerzo",
+    "pron": "almuérso"
+  },
+  {
+    "pt": "jantar",
+    "es": "cena",
+    "pron": "séna"
+  },
+  {
+    "pt": "lanche",
+    "es": "merienda",
+    "pron": "meriénda"
+  },
+  {
+    "pt": "cardápio",
+    "es": "menú",
+    "pron": "menú"
+  },
+  {
+    "pt": "conta",
+    "es": "cuenta",
+    "pron": "kuénta"
+  },
+  {
+    "pt": "garçom",
+    "es": "mesero",
+    "pron": "meséro"
+  },
+  {
+    "pt": "garfo",
+    "es": "tenedor",
+    "pron": "tenedór"
+  },
+  {
+    "pt": "faca",
+    "es": "cuchillo",
+    "pron": "kuchíyo"
+  },
+  {
+    "pt": "colher",
+    "es": "cuchara",
+    "pron": "kuchára"
+  },
+  {
+    "pt": "prato",
+    "es": "plato",
+    "pron": "pláto"
+  },
+  {
+    "pt": "copo",
+    "es": "vaso",
+    "pron": "báso"
+  },
+  {
+    "pt": "guardanapo",
+    "es": "servilleta",
+    "pron": "serbiyéta"
+  },
+  {
+    "pt": "estou com fome",
+    "es": "tengo hambre",
+    "pron": "téngo ámbre"
+  },
+  {
+    "pt": "estou com sede",
+    "es": "tengo sed",
+    "pron": "téngo sed"
+  },
+  {
+    "pt": "está delicioso",
+    "es": "está delicioso",
+    "pron": "está delisióso"
+  },
+  {
+    "pt": "a conta, por favor",
+    "es": "la cuenta, por favor",
+    "pron": "la kuénta por fabór"
+  },
+  {
+    "pt": "sem carne",
+    "es": "sin carne",
+    "pron": "sin kárne"
+  },
+  {
+    "pt": "vegetariano",
+    "es": "vegetariano",
+    "pron": "bejetariáno"
+  },
+  {
+    "pt": "apimentado",
+    "es": "picante",
+    "pron": "pikánte"
+  }
+]

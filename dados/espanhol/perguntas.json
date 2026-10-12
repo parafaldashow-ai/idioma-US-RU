@@ -1,0 +1,717 @@
+[
+  {
+    "pt": "quem?",
+    "es": "¿quién?",
+    "pron": "kién"
+  },
+  {
+    "pt": "o que?",
+    "es": "¿qué?",
+    "pron": "ke"
+  },
+  {
+    "pt": "onde?",
+    "es": "¿dónde?",
+    "pron": "dónde"
+  },
+  {
+    "pt": "quando?",
+    "es": "¿cuándo?",
+    "pron": "kuándo"
+  },
+  {
+    "pt": "por que?",
+    "es": "¿por qué?",
+    "pron": "por ke"
+  },
+  {
+    "pt": "como?",
+    "es": "¿cómo?",
+    "pron": "kómo"
+  },
+  {
+    "pt": "qual?",
+    "es": "¿cuál?",
+    "pron": "kuál"
+  },
+  {
+    "pt": "quanto?",
+    "es": "¿cuánto?",
+    "pron": "kuánto"
+  },
+  {
+    "pt": "quantos?",
+    "es": "¿cuántos?",
+    "pron": "kuántos"
+  },
+  {
+    "pt": "de quem?",
+    "es": "¿de quién?",
+    "pron": "de kién"
+  },
+  {
+    "pt": "para quê?",
+    "es": "¿para qué?",
+    "pron": "pára ke"
+  },
+  {
+    "pt": "com quem?",
+    "es": "¿con quién?",
+    "pron": "kon kién"
+  },
+  {
+    "pt": "até quando?",
+    "es": "¿hasta cuándo?",
+    "pron": "ásta kuándo"
+  },
+  {
+    "pt": "como você está?",
+    "es": "¿cómo estás?",
+    "pron": "kómo estás"
+  },
+  {
+    "pt": "qual seu nome?",
+    "es": "¿cómo te llamas?",
+    "pron": "kómo te yámas"
+  },
+  {
+    "pt": "qual seu sobrenome?",
+    "es": "¿cuál es tu apellido?",
+    "pron": "kuál es tu ap eyído"
+  },
+  {
+    "pt": "de onde você é?",
+    "es": "¿de dónde eres?",
+    "pron": "de dónde éres"
+  },
+  {
+    "pt": "onde você nasceu?",
+    "es": "¿dónde naciste?",
+    "pron": "dónde nasíste"
+  },
+  {
+    "pt": "quantos anos você tem?",
+    "es": "¿cuántos años tienes?",
+    "pron": "kuántos áños tiénes"
+  },
+  {
+    "pt": "o que você faz?",
+    "es": "¿qué haces?",
+    "pron": "ke áses"
+  },
+  {
+    "pt": "onde você trabalha?",
+    "es": "¿dónde trabajas?",
+    "pron": "dónde trabájas"
+  },
+  {
+    "pt": "onde você mora?",
+    "es": "¿dónde vives?",
+    "pron": "dónde bíbes"
+  },
+  {
+    "pt": "você é casado?",
+    "es": "¿estás casado?",
+    "pron": "estás kasádo"
+  },
+  {
+    "pt": "você tem filhos?",
+    "es": "¿tienes hijos?",
+    "pron": "tiénes íjos"
+  },
+  {
+    "pt": "você tem irmãos?",
+    "es": "¿tienes hermanos?",
+    "pron": "tiénes ermános"
+  },
+  {
+    "pt": "qual seu telefone?",
+    "es": "¿cuál es tu teléfono?",
+    "pron": "kuál es tu teléfono"
+  },
+  {
+    "pt": "qual seu email?",
+    "es": "¿cuál es tu correo?",
+    "pron": "kuál es tu korréo"
+  },
+  {
+    "pt": "você fala inglês?",
+    "es": "¿hablas inglés?",
+    "pron": "áblas inglés"
+  },
+  {
+    "pt": "você fala português?",
+    "es": "¿hablas portugués?",
+    "pron": "áblas portugués"
+  },
+  {
+    "pt": "você entende?",
+    "es": "¿entiendes?",
+    "pron": "entiéndes"
+  },
+  {
+    "pt": "você pode repetir?",
+    "es": "¿puedes repetir?",
+    "pron": "puédes repetír"
+  },
+  {
+    "pt": "pode falar mais devagar?",
+    "es": "¿puedes hablar más despacio?",
+    "pron": "puédes ablár más despásio"
+  },
+  {
+    "pt": "pode falar mais alto?",
+    "es": "¿puedes hablar más alto?",
+    "pron": "puédes ablár más álto"
+  },
+  {
+    "pt": "o que significa isso?",
+    "es": "¿qué significa esto?",
+    "pron": "ke signifíka ésto"
+  },
+  {
+    "pt": "como se diz em inglês?",
+    "es": "¿cómo se dice en inglés?",
+    "pron": "kómo se díse en inglés"
+  },
+  {
+    "pt": "como se escreve?",
+    "es": "¿cómo se escribe?",
+    "pron": "kómo se eskr íbe"
+  },
+  {
+    "pt": "como se pronuncia?",
+    "es": "¿cómo se pronuncia?",
+    "pron": "kómo se pronúnsia"
+  },
+  {
+    "pt": "o que é isso?",
+    "es": "¿qué es esto?",
+    "pron": "ke es ésto"
+  },
+  {
+    "pt": "quem é ele?",
+    "es": "¿quién es él?",
+    "pron": "kién es él"
+  },
+  {
+    "pt": "quem é ela?",
+    "es": "¿quién es ella?",
+    "pron": "kién es éya"
+  },
+  {
+    "pt": "você pode me ajudar?",
+    "es": "¿puedes ayudarme?",
+    "pron": "puédes ayudárme"
+  },
+  {
+    "pt": "posso te perguntar algo?",
+    "es": "¿te puedo preguntar algo?",
+    "pron": "te puédo preguntár álgo"
+  },
+  {
+    "pt": "que horas são?",
+    "es": "¿qué hora es?",
+    "pron": "ke óra es"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "es": "¿qué día es hoy?",
+    "pron": "ke día es ói"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "es": "¿qué día es mañana?",
+    "pron": "ke día es mañána"
+  },
+  {
+    "pt": "quando é...?",
+    "es": "¿cuándo es...?",
+    "pron": "kuándo es"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "es": "¿cuánto tiempo demora?",
+    "pron": "kuánto tiémpo demóra"
+  },
+  {
+    "pt": "que horas abre?",
+    "es": "¿a qué hora abre?",
+    "pron": "a ke óra ábre"
+  },
+  {
+    "pt": "que horas fecha?",
+    "es": "¿a qué hora cierra?",
+    "pron": "a ke óra siérra"
+  },
+  {
+    "pt": "está aberto agora?",
+    "es": "¿está abierto ahora?",
+    "pron": "está abiérto aóra"
+  },
+  {
+    "pt": "você tem tempo?",
+    "es": "¿tienes tiempo?",
+    "pron": "tiénes tiémpo"
+  },
+  {
+    "pt": "que dia você pode?",
+    "es": "¿qué día puedes?",
+    "pron": "ke día puédes"
+  },
+  {
+    "pt": "quanto custa?",
+    "es": "¿cuánto cuesta?",
+    "pron": "kuánto kuésta"
+  },
+  {
+    "pt": "quanto é?",
+    "es": "¿cuánto es?",
+    "pron": "kuánto es"
+  },
+  {
+    "pt": "tem desconto?",
+    "es": "¿hay descuento?",
+    "pron": "ái deskuénto"
+  },
+  {
+    "pt": "aceita cartão?",
+    "es": "¿acepta tarjeta?",
+    "pron": "asépta tarjéta"
+  },
+  {
+    "pt": "aceita dinheiro?",
+    "es": "¿aceptan efectivo?",
+    "pron": "aséptan efektíbo"
+  },
+  {
+    "pt": "tem troco?",
+    "es": "¿tienes cambio?",
+    "pron": "tiénes kámbio"
+  },
+  {
+    "pt": "pode parcelar?",
+    "es": "¿se puede pagar a plazos?",
+    "pron": "se puéde pagár a plásos"
+  },
+  {
+    "pt": "está em promoção?",
+    "es": "¿está en oferta?",
+    "pron": "está en oférta"
+  },
+  {
+    "pt": "é grátis?",
+    "es": "¿es gratis?",
+    "pron": "es grátis"
+  },
+  {
+    "pt": "quanto fica no total?",
+    "es": "¿cuánto es en total?",
+    "pron": "kuánto es en totál"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "es": "¿dónde está el baño?",
+    "pron": "dónde está el báño"
+  },
+  {
+    "pt": "onde é a saída?",
+    "es": "¿dónde está la salida?",
+    "pron": "dónde está la salída"
+  },
+  {
+    "pt": "onde é a entrada?",
+    "es": "¿dónde está la entrada?",
+    "pron": "dónde está la entráda"
+  },
+  {
+    "pt": "onde fica a estação?",
+    "es": "¿dónde está la estación?",
+    "pron": "dónde está la estasión"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "es": "¿dónde está el hotel?",
+    "pron": "dónde está el otél"
+  },
+  {
+    "pt": "onde fica o hospital?",
+    "es": "¿dónde está el hospital?",
+    "pron": "dónde está el ospitál"
+  },
+  {
+    "pt": "onde fica a polícia?",
+    "es": "¿dónde está la policía?",
+    "pron": "dónde está la polisía"
+  },
+  {
+    "pt": "onde fica o banco?",
+    "es": "¿dónde está el banco?",
+    "pron": "dónde está el bánko"
+  },
+  {
+    "pt": "tem um restaurante perto?",
+    "es": "¿hay un restaurante cerca?",
+    "pron": "ái un restauránte sérka"
+  },
+  {
+    "pt": "tem um banco perto?",
+    "es": "¿hay un banco cerca?",
+    "pron": "ái un bánko sérka"
+  },
+  {
+    "pt": "onde posso encontrar...?",
+    "es": "¿dónde puedo encontrar...?",
+    "pron": "dónde puédo enkontrár"
+  },
+  {
+    "pt": "você gosta de...?",
+    "es": "¿te gusta...?",
+    "pron": "te gústa"
+  },
+  {
+    "pt": "você quer...?",
+    "es": "¿quieres...?",
+    "pron": "kiéres"
+  },
+  {
+    "pt": "você pode...?",
+    "es": "¿puedes...?",
+    "pron": "puédes"
+  },
+  {
+    "pt": "você tem...?",
+    "es": "¿tienes...?",
+    "pron": "tiénes"
+  },
+  {
+    "pt": "posso...?",
+    "es": "¿puedo...?",
+    "pron": "puédo"
+  },
+  {
+    "pt": "poderia me ajudar?",
+    "es": "¿podría ayudarme?",
+    "pron": "podría ayudárme"
+  },
+  {
+    "pt": "por que não?",
+    "es": "¿por qué no?",
+    "pron": "por ke no"
+  },
+  {
+    "pt": "e você?",
+    "es": "¿y tú?",
+    "pron": "i tú"
+  },
+  {
+    "pt": "tudo bem?",
+    "es": "¿todo bien?",
+    "pron": "tódo bién"
+  },
+  {
+    "pt": "e aí?",
+    "es": "¿qué tal?",
+    "pron": "ke tál"
+  },
+  {
+    "pt": "você já comeu?",
+    "es": "¿ya comiste?",
+    "pron": "ya komíste"
+  },
+  {
+    "pt": "você já foi...?",
+    "es": "¿ya fuiste a...?",
+    "pron": "ya fuíste a"
+  },
+  {
+    "pt": "onde é o check-in?",
+    "es": "¿dónde está el check-in?",
+    "pron": "dónde está el chékin"
+  },
+  {
+    "pt": "que horas sai o voo?",
+    "es": "¿a qué hora sale el vuelo?",
+    "pron": "a ke óra sále el buélo"
+  },
+  {
+    "pt": "qual é o portão?",
+    "es": "¿cuál es la puerta?",
+    "pron": "kuál es la puérta"
+  },
+  {
+    "pt": "a que horas embarco?",
+    "es": "¿a qué hora embarco?",
+    "pron": "a ke óra embárko"
+  },
+  {
+    "pt": "tem wi-fi aqui?",
+    "es": "¿hay wi-fi aquí?",
+    "pron": "ái uáifai akí"
+  },
+  {
+    "pt": "qual a senha do wi-fi?",
+    "es": "¿cuál es la contraseña del wi-fi?",
+    "pron": "kuál es la kontraseña del uáifai"
+  },
+  {
+    "pt": "posso ver o cardápio?",
+    "es": "¿puedo ver el menú?",
+    "pron": "puédo ber el menú"
+  },
+  {
+    "pt": "tem quarto vago?",
+    "es": "¿tienen habitación libre?",
+    "pron": "tiénen abitación líbre"
+  },
+  {
+    "pt": "onde dói?",
+    "es": "¿dónde duele?",
+    "pron": "dónde duéle"
+  },
+  {
+    "pt": "que remédio você toma?",
+    "es": "¿qué medicina tomas?",
+    "pron": "ke medisína tómas"
+  },
+  {
+    "pt": "você é alérgico a algo?",
+    "es": "¿eres alérgico a algo?",
+    "pron": "éres alérjiko a álgo"
+  },
+  {
+    "pt": "há quanto tempo está assim?",
+    "es": "¿desde cuándo estás así?",
+    "pron": "désde kuándo estás así"
+  },
+  {
+    "pt": "você tem plano de saúde?",
+    "es": "¿tienes seguro médico?",
+    "pron": "tiénes segúro médiko"
+  },
+  {
+    "pt": "você trabalha com o quê?",
+    "es": "¿en qué trabajas?",
+    "pron": "en ke trabájas"
+  },
+  {
+    "pt": "há quanto tempo trabalha aqui?",
+    "es": "¿cuánto tiempo llevas trabajando aquí?",
+    "pron": "kuánto tiémpo yébas trab ajándo akí"
+  },
+  {
+    "pt": "você gosta do seu trabalho?",
+    "es": "¿te gusta tu trabajo?",
+    "pron": "te gústa tu trabájo"
+  },
+  {
+    "pt": "que horas você sai do trabalho?",
+    "es": "¿a qué hora sales del trabajo?",
+    "pron": "a ke óra sáles del trabájo"
+  },
+  {
+    "pt": "você trabalha home office?",
+    "es": "¿trabajas desde casa?",
+    "pron": "trabájas désde kása"
+  },
+  {
+    "pt": "tudo bem com você?",
+    "es": "¿todo bien contigo?",
+    "pron": "tódo bién kontígo"
+  },
+  {
+    "pt": "que novidades?",
+    "es": "¿qué hay de nuevo?",
+    "pron": "ke ái de nuébo"
+  },
+  {
+    "pt": "como foi seu dia?",
+    "es": "¿cómo fue tu día?",
+    "pron": "kómo fué tu día"
+  },
+  {
+    "pt": "como está o tempo?",
+    "es": "¿cómo está el tiempo?",
+    "pron": "kómo está el tiémpo"
+  },
+  {
+    "pt": "tudo certo?",
+    "es": "¿todo bien?",
+    "pron": "tódo bién"
+  },
+  {
+    "pt": "vai dar certo?",
+    "es": "¿va a salir bien?",
+    "pron": "ba a salír bién"
+  },
+  {
+    "pt": "que horas nos encontramos?",
+    "es": "¿a qué hora nos encontramos?",
+    "pron": "a ke óra nos enkontrámos"
+  },
+  {
+    "pt": "onde nos encontramos?",
+    "es": "¿dónde nos encontramos?",
+    "pron": "dónde nos enkontrámos"
+  },
+  {
+    "pt": "você já sabe?",
+    "es": "¿ya lo sabes?",
+    "pron": "ya lo sábes"
+  },
+  {
+    "pt": "quer ir comigo?",
+    "es": "¿quieres ir conmigo?",
+    "pron": "kiéres ir konmígo"
+  },
+  {
+    "pt": "posso te ligar depois?",
+    "es": "¿te puedo llamar después?",
+    "pron": "te puédo yamár despu és"
+  },
+  {
+    "pt": "você me manda mensagem?",
+    "es": "¿me mandas un mensaje?",
+    "pron": "me mándas un mensáje"
+  },
+  {
+    "pt": "chame a polícia!",
+    "es": "¡llame a la policía!",
+    "pron": "yáme a la polisía"
+  },
+  {
+    "pt": "chame uma ambulância!",
+    "es": "¡llame a una ambulancia!",
+    "pron": "yáme a úna ambulánsia"
+  },
+  {
+    "pt": "onde é o hospital mais próximo?",
+    "es": "¿dónde está el hospital más cercano?",
+    "pron": "dónde está el ospitál más serkáno"
+  },
+  {
+    "pt": "é uma emergência!",
+    "es": "¡es una emergencia!",
+    "pron": "es úna emerjénsia"
+  },
+  {
+    "pt": "estou perdido!",
+    "es": "¡estoy perdido!",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "fui roubado!",
+    "es": "¡me robaron!",
+    "pron": "me robáron"
+  },
+  {
+    "pt": "perdi meu passaporte",
+    "es": "perdí mi pasaporte",
+    "pron": "perdí mi pasapórte"
+  },
+  {
+    "pt": "não falo inglês",
+    "es": "no hablo inglés",
+    "pron": "no áblo inglés"
+  },
+  {
+    "pt": "você pode me emprestar?",
+    "es": "¿me puedes prestar?",
+    "pron": "me puédes prestár"
+  },
+  {
+    "pt": "você tem um minuto?",
+    "es": "¿tienes un minuto?",
+    "pron": "tiénes un minúto"
+  },
+  {
+    "pt": "posso entrar?",
+    "es": "¿puedo entrar?",
+    "pron": "puédo entrár"
+  },
+  {
+    "pt": "posso sentar?",
+    "es": "¿puedo sentarme?",
+    "pron": "puédo sentárme"
+  },
+  {
+    "pt": "posso experimentar?",
+    "es": "¿puedo probármelo?",
+    "pron": "puédo probármelo"
+  },
+  {
+    "pt": "posso levar?",
+    "es": "¿puedo llevarlo?",
+    "pron": "puédo yebárlo"
+  },
+  {
+    "pt": "posso pagar depois?",
+    "es": "¿puedo pagar después?",
+    "pron": "puédo pagár despu és"
+  },
+  {
+    "pt": "tudo pronto?",
+    "es": "¿todo listo?",
+    "pron": "tódo lísto"
+  },
+  {
+    "pt": "vamos?",
+    "es": "¿vamos?",
+    "pron": "bámos"
+  },
+  {
+    "pt": "posso?",
+    "es": "¿puedo?",
+    "pron": "puédo"
+  },
+  {
+    "pt": "tudo isso?",
+    "es": "¿todo esto?",
+    "pron": "tódo ésto"
+  },
+  {
+    "pt": "que tal?",
+    "es": "¿qué tal?",
+    "pron": "ke tál"
+  },
+  {
+    "pt": "você tem certeza?",
+    "es": "¿estás seguro?",
+    "pron": "estás segúro"
+  },
+  {
+    "pt": "posso confiar?",
+    "es": "¿puedo confiar?",
+    "pron": "puédo konfiár"
+  },
+  {
+    "pt": "o que aconteceu?",
+    "es": "¿qué pasó?",
+    "pron": "ke pasó"
+  },
+  {
+    "pt": "por que não me contou?",
+    "es": "¿por qué no me lo dijiste?",
+    "pron": "por ke no me lo dij íste"
+  },
+  {
+    "pt": "você já viu isso?",
+    "es": "¿ya viste esto?",
+    "pron": "ya bíste ésto"
+  },
+  {
+    "pt": "quem fez isso?",
+    "es": "¿quién hizo esto?",
+    "pron": "kién íso ésto"
+  },
+  {
+    "pt": "onde você estava?",
+    "es": "¿dónde estabas?",
+    "pron": "dónde estabas"
+  },
+  {
+    "pt": "o que você acha?",
+    "es": "¿qué piensas?",
+    "pron": "ke piénsas"
+  }
+]

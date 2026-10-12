@@ -1,0 +1,862 @@
+[
+  {
+    "pt": "esporte",
+    "es": "deporte",
+    "pron": "depórte"
+  },
+  {
+    "pt": "futebol",
+    "es": "fútbol",
+    "pron": "fútbol"
+  },
+  {
+    "pt": "futebol americano",
+    "es": "fútbol americano",
+    "pron": "fútbol amerikáno"
+  },
+  {
+    "pt": "basquete",
+    "es": "baloncesto",
+    "pron": "balonsésto"
+  },
+  {
+    "pt": "vôlei",
+    "es": "voleibol",
+    "pron": "boleiból"
+  },
+  {
+    "pt": "tênis",
+    "es": "zapatillas",
+    "pron": "sapatíyas"
+  },
+  {
+    "pt": "tênis de mesa",
+    "es": "tenis de mesa",
+    "pron": "ténis de mésa"
+  },
+  {
+    "pt": "natação",
+    "es": "natación",
+    "pron": "natasión"
+  },
+  {
+    "pt": "atletismo",
+    "es": "atletismo",
+    "pron": "atletísmo"
+  },
+  {
+    "pt": "corrida",
+    "es": "carrera",
+    "pron": "karréra"
+  },
+  {
+    "pt": "ciclismo",
+    "es": "ciclismo",
+    "pron": "siklísmo"
+  },
+  {
+    "pt": "boxe",
+    "es": "boxeo",
+    "pron": "bokséo"
+  },
+  {
+    "pt": "artes marciais",
+    "es": "artes marciales",
+    "pron": "ártes marsiáles"
+  },
+  {
+    "pt": "judô",
+    "es": "judo",
+    "pron": "júdo"
+  },
+  {
+    "pt": "karatê",
+    "es": "karate",
+    "pron": "karáte"
+  },
+  {
+    "pt": "jiu-jitsu",
+    "es": "jiu-jitsu",
+    "pron": "yiu yítsu"
+  },
+  {
+    "pt": "muay thai",
+    "es": "muay thai",
+    "pron": "muái tái"
+  },
+  {
+    "pt": "ginástica",
+    "es": "gimnasia",
+    "pron": "jimnásia"
+  },
+  {
+    "pt": "yoga",
+    "es": "yoga",
+    "pron": "yóga"
+  },
+  {
+    "pt": "pilates",
+    "es": "pilates",
+    "pron": "pilátes"
+  },
+  {
+    "pt": "escalada",
+    "es": "escalada",
+    "pron": "eskaláda"
+  },
+  {
+    "pt": "surfe",
+    "es": "surf",
+    "pron": "surf"
+  },
+  {
+    "pt": "skate",
+    "es": "patineta",
+    "pron": "patinéta"
+  },
+  {
+    "pt": "patinação",
+    "es": "patinaje",
+    "pron": "patináje"
+  },
+  {
+    "pt": "esqui",
+    "es": "esquí",
+    "pron": "eskí"
+  },
+  {
+    "pt": "hóquei",
+    "es": "hockey",
+    "pron": "ókei"
+  },
+  {
+    "pt": "golfe",
+    "es": "golf",
+    "pron": "golf"
+  },
+  {
+    "pt": "beisebol",
+    "es": "béisbol",
+    "pron": "béisbol"
+  },
+  {
+    "pt": "rugby",
+    "es": "rugby",
+    "pron": "rúgbi"
+  },
+  {
+    "pt": "handebol",
+    "es": "balonmano",
+    "pron": "balonmáno"
+  },
+  {
+    "pt": "badminton",
+    "es": "bádminton",
+    "pron": "bádminton"
+  },
+  {
+    "pt": "esgrima",
+    "es": "esgrima",
+    "pron": "esgríma"
+  },
+  {
+    "pt": "equitação",
+    "es": "equitación",
+    "pron": "ekitasión"
+  },
+  {
+    "pt": "pesca",
+    "es": "pesca",
+    "pron": "péska"
+  },
+  {
+    "pt": "caça",
+    "es": "caza",
+    "pron": "kása"
+  },
+  {
+    "pt": "paraquedismo",
+    "es": "paracaidismo",
+    "pron": "parakaidísmo"
+  },
+  {
+    "pt": "mergulho",
+    "es": "buceo",
+    "pron": "buséo"
+  },
+  {
+    "pt": "canoagem",
+    "es": "canoa",
+    "pron": "kanóa"
+  },
+  {
+    "pt": "vela",
+    "es": "vela",
+    "pron": "béla"
+  },
+  {
+    "pt": "hipismo",
+    "es": "equitación",
+    "pron": "ekitasión"
+  },
+  {
+    "pt": "boliche",
+    "es": "bolos",
+    "pron": "bólos"
+  },
+  {
+    "pt": "sinuca",
+    "es": "billar",
+    "pron": "biyár"
+  },
+  {
+    "pt": "damas",
+    "es": "damas",
+    "pron": "dámas"
+  },
+  {
+    "pt": "xadrez",
+    "es": "ajedrez",
+    "pron": "ajedrés"
+  },
+  {
+    "pt": "pôquer",
+    "es": "póker",
+    "pron": "póker"
+  },
+  {
+    "pt": "eSports",
+    "es": "eSports",
+    "pron": "i spórts"
+  },
+  {
+    "pt": "atleta",
+    "es": "atleta",
+    "pron": "atl éta"
+  },
+  {
+    "pt": "jogador",
+    "es": "jugador",
+    "pron": "jugadór"
+  },
+  {
+    "pt": "técnico",
+    "es": "entrenador",
+    "pron": "entrenadór"
+  },
+  {
+    "pt": "árbitro",
+    "es": "árbitro",
+    "pron": "árbitro"
+  },
+  {
+    "pt": "juiz",
+    "es": "juez",
+    "pron": "jués"
+  },
+  {
+    "pt": "torcedor",
+    "es": "aficionado",
+    "pron": "afisionádo"
+  },
+  {
+    "pt": "time",
+    "es": "equipo",
+    "pron": "ekípo"
+  },
+  {
+    "pt": "capitão",
+    "es": "capitán",
+    "pron": "kapitán"
+  },
+  {
+    "pt": "goleiro",
+    "es": "portero",
+    "pron": "portéro"
+  },
+  {
+    "pt": "zagueiro",
+    "es": "defensa",
+    "pron": "defénsa"
+  },
+  {
+    "pt": "atacante",
+    "es": "delantero",
+    "pron": "delantéro"
+  },
+  {
+    "pt": "meio-campista",
+    "es": "centrocampista",
+    "pron": "sentro kampísta"
+  },
+  {
+    "pt": "campeão",
+    "es": "campeón",
+    "pron": "kampeón"
+  },
+  {
+    "pt": "vice-campeão",
+    "es": "subcampeón",
+    "pron": "subkampeón"
+  },
+  {
+    "pt": "medalhista",
+    "es": "medallista",
+    "pron": "medayísta"
+  },
+  {
+    "pt": "jogo",
+    "es": "juego",
+    "pron": "juégo"
+  },
+  {
+    "pt": "partida",
+    "es": "partido",
+    "pron": "partído"
+  },
+  {
+    "pt": "campeonato",
+    "es": "campeonato",
+    "pron": "kampeonáto"
+  },
+  {
+    "pt": "torneio",
+    "es": "torneo",
+    "pron": "tornéo"
+  },
+  {
+    "pt": "copa",
+    "es": "copa",
+    "pron": "kópa"
+  },
+  {
+    "pt": "olimpíadas",
+    "es": "olimpiadas",
+    "pron": "olimpiádas"
+  },
+  {
+    "pt": "competição",
+    "es": "competición",
+    "pron": "kompetisión"
+  },
+  {
+    "pt": "treino",
+    "es": "entrenamiento",
+    "pron": "entrenamiénto"
+  },
+  {
+    "pt": "aquecimento",
+    "es": "calentamiento",
+    "pron": "kalentamiénto"
+  },
+  {
+    "pt": "eliminatória",
+    "es": "eliminatoria",
+    "pron": "eliminatória"
+  },
+  {
+    "pt": "final",
+    "es": "final",
+    "pron": "finál"
+  },
+  {
+    "pt": "semifinal",
+    "es": "semifinal",
+    "pron": "semifinál"
+  },
+  {
+    "pt": "quartas de final",
+    "es": "cuartos de final",
+    "pron": "kuártos de finál"
+  },
+  {
+    "pt": "oitavas de final",
+    "es": "octavos de final",
+    "pron": "oktábos de finál"
+  },
+  {
+    "pt": "fase de grupos",
+    "es": "fase de grupos",
+    "pron": "fáse de grúpos"
+  },
+  {
+    "pt": "prorrogação",
+    "es": "prórroga",
+    "pron": "prórroga"
+  },
+  {
+    "pt": "pênalti",
+    "es": "penalti",
+    "pron": "penálti"
+  },
+  {
+    "pt": "falta",
+    "es": "falta",
+    "pron": "fálta"
+  },
+  {
+    "pt": "cartão amarelo",
+    "es": "tarjeta amarilla",
+    "pron": "tarjéta amaríya"
+  },
+  {
+    "pt": "cartão vermelho",
+    "es": "tarjeta roja",
+    "pron": "tarjéta rója"
+  },
+  {
+    "pt": "gol",
+    "es": "gol",
+    "pron": "gol"
+  },
+  {
+    "pt": "ponto",
+    "es": "punto",
+    "pron": "púnto"
+  },
+  {
+    "pt": "placar",
+    "es": "marcador",
+    "pron": "markadór"
+  },
+  {
+    "pt": "empate",
+    "es": "empate",
+    "pron": "empáte"
+  },
+  {
+    "pt": "vitória",
+    "es": "victoria",
+    "pron": "biktória"
+  },
+  {
+    "pt": "derrota",
+    "es": "derrota",
+    "pron": "derróta"
+  },
+  {
+    "pt": "recorde",
+    "es": "récord",
+    "pron": "rékord"
+  },
+  {
+    "pt": "medalha de ouro",
+    "es": "medalla de oro",
+    "pron": "medáya de óro"
+  },
+  {
+    "pt": "medalha de prata",
+    "es": "medalla de plata",
+    "pron": "medáya de pláta"
+  },
+  {
+    "pt": "medalha de bronze",
+    "es": "medalla de bronce",
+    "pron": "medáya de brónse"
+  },
+  {
+    "pt": "bola",
+    "es": "pelota",
+    "pron": "pelóta"
+  },
+  {
+    "pt": "raquete",
+    "es": "raqueta",
+    "pron": "rakéta"
+  },
+  {
+    "pt": "luva",
+    "es": "guante",
+    "pron": "guánte"
+  },
+  {
+    "pt": "capacete",
+    "es": "casco",
+    "pron": "kásko"
+  },
+  {
+    "pt": "uniforme",
+    "es": "uniforme",
+    "pron": "uniforme"
+  },
+  {
+    "pt": "camisa",
+    "es": "camisa",
+    "pron": "kamísa"
+  },
+  {
+    "pt": "chuteira",
+    "es": "botín",
+    "pron": "botín"
+  },
+  {
+    "pt": "tênis esportivo",
+    "es": "zapatillas",
+    "pron": "sapatíyas"
+  },
+  {
+    "pt": "rede",
+    "es": "red",
+    "pron": "red"
+  },
+  {
+    "pt": "trave",
+    "es": "portería",
+    "pron": "portería"
+  },
+  {
+    "pt": "cesta",
+    "es": "canasta",
+    "pron": "kanásta"
+  },
+  {
+    "pt": "taco",
+    "es": "bate",
+    "pron": "báte"
+  },
+  {
+    "pt": "prancha",
+    "es": "tabla",
+    "pron": "tábla"
+  },
+  {
+    "pt": "bastão",
+    "es": "bastón",
+    "pron": "bastón"
+  },
+  {
+    "pt": "halteres",
+    "es": "mancuernas",
+    "pron": "mankuérnas"
+  },
+  {
+    "pt": "corda",
+    "es": "cuerda",
+    "pron": "kuérda"
+  },
+  {
+    "pt": "apito",
+    "es": "silbato",
+    "pron": "silbáto"
+  },
+  {
+    "pt": "cronômetro",
+    "es": "cronómetro",
+    "pron": "kronómetro"
+  },
+  {
+    "pt": "jogar",
+    "es": "jugar",
+    "pron": "jugár"
+  },
+  {
+    "pt": "treinar",
+    "es": "entrenar",
+    "pron": "entrenár"
+  },
+  {
+    "pt": "correr",
+    "es": "correr",
+    "pron": "korrér"
+  },
+  {
+    "pt": "nadar",
+    "es": "nadar",
+    "pron": "nadár"
+  },
+  {
+    "pt": "chutar",
+    "es": "patear",
+    "pron": "pateár"
+  },
+  {
+    "pt": "arremessar",
+    "es": "lanzar",
+    "pron": "lansár"
+  },
+  {
+    "pt": "pegar",
+    "es": "atrapar",
+    "pron": "atrapár"
+  },
+  {
+    "pt": "marcar",
+    "es": "marcar",
+    "pron": "markár"
+  },
+  {
+    "pt": "ganhar",
+    "es": "ganar",
+    "pron": "ganár"
+  },
+  {
+    "pt": "perder",
+    "es": "perder",
+    "pron": "perdér"
+  },
+  {
+    "pt": "empatar",
+    "es": "empatar",
+    "pron": "empatár"
+  },
+  {
+    "pt": "vencer",
+    "es": "vencer",
+    "pron": "bensér"
+  },
+  {
+    "pt": "competir",
+    "es": "competir",
+    "pron": "kompetír"
+  },
+  {
+    "pt": "aquecer",
+    "es": "calentar",
+    "pron": "kalentár"
+  },
+  {
+    "pt": "alongar",
+    "es": "estirar",
+    "pron": "estirár"
+  },
+  {
+    "pt": "descansar",
+    "es": "descansar",
+    "pron": "deskansár"
+  },
+  {
+    "pt": "treinar (peso)",
+    "es": "levantar pesas",
+    "pron": "lebantár pésas"
+  },
+  {
+    "pt": "pedalar",
+    "es": "pedalear",
+    "pron": "pedaleár"
+  },
+  {
+    "pt": "escalar",
+    "es": "escalar",
+    "pron": "eskalár"
+  },
+  {
+    "pt": "mergulhar",
+    "es": "bucear",
+    "pron": "buseár"
+  },
+  {
+    "pt": "surfar",
+    "es": "surfear",
+    "pron": "sufreár"
+  },
+  {
+    "pt": "patinar",
+    "es": "patinar",
+    "pron": "patinár"
+  },
+  {
+    "pt": "esquiar",
+    "es": "esquiar",
+    "pron": "eskiár"
+  },
+  {
+    "pt": "torcer",
+    "es": "animar",
+    "pron": "animár"
+  },
+  {
+    "pt": "estádio",
+    "es": "estadio",
+    "pron": "estádio"
+  },
+  {
+    "pt": "quadra",
+    "es": "cancha",
+    "pron": "káncha"
+  },
+  {
+    "pt": "campo",
+    "es": "campo",
+    "pron": "kámpo"
+  },
+  {
+    "pt": "ginásio",
+    "es": "gimnasio",
+    "pron": "jimnásio"
+  },
+  {
+    "pt": "piscina",
+    "es": "piscina",
+    "pron": "pissína"
+  },
+  {
+    "pt": "pista",
+    "es": "pista",
+    "pron": "písta"
+  },
+  {
+    "pt": "academia",
+    "es": "gimnasio",
+    "pron": "jimnásio"
+  },
+  {
+    "pt": "vestiário",
+    "es": "vestuario",
+    "pron": "bestuário"
+  },
+  {
+    "pt": "arquibancada",
+    "es": "gradas",
+    "pron": "grádas"
+  },
+  {
+    "pt": "ringue",
+    "es": "ring",
+    "pron": "rin"
+  },
+  {
+    "pt": "tatame",
+    "es": "tatami",
+    "pron": "tatámi"
+  },
+  {
+    "pt": "montanha",
+    "es": "montaña",
+    "pron": "montáña"
+  },
+  {
+    "pt": "praia",
+    "es": "playa",
+    "pron": "plája"
+  },
+  {
+    "pt": "parque",
+    "es": "parque",
+    "pron": "párke"
+  },
+  {
+    "pt": "você gosta de futebol?",
+    "es": "¿te gusta el fútbol?",
+    "pron": "te gústa el fútbol"
+  },
+  {
+    "pt": "quem ganhou?",
+    "es": "¿quién ganó?",
+    "pron": "kién ganó"
+  },
+  {
+    "pt": "qual o placar?",
+    "es": "¿cuál es el marcador?",
+    "pron": "kuál es el markadór"
+  },
+  {
+    "pt": "quando é o jogo?",
+    "es": "¿cuándo es el partido?",
+    "pron": "kuándo es el partído"
+  },
+  {
+    "pt": "que horas começa?",
+    "es": "¿a qué hora empieza?",
+    "pron": "a ke óra empiésa"
+  },
+  {
+    "pt": "qual o seu time?",
+    "es": "¿cuál es tu equipo?",
+    "pron": "kuál es tu ekípo"
+  },
+  {
+    "pt": "sou torcedor do...",
+    "es": "soy hincha de...",
+    "pron": "sói íncha de"
+  },
+  {
+    "pt": "torço pro...",
+    "es": "le voy a...",
+    "pron": "le bói a"
+  },
+  {
+    "pt": "vamos ganhar!",
+    "es": "¡vamos a ganar!",
+    "pron": "bámos a ganár"
+  },
+  {
+    "pt": "que jogo emocionante!",
+    "es": "¡qué partido emocionante!",
+    "pron": "ke partído emosionánte"
+  },
+  {
+    "pt": "foi incrível",
+    "es": "fue increíble",
+    "pron": "fué inkreíble"
+  },
+  {
+    "pt": "que pena!",
+    "es": "¡qué pena!",
+    "pron": "ke péna"
+  },
+  {
+    "pt": "ele é muito bom",
+    "es": "es muy bueno",
+    "pron": "es mui buéno"
+  },
+  {
+    "pt": "joga bem",
+    "es": "juega bien",
+    "pron": "juéga bién"
+  },
+  {
+    "pt": "estou treinando",
+    "es": "estoy entrenando",
+    "pron": "estói entrenándo"
+  },
+  {
+    "pt": "vou à academia",
+    "es": "voy al gimnasio",
+    "pron": "bói al jimnásio"
+  },
+  {
+    "pt": "faço musculação",
+    "es": "hago pesas",
+    "pron": "ágo pésas"
+  },
+  {
+    "pt": "corro todos os dias",
+    "es": "corro todos los días",
+    "pron": "kórro tódos los días"
+  },
+  {
+    "pt": "jogo bola com amigos",
+    "es": "juego al fútbol con amigos",
+    "pron": "juégo al fútbol kon amígos"
+  },
+  {
+    "pt": "vamos jogar?",
+    "es": "¿jugamos?",
+    "pron": "jugámos"
+  },
+  {
+    "pt": "topa um futebol?",
+    "es": "¿te animas a jugar fútbol?",
+    "pron": "te ánimas a jugár fútbol"
+  },
+  {
+    "pt": "sou faixa preta",
+    "es": "soy cinturón negro",
+    "pron": "sói sinturón négro"
+  },
+  {
+    "pt": "pratico yoga",
+    "es": "practico yoga",
+    "pron": "praktíko yóga"
+  },
+  {
+    "pt": "faço natação",
+    "es": "hago natación",
+    "pron": "ágo natasión"
+  },
+  {
+    "pt": "malho há anos",
+    "es": "entreno desde hace años",
+    "pron": "entréno dé sde áse áños"
+  }
+]

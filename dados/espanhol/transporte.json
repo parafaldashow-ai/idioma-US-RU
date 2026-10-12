@@ -1,0 +1,457 @@
+[
+  {
+    "pt": "carro",
+    "es": "coche",
+    "pron": "kóche"
+  },
+  {
+    "pt": "moto",
+    "es": "moto",
+    "pron": "móto"
+  },
+  {
+    "pt": "bicicleta",
+    "es": "bicicleta",
+    "pron": "bisikléta"
+  },
+  {
+    "pt": "ônibus",
+    "es": "autobús",
+    "pron": "autobús"
+  },
+  {
+    "pt": "metrô",
+    "es": "metro",
+    "pron": "métro"
+  },
+  {
+    "pt": "trem",
+    "es": "tren",
+    "pron": "tren"
+  },
+  {
+    "pt": "avião",
+    "es": "avión",
+    "pron": "abión"
+  },
+  {
+    "pt": "helicóptero",
+    "es": "helicóptero",
+    "pron": "elikóptero"
+  },
+  {
+    "pt": "navio",
+    "es": "barco",
+    "pron": "bárko"
+  },
+  {
+    "pt": "barco",
+    "es": "barco",
+    "pron": "bárko"
+  },
+  {
+    "pt": "táxi",
+    "es": "taxi",
+    "pron": "táksi"
+  },
+  {
+    "pt": "caminhão",
+    "es": "camión",
+    "pron": "kamión"
+  },
+  {
+    "pt": "van",
+    "es": "furgoneta",
+    "pron": "furgonéta"
+  },
+  {
+    "pt": "patinete",
+    "es": "patinete",
+    "pron": "patinéte"
+  },
+  {
+    "pt": "skate",
+    "es": "patineta",
+    "pron": "patinéta"
+  },
+  {
+    "pt": "ônibus escolar",
+    "es": "autobús escolar",
+    "pron": "autobús eskolár"
+  },
+  {
+    "pt": "ambulância",
+    "es": "ambulancia",
+    "pron": "ambulánsia"
+  },
+  {
+    "pt": "carro de polícia",
+    "es": "coche de policía",
+    "pron": "kóche de polisía"
+  },
+  {
+    "pt": "caminhão de bombeiro",
+    "es": "camión de bomberos",
+    "pron": "kamión de bombéros"
+  },
+  {
+    "pt": "trator",
+    "es": "tractor",
+    "pron": "traktór"
+  },
+  {
+    "pt": "limusine",
+    "es": "limusina",
+    "pron": "limusína"
+  },
+  {
+    "pt": "foguete",
+    "es": "cohete",
+    "pron": "koéte"
+  },
+  {
+    "pt": "estrada",
+    "es": "carretera",
+    "pron": "karretéra"
+  },
+  {
+    "pt": "rua",
+    "es": "calle",
+    "pron": "káye"
+  },
+  {
+    "pt": "avenida",
+    "es": "avenida",
+    "pron": "abenída"
+  },
+  {
+    "pt": "calçada",
+    "es": "acera",
+    "pron": "aséra"
+  },
+  {
+    "pt": "semáforo",
+    "es": "semáforo",
+    "pron": "semáforo"
+  },
+  {
+    "pt": "faixa de pedestre",
+    "es": "paso de cebra",
+    "pron": "páso de sébra"
+  },
+  {
+    "pt": "placa",
+    "es": "señal",
+    "pron": "señál"
+  },
+  {
+    "pt": "posto de gasolina",
+    "es": "gasolinera",
+    "pron": "gasolinéra"
+  },
+  {
+    "pt": "estacionamento",
+    "es": "estacionamiento",
+    "pron": "estasionamiénto"
+  },
+  {
+    "pt": "garagem",
+    "es": "garaje",
+    "pron": "garáje"
+  },
+  {
+    "pt": "pedágio",
+    "es": "peaje",
+    "pron": "peáje"
+  },
+  {
+    "pt": "rodovia",
+    "es": "autopista",
+    "pron": "autopísta"
+  },
+  {
+    "pt": "ponte",
+    "es": "puente",
+    "pron": "puénte"
+  },
+  {
+    "pt": "túnel",
+    "es": "túnel",
+    "pron": "túnel"
+  },
+  {
+    "pt": "esquina",
+    "es": "esquina",
+    "pron": "eskína"
+  },
+  {
+    "pt": "cruzamento",
+    "es": "cruce",
+    "pron": "krúse"
+  },
+  {
+    "pt": "rotatória",
+    "es": "rotonda",
+    "pron": "rotónda"
+  },
+  {
+    "pt": "beco",
+    "es": "callejón",
+    "pron": "kayejón"
+  },
+  {
+    "pt": "aeroporto",
+    "es": "aeropuerto",
+    "pron": "aeropuérto"
+  },
+  {
+    "pt": "estação",
+    "es": "estación",
+    "pron": "estasión"
+  },
+  {
+    "pt": "rodoviária",
+    "es": "estación de autobuses",
+    "pron": "estasión de autobúses"
+  },
+  {
+    "pt": "porto",
+    "es": "puerto",
+    "pron": "puérto"
+  },
+  {
+    "pt": "parada de ônibus",
+    "es": "parada de autobús",
+    "pron": "paráda de autobús"
+  },
+  {
+    "pt": "ponto de táxi",
+    "es": "parada de taxi",
+    "pron": "paráda de táksi"
+  },
+  {
+    "pt": "estação de metrô",
+    "es": "estación de metro",
+    "pron": "estasión de métro"
+  },
+  {
+    "pt": "terminal",
+    "es": "terminal",
+    "pron": "terminál"
+  },
+  {
+    "pt": "volante",
+    "es": "volante",
+    "pron": "bolánte"
+  },
+  {
+    "pt": "freio",
+    "es": "freno",
+    "pron": "fréno"
+  },
+  {
+    "pt": "acelerador",
+    "es": "acelerador",
+    "pron": "aseleradór"
+  },
+  {
+    "pt": "embreagem",
+    "es": "embrague",
+    "pron": "embráge"
+  },
+  {
+    "pt": "pneu",
+    "es": "neumático",
+    "pron": "neumátiko"
+  },
+  {
+    "pt": "roda",
+    "es": "rueda",
+    "pron": "ruéda"
+  },
+  {
+    "pt": "farol",
+    "es": "faro",
+    "pron": "fáro"
+  },
+  {
+    "pt": "lanterna",
+    "es": "linterna",
+    "pron": "lintérna"
+  },
+  {
+    "pt": "espelho retrovisor",
+    "es": "espejo retrovisor",
+    "pron": "espéjo retrobisór"
+  },
+  {
+    "pt": "porta-malas",
+    "es": "maletero",
+    "pron": "maletéro"
+  },
+  {
+    "pt": "capô",
+    "es": "capó",
+    "pron": "kapó"
+  },
+  {
+    "pt": "para-brisa",
+    "es": "parabrisas",
+    "pron": "parab rísas"
+  },
+  {
+    "pt": "limpador de para-brisa",
+    "es": "limpiaparabrisas",
+    "pron": "limpiaparab rísas"
+  },
+  {
+    "pt": "buzina",
+    "es": "bocina",
+    "pron": "bosína"
+  },
+  {
+    "pt": "cinto de segurança",
+    "es": "cinturón de seguridad",
+    "pron": "sinturón de seguridád"
+  },
+  {
+    "pt": "airbag",
+    "es": "airbag",
+    "pron": "érbag"
+  },
+  {
+    "pt": "gasolina",
+    "es": "gasolina",
+    "pron": "gasolína"
+  },
+  {
+    "pt": "álcool",
+    "es": "alcohol",
+    "pron": "alkoól"
+  },
+  {
+    "pt": "diesel",
+    "es": "diésel",
+    "pron": "diésel"
+  },
+  {
+    "pt": "elétrico",
+    "es": "eléctrico",
+    "pron": "eléktriko"
+  },
+  {
+    "pt": "bateria",
+    "es": "batería",
+    "pron": "batería"
+  },
+  {
+    "pt": "dirigir",
+    "es": "conducir",
+    "pron": "kondusír"
+  },
+  {
+    "pt": "estacionar",
+    "es": "estacionar",
+    "pron": "estasionár"
+  },
+  {
+    "pt": "acelerar",
+    "es": "acelerar",
+    "pron": "aselerár"
+  },
+  {
+    "pt": "frear",
+    "es": "frenar",
+    "pron": "frenár"
+  },
+  {
+    "pt": "virar",
+    "es": "girar",
+    "pron": "jirár"
+  },
+  {
+    "pt": "ultrapassar",
+    "es": "adelantar",
+    "pron": "adelantár"
+  },
+  {
+    "pt": "buzinar",
+    "es": "tocar la bocina",
+    "pron": "tokár la bosína"
+  },
+  {
+    "pt": "abastecer",
+    "es": "repostar",
+    "pron": "repostár"
+  },
+  {
+    "pt": "pegar um táxi",
+    "es": "tomar un taxi",
+    "pron": "tomár un táksi"
+  },
+  {
+    "pt": "pegar o ônibus",
+    "es": "tomar el autobús",
+    "pron": "tomár el autobús"
+  },
+  {
+    "pt": "perder o trem",
+    "es": "perder el tren",
+    "pron": "perdér el tren"
+  },
+  {
+    "pt": "comprar passagem",
+    "es": "comprar un billete",
+    "pron": "komprár un biyéte"
+  },
+  {
+    "pt": "onde é a estação?",
+    "es": "¿dónde está la estación?",
+    "pron": "dónde está la estasión"
+  },
+  {
+    "pt": "quanto custa a passagem?",
+    "es": "¿cuánto cuesta el billete?",
+    "pron": "kuánto kuésta el biyéte"
+  },
+  {
+    "pt": "que horas sai o ônibus?",
+    "es": "¿a qué hora sale el autobús?",
+    "pron": "a ke óra sále el autobús"
+  },
+  {
+    "pt": "estou atrasado",
+    "es": "estoy retrasado",
+    "pron": "estói retrasádo"
+  },
+  {
+    "pt": "perdi o ônibus",
+    "es": "perdí el autobús",
+    "pron": "perdí el autobús"
+  },
+  {
+    "pt": "estou perdido",
+    "es": "estoy perdido",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "es": "¿cuánto tiempo demora?",
+    "pron": "kuánto tiémpo demóra"
+  },
+  {
+    "pt": "me leve para...",
+    "es": "lléveme a...",
+    "pron": "yébeme a"
+  },
+  {
+    "pt": "pare aqui",
+    "es": "pare aquí",
+    "pron": "páre akí"
+  },
+  {
+    "pt": "vou de carro",
+    "es": "voy en coche",
+    "pron": "bói en kóche"
+  }
+]

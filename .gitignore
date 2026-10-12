@@ -16,3 +16,35 @@ backups/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Cache de audio (1000+ MP3s)
+assets/audio_cache/
+
+# Banco de dados pessoal
+banco/*.db
+
+# Backups locais
+backups/
+dados/*_backup/
+
+# Lixo de debug
+*_faltando.txt
+*_codigo.txt
+*_app.txt
+palavras_*.txt
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Historico
+historico/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Venv
+venv/
+.venv/

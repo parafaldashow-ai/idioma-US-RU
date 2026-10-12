@@ -10,11 +10,12 @@ def render():
         background: linear-gradient(135deg, #1a2332, #253045);
         border: 2px solid #2d3748;
         border-radius: 24px;
-        padding: 48px 24px;
+        padding: 40px 20px;
         text-align: center;
         transition: all 0.3s ease;
         box-shadow: 0 8px 32px rgba(0,0,0,0.3);
         margin-bottom: 16px;
+        min-height: 260px;
     }
     .card-idioma:hover {
         border-color: #34d399;
@@ -22,32 +23,34 @@ def render():
         box-shadow: 0 16px 40px rgba(52, 211, 153, 0.25);
     }
     .bandeira-emoji {
-        font-size: 120px;
+        font-size: 100px;
         line-height: 1;
     }
     .titulo-idioma {
-        font-size: 30px;
+        font-size: 26px;
         font-weight: 800;
         color: #ffffff;
         margin-top: 20px;
         letter-spacing: 2px;
     }
     .subtitulo-idioma {
-        font-size: 17px;
+        font-size: 15px;
         color: #a8b2c1;
         margin-top: 6px;
     }
     </style>
     """, unsafe_allow_html=True)
 
-    st.markdown('# 🌍 Língua App', unsafe_allow_html=True)
-    st.markdown('<p style="color: #a8b2c1; font-size: 19px;">Aprenda ingles e russo do seu jeito</p>', unsafe_allow_html=True)
+    st.markdown('# \U0001F30D L\u00edngua App', unsafe_allow_html=True)
+    st.markdown('<p style="color: #a8b2c1; font-size: 19px;">Aprenda ingl\u00eas, russo e espanhol do seu jeito</p>', unsafe_allow_html=True)
     st.markdown("")
-    st.markdown('### ✨ Qual idioma voce quer estudar?', unsafe_allow_html=True)
+    st.markdown('### \u2728 Qual idioma voc\u00ea quer estudar?', unsafe_allow_html=True)
     st.markdown("")
 
-    col1, col2 = st.columns(2)
-    for col, (codigo, info) in zip([col1, col2], IDIOMAS.items()):
+    # Cria uma coluna por idioma (funciona com 2, 3, 4... idiomas)
+    colunas = st.columns(len(IDIOMAS))
+
+    for col, (codigo, info) in zip(colunas, IDIOMAS.items()):
         with col:
             st.markdown(
                 f'<div class="card-idioma">'
@@ -58,23 +61,21 @@ def render():
                 unsafe_allow_html=True,
             )
 
-            if st.button(f"🚀 Estudar {info['nome']}", key=f"btn_{codigo}", use_container_width=True, type="primary"):
+            if st.button(f"\U0001F680 Estudar {info['nome']}", key=f"btn_{codigo}", use_container_width=True, type="primary"):
                 st.session_state.idioma = codigo
                 ir_para("menu")
 
     st.markdown("---")
     c1, c2 = st.columns(2)
     with c1:
-        if st.button("📊 Meu Progresso", key="home_progresso", use_container_width=True):
+        if st.button("\U0001F4CA Meu Progresso", key="home_progresso", use_container_width=True):
             ir_para("progresso")
     with c2:
-        if st.button("⚙️ Configuracoes", key="home_config", use_container_width=True):
+        if st.button("\u2699\uFE0F Configura\u00e7\u00f5es", key="home_config", use_container_width=True):
             ir_para("config")
 
     st.markdown("")
 
-    if st.button("❓ Ajuda - Como usar o app", key="home_ajuda", use_container_width=True):
+    if st.button("\u2753 Ajuda - Como usar o app", key="home_ajuda", use_container_width=True):
         ir_para("ajuda")
         return
-
-    st.stop()

@@ -1,0 +1,757 @@
+[
+  {
+    "pt": "ser",
+    "es": "ser",
+    "pron": "ser"
+  },
+  {
+    "pt": "estar",
+    "es": "estar",
+    "pron": "estár"
+  },
+  {
+    "pt": "ter",
+    "es": "tener",
+    "pron": "tenér"
+  },
+  {
+    "pt": "haver",
+    "es": "haber",
+    "pron": "abér"
+  },
+  {
+    "pt": "existir",
+    "es": "existir",
+    "pron": "eksistír"
+  },
+  {
+    "pt": "possuir",
+    "es": "poseer",
+    "pron": "poseér"
+  },
+  {
+    "pt": "estar com",
+    "es": "tener",
+    "pron": "tenér"
+  },
+  {
+    "pt": "ir",
+    "es": "ir",
+    "pron": "ir"
+  },
+  {
+    "pt": "vir",
+    "es": "venir",
+    "pron": "benír"
+  },
+  {
+    "pt": "chegar",
+    "es": "llegar",
+    "pron": "yegár"
+  },
+  {
+    "pt": "sair",
+    "es": "salir",
+    "pron": "salír"
+  },
+  {
+    "pt": "voltar",
+    "es": "volver",
+    "pron": "bolbér"
+  },
+  {
+    "pt": "entrar",
+    "es": "entrar",
+    "pron": "entrár"
+  },
+  {
+    "pt": "subir",
+    "es": "subir",
+    "pron": "subír"
+  },
+  {
+    "pt": "descer",
+    "es": "bajar",
+    "pron": "bajár"
+  },
+  {
+    "pt": "correr",
+    "es": "correr",
+    "pron": "korrér"
+  },
+  {
+    "pt": "andar",
+    "es": "caminar",
+    "pron": "kaminár"
+  },
+  {
+    "pt": "dirigir",
+    "es": "conducir",
+    "pron": "kondusír"
+  },
+  {
+    "pt": "voar",
+    "es": "volar",
+    "pron": "bolár"
+  },
+  {
+    "pt": "nadar",
+    "es": "nadar",
+    "pron": "nadár"
+  },
+  {
+    "pt": "pular",
+    "es": "saltar",
+    "pron": "saltár"
+  },
+  {
+    "pt": "dançar",
+    "es": "bailar",
+    "pron": "bailár"
+  },
+  {
+    "pt": "cair",
+    "es": "caer",
+    "pron": "kaér"
+  },
+  {
+    "pt": "levantar",
+    "es": "levantarse",
+    "pron": "lebantárse"
+  },
+  {
+    "pt": "empurrar",
+    "es": "empujar",
+    "pron": "empujár"
+  },
+  {
+    "pt": "puxar",
+    "es": "tirar",
+    "pron": "tirár"
+  },
+  {
+    "pt": "carregar",
+    "es": "cargar",
+    "pron": "kargár"
+  },
+  {
+    "pt": "correr (apressar)",
+    "es": "apurarse",
+    "pron": "apurárse"
+  },
+  {
+    "pt": "caminhar",
+    "es": "caminar",
+    "pron": "kaminár"
+  },
+  {
+    "pt": "passear",
+    "es": "pasear",
+    "pron": "paseár"
+  },
+  {
+    "pt": "fazer",
+    "es": "hacer",
+    "pron": "asér"
+  },
+  {
+    "pt": "fazer (criar)",
+    "es": "crear",
+    "pron": "kreár"
+  },
+  {
+    "pt": "querer",
+    "es": "querer",
+    "pron": "kerér"
+  },
+  {
+    "pt": "precisar",
+    "es": "necesitar",
+    "pron": "nesesitár"
+  },
+  {
+    "pt": "poder",
+    "es": "poder",
+    "pron": "podér"
+  },
+  {
+    "pt": "conseguir",
+    "es": "lograr",
+    "pron": "lográr"
+  },
+  {
+    "pt": "saber",
+    "es": "saber",
+    "pron": "sabér"
+  },
+  {
+    "pt": "conhecer",
+    "es": "conocer",
+    "pron": "konosér"
+  },
+  {
+    "pt": "gostar",
+    "es": "gustar",
+    "pron": "gustár"
+  },
+  {
+    "pt": "amar",
+    "es": "amar",
+    "pron": "amár"
+  },
+  {
+    "pt": "odiar",
+    "es": "odiar",
+    "pron": "odiár"
+  },
+  {
+    "pt": "preferir",
+    "es": "preferir",
+    "pron": "preferír"
+  },
+  {
+    "pt": "escolher",
+    "es": "elegir",
+    "pron": "elejír"
+  },
+  {
+    "pt": "decidir",
+    "es": "decidir",
+    "pron": "desidír"
+  },
+  {
+    "pt": "tentar",
+    "es": "intentar",
+    "pron": "intentár"
+  },
+  {
+    "pt": "conseguir",
+    "es": "lograr",
+    "pron": "lográr"
+  },
+  {
+    "pt": "falhar",
+    "es": "fallar",
+    "pron": "fayár"
+  },
+  {
+    "pt": "começar",
+    "es": "empezar",
+    "pron": "empesár"
+  },
+  {
+    "pt": "terminar",
+    "es": "terminar",
+    "pron": "terminár"
+  },
+  {
+    "pt": "continuar",
+    "es": "continuar",
+    "pron": "kontinuár"
+  },
+  {
+    "pt": "parar",
+    "es": "parar",
+    "pron": "parár"
+  },
+  {
+    "pt": "falar",
+    "es": "hablar",
+    "pron": "ablár"
+  },
+  {
+    "pt": "dizer",
+    "es": "decir",
+    "pron": "desír"
+  },
+  {
+    "pt": "contar",
+    "es": "contar",
+    "pron": "kontár"
+  },
+  {
+    "pt": "perguntar",
+    "es": "preguntar",
+    "pron": "preguntár"
+  },
+  {
+    "pt": "responder",
+    "es": "responder",
+    "pron": "respondér"
+  },
+  {
+    "pt": "ouvir",
+    "es": "oír",
+    "pron": "oír"
+  },
+  {
+    "pt": "escutar",
+    "es": "escuchar",
+    "pron": "esku chár"
+  },
+  {
+    "pt": "ver",
+    "es": "ver",
+    "pron": "ber"
+  },
+  {
+    "pt": "olhar",
+    "es": "mirar",
+    "pron": "mirár"
+  },
+  {
+    "pt": "ler",
+    "es": "leer",
+    "pron": "leér"
+  },
+  {
+    "pt": "escrever",
+    "es": "escribir",
+    "pron": "eskribír"
+  },
+  {
+    "pt": "estudar",
+    "es": "estudiar",
+    "pron": "estudiár"
+  },
+  {
+    "pt": "aprender",
+    "es": "aprender",
+    "pron": "aprendér"
+  },
+  {
+    "pt": "ensinar",
+    "es": "enseñar",
+    "pron": "enseñár"
+  },
+  {
+    "pt": "explicar",
+    "es": "explicar",
+    "pron": "eksplikár"
+  },
+  {
+    "pt": "traduzir",
+    "es": "traducir",
+    "pron": "tradusír"
+  },
+  {
+    "pt": "chamar",
+    "es": "llamar",
+    "pron": "yamár"
+  },
+  {
+    "pt": "conversar",
+    "es": "conversar",
+    "pron": "konbersár"
+  },
+  {
+    "pt": "gritar",
+    "es": "gritar",
+    "pron": "gritár"
+  },
+  {
+    "pt": "sussurrar",
+    "es": "susurrar",
+    "pron": "susurrár"
+  },
+  {
+    "pt": "concordar",
+    "es": "estar de acuerdo",
+    "pron": "estár de aku érdo"
+  },
+  {
+    "pt": "discordar",
+    "es": "estar en desacuerdo",
+    "pron": "estár en desaku érdo"
+  },
+  {
+    "pt": "prometer",
+    "es": "prometer",
+    "pron": "prometér"
+  },
+  {
+    "pt": "avisar",
+    "es": "avisar",
+    "pron": "abisár"
+  },
+  {
+    "pt": "mentir",
+    "es": "mentir",
+    "pron": "mentír"
+  },
+  {
+    "pt": "reclamar",
+    "es": "quejarse",
+    "pron": "kejárse"
+  },
+  {
+    "pt": "comer",
+    "es": "comer",
+    "pron": "komér"
+  },
+  {
+    "pt": "beber",
+    "es": "beber",
+    "pron": "bebér"
+  },
+  {
+    "pt": "dormir",
+    "es": "dormir",
+    "pron": "dormír"
+  },
+  {
+    "pt": "acordar",
+    "es": "despertar",
+    "pron": "despertár"
+  },
+  {
+    "pt": "levantar-se",
+    "es": "levantarse",
+    "pron": "lebantárse"
+  },
+  {
+    "pt": "trabalhar",
+    "es": "trabajar",
+    "pron": "trabajár"
+  },
+  {
+    "pt": "descansar",
+    "es": "descansar",
+    "pron": "deskansár"
+  },
+  {
+    "pt": "brincar",
+    "es": "jugar",
+    "pron": "jugár"
+  },
+  {
+    "pt": "jogar",
+    "es": "jugar",
+    "pron": "jugár"
+  },
+  {
+    "pt": "ganhar",
+    "es": "ganar",
+    "pron": "ganár"
+  },
+  {
+    "pt": "perder",
+    "es": "perder",
+    "pron": "perdér"
+  },
+  {
+    "pt": "ganhar (receber)",
+    "es": "ganar",
+    "pron": "ganár"
+  },
+  {
+    "pt": "cuidar",
+    "es": "cuidar",
+    "pron": "kuidár"
+  },
+  {
+    "pt": "ajudar",
+    "es": "ayudar",
+    "pron": "ayudár"
+  },
+  {
+    "pt": "usar",
+    "es": "usar",
+    "pron": "usár"
+  },
+  {
+    "pt": "vestir",
+    "es": "vestir",
+    "pron": "bestír"
+  },
+  {
+    "pt": "tirar (roupa)",
+    "es": "quitarse",
+    "pron": "kitárse"
+  },
+  {
+    "pt": "colocar",
+    "es": "poner",
+    "pron": "ponér"
+  },
+  {
+    "pt": "guardar",
+    "es": "guardar",
+    "pron": "guardár"
+  },
+  {
+    "pt": "limpar",
+    "es": "limpiar",
+    "pron": "limpiár"
+  },
+  {
+    "pt": "lavar",
+    "es": "lavar",
+    "pron": "labár"
+  },
+  {
+    "pt": "cozinhar",
+    "es": "cocinar",
+    "pron": "kosinár"
+  },
+  {
+    "pt": "cortar",
+    "es": "cortar",
+    "pron": "kortár"
+  },
+  {
+    "pt": "abrir",
+    "es": "abrir",
+    "pron": "abr ír"
+  },
+  {
+    "pt": "fechar",
+    "es": "cerrar",
+    "pron": "serrár"
+  },
+  {
+    "pt": "comprar",
+    "es": "comprar",
+    "pron": "komprár"
+  },
+  {
+    "pt": "vender",
+    "es": "vender",
+    "pron": "bendér"
+  },
+  {
+    "pt": "pagar",
+    "es": "pagar",
+    "pron": "pagár"
+  },
+  {
+    "pt": "dar",
+    "es": "dar",
+    "pron": "dar"
+  },
+  {
+    "pt": "receber",
+    "es": "recibir",
+    "pron": "resibír"
+  },
+  {
+    "pt": "trocar",
+    "es": "cambiar",
+    "pron": "kambiár"
+  },
+  {
+    "pt": "procurar",
+    "es": "buscar",
+    "pron": "buskár"
+  },
+  {
+    "pt": "encontrar",
+    "es": "encontrar",
+    "pron": "enkontrár"
+  },
+  {
+    "pt": "perder (objeto)",
+    "es": "perder",
+    "pron": "perdér"
+  },
+  {
+    "pt": "achar",
+    "es": "encontrar",
+    "pron": "enkontrár"
+  },
+  {
+    "pt": "pensar",
+    "es": "pensar",
+    "pron": "pensár"
+  },
+  {
+    "pt": "acreditar",
+    "es": "creer",
+    "pron": "kreér"
+  },
+  {
+    "pt": "sentir",
+    "es": "sentir",
+    "pron": "sentír"
+  },
+  {
+    "pt": "lembrar",
+    "es": "recordar",
+    "pron": "rekordár"
+  },
+  {
+    "pt": "esquecer",
+    "es": "olvidar",
+    "pron": "olbidár"
+  },
+  {
+    "pt": "entender",
+    "es": "entender",
+    "pron": "entendér"
+  },
+  {
+    "pt": "imaginar",
+    "es": "imaginar",
+    "pron": "imajinár"
+  },
+  {
+    "pt": "esperar",
+    "es": "esperar",
+    "pron": "esperár"
+  },
+  {
+    "pt": "esperar (aguardar)",
+    "es": "aguardar",
+    "pron": "aguardár"
+  },
+  {
+    "pt": "rir",
+    "es": "reír",
+    "pron": "reír"
+  },
+  {
+    "pt": "chorar",
+    "es": "llorar",
+    "pron": "yorár"
+  },
+  {
+    "pt": "sorrir",
+    "es": "sonreír",
+    "pron": "sonreír"
+  },
+  {
+    "pt": "sonhar",
+    "es": "soñar",
+    "pron": "soñár"
+  },
+  {
+    "pt": "levantar-se (cama)",
+    "es": "levantarse",
+    "pron": "lebantárse"
+  },
+  {
+    "pt": "sair (passear)",
+    "es": "salir",
+    "pron": "salír"
+  },
+  {
+    "pt": "voltar (retornar)",
+    "es": "volver",
+    "pron": "bolbér"
+  },
+  {
+    "pt": "desistir",
+    "es": "rendirse",
+    "pron": "rendírse"
+  },
+  {
+    "pt": "continuar",
+    "es": "continuar",
+    "pron": "kontinuár"
+  },
+  {
+    "pt": "cuidar de",
+    "es": "cuidar de",
+    "pron": "kuidár de"
+  },
+  {
+    "pt": "esperar",
+    "es": "esperar",
+    "pron": "esperár"
+  },
+  {
+    "pt": "descobrir",
+    "es": "descubrir",
+    "pron": "deskubr ír"
+  },
+  {
+    "pt": "preencher",
+    "es": "rellenar",
+    "pron": "reyenár"
+  },
+  {
+    "pt": "desligar",
+    "es": "apagar",
+    "pron": "apagár"
+  },
+  {
+    "pt": "ligar",
+    "es": "encender",
+    "pron": "ensendér"
+  },
+  {
+    "pt": "pegar (apanhar)",
+    "es": "recoger",
+    "pron": "rekojér"
+  },
+  {
+    "pt": "deixar (largar)",
+    "es": "soltar",
+    "pron": "soltár"
+  },
+  {
+    "pt": "crescer",
+    "es": "crecer",
+    "pron": "kresér"
+  },
+  {
+    "pt": "cair (briga)",
+    "es": "pelearse",
+    "pron": "peleárse"
+  },
+  {
+    "pt": "eu quero",
+    "es": "yo quiero",
+    "pron": "yo kiéro"
+  },
+  {
+    "pt": "eu preciso",
+    "es": "yo necesito",
+    "pron": "yo nesesíto"
+  },
+  {
+    "pt": "eu posso",
+    "es": "yo puedo",
+    "pron": "yo puédo"
+  },
+  {
+    "pt": "eu vou",
+    "es": "yo voy",
+    "pron": "yo bói"
+  },
+  {
+    "pt": "eu gosto de",
+    "es": "me gusta",
+    "pron": "me gústa"
+  },
+  {
+    "pt": "eu sei",
+    "es": "yo sé",
+    "pron": "yo sé"
+  },
+  {
+    "pt": "eu acho que",
+    "es": "yo creo que",
+    "pron": "yo kréo ke"
+  },
+  {
+    "pt": "eu entendo",
+    "es": "yo entiendo",
+    "pron": "yo entiéndo"
+  },
+  {
+    "pt": "não sei",
+    "es": "no sé",
+    "pron": "no sé"
+  },
+  {
+    "pt": "não entendo",
+    "es": "no entiendo",
+    "pron": "no entiéndo"
+  },
+  {
+    "pt": "não consigo",
+    "es": "no puedo",
+    "pron": "no puédo"
+  }
+]

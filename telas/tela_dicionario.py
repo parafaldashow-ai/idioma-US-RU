@@ -203,7 +203,7 @@ def render_estatisticas(idioma_atual):
 
 
 def render_card_palavra(item, idioma):
-    codigo = "en" if idioma == "ingles" else "ru"
+    codigo = IDIOMAS[idioma]["codigo_conteudo"]
     info = IDIOMAS[idioma]
 
     traducao = item.get(codigo, "?")

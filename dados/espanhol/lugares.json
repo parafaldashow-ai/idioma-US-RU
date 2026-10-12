@@ -1,0 +1,762 @@
+[
+  {
+    "pt": "loja",
+    "es": "tienda",
+    "pron": "tiénda"
+  },
+  {
+    "pt": "supermercado",
+    "es": "supermercado",
+    "pron": "supermerk ádo"
+  },
+  {
+    "pt": "mercado",
+    "es": "mercado",
+    "pron": "merk ádo"
+  },
+  {
+    "pt": "shopping",
+    "es": "centro comercial",
+    "pron": "séntro komersiál"
+  },
+  {
+    "pt": "livraria",
+    "es": "librería",
+    "pron": "librería"
+  },
+  {
+    "pt": "farmácia",
+    "es": "farmacia",
+    "pron": "farmásia"
+  },
+  {
+    "pt": "padaria",
+    "es": "panadería",
+    "pron": "panadería"
+  },
+  {
+    "pt": "açougue",
+    "es": "carnicería",
+    "pron": "karnisería"
+  },
+  {
+    "pt": "floricultura",
+    "es": "floristería",
+    "pron": "floristería"
+  },
+  {
+    "pt": "sapataria",
+    "es": "zapatería",
+    "pron": "sapatería"
+  },
+  {
+    "pt": "banca de jornal",
+    "es": "quiosco",
+    "pron": "kiósko"
+  },
+  {
+    "pt": "loja de roupas",
+    "es": "tienda de ropa",
+    "pron": "tiénda de rópa"
+  },
+  {
+    "pt": "joalheria",
+    "es": "joyería",
+    "pron": "joyería"
+  },
+  {
+    "pt": "papelaria",
+    "es": "papelería",
+    "pron": "papelería"
+  },
+  {
+    "pt": "loja de brinquedos",
+    "es": "juguetería",
+    "pron": "juguetería"
+  },
+  {
+    "pt": "loja de eletrônicos",
+    "es": "tienda de electrónica",
+    "pron": "tiénda de elektrónika"
+  },
+  {
+    "pt": "loja de móveis",
+    "es": "mueblería",
+    "pron": "muebl ería"
+  },
+  {
+    "pt": "loja de plantas",
+    "es": "vivero",
+    "pron": "bibéro"
+  },
+  {
+    "pt": "pet shop",
+    "es": "tienda de mascotas",
+    "pron": "tiénda de maskótas"
+  },
+  {
+    "pt": "loja de departamento",
+    "es": "grandes almacenes",
+    "pron": "grándes almasénes"
+  },
+  {
+    "pt": "banco",
+    "es": "banco",
+    "pron": "bánko"
+  },
+  {
+    "pt": "correio",
+    "es": "correo",
+    "pron": "korréo"
+  },
+  {
+    "pt": "delegacia",
+    "es": "comisaría",
+    "pron": "komisar ía"
+  },
+  {
+    "pt": "hospital",
+    "es": "hospital",
+    "pron": "ospitál"
+  },
+  {
+    "pt": "clínica",
+    "es": "clínica",
+    "pron": "klínika"
+  },
+  {
+    "pt": "consultório",
+    "es": "consultorio",
+    "pron": "konsultório"
+  },
+  {
+    "pt": "consultório do dentista",
+    "es": "consultorio del dentista",
+    "pron": "konsultório del dentísta"
+  },
+  {
+    "pt": "salão de beleza",
+    "es": "salón de belleza",
+    "pron": "salón de beyésa"
+  },
+  {
+    "pt": "barbearia",
+    "es": "barbería",
+    "pron": "barbería"
+  },
+  {
+    "pt": "lavanderia",
+    "es": "lavandería",
+    "pron": "labandería"
+  },
+  {
+    "pt": "oficina",
+    "es": "taller",
+    "pron": "tayér"
+  },
+  {
+    "pt": "posto de gasolina",
+    "es": "gasolinera",
+    "pron": "gasolinéra"
+  },
+  {
+    "pt": "estacionamento",
+    "es": "estacionamiento",
+    "pron": "estasionamiénto"
+  },
+  {
+    "pt": "hotel",
+    "es": "hotel",
+    "pron": "otél"
+  },
+  {
+    "pt": "pousada",
+    "es": "posada",
+    "pron": "posáda"
+  },
+  {
+    "pt": "hostel",
+    "es": "hostal",
+    "pron": "ostál"
+  },
+  {
+    "pt": "cartório",
+    "es": "notaría",
+    "pron": "notaría"
+  },
+  {
+    "pt": "escritório",
+    "es": "oficina",
+    "pron": "ofisína"
+  },
+  {
+    "pt": "coworking",
+    "es": "coworking",
+    "pron": "kóuorking"
+  },
+  {
+    "pt": "agência de viagens",
+    "es": "agencia de viajes",
+    "pron": "ajénsia de biájes"
+  },
+  {
+    "pt": "imobiliária",
+    "es": "inmobiliaria",
+    "pron": "inmobiliária"
+  },
+  {
+    "pt": "seguradora",
+    "es": "aseguradora",
+    "pron": "aseguradóra"
+  },
+  {
+    "pt": "advocacia",
+    "es": "bufete de abogados",
+    "pron": "buféte de abogádos"
+  },
+  {
+    "pt": "contabilidade",
+    "es": "contabilidad",
+    "pron": "kontabilidad"
+  },
+  {
+    "pt": "escola",
+    "es": "escuela",
+    "pron": "eskuéla"
+  },
+  {
+    "pt": "universidade",
+    "es": "universidad",
+    "pron": "unibersidád"
+  },
+  {
+    "pt": "faculdade",
+    "es": "facultad",
+    "pron": "fakultád"
+  },
+  {
+    "pt": "biblioteca",
+    "es": "biblioteca",
+    "pron": "bibliotéka"
+  },
+  {
+    "pt": "museu",
+    "es": "museo",
+    "pron": "muséo"
+  },
+  {
+    "pt": "teatro",
+    "es": "teatro",
+    "pron": "teátro"
+  },
+  {
+    "pt": "cinema",
+    "es": "cine",
+    "pron": "síne"
+  },
+  {
+    "pt": "galeria de arte",
+    "es": "galería de arte",
+    "pron": "galería de árte"
+  },
+  {
+    "pt": "centro cultural",
+    "es": "centro cultural",
+    "pron": "séntro kulturál"
+  },
+  {
+    "pt": "auditório",
+    "es": "auditorio",
+    "pron": "auditório"
+  },
+  {
+    "pt": "casa de shows",
+    "es": "sala de conciertos",
+    "pron": "sála de konsiértos"
+  },
+  {
+    "pt": "parque",
+    "es": "parque",
+    "pron": "párke"
+  },
+  {
+    "pt": "praça",
+    "es": "plaza",
+    "pron": "plása"
+  },
+  {
+    "pt": "zoológico",
+    "es": "zoológico",
+    "pron": "soolójiko"
+  },
+  {
+    "pt": "praia",
+    "es": "playa",
+    "pron": "plája"
+  },
+  {
+    "pt": "piscina",
+    "es": "piscina",
+    "pron": "pissína"
+  },
+  {
+    "pt": "academia",
+    "es": "gimnasio",
+    "pron": "jimnásio"
+  },
+  {
+    "pt": "estádio",
+    "es": "estadio",
+    "pron": "estádio"
+  },
+  {
+    "pt": "quadra",
+    "es": "cancha",
+    "pron": "káncha"
+  },
+  {
+    "pt": "campo de futebol",
+    "es": "campo de fútbol",
+    "pron": "kámpo de fútbol"
+  },
+  {
+    "pt": "parque de diversões",
+    "es": "parque de atracciones",
+    "pron": "párke de atrasiónes"
+  },
+  {
+    "pt": "circo",
+    "es": "circo",
+    "pron": "sírko"
+  },
+  {
+    "pt": "aquário",
+    "es": "acuario",
+    "pron": "akuário"
+  },
+  {
+    "pt": "bowling",
+    "es": "bolera",
+    "pron": "boléra"
+  },
+  {
+    "pt": "restaurante",
+    "es": "restaurante",
+    "pron": "restauránte"
+  },
+  {
+    "pt": "bar",
+    "es": "bar",
+    "pron": "bar"
+  },
+  {
+    "pt": "café",
+    "es": "café",
+    "pron": "kafé"
+  },
+  {
+    "pt": "boate",
+    "es": "discoteca",
+    "pron": "diskotéka"
+  },
+  {
+    "pt": "pub",
+    "es": "pub",
+    "pron": "pab"
+  },
+  {
+    "pt": "karaokê",
+    "es": "karaoke",
+    "pron": "karaóke"
+  },
+  {
+    "pt": "spa",
+    "es": "spa",
+    "pron": "spa"
+  },
+  {
+    "pt": "igreja",
+    "es": "iglesia",
+    "pron": "iglé sia"
+  },
+  {
+    "pt": "templo",
+    "es": "templo",
+    "pron": "témplo"
+  },
+  {
+    "pt": "mesquita",
+    "es": "mezquita",
+    "pron": "meskíta"
+  },
+  {
+    "pt": "sinagoga",
+    "es": "sinagoga",
+    "pron": "sinagóga"
+  },
+  {
+    "pt": "catedral",
+    "es": "catedral",
+    "pron": "katedrál"
+  },
+  {
+    "pt": "capela",
+    "es": "capilla",
+    "pron": "kapíya"
+  },
+  {
+    "pt": "cemitério",
+    "es": "cementerio",
+    "pron": "sementério"
+  },
+  {
+    "pt": "prédio",
+    "es": "edificio",
+    "pron": "edifísio"
+  },
+  {
+    "pt": "casa",
+    "es": "casa",
+    "pron": "kása"
+  },
+  {
+    "pt": "apartamento",
+    "es": "apartamento",
+    "pron": "apartaménto"
+  },
+  {
+    "pt": "rua",
+    "es": "calle",
+    "pron": "káye"
+  },
+  {
+    "pt": "avenida",
+    "es": "avenida",
+    "pron": "abenída"
+  },
+  {
+    "pt": "praça central",
+    "es": "plaza central",
+    "pron": "plása sentrál"
+  },
+  {
+    "pt": "ponte",
+    "es": "puente",
+    "pron": "puénte"
+  },
+  {
+    "pt": "rio",
+    "es": "río",
+    "pron": "río"
+  },
+  {
+    "pt": "centro",
+    "es": "centro",
+    "pron": "séntro"
+  },
+  {
+    "pt": "bairro",
+    "es": "barrio",
+    "pron": "bárrio"
+  },
+  {
+    "pt": "cidade",
+    "es": "ciudad",
+    "pron": "siudád"
+  },
+  {
+    "pt": "vila",
+    "es": "pueblo",
+    "pron": "puéblo"
+  },
+  {
+    "pt": "subúrbio",
+    "es": "suburbio",
+    "pron": "subúrbio"
+  },
+  {
+    "pt": "arranha-céu",
+    "es": "rascacielos",
+    "pron": "raskasiélos"
+  },
+  {
+    "pt": "praça de alimentação",
+    "es": "patio de comidas",
+    "pron": "pátio de komídas"
+  },
+  {
+    "pt": "calçadão",
+    "es": "paseo",
+    "pron": "paséo"
+  },
+  {
+    "pt": "viaduto",
+    "es": "paso elevado",
+    "pron": "páso elebádo"
+  },
+  {
+    "pt": "túnel",
+    "es": "túnel",
+    "pron": "túnel"
+  },
+  {
+    "pt": "beco",
+    "es": "callejón",
+    "pron": "kayejón"
+  },
+  {
+    "pt": "largo",
+    "es": "ancho",
+    "pron": "áncho"
+  },
+  {
+    "pt": "rotatória",
+    "es": "rotonda",
+    "pron": "rotónda"
+  },
+  {
+    "pt": "cruzamento",
+    "es": "cruce",
+    "pron": "krúse"
+  },
+  {
+    "pt": "esquina",
+    "es": "esquina",
+    "pron": "eskína"
+  },
+  {
+    "pt": "calçada",
+    "es": "acera",
+    "pron": "aséra"
+  },
+  {
+    "pt": "faixa de pedestre",
+    "es": "paso de cebra",
+    "pron": "páso de sébra"
+  },
+  {
+    "pt": "semáforo",
+    "es": "semáforo",
+    "pron": "semáforo"
+  },
+  {
+    "pt": "lixeira pública",
+    "es": "papelera",
+    "pron": "papeléra"
+  },
+  {
+    "pt": "banco de praça",
+    "es": "banco",
+    "pron": "bánko"
+  },
+  {
+    "pt": "fonte",
+    "es": "fuente",
+    "pron": "fuénte"
+  },
+  {
+    "pt": "estátua",
+    "es": "estatua",
+    "pron": "estátua"
+  },
+  {
+    "pt": "monumento",
+    "es": "monumento",
+    "pron": "monuménto"
+  },
+  {
+    "pt": "prefeitura",
+    "es": "ayuntamiento",
+    "pron": "ayuntamiénto"
+  },
+  {
+    "pt": "fórum",
+    "es": "juzgado",
+    "pron": "jusgádo"
+  },
+  {
+    "pt": "posto de saúde",
+    "es": "centro de salud",
+    "pron": "séntro de salud"
+  },
+  {
+    "pt": "UPA",
+    "es": "urgencias",
+    "pron": "urjénsias"
+  },
+  {
+    "pt": "bombeiros",
+    "es": "bomberos",
+    "pron": "bombéros"
+  },
+  {
+    "pt": "exército",
+    "es": "ejército",
+    "pron": "ejérsito"
+  },
+  {
+    "pt": "consulado",
+    "es": "consulado",
+    "pron": "konsuládo"
+  },
+  {
+    "pt": "embaixada",
+    "es": "embajada",
+    "pron": "embajáda"
+  },
+  {
+    "pt": "aeroporto",
+    "es": "aeropuerto",
+    "pron": "aeropuérto"
+  },
+  {
+    "pt": "rodoviária",
+    "es": "estación de autobuses",
+    "pron": "estasión de autobúses"
+  },
+  {
+    "pt": "estação de trem",
+    "es": "estación de tren",
+    "pron": "estasión de tren"
+  },
+  {
+    "pt": "estação de metrô",
+    "es": "estación de metro",
+    "pron": "estasión de métro"
+  },
+  {
+    "pt": "porto",
+    "es": "puerto",
+    "pron": "puérto"
+  },
+  {
+    "pt": "ponto turístico",
+    "es": "punto turístico",
+    "pron": "púnto turístiko"
+  },
+  {
+    "pt": "mirante",
+    "es": "mirador",
+    "pron": "miradór"
+  },
+  {
+    "pt": "parque nacional",
+    "es": "parque nacional",
+    "pron": "párke nasionál"
+  },
+  {
+    "pt": "cachoeira",
+    "es": "cascada",
+    "pron": "kaskáda"
+  },
+  {
+    "pt": "montanha",
+    "es": "montaña",
+    "pron": "montáña"
+  },
+  {
+    "pt": "ilha",
+    "es": "isla",
+    "pron": "ísla"
+  },
+  {
+    "pt": "farol",
+    "es": "faro",
+    "pron": "fáro"
+  },
+  {
+    "pt": "ruínas",
+    "es": "ruinas",
+    "pron": "ruínas"
+  },
+  {
+    "pt": "castelo",
+    "es": "castillo",
+    "pron": "kastíyo"
+  },
+  {
+    "pt": "palácio",
+    "es": "palacio",
+    "pron": "palásio"
+  },
+  {
+    "pt": "onde fica?",
+    "es": "¿dónde está?",
+    "pron": "dónde está"
+  },
+  {
+    "pt": "como chego lá?",
+    "es": "¿cómo llego allí?",
+    "pron": "kómo yégo ayí"
+  },
+  {
+    "pt": "é longe?",
+    "es": "¿está lejos?",
+    "pron": "está léjos"
+  },
+  {
+    "pt": "é perto?",
+    "es": "¿está cerca?",
+    "pron": "está sérka"
+  },
+  {
+    "pt": "tem algum restaurante aqui perto?",
+    "es": "¿hay algún restaurante cerca?",
+    "pron": "ái alg ún restauránte sérka"
+  },
+  {
+    "pt": "que bairro é esse?",
+    "es": "¿qué barrio es este?",
+    "pron": "ke bárrio es éste"
+  },
+  {
+    "pt": "estou procurando...",
+    "es": "estoy buscando...",
+    "pron": "estói buskándo"
+  },
+  {
+    "pt": "qual o endereço?",
+    "es": "¿cuál es la dirección?",
+    "pron": "kuál es la direksión"
+  },
+  {
+    "pt": "pode me mostrar no mapa?",
+    "es": "¿puede mostrármelo en el mapa?",
+    "pron": "puéde mostrármelo en el mápa"
+  },
+  {
+    "pt": "que horas fecha?",
+    "es": "¿a qué hora cierra?",
+    "pron": "a ke óra siérra"
+  },
+  {
+    "pt": "está aberto agora?",
+    "es": "¿está abierto ahora?",
+    "pron": "está abiérto aóra"
+  },
+  {
+    "pt": "que dia fecha?",
+    "es": "¿qué día cierra?",
+    "pron": "ke día siérra"
+  },
+  {
+    "pt": "precisa de reserva?",
+    "es": "¿necesita reserva?",
+    "pron": "nesesíta resérba"
+  },
+  {
+    "pt": "tem estacionamento?",
+    "es": "¿tiene estacionamiento?",
+    "pron": "tiéne estasionamiénto"
+  },
+  {
+    "pt": "tem wi-fi?",
+    "es": "¿tiene wi-fi?",
+    "pron": "tiéne uáifai"
+  },
+  {
+    "pt": "aceita pets?",
+    "es": "¿aceptan mascotas?",
+    "pron": "aséptan maskótas"
+  }
+]

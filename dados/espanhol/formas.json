@@ -1,0 +1,837 @@
+[
+  {
+    "pt": "forma",
+    "es": "forma",
+    "pron": "fórma"
+  },
+  {
+    "pt": "círculo",
+    "es": "círculo",
+    "pron": "sírkulo"
+  },
+  {
+    "pt": "quadrado",
+    "es": "cuadrado",
+    "pron": "kuadrádo"
+  },
+  {
+    "pt": "triângulo",
+    "es": "triángulo",
+    "pron": "triángulo"
+  },
+  {
+    "pt": "retângulo",
+    "es": "rectángulo",
+    "pron": "rektángulo"
+  },
+  {
+    "pt": "losango",
+    "es": "rombo",
+    "pron": "rómbo"
+  },
+  {
+    "pt": "estrela",
+    "es": "estrella",
+    "pron": "estréya"
+  },
+  {
+    "pt": "coração",
+    "es": "corazón",
+    "pron": "korasón"
+  },
+  {
+    "pt": "oval",
+    "es": "óvalo",
+    "pron": "óbalo"
+  },
+  {
+    "pt": "elipse",
+    "es": "elipse",
+    "pron": "elípse"
+  },
+  {
+    "pt": "pentágono",
+    "es": "pentágono",
+    "pron": "pentágono"
+  },
+  {
+    "pt": "hexágono",
+    "es": "hexágono",
+    "pron": "ekságono"
+  },
+  {
+    "pt": "octógono",
+    "es": "octógono",
+    "pron": "októgono"
+  },
+  {
+    "pt": "esfera",
+    "es": "esfera",
+    "pron": "esféra"
+  },
+  {
+    "pt": "cubo",
+    "es": "cubo",
+    "pron": "kúbo"
+  },
+  {
+    "pt": "cilindro",
+    "es": "cilindro",
+    "pron": "silíndro"
+  },
+  {
+    "pt": "cone",
+    "es": "cono",
+    "pron": "kóno"
+  },
+  {
+    "pt": "pirâmide",
+    "es": "pirámide",
+    "pron": "pirá mide"
+  },
+  {
+    "pt": "reto",
+    "es": "recto",
+    "pron": "rékto"
+  },
+  {
+    "pt": "curvo",
+    "es": "curvo",
+    "pron": "kúrbo"
+  },
+  {
+    "pt": "redondo",
+    "es": "redondo",
+    "pron": "redóndo"
+  },
+  {
+    "pt": "plano",
+    "es": "plano",
+    "pron": "pláno"
+  },
+  {
+    "pt": "fino",
+    "es": "fino",
+    "pron": "fíno"
+  },
+  {
+    "pt": "grosso",
+    "es": "grueso",
+    "pron": "gruéso"
+  },
+  {
+    "pt": "estreito",
+    "es": "estrecho",
+    "pron": "estrécho"
+  },
+  {
+    "pt": "largo",
+    "es": "ancho",
+    "pron": "áncho"
+  },
+  {
+    "pt": "comprido",
+    "es": "largo",
+    "pron": "lárgo"
+  },
+  {
+    "pt": "curto",
+    "es": "corto",
+    "pron": "kórto"
+  },
+  {
+    "pt": "alto",
+    "es": "alto",
+    "pron": "álto"
+  },
+  {
+    "pt": "baixo",
+    "es": "bajo",
+    "pron": "bájo"
+  },
+  {
+    "pt": "profundo",
+    "es": "profundo",
+    "pron": "profúndo"
+  },
+  {
+    "pt": "raso",
+    "es": "poco profundo",
+    "pron": "póko profúndo"
+  },
+  {
+    "pt": "pontudo",
+    "es": "puntiagudo",
+    "pron": "puntiagúdo"
+  },
+  {
+    "pt": "afiado",
+    "es": "afilado",
+    "pron": "afiládo"
+  },
+  {
+    "pt": "liso",
+    "es": "liso",
+    "pron": "líso"
+  },
+  {
+    "pt": "áspero",
+    "es": "áspero",
+    "pron": "áspero"
+  },
+  {
+    "pt": "cheio",
+    "es": "lleno",
+    "pron": "yéno"
+  },
+  {
+    "pt": "vazio",
+    "es": "vacío",
+    "pron": "vasío"
+  },
+  {
+    "pt": "tamanho",
+    "es": "talla",
+    "pron": "táya"
+  },
+  {
+    "pt": "grande",
+    "es": "grande",
+    "pron": "gránde"
+  },
+  {
+    "pt": "grande (enorme)",
+    "es": "enorme",
+    "pron": "enórme"
+  },
+  {
+    "pt": "pequeno",
+    "es": "pequeño",
+    "pron": "pek éño"
+  },
+  {
+    "pt": "pequenininho",
+    "es": "muy pequeño",
+    "pron": "mui pek éño"
+  },
+  {
+    "pt": "médio",
+    "es": "mediano",
+    "pron": "mediáno"
+  },
+  {
+    "pt": "gigante",
+    "es": "gigante",
+    "pron": "jigánte"
+  },
+  {
+    "pt": "enorme",
+    "es": "enorme",
+    "pron": "enórme"
+  },
+  {
+    "pt": "minúsculo",
+    "es": "minúsculo",
+    "pron": "minúskulo"
+  },
+  {
+    "pt": "médio-grande",
+    "es": "mediano-grande",
+    "pron": "mediáno gránde"
+  },
+  {
+    "pt": "tamanho P",
+    "es": "talla S",
+    "pron": "táya ése"
+  },
+  {
+    "pt": "tamanho M",
+    "es": "talla M",
+    "pron": "táya éme"
+  },
+  {
+    "pt": "tamanho G",
+    "es": "talla L",
+    "pron": "táya éle"
+  },
+  {
+    "pt": "tamanho GG",
+    "es": "talla XL",
+    "pron": "táya éks éle"
+  },
+  {
+    "pt": "tamanho único",
+    "es": "talla única",
+    "pron": "táya única"
+  },
+  {
+    "pt": "sob medida",
+    "es": "a medida",
+    "pron": "a medída"
+  },
+  {
+    "pt": "fora de tamanho",
+    "es": "fuera de talla",
+    "pron": "fuéra de táya"
+  },
+  {
+    "pt": "peso",
+    "es": "peso",
+    "pron": "péso"
+  },
+  {
+    "pt": "grama",
+    "es": "gramo",
+    "pron": "grámo"
+  },
+  {
+    "pt": "quilograma",
+    "es": "kilogramo",
+    "pron": "kilográmo"
+  },
+  {
+    "pt": "tonelada",
+    "es": "tonelada",
+    "pron": "toneláda"
+  },
+  {
+    "pt": "miligrama",
+    "es": "miligramo",
+    "pron": "miligrámo"
+  },
+  {
+    "pt": "litro",
+    "es": "litro",
+    "pron": "lítro"
+  },
+  {
+    "pt": "mililitro",
+    "es": "mililitro",
+    "pron": "mililítro"
+  },
+  {
+    "pt": "metro",
+    "es": "metro",
+    "pron": "métro"
+  },
+  {
+    "pt": "centímetro",
+    "es": "centímetro",
+    "pron": "sentímetro"
+  },
+  {
+    "pt": "milímetro",
+    "es": "milímetro",
+    "pron": "milímetro"
+  },
+  {
+    "pt": "quilômetro",
+    "es": "kilómetro",
+    "pron": "kilómetro"
+  },
+  {
+    "pt": "polegada",
+    "es": "pulgada",
+    "pron": "pulgáda"
+  },
+  {
+    "pt": "pé (medida)",
+    "es": "pie",
+    "pron": "pié"
+  },
+  {
+    "pt": "jarda",
+    "es": "yarda",
+    "pron": "iárda"
+  },
+  {
+    "pt": "milha",
+    "es": "milla",
+    "pron": "míya"
+  },
+  {
+    "pt": "galão",
+    "es": "galón",
+    "pron": "galón"
+  },
+  {
+    "pt": "libra (peso)",
+    "es": "libra",
+    "pron": "líbra"
+  },
+  {
+    "pt": "onça",
+    "es": "onza",
+    "pron": "ónsa"
+  },
+  {
+    "pt": "maior",
+    "es": "más grande",
+    "pron": "más gránde"
+  },
+  {
+    "pt": "menor",
+    "es": "más pequeño",
+    "pron": "más pek éño"
+  },
+  {
+    "pt": "mais alto",
+    "es": "más alto",
+    "pron": "más álto"
+  },
+  {
+    "pt": "mais baixo",
+    "es": "más bajo",
+    "pron": "más bájo"
+  },
+  {
+    "pt": "mais longo",
+    "es": "más largo",
+    "pron": "más lárgo"
+  },
+  {
+    "pt": "mais curto",
+    "es": "más corto",
+    "pron": "más kórto"
+  },
+  {
+    "pt": "mais largo",
+    "es": "más ancho",
+    "pron": "más áncho"
+  },
+  {
+    "pt": "mais estreito",
+    "es": "más estrecho",
+    "pron": "más estrécho"
+  },
+  {
+    "pt": "mais grosso",
+    "es": "más grueso",
+    "pron": "más gruéso"
+  },
+  {
+    "pt": "mais fino",
+    "es": "más fino",
+    "pron": "más fíno"
+  },
+  {
+    "pt": "o maior",
+    "es": "el más grande",
+    "pron": "el más gránde"
+  },
+  {
+    "pt": "o menor",
+    "es": "el más pequeño",
+    "pron": "el más pek éño"
+  },
+  {
+    "pt": "o melhor",
+    "es": "el mejor",
+    "pron": "el mejór"
+  },
+  {
+    "pt": "o pior",
+    "es": "el peor",
+    "pron": "el peór"
+  },
+  {
+    "pt": "igual",
+    "es": "igual",
+    "pron": "iguál"
+  },
+  {
+    "pt": "diferente",
+    "es": "diferente",
+    "pron": "diferénte"
+  },
+  {
+    "pt": "o mesmo",
+    "es": "el mismo",
+    "pron": "el mísmo"
+  },
+  {
+    "pt": "parecido",
+    "es": "similar",
+    "pron": "similár"
+  },
+  {
+    "pt": "todos",
+    "es": "todos",
+    "pron": "tódos"
+  },
+  {
+    "pt": "alguns",
+    "es": "algunos",
+    "pron": "algúnos"
+  },
+  {
+    "pt": "muitos",
+    "es": "muchos",
+    "pron": "múchos"
+  },
+  {
+    "pt": "poucos",
+    "es": "pocos",
+    "pron": "pókos"
+  },
+  {
+    "pt": "nenhum",
+    "es": "ninguno",
+    "pron": "ningúno"
+  },
+  {
+    "pt": "vários",
+    "es": "varios",
+    "pron": "bários"
+  },
+  {
+    "pt": "cada",
+    "es": "cada",
+    "pron": "káda"
+  },
+  {
+    "pt": "todo",
+    "es": "todo",
+    "pron": "tódo"
+  },
+  {
+    "pt": "ambos",
+    "es": "ambos",
+    "pron": "ámbos"
+  },
+  {
+    "pt": "outro",
+    "es": "otro",
+    "pron": "ótro"
+  },
+  {
+    "pt": "mais",
+    "es": "más",
+    "pron": "más"
+  },
+  {
+    "pt": "menos",
+    "es": "menos",
+    "pron": "ménos"
+  },
+  {
+    "pt": "muito",
+    "es": "mucho",
+    "pron": "múcho"
+  },
+  {
+    "pt": "pouco",
+    "es": "poco",
+    "pron": "póko"
+  },
+  {
+    "pt": "bastante",
+    "es": "bastante",
+    "pron": "bastánte"
+  },
+  {
+    "pt": "demais",
+    "es": "demasiado",
+    "pron": "demasiádo"
+  },
+  {
+    "pt": "metade",
+    "es": "mitad",
+    "pron": "mitád"
+  },
+  {
+    "pt": "um quarto",
+    "es": "un cuarto",
+    "pron": "un kuárto"
+  },
+  {
+    "pt": "um terço",
+    "es": "un tercio",
+    "pron": "un térsio"
+  },
+  {
+    "pt": "dobro",
+    "es": "doble",
+    "pron": "dóble"
+  },
+  {
+    "pt": "triplo",
+    "es": "triple",
+    "pron": "tríple"
+  },
+  {
+    "pt": "por cento",
+    "es": "por ciento",
+    "pron": "por siénto"
+  },
+  {
+    "pt": "claro",
+    "es": "claro",
+    "pron": "kláro"
+  },
+  {
+    "pt": "escuro",
+    "es": "oscuro",
+    "pron": "oskúro"
+  },
+  {
+    "pt": "brilhante",
+    "es": "brillante",
+    "pron": "briyánte"
+  },
+  {
+    "pt": "opaco",
+    "es": "opaco",
+    "pron": "opáko"
+  },
+  {
+    "pt": "transparente",
+    "es": "transparente",
+    "pron": "transparénte"
+  },
+  {
+    "pt": "colorido",
+    "es": "colorido",
+    "pron": "kolorído"
+  },
+  {
+    "pt": "preto e branco",
+    "es": "blanco y negro",
+    "pron": "blánko i négro"
+  },
+  {
+    "pt": "bege",
+    "es": "beige",
+    "pron": "béish"
+  },
+  {
+    "pt": "vinho",
+    "es": "vino",
+    "pron": "bíno"
+  },
+  {
+    "pt": "dourado",
+    "es": "dorado",
+    "pron": "dorádo"
+  },
+  {
+    "pt": "prateado",
+    "es": "plateado",
+    "pron": "plateádo"
+  },
+  {
+    "pt": "turquesa",
+    "es": "turquesa",
+    "pron": "turkésa"
+  },
+  {
+    "pt": "violeta",
+    "es": "violeta",
+    "pron": "bioléta"
+  },
+  {
+    "pt": "lilás",
+    "es": "lila",
+    "pron": "líla"
+  },
+  {
+    "pt": "salmão",
+    "es": "salmón",
+    "pron": "salmón"
+  },
+  {
+    "pt": "creme",
+    "es": "crema",
+    "pron": "kréma"
+  },
+  {
+    "pt": "macio",
+    "es": "suave",
+    "pron": "suábe"
+  },
+  {
+    "pt": "duro",
+    "es": "duro",
+    "pron": "dúro"
+  },
+  {
+    "pt": "rugoso",
+    "es": "rugoso",
+    "pron": "rugóso"
+  },
+  {
+    "pt": "molhado",
+    "es": "mojado",
+    "pron": "mojádo"
+  },
+  {
+    "pt": "seco",
+    "es": "seco",
+    "pron": "séko"
+  },
+  {
+    "pt": "quente",
+    "es": "caliente",
+    "pron": "kaliénte"
+  },
+  {
+    "pt": "frio",
+    "es": "frío",
+    "pron": "frío"
+  },
+  {
+    "pt": "pegajoso",
+    "es": "pegajoso",
+    "pron": "pegajóso"
+  },
+  {
+    "pt": "escorregadio",
+    "es": "resbaladizo",
+    "pron": "resbaladíso"
+  },
+  {
+    "pt": "leve",
+    "es": "ligero",
+    "pron": "lijéro"
+  },
+  {
+    "pt": "pesado",
+    "es": "pesado",
+    "pron": "pesádo"
+  },
+  {
+    "pt": "fofo",
+    "es": "esponjoso",
+    "pron": "esponjóso"
+  },
+  {
+    "pt": "brilhante",
+    "es": "brillante",
+    "pron": "briyánte"
+  },
+  {
+    "pt": "qual o tamanho?",
+    "es": "¿qué talla?",
+    "pron": "ke táya"
+  },
+  {
+    "pt": "que tamanho você usa?",
+    "es": "¿qué talla usas?",
+    "pron": "ke táya úsas"
+  },
+  {
+    "pt": "tem em outro tamanho?",
+    "es": "¿lo tienes en otra talla?",
+    "pron": "lo tiénes en ótra táya"
+  },
+  {
+    "pt": "tem em tamanho maior?",
+    "es": "¿lo tienes en una talla más grande?",
+    "pron": "lo tiénes en úna táya más gránde"
+  },
+  {
+    "pt": "tem em tamanho menor?",
+    "es": "¿lo tienes en una talla más pequeña?",
+    "pron": "lo tiénes en úna táya más pek éña"
+  },
+  {
+    "pt": "é muito grande",
+    "es": "es muy grande",
+    "pron": "es mui gránde"
+  },
+  {
+    "pt": "é muito pequeno",
+    "es": "es muy pequeño",
+    "pron": "es mui pek éño"
+  },
+  {
+    "pt": "é muito largo",
+    "es": "es muy ancho",
+    "pron": "es mui áncho"
+  },
+  {
+    "pt": "é muito apertado",
+    "es": "es muy apretado",
+    "pron": "es mui apretádo"
+  },
+  {
+    "pt": "serve perfeitamente",
+    "es": "queda perfecto",
+    "pron": "kéda perfékto"
+  },
+  {
+    "pt": "não serve",
+    "es": "no queda bien",
+    "pron": "no kéda bién"
+  },
+  {
+    "pt": "quanto pesa?",
+    "es": "¿cuánto pesa?",
+    "pron": "kuánto pésa"
+  },
+  {
+    "pt": "quanto mede?",
+    "es": "¿cuánto mide?",
+    "pron": "kuánto míde"
+  },
+  {
+    "pt": "qual a altura?",
+    "es": "¿cuál es la altura?",
+    "pron": "kuál es la altúra"
+  },
+  {
+    "pt": "qual a largura?",
+    "es": "¿cuál es el ancho?",
+    "pron": "kuál es el áncho"
+  },
+  {
+    "pt": "qual o comprimento?",
+    "es": "¿cuál es el largo?",
+    "pron": "kuál es el lárgo"
+  },
+  {
+    "pt": "qual a profundidade?",
+    "es": "¿cuál es la profundidad?",
+    "pron": "kuál es la profundidád"
+  },
+  {
+    "pt": "que forma tem?",
+    "es": "¿qué forma tiene?",
+    "pron": "ke fórma tiéne"
+  },
+  {
+    "pt": "é redondo",
+    "es": "es redondo",
+    "pron": "es redóndo"
+  },
+  {
+    "pt": "é quadrado",
+    "es": "es cuadrado",
+    "pron": "es kuadrádo"
+  },
+  {
+    "pt": "é do tamanho de uma bola",
+    "es": "es del tamaño de una pelota",
+    "pron": "es del tamáño de úna pelóta"
+  },
+  {
+    "pt": "mais ou menos isso",
+    "es": "más o menos eso",
+    "pron": "más o ménos éso"
+  },
+  {
+    "pt": "um pouco maior",
+    "es": "un poco más grande",
+    "pron": "un póko más gránde"
+  },
+  {
+    "pt": "um pouco menor",
+    "es": "un poco más pequeño",
+    "pron": "un póko más pek éño"
+  },
+  {
+    "pt": "do mesmo tamanho",
+    "es": "del mismo tamaño",
+    "pron": "del mísmo tamáño"
+  }
+]

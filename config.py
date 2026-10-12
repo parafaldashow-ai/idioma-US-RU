@@ -16,6 +16,7 @@ IDIOMAS = {
         "bandeira_alt": "",
         "bandeira_img": "",
         "codigo_audio": "en",
+        "codigo_conteudo": "en",
     },
     "russo": {
         "nome": "Russo",
@@ -24,6 +25,15 @@ IDIOMAS = {
         "bandeira_alt": "",
         "bandeira_img": "",
         "codigo_audio": "ru",
+    },
+    "espanhol": {
+        "nome": "Espanhol",
+        "nome_nativo": "Español (Latino)",
+        "bandeira": "🌮",      # Taco
+        "bandeira_alt": "",
+        "bandeira_img": "",
+        "codigo_audio": "es",
+        "codigo_conteudo": "es",
     },
 }
 

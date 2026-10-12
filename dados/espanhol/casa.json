@@ -1,0 +1,557 @@
+[
+  {
+    "pt": "casa",
+    "es": "casa",
+    "pron": "kása"
+  },
+  {
+    "pt": "apartamento",
+    "es": "apartamento",
+    "pron": "apartaménto"
+  },
+  {
+    "pt": "quarto",
+    "es": "habitación",
+    "pron": "abitación"
+  },
+  {
+    "pt": "sala de estar",
+    "es": "sala de estar",
+    "pron": "sála de estár"
+  },
+  {
+    "pt": "sala de jantar",
+    "es": "comedor",
+    "pron": "komedór"
+  },
+  {
+    "pt": "cozinha",
+    "es": "cocina",
+    "pron": "kosína"
+  },
+  {
+    "pt": "banheiro",
+    "es": "baño",
+    "pron": "báño"
+  },
+  {
+    "pt": "garagem",
+    "es": "garaje",
+    "pron": "garáje"
+  },
+  {
+    "pt": "jardim",
+    "es": "jardín",
+    "pron": "jardín"
+  },
+  {
+    "pt": "quintal",
+    "es": "patio",
+    "pron": "pátio"
+  },
+  {
+    "pt": "varanda",
+    "es": "balcón",
+    "pron": "balkón"
+  },
+  {
+    "pt": "porão",
+    "es": "sótano",
+    "pron": "sótano"
+  },
+  {
+    "pt": "sótão",
+    "es": "ático",
+    "pron": "átiko"
+  },
+  {
+    "pt": "escritório",
+    "es": "oficina",
+    "pron": "ofisína"
+  },
+  {
+    "pt": "corredor",
+    "es": "pasillo",
+    "pron": "pasíyo"
+  },
+  {
+    "pt": "lavanderia",
+    "es": "lavandería",
+    "pron": "labandería"
+  },
+  {
+    "pt": "porta",
+    "es": "puerta",
+    "pron": "puérta"
+  },
+  {
+    "pt": "janela",
+    "es": "ventanilla",
+    "pron": "bentaníya"
+  },
+  {
+    "pt": "parede",
+    "es": "pared",
+    "pron": "paréd"
+  },
+  {
+    "pt": "chão",
+    "es": "suelo",
+    "pron": "suélo"
+  },
+  {
+    "pt": "teto",
+    "es": "techo",
+    "pron": "técho"
+  },
+  {
+    "pt": "telhado",
+    "es": "tejado",
+    "pron": "tejádo"
+  },
+  {
+    "pt": "escada",
+    "es": "escalera",
+    "pron": "eskaléra"
+  },
+  {
+    "pt": "elevador",
+    "es": "ascensor",
+    "pron": "asensór"
+  },
+  {
+    "pt": "campainha",
+    "es": "timbre",
+    "pron": "tímbre"
+  },
+  {
+    "pt": "fechadura",
+    "es": "cerradura",
+    "pron": "serradúra"
+  },
+  {
+    "pt": "maçaneta",
+    "es": "picaporte",
+    "pron": "pikapórte"
+  },
+  {
+    "pt": "tomada",
+    "es": "enchufe",
+    "pron": "enchúfe"
+  },
+  {
+    "pt": "interruptor",
+    "es": "interruptor",
+    "pron": "interruptór"
+  },
+  {
+    "pt": "cama",
+    "es": "cama",
+    "pron": "káma"
+  },
+  {
+    "pt": "mesa",
+    "es": "mesa",
+    "pron": "mésa"
+  },
+  {
+    "pt": "cadeira",
+    "es": "silla",
+    "pron": "síya"
+  },
+  {
+    "pt": "sofá",
+    "es": "sofá",
+    "pron": "sofá"
+  },
+  {
+    "pt": "poltrona",
+    "es": "asiento",
+    "pron": "asiénto"
+  },
+  {
+    "pt": "armário",
+    "es": "armario",
+    "pron": "armário"
+  },
+  {
+    "pt": "guarda-roupa",
+    "es": "ropero",
+    "pron": "ropéro"
+  },
+  {
+    "pt": "estante",
+    "es": "estante",
+    "pron": "estánte"
+  },
+  {
+    "pt": "gaveta",
+    "es": "cajón",
+    "pron": "kajón"
+  },
+  {
+    "pt": "escrivaninha",
+    "es": "escritorio",
+    "pron": "eskritório"
+  },
+  {
+    "pt": "banco",
+    "es": "banco",
+    "pron": "bánko"
+  },
+  {
+    "pt": "berço",
+    "es": "cuna",
+    "pron": "kúna"
+  },
+  {
+    "pt": "tapete",
+    "es": "alfombra",
+    "pron": "alfómbra"
+  },
+  {
+    "pt": "cortina",
+    "es": "cortina",
+    "pron": "kortína"
+  },
+  {
+    "pt": "quadro",
+    "es": "cuadro",
+    "pron": "kuádro"
+  },
+  {
+    "pt": "espelho",
+    "es": "espejo",
+    "pron": "espéjo"
+  },
+  {
+    "pt": "vaso",
+    "es": "florero",
+    "pron": "floréro"
+  },
+  {
+    "pt": "geladeira",
+    "es": "refrigerador",
+    "pron": "refrijeradór"
+  },
+  {
+    "pt": "freezer",
+    "es": "congelador",
+    "pron": "konjeladór"
+  },
+  {
+    "pt": "fogão",
+    "es": "estufa",
+    "pron": "estúfa"
+  },
+  {
+    "pt": "forno",
+    "es": "horno",
+    "pron": "órno"
+  },
+  {
+    "pt": "micro-ondas",
+    "es": "microondas",
+    "pron": "mikroóndas"
+  },
+  {
+    "pt": "máquina de lavar",
+    "es": "lavadora",
+    "pron": "labadóra"
+  },
+  {
+    "pt": "lava-louças",
+    "es": "lavavajillas",
+    "pron": "lababajíyas"
+  },
+  {
+    "pt": "aspirador",
+    "es": "aspiradora",
+    "pron": "aspiradóra"
+  },
+  {
+    "pt": "liquidificador",
+    "es": "licuadora",
+    "pron": "likuadóra"
+  },
+  {
+    "pt": "torradeira",
+    "es": "tostadora",
+    "pron": "tostadóra"
+  },
+  {
+    "pt": "cafeteira",
+    "es": "cafetera",
+    "pron": "kafetéra"
+  },
+  {
+    "pt": "pia",
+    "es": "lavabo",
+    "pron": "labábo"
+  },
+  {
+    "pt": "chuveiro",
+    "es": "ducha",
+    "pron": "dúcha"
+  },
+  {
+    "pt": "banheira",
+    "es": "bañera",
+    "pron": "bañéra"
+  },
+  {
+    "pt": "vaso sanitário",
+    "es": "inodoro",
+    "pron": "inodóro"
+  },
+  {
+    "pt": "toalha",
+    "es": "toalla",
+    "pron": "toáya"
+  },
+  {
+    "pt": "sabão",
+    "es": "jabón",
+    "pron": "jabón"
+  },
+  {
+    "pt": "shampoo",
+    "es": "champú",
+    "pron": "champú"
+  },
+  {
+    "pt": "condicionador",
+    "es": "acondicionador",
+    "pron": "akondisionadór"
+  },
+  {
+    "pt": "escova de dente",
+    "es": "cepillo de dientes",
+    "pron": "sepíyo de diéntes"
+  },
+  {
+    "pt": "pasta de dente",
+    "es": "pasta de dientes",
+    "pron": "pásta de diéntes"
+  },
+  {
+    "pt": "papel higiênico",
+    "es": "papel higiénico",
+    "pron": "papél ijiéniko"
+  },
+  {
+    "pt": "pente",
+    "es": "peine",
+    "pron": "péine"
+  },
+  {
+    "pt": "escova de cabelo",
+    "es": "cepillo de pelo",
+    "pron": "sepíyo de pélo"
+  },
+  {
+    "pt": "travesseiro",
+    "es": "almohada",
+    "pron": "almoháda"
+  },
+  {
+    "pt": "lençol",
+    "es": "sábana",
+    "pron": "sábana"
+  },
+  {
+    "pt": "cobertor",
+    "es": "cobija",
+    "pron": "kobíja"
+  },
+  {
+    "pt": "edredom",
+    "es": "edredón",
+    "pron": "edredón"
+  },
+  {
+    "pt": "colchão",
+    "es": "colchón",
+    "pron": "kolchón"
+  },
+  {
+    "pt": "abajur",
+    "es": "lámpara",
+    "pron": "lámpara"
+  },
+  {
+    "pt": "despertador",
+    "es": "despertador",
+    "pron": "despertadór"
+  },
+  {
+    "pt": "lâmpada",
+    "es": "bombilla",
+    "pron": "bombíya"
+  },
+  {
+    "pt": "luz",
+    "es": "luz",
+    "pron": "lus"
+  },
+  {
+    "pt": "ventilador",
+    "es": "ventilador",
+    "pron": "bentiladór"
+  },
+  {
+    "pt": "ar-condicionado",
+    "es": "aire acondicionado",
+    "pron": "áire akondisionádo"
+  },
+  {
+    "pt": "televisão",
+    "es": "televisión",
+    "pron": "telebisión"
+  },
+  {
+    "pt": "relógio",
+    "es": "reloj",
+    "pron": "relój"
+  },
+  {
+    "pt": "chave",
+    "es": "llave",
+    "pron": "yábe"
+  },
+  {
+    "pt": "livro",
+    "es": "libro",
+    "pron": "líbro"
+  },
+  {
+    "pt": "caneta",
+    "es": "bolígrafo",
+    "pron": "bolígrafo"
+  },
+  {
+    "pt": "lápis",
+    "es": "lápiz",
+    "pron": "lápis"
+  },
+  {
+    "pt": "papel",
+    "es": "papel",
+    "pron": "papél"
+  },
+  {
+    "pt": "celular",
+    "es": "celular",
+    "pron": "selulár"
+  },
+  {
+    "pt": "computador",
+    "es": "computadora",
+    "pron": "komputadóra"
+  },
+  {
+    "pt": "lixo",
+    "es": "basura",
+    "pron": "basúra"
+  },
+  {
+    "pt": "lixeira",
+    "es": "basurero",
+    "pron": "basuréro"
+  },
+  {
+    "pt": "vassoura",
+    "es": "escoba",
+    "pron": "eskóba"
+  },
+  {
+    "pt": "rodo",
+    "es": "trapeador",
+    "pron": "trapeadór"
+  },
+  {
+    "pt": "balde",
+    "es": "cubo",
+    "pron": "kúbo"
+  },
+  {
+    "pt": "escada de mão",
+    "es": "escalera de mano",
+    "pron": "eskaléra de máno"
+  },
+  {
+    "pt": "ferramenta",
+    "es": "herramienta",
+    "pron": "erramiénta"
+  },
+  {
+    "pt": "martelo",
+    "es": "martillo",
+    "pron": "martíyo"
+  },
+  {
+    "pt": "chave de fenda",
+    "es": "destornillador",
+    "pron": "destorniyadór"
+  },
+  {
+    "pt": "parafuso",
+    "es": "tornillo",
+    "pron": "torníyo"
+  },
+  {
+    "pt": "prego",
+    "es": "clavo",
+    "pron": "klábo"
+  },
+  {
+    "pt": "estou em casa",
+    "es": "estoy en casa",
+    "pron": "estói en kása"
+  },
+  {
+    "pt": "vou pra casa",
+    "es": "voy a casa",
+    "pron": "bói a kása"
+  },
+  {
+    "pt": "abra a porta",
+    "es": "abre la puerta",
+    "pron": "ábre la puérta"
+  },
+  {
+    "pt": "feche a janela",
+    "es": "cierra la ventana",
+    "pron": "siérra la bentána"
+  },
+  {
+    "pt": "apague a luz",
+    "es": "apaga la luz",
+    "pron": "apága la lus"
+  },
+  {
+    "pt": "acenda a luz",
+    "es": "enciende la luz",
+    "pron": "ensiénde la lus"
+  },
+  {
+    "pt": "onde é o banheiro?",
+    "es": "¿dónde está el baño?",
+    "pron": "dónde está el báño"
+  },
+  {
+    "pt": "estou limpando",
+    "es": "estoy limpiando",
+    "pron": "estói limpiándo"
+  },
+  {
+    "pt": "estou cozinhando",
+    "es": "estoy cocinando",
+    "pron": "estói kosinándo"
+  },
+  {
+    "pt": "estou dormindo",
+    "es": "estoy durmiendo",
+    "pron": "estói durmiéndo"
+  }
+]

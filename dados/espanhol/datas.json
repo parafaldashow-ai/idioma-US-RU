@@ -1,0 +1,612 @@
+[
+  {
+    "pt": "segunda-feira",
+    "es": "lunes",
+    "pron": "lúnes"
+  },
+  {
+    "pt": "terça-feira",
+    "es": "martes",
+    "pron": "mártes"
+  },
+  {
+    "pt": "quarta-feira",
+    "es": "miércoles",
+    "pron": "miérkoles"
+  },
+  {
+    "pt": "quinta-feira",
+    "es": "jueves",
+    "pron": "juébes"
+  },
+  {
+    "pt": "sexta-feira",
+    "es": "viernes",
+    "pron": "biérnes"
+  },
+  {
+    "pt": "sábado",
+    "es": "sábado",
+    "pron": "sábado"
+  },
+  {
+    "pt": "domingo",
+    "es": "domingo",
+    "pron": "domíngo"
+  },
+  {
+    "pt": "fim de semana",
+    "es": "fin de semana",
+    "pron": "fin de semána"
+  },
+  {
+    "pt": "dia útil",
+    "es": "día hábil",
+    "pron": "día ábil"
+  },
+  {
+    "pt": "feriado",
+    "es": "feriado",
+    "pron": "feriádo"
+  },
+  {
+    "pt": "janeiro",
+    "es": "enero",
+    "pron": "enéro"
+  },
+  {
+    "pt": "fevereiro",
+    "es": "febrero",
+    "pron": "febréro"
+  },
+  {
+    "pt": "março",
+    "es": "marzo",
+    "pron": "márso"
+  },
+  {
+    "pt": "abril",
+    "es": "abril",
+    "pron": "abr íl"
+  },
+  {
+    "pt": "maio",
+    "es": "mayo",
+    "pron": "májo"
+  },
+  {
+    "pt": "junho",
+    "es": "junio",
+    "pron": "júnio"
+  },
+  {
+    "pt": "julho",
+    "es": "julio",
+    "pron": "júlio"
+  },
+  {
+    "pt": "agosto",
+    "es": "agosto",
+    "pron": "agósto"
+  },
+  {
+    "pt": "setembro",
+    "es": "septiembre",
+    "pron": "sept iémbre"
+  },
+  {
+    "pt": "outubro",
+    "es": "octubre",
+    "pron": "oktúbre"
+  },
+  {
+    "pt": "novembro",
+    "es": "noviembre",
+    "pron": "nobiémbre"
+  },
+  {
+    "pt": "dezembro",
+    "es": "diciembre",
+    "pron": "disiémbre"
+  },
+  {
+    "pt": "primavera",
+    "es": "primavera",
+    "pron": "primabéra"
+  },
+  {
+    "pt": "verão",
+    "es": "verano",
+    "pron": "beráno"
+  },
+  {
+    "pt": "outono",
+    "es": "otoño",
+    "pron": "otóño"
+  },
+  {
+    "pt": "inverno",
+    "es": "invierno",
+    "pron": "inbiérno"
+  },
+  {
+    "pt": "hoje",
+    "es": "hoy",
+    "pron": "ói"
+  },
+  {
+    "pt": "amanhã",
+    "es": "mañana",
+    "pron": "mañána"
+  },
+  {
+    "pt": "ontem",
+    "es": "ayer",
+    "pron": "ayér"
+  },
+  {
+    "pt": "anteontem",
+    "es": "anteayer",
+    "pron": "anteayér"
+  },
+  {
+    "pt": "depois de amanhã",
+    "es": "pasado mañana",
+    "pron": "pasádo mañána"
+  },
+  {
+    "pt": "agora",
+    "es": "ahora",
+    "pron": "áora"
+  },
+  {
+    "pt": "depois",
+    "es": "después",
+    "pron": "despu és"
+  },
+  {
+    "pt": "mais tarde",
+    "es": "más tarde",
+    "pron": "más tárde"
+  },
+  {
+    "pt": "cedo",
+    "es": "temprano",
+    "pron": "tempráno"
+  },
+  {
+    "pt": "tarde",
+    "es": "tarde",
+    "pron": "tárde"
+  },
+  {
+    "pt": "manhã",
+    "es": "mañana",
+    "pron": "mañána"
+  },
+  {
+    "pt": "tarde (período)",
+    "es": "tarde",
+    "pron": "tárde"
+  },
+  {
+    "pt": "noite",
+    "es": "noche",
+    "pron": "nóche"
+  },
+  {
+    "pt": "madrugada",
+    "es": "madrugada",
+    "pron": "madrugáda"
+  },
+  {
+    "pt": "meio-dia",
+    "es": "mediodía",
+    "pron": "mediodía"
+  },
+  {
+    "pt": "meia-noite",
+    "es": "medianoche",
+    "pron": "medianóche"
+  },
+  {
+    "pt": "esta noite",
+    "es": "esta noche",
+    "pron": "ésta nóche"
+  },
+  {
+    "pt": "esta manhã",
+    "es": "esta mañana",
+    "pron": "ésta mañána"
+  },
+  {
+    "pt": "esta tarde",
+    "es": "esta tarde",
+    "pron": "ésta tárde"
+  },
+  {
+    "pt": "dia",
+    "es": "día",
+    "pron": "día"
+  },
+  {
+    "pt": "semana",
+    "es": "semana",
+    "pron": "semána"
+  },
+  {
+    "pt": "quinzena",
+    "es": "quincena",
+    "pron": "kinséna"
+  },
+  {
+    "pt": "mês",
+    "es": "mes",
+    "pron": "mes"
+  },
+  {
+    "pt": "bimestre",
+    "es": "bimestre",
+    "pron": "biméstre"
+  },
+  {
+    "pt": "trimestre",
+    "es": "trimestre",
+    "pron": "triméstre"
+  },
+  {
+    "pt": "semestre",
+    "es": "semestre",
+    "pron": "seméstre"
+  },
+  {
+    "pt": "ano",
+    "es": "año",
+    "pron": "áño"
+  },
+  {
+    "pt": "década",
+    "es": "década",
+    "pron": "dékada"
+  },
+  {
+    "pt": "século",
+    "es": "siglo",
+    "pron": "síglo"
+  },
+  {
+    "pt": "milênio",
+    "es": "milenio",
+    "pron": "milénio"
+  },
+  {
+    "pt": "hora",
+    "es": "hora",
+    "pron": "óra"
+  },
+  {
+    "pt": "minuto",
+    "es": "minuto",
+    "pron": "minúto"
+  },
+  {
+    "pt": "segundo",
+    "es": "segundo",
+    "pron": "segúndo"
+  },
+  {
+    "pt": "instante",
+    "es": "instante",
+    "pron": "instánte"
+  },
+  {
+    "pt": "momento",
+    "es": "momento",
+    "pron": "moménto"
+  },
+  {
+    "pt": "passado",
+    "es": "pasado",
+    "pron": "pasádo"
+  },
+  {
+    "pt": "presente",
+    "es": "regalo",
+    "pron": "regálo"
+  },
+  {
+    "pt": "futuro",
+    "es": "futuro",
+    "pron": "futúro"
+  },
+  {
+    "pt": "calendário",
+    "es": "calendario",
+    "pron": "kalendário"
+  },
+  {
+    "pt": "data",
+    "es": "fecha",
+    "pron": "fécha"
+  },
+  {
+    "pt": "aniversário",
+    "es": "cumpleaños",
+    "pron": "kumpleáños"
+  },
+  {
+    "pt": "ano novo",
+    "es": "año nuevo",
+    "pron": "áño nuébo"
+  },
+  {
+    "pt": "natal",
+    "es": "navidad",
+    "pron": "nabidád"
+  },
+  {
+    "pt": "páscoa",
+    "es": "pascua",
+    "pron": "páskua"
+  },
+  {
+    "pt": "carnaval",
+    "es": "carnaval",
+    "pron": "karnabál"
+  },
+  {
+    "pt": "dia das mães",
+    "es": "día de la madre",
+    "pron": "día de la mádre"
+  },
+  {
+    "pt": "dia dos pais",
+    "es": "día del padre",
+    "pron": "día del pádre"
+  },
+  {
+    "pt": "dia dos namorados",
+    "es": "día de los enamorados",
+    "pron": "día de los enamorádos"
+  },
+  {
+    "pt": "halloween",
+    "es": "halloween",
+    "pron": "jalouín"
+  },
+  {
+    "pt": "ação de graças",
+    "es": "día de acción de gracias",
+    "pron": "día de aksión de grásias"
+  },
+  {
+    "pt": "feriado nacional",
+    "es": "feriado nacional",
+    "pron": "feriádo nasionál"
+  },
+  {
+    "pt": "feriado religioso",
+    "es": "feriado religioso",
+    "pron": "feriádo relijióso"
+  },
+  {
+    "pt": "primeiro",
+    "es": "primero",
+    "pron": "priméro"
+  },
+  {
+    "pt": "terceiro",
+    "es": "tercero",
+    "pron": "terséro"
+  },
+  {
+    "pt": "quarto",
+    "es": "habitación",
+    "pron": "abitación"
+  },
+  {
+    "pt": "quinto",
+    "es": "quinto",
+    "pron": "kínto"
+  },
+  {
+    "pt": "sexto",
+    "es": "sexto",
+    "pron": "séksto"
+  },
+  {
+    "pt": "sétimo",
+    "es": "séptimo",
+    "pron": "séptimo"
+  },
+  {
+    "pt": "oitavo",
+    "es": "octavo",
+    "pron": "oktábo"
+  },
+  {
+    "pt": "nono",
+    "es": "noveno",
+    "pron": "nobéno"
+  },
+  {
+    "pt": "décimo",
+    "es": "décimo",
+    "pron": "désimo"
+  },
+  {
+    "pt": "sempre",
+    "es": "siempre",
+    "pron": "siémpre"
+  },
+  {
+    "pt": "nunca",
+    "es": "nunca",
+    "pron": "núnka"
+  },
+  {
+    "pt": "às vezes",
+    "es": "a veces",
+    "pron": "a béses"
+  },
+  {
+    "pt": "frequentemente",
+    "es": "frecuentemente",
+    "pron": "frekuenteménte"
+  },
+  {
+    "pt": "raramente",
+    "es": "raramente",
+    "pron": "raraménte"
+  },
+  {
+    "pt": "todos os dias",
+    "es": "todos los días",
+    "pron": "tódos los días"
+  },
+  {
+    "pt": "toda semana",
+    "es": "cada semana",
+    "pron": "káda semána"
+  },
+  {
+    "pt": "todo mês",
+    "es": "cada mes",
+    "pron": "káda mes"
+  },
+  {
+    "pt": "todo ano",
+    "es": "cada año",
+    "pron": "káda áño"
+  },
+  {
+    "pt": "de vez em quando",
+    "es": "de vez en cuando",
+    "pron": "de bes en kuándo"
+  },
+  {
+    "pt": "diariamente",
+    "es": "diariamente",
+    "pron": "diariaménte"
+  },
+  {
+    "pt": "semanalmente",
+    "es": "semanalmente",
+    "pron": "senanalménte"
+  },
+  {
+    "pt": "mensalmente",
+    "es": "mensualmente",
+    "pron": "mensualménte"
+  },
+  {
+    "pt": "anualmente",
+    "es": "anualmente",
+    "pron": "anualménte"
+  },
+  {
+    "pt": "de novo",
+    "es": "de nuevo",
+    "pron": "de nuébo"
+  },
+  {
+    "pt": "que dia é hoje?",
+    "es": "¿qué día es hoy?",
+    "pron": "ke día es ói"
+  },
+  {
+    "pt": "hoje é segunda",
+    "es": "hoy es lunes",
+    "pron": "ói es lúnes"
+  },
+  {
+    "pt": "que horas são?",
+    "es": "¿qué hora es?",
+    "pron": "ke óra es"
+  },
+  {
+    "pt": "que dia é amanhã?",
+    "es": "¿qué día es mañana?",
+    "pron": "ke día es mañána"
+  },
+  {
+    "pt": "nos vemos amanhã",
+    "es": "nos vemos mañana",
+    "pron": "nos bémos mañána"
+  },
+  {
+    "pt": "nos vemos na segunda",
+    "es": "nos vemos el lunes",
+    "pron": "nos bémos el lúnes"
+  },
+  {
+    "pt": "que semana longa!",
+    "es": "¡qué semana tan larga!",
+    "pron": "ke semána tan lárga"
+  },
+  {
+    "pt": "boa semana!",
+    "es": "¡buena semana!",
+    "pron": "buéna semána"
+  },
+  {
+    "pt": "bom fim de semana!",
+    "es": "¡buen fin de semana!",
+    "pron": "buén fin de semána"
+  },
+  {
+    "pt": "até amanhã",
+    "es": "hasta mañana",
+    "pron": "ásta mañána"
+  },
+  {
+    "pt": "que horas você pode?",
+    "es": "¿a qué hora puedes?",
+    "pron": "a ke óra puédes"
+  },
+  {
+    "pt": "estou atrasado",
+    "es": "estoy retrasado",
+    "pron": "estói retrasádo"
+  },
+  {
+    "pt": "cheguei cedo",
+    "es": "llegué temprano",
+    "pron": "llegé tempráno"
+  },
+  {
+    "pt": "que horas começa?",
+    "es": "¿a qué hora empieza?",
+    "pron": "a ke óra empiésa"
+  },
+  {
+    "pt": "quanto tempo dura?",
+    "es": "¿cuánto tiempo dura?",
+    "pron": "kuánto tiémpo dúra"
+  },
+  {
+    "pt": "daqui a pouco",
+    "es": "en un rato",
+    "pron": "en un ráto"
+  },
+  {
+    "pt": "mais cedo",
+    "es": "más temprano",
+    "pron": "más tempráno"
+  },
+  {
+    "pt": "mais tarde",
+    "es": "más tarde",
+    "pron": "más tárde"
+  },
+  {
+    "pt": "nos próximos dias",
+    "es": "en los próximos días",
+    "pron": "en los próximos días"
+  },
+  {
+    "pt": "que dia cai o feriado?",
+    "es": "¿qué día cae el feriado?",
+    "pron": "ke día káe el feriádo"
+  }
+]

@@ -8,7 +8,8 @@ def buscar_palavra(idioma, termo):
     termo = termo.lower().strip()
     if not termo:
         return []
-    codigo_idioma = "en" if idioma == "ingles" else "ru"
+    from config import IDIOMAS
+    codigo_idioma = IDIOMAS[idioma]["codigo_conteudo"]
     resultados = []
     for mod in listar_modulos_flat(idioma):
         itens = carregar_modulo(idioma, mod["id"])
@@ -27,7 +28,8 @@ def buscar_palavra(idioma, termo):
 
 def listar_palavras_por_letra(idioma, letra, campo="pt"):
     letra = letra.upper()
-    codigo_idioma = "en" if idioma == "ingles" else "ru"
+    from config import IDIOMAS
+    codigo_idioma = IDIOMAS[idioma]["codigo_conteudo"]
     if campo == "estrangeiro":
         campo = codigo_idioma
     resultados = []
@@ -47,7 +49,8 @@ def listar_palavras_por_letra(idioma, letra, campo="pt"):
 
 
 def contar_por_letra(idioma, campo="pt"):
-    codigo_idioma = "en" if idioma == "ingles" else "ru"
+    from config import IDIOMAS
+    codigo_idioma = IDIOMAS[idioma]["codigo_conteudo"]
     if campo == "estrangeiro":
         campo = codigo_idioma
     todas_letras = []

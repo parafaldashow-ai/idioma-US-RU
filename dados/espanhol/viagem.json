@@ -1,0 +1,782 @@
+[
+  {
+    "pt": "viagem",
+    "es": "viaje",
+    "pron": "biáje"
+  },
+  {
+    "pt": "viagem (jornada)",
+    "es": "viaje",
+    "pron": "biáje"
+  },
+  {
+    "pt": "férias",
+    "es": "vacaciones",
+    "pron": "bakasiónes"
+  },
+  {
+    "pt": "feriado",
+    "es": "feriado",
+    "pron": "feriádo"
+  },
+  {
+    "pt": "passaporte",
+    "es": "pasaporte",
+    "pron": "pasapórte"
+  },
+  {
+    "pt": "visto",
+    "es": "visa",
+    "pron": "bísa"
+  },
+  {
+    "pt": "documento",
+    "es": "documento",
+    "pron": "dokuménto"
+  },
+  {
+    "pt": "identidade",
+    "es": "identidad",
+    "pron": "identidád"
+  },
+  {
+    "pt": "passagem",
+    "es": "billete",
+    "pron": "biyéte"
+  },
+  {
+    "pt": "reserva",
+    "es": "reserva",
+    "pron": "resérba"
+  },
+  {
+    "pt": "seguro viagem",
+    "es": "seguro de viaje",
+    "pron": "segúro de biáje"
+  },
+  {
+    "pt": "roteiro",
+    "es": "itinerario",
+    "pron": "itinerário"
+  },
+  {
+    "pt": "mala",
+    "es": "maleta",
+    "pron": "maléta"
+  },
+  {
+    "pt": "mochila",
+    "es": "mochila",
+    "pron": "mochíla"
+  },
+  {
+    "pt": "bagagem de mão",
+    "es": "equipaje de mano",
+    "pron": "ekipáje de máno"
+  },
+  {
+    "pt": "guia",
+    "es": "guía",
+    "pron": "guía"
+  },
+  {
+    "pt": "mapa",
+    "es": "mapa",
+    "pron": "mápa"
+  },
+  {
+    "pt": "guia turístico",
+    "es": "guía turístico",
+    "pron": "guía turístiko"
+  },
+  {
+    "pt": "turista",
+    "es": "turista",
+    "pron": "turísta"
+  },
+  {
+    "pt": "viajante",
+    "es": "viajero",
+    "pron": "biajéro"
+  },
+  {
+    "pt": "aeroporto",
+    "es": "aeropuerto",
+    "pron": "aeropuérto"
+  },
+  {
+    "pt": "voo",
+    "es": "vuelo",
+    "pron": "buélo"
+  },
+  {
+    "pt": "voo direto",
+    "es": "vuelo directo",
+    "pron": "buélo direktо"
+  },
+  {
+    "pt": "voo com conexão",
+    "es": "vuelo con escala",
+    "pron": "buélo kon esk ála"
+  },
+  {
+    "pt": "escala",
+    "es": "escala",
+    "pron": "eskála"
+  },
+  {
+    "pt": "check-in",
+    "es": "check-in",
+    "pron": "chékin"
+  },
+  {
+    "pt": "embarque",
+    "es": "embarque",
+    "pron": "embárke"
+  },
+  {
+    "pt": "cartão de embarque",
+    "es": "tarjeta de embarque",
+    "pron": "tarjéta de embárke"
+  },
+  {
+    "pt": "portão",
+    "es": "puerta",
+    "pron": "puérta"
+  },
+  {
+    "pt": "poltrona",
+    "es": "asiento",
+    "pron": "asiénto"
+  },
+  {
+    "pt": "corredor",
+    "es": "pasillo",
+    "pron": "pasíyo"
+  },
+  {
+    "pt": "janela",
+    "es": "ventanilla",
+    "pron": "bentaníya"
+  },
+  {
+    "pt": "bagagem",
+    "es": "equipaje",
+    "pron": "ekipáje"
+  },
+  {
+    "pt": "esteira",
+    "es": "cinta transportadora",
+    "pron": "sínta transportadóra"
+  },
+  {
+    "pt": "alfândega",
+    "es": "aduana",
+    "pron": "aduána"
+  },
+  {
+    "pt": "imigração",
+    "es": "inmigración",
+    "pron": "inmigrasión"
+  },
+  {
+    "pt": "passaporte",
+    "es": "pasaporte",
+    "pron": "pasapórte"
+  },
+  {
+    "pt": "raio-x",
+    "es": "rayos X",
+    "pron": "ráyos ékis"
+  },
+  {
+    "pt": "detector de metal",
+    "es": "detector de metales",
+    "pron": "detektór de metáles"
+  },
+  {
+    "pt": "atraso",
+    "es": "retraso",
+    "pron": "retráso"
+  },
+  {
+    "pt": "cancelado",
+    "es": "cancelado",
+    "pron": "kanseládo"
+  },
+  {
+    "pt": "turbulência",
+    "es": "turbulencia",
+    "pron": "turbulénsia"
+  },
+  {
+    "pt": "piloto",
+    "es": "piloto",
+    "pron": "pilóto"
+  },
+  {
+    "pt": "comissário",
+    "es": "azafata",
+    "pron": "asafáta"
+  },
+  {
+    "pt": "primeira classe",
+    "es": "primera clase",
+    "pron": "priméra kláse"
+  },
+  {
+    "pt": "classe executiva",
+    "es": "clase ejecutiva",
+    "pron": "kláse ejekutíba"
+  },
+  {
+    "pt": "classe econômica",
+    "es": "clase económica",
+    "pron": "kláse ekonómika"
+  },
+  {
+    "pt": "hotel",
+    "es": "hotel",
+    "pron": "otél"
+  },
+  {
+    "pt": "pousada",
+    "es": "posada",
+    "pron": "posáda"
+  },
+  {
+    "pt": "hostel",
+    "es": "hostal",
+    "pron": "ostál"
+  },
+  {
+    "pt": "resort",
+    "es": "resort",
+    "pron": "resórt"
+  },
+  {
+    "pt": "quarto",
+    "es": "habitación",
+    "pron": "abitación"
+  },
+  {
+    "pt": "quarto individual",
+    "es": "habitación individual",
+    "pron": "abitación indibid uál"
+  },
+  {
+    "pt": "quarto duplo",
+    "es": "habitación doble",
+    "pron": "abitación dóble"
+  },
+  {
+    "pt": "quarto de casal",
+    "es": "habitación matrimonial",
+    "pron": "abitación matrimoniál"
+  },
+  {
+    "pt": "suíte",
+    "es": "suite",
+    "pron": "su íte"
+  },
+  {
+    "pt": "recepcionista",
+    "es": "recepcionista",
+    "pron": "resepsionísta"
+  },
+  {
+    "pt": "chave",
+    "es": "llave",
+    "pron": "yábe"
+  },
+  {
+    "pt": "cartão-chave",
+    "es": "tarjeta-llave",
+    "pron": "tarjéta yábe"
+  },
+  {
+    "pt": "elevador",
+    "es": "ascensor",
+    "pron": "asensór"
+  },
+  {
+    "pt": "café da manhã",
+    "es": "desayuno",
+    "pron": "desajúno"
+  },
+  {
+    "pt": "meia-pensão",
+    "es": "media pensión",
+    "pron": "média pensión"
+  },
+  {
+    "pt": "pensão completa",
+    "es": "pensión completa",
+    "pron": "pensión kompléta"
+  },
+  {
+    "pt": "check-out",
+    "es": "check-out",
+    "pron": "chék áut"
+  },
+  {
+    "pt": "conta",
+    "es": "cuenta",
+    "pron": "kuénta"
+  },
+  {
+    "pt": "toalha",
+    "es": "toalla",
+    "pron": "toáya"
+  },
+  {
+    "pt": "sabonete",
+    "es": "jabón",
+    "pron": "jabón"
+  },
+  {
+    "pt": "ar-condicionado",
+    "es": "aire acondicionado",
+    "pron": "áire akondisionádo"
+  },
+  {
+    "pt": "wi-fi",
+    "es": "wi-fi",
+    "pron": "uáifai"
+  },
+  {
+    "pt": "táxi",
+    "es": "taxi",
+    "pron": "táksi"
+  },
+  {
+    "pt": "ônibus",
+    "es": "autobús",
+    "pron": "autobús"
+  },
+  {
+    "pt": "metrô",
+    "es": "metro",
+    "pron": "métro"
+  },
+  {
+    "pt": "trem",
+    "es": "tren",
+    "pron": "tren"
+  },
+  {
+    "pt": "aluguel de carro",
+    "es": "alquiler de coche",
+    "pron": "alkilér de kóche"
+  },
+  {
+    "pt": "aplicativo",
+    "es": "aplicación",
+    "pron": "aplikasión"
+  },
+  {
+    "pt": "motorista",
+    "es": "conductor",
+    "pron": "kondúktor"
+  },
+  {
+    "pt": "passageiro",
+    "es": "pasajero",
+    "pron": "pasajéro"
+  },
+  {
+    "pt": "bilhete",
+    "es": "billete",
+    "pron": "biyéte"
+  },
+  {
+    "pt": "ponto de ônibus",
+    "es": "parada de autobús",
+    "pron": "paráda de autobús"
+  },
+  {
+    "pt": "estação",
+    "es": "estación",
+    "pron": "estasión"
+  },
+  {
+    "pt": "aluguel de bike",
+    "es": "alquiler de bici",
+    "pron": "alkilér de bísi"
+  },
+  {
+    "pt": "caminhada",
+    "es": "caminata",
+    "pron": "kamináta"
+  },
+  {
+    "pt": "trânsito",
+    "es": "tráfico",
+    "pron": "tráfiko"
+  },
+  {
+    "pt": "atração",
+    "es": "atracción",
+    "pron": "atrasión"
+  },
+  {
+    "pt": "ponto turístico",
+    "es": "punto turístico",
+    "pron": "púnto turístiko"
+  },
+  {
+    "pt": "museu",
+    "es": "museo",
+    "pron": "muséo"
+  },
+  {
+    "pt": "monumento",
+    "es": "monumento",
+    "pron": "monuménto"
+  },
+  {
+    "pt": "igreja",
+    "es": "iglesia",
+    "pron": "iglé sia"
+  },
+  {
+    "pt": "castelo",
+    "es": "castillo",
+    "pron": "kastíyo"
+  },
+  {
+    "pt": "praça",
+    "es": "plaza",
+    "pron": "plása"
+  },
+  {
+    "pt": "parque",
+    "es": "parque",
+    "pron": "párke"
+  },
+  {
+    "pt": "praia",
+    "es": "playa",
+    "pron": "plája"
+  },
+  {
+    "pt": "montanha",
+    "es": "montaña",
+    "pron": "montáña"
+  },
+  {
+    "pt": "cidade histórica",
+    "es": "ciudad histórica",
+    "pron": "siudád istórika"
+  },
+  {
+    "pt": "tour guiado",
+    "es": "tour guiado",
+    "pron": "tur giádo"
+  },
+  {
+    "pt": "ingresso",
+    "es": "entrada",
+    "pron": "entráda"
+  },
+  {
+    "pt": "lembrança",
+    "es": "recuerdo",
+    "pron": "reku érdo"
+  },
+  {
+    "pt": "foto",
+    "es": "foto",
+    "pron": "fóto"
+  },
+  {
+    "pt": "selfie",
+    "es": "selfi",
+    "pron": "sélfi"
+  },
+  {
+    "pt": "museu de arte",
+    "es": "museo de arte",
+    "pron": "muséo de árte"
+  },
+  {
+    "pt": "vista",
+    "es": "vista",
+    "pron": "bísta"
+  },
+  {
+    "pt": "mirante",
+    "es": "mirador",
+    "pron": "miradór"
+  },
+  {
+    "pt": "horário de funcionamento",
+    "es": "horario de apertura",
+    "pron": "orário de apertúra"
+  },
+  {
+    "pt": "restaurante",
+    "es": "restaurante",
+    "pron": "restauránte"
+  },
+  {
+    "pt": "cardápio",
+    "es": "menú",
+    "pron": "menú"
+  },
+  {
+    "pt": "gorjeta",
+    "es": "propina",
+    "pron": "propína"
+  },
+  {
+    "pt": "prato típico",
+    "es": "plato típico",
+    "pron": "pláto típiko"
+  },
+  {
+    "pt": "comida local",
+    "es": "comida local",
+    "pron": "komída lokál"
+  },
+  {
+    "pt": "recomendação",
+    "es": "recomendación",
+    "pron": "rekomendasión"
+  },
+  {
+    "pt": "para viagem",
+    "es": "para llevar",
+    "pron": "pára yebár"
+  },
+  {
+    "pt": "sem gelo",
+    "es": "sin hielo",
+    "pron": "sin iélo"
+  },
+  {
+    "pt": "vegetariano",
+    "es": "vegetariano",
+    "pron": "bejetariáno"
+  },
+  {
+    "pt": "alérgico a",
+    "es": "alérgico a",
+    "pron": "alérjiko a"
+  },
+  {
+    "pt": "dinheiro",
+    "es": "dinero",
+    "pron": "dinéro"
+  },
+  {
+    "pt": "câmbio",
+    "es": "cambio",
+    "pron": "kámbio"
+  },
+  {
+    "pt": "casa de câmbio",
+    "es": "casa de cambio",
+    "pron": "kása de kámbio"
+  },
+  {
+    "pt": "caixa eletrônico",
+    "es": "cajero automático",
+    "pron": "kajéro automatiko"
+  },
+  {
+    "pt": "cartão de crédito",
+    "es": "tarjeta de crédito",
+    "pron": "tarjéta de krédito"
+  },
+  {
+    "pt": "dinheiro em espécie",
+    "es": "efectivo",
+    "pron": "efektíbo"
+  },
+  {
+    "pt": "recibo",
+    "es": "recibo",
+    "pron": "res íbo"
+  },
+  {
+    "pt": "imposto",
+    "es": "impuesto",
+    "pron": "impuést o"
+  },
+  {
+    "pt": "tax free",
+    "es": "libre de impuestos",
+    "pron": "líbre de impuéstos"
+  },
+  {
+    "pt": "farmácia",
+    "es": "farmacia",
+    "pron": "farmásia"
+  },
+  {
+    "pt": "hospital",
+    "es": "hospital",
+    "pron": "ospitál"
+  },
+  {
+    "pt": "médico",
+    "es": "médico",
+    "pron": "médiko"
+  },
+  {
+    "pt": "remédio",
+    "es": "medicina",
+    "pron": "medisína"
+  },
+  {
+    "pt": "receita médica",
+    "es": "receta médica",
+    "pron": "reséta médika"
+  },
+  {
+    "pt": "dor de cabeça",
+    "es": "dolor de cabeza",
+    "pron": "dolór de kabésa"
+  },
+  {
+    "pt": "dor de barriga",
+    "es": "dolor de estómago",
+    "pron": "dolór de estómago"
+  },
+  {
+    "pt": "enjoo",
+    "es": "mareo",
+    "pron": "maréo"
+  },
+  {
+    "pt": "emergência",
+    "es": "emergencia",
+    "pron": "emerjénsia"
+  },
+  {
+    "pt": "ambulância",
+    "es": "ambulancia",
+    "pron": "ambulánsia"
+  },
+  {
+    "pt": "onde fica o banheiro?",
+    "es": "¿dónde está el baño?",
+    "pron": "dónde está el báño"
+  },
+  {
+    "pt": "onde fica o hotel?",
+    "es": "¿dónde está el hotel?",
+    "pron": "dónde está el otél"
+  },
+  {
+    "pt": "onde é a estação?",
+    "es": "¿dónde está la estación?",
+    "pron": "dónde está la estasión"
+  },
+  {
+    "pt": "quanto custa?",
+    "es": "¿cuánto cuesta?",
+    "pron": "kuánto kuésta"
+  },
+  {
+    "pt": "aceita cartão?",
+    "es": "¿acepta tarjeta?",
+    "pron": "asépta tarjéta"
+  },
+  {
+    "pt": "onde posso trocar dinheiro?",
+    "es": "¿dónde puedo cambiar dinero?",
+    "pron": "dónde puédo kambiár dinéro"
+  },
+  {
+    "pt": "pode me ajudar?",
+    "es": "¿puede ayudarme?",
+    "pron": "puéde ayudárme"
+  },
+  {
+    "pt": "estou perdido",
+    "es": "estoy perdido",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "falo pouco inglês",
+    "es": "hablo poco inglés",
+    "pron": "áblo póko inglés"
+  },
+  {
+    "pt": "pode falar devagar?",
+    "es": "¿puede hablar despacio?",
+    "pron": "puéde ablár despásio"
+  },
+  {
+    "pt": "quanto tempo demora?",
+    "es": "¿cuánto tiempo demora?",
+    "pron": "kuánto tiémpo demóra"
+  },
+  {
+    "pt": "é longe daqui?",
+    "es": "¿está lejos de aquí?",
+    "pron": "está léjos de akí"
+  },
+  {
+    "pt": "que horas abre?",
+    "es": "¿a qué hora abre?",
+    "pron": "a ke óra ábre"
+  },
+  {
+    "pt": "que horas fecha?",
+    "es": "¿a qué hora cierra?",
+    "pron": "a ke óra siérra"
+  },
+  {
+    "pt": "tem wifi aqui?",
+    "es": "¿hay wifi aquí?",
+    "pron": "ái uáifai akí"
+  },
+  {
+    "pt": "qual a senha do wifi?",
+    "es": "¿cuál es la contraseña del wifi?",
+    "pron": "kuál es la kontraseña del uáifai"
+  },
+  {
+    "pt": "posso tirar uma foto?",
+    "es": "¿puedo hacer una foto?",
+    "pron": "puédo asér úna fóto"
+  },
+  {
+    "pt": "pode tirar uma foto minha?",
+    "es": "¿puede hacerme una foto?",
+    "pron": "puéde asérme úna fóto"
+  },
+  {
+    "pt": "que lugar lindo!",
+    "es": "¡qué lugar tan lindo!",
+    "pron": "ke lugár tan líndo"
+  },
+  {
+    "pt": "estou adorando a viagem",
+    "es": "estoy amando el viaje",
+    "pron": "estói amándo el biáje"
+  },
+  {
+    "pt": "foi uma viagem incrível",
+    "es": "fue un viaje increíble",
+    "pron": "fué un biáje inkreíble"
+  },
+  {
+    "pt": "quero voltar",
+    "es": "quiero volver",
+    "pron": "kiéro bolbér"
+  },
+  {
+    "pt": "recomendo visitar",
+    "es": "recomiendo visitar",
+    "pron": "rekomiéndo bisitár"
+  },
+  {
+    "pt": "vale muito a pena",
+    "es": "vale mucho la pena",
+    "pron": "bále múcho la péna"
+  }
+]

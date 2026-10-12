@@ -1,0 +1,897 @@
+[
+  {
+    "pt": "restaurante",
+    "es": "restaurante",
+    "pron": "restauránte"
+  },
+  {
+    "pt": "lanchonete",
+    "es": "cafetería",
+    "pron": "kafetería"
+  },
+  {
+    "pt": "cafeteria",
+    "es": "cafetería",
+    "pron": "kafetería"
+  },
+  {
+    "pt": "bar",
+    "es": "bar",
+    "pron": "bar"
+  },
+  {
+    "pt": "pizzaria",
+    "es": "pizzería",
+    "pron": "pitsería"
+  },
+  {
+    "pt": "padaria",
+    "es": "panadería",
+    "pron": "panadería"
+  },
+  {
+    "pt": "churrascaria",
+    "es": "parrilla",
+    "pron": "parríya"
+  },
+  {
+    "pt": "sorveteria",
+    "es": "heladería",
+    "pron": "eladería"
+  },
+  {
+    "pt": "café da manhã",
+    "es": "desayuno",
+    "pron": "desajúno"
+  },
+  {
+    "pt": "fast food",
+    "es": "comida rápida",
+    "pron": "komída rápida"
+  },
+  {
+    "pt": "self-service",
+    "es": "autoservicio",
+    "pron": "autoserbísio"
+  },
+  {
+    "pt": "food truck",
+    "es": "food truck",
+    "pron": "fud trúk"
+  },
+  {
+    "pt": "cardápio",
+    "es": "menú",
+    "pron": "menú"
+  },
+  {
+    "pt": "entrada",
+    "es": "entrada",
+    "pron": "entráda"
+  },
+  {
+    "pt": "prato principal",
+    "es": "plato principal",
+    "pron": "pláto prinsipal"
+  },
+  {
+    "pt": "sobremesa",
+    "es": "postre",
+    "pron": "póstre"
+  },
+  {
+    "pt": "bebida",
+    "es": "bebida",
+    "pron": "bebída"
+  },
+  {
+    "pt": "porção",
+    "es": "porción",
+    "pron": "porsión"
+  },
+  {
+    "pt": "prato do dia",
+    "es": "plato del día",
+    "pron": "pláto del día"
+  },
+  {
+    "pt": "especialidade",
+    "es": "especialidad",
+    "pron": "espesialidád"
+  },
+  {
+    "pt": "sugestão do chef",
+    "es": "sugerencia del chef",
+    "pron": "sujerénsia del ch ef"
+  },
+  {
+    "pt": "combo",
+    "es": "combo",
+    "pron": "kómbo"
+  },
+  {
+    "pt": "menu infantil",
+    "es": "menú infantil",
+    "pron": "menú infantíl"
+  },
+  {
+    "pt": "prato",
+    "es": "plato",
+    "pron": "pláto"
+  },
+  {
+    "pt": "copo",
+    "es": "vaso",
+    "pron": "báso"
+  },
+  {
+    "pt": "xícara",
+    "es": "taza",
+    "pron": "tása"
+  },
+  {
+    "pt": "garfo",
+    "es": "tenedor",
+    "pron": "tenedór"
+  },
+  {
+    "pt": "faca",
+    "es": "cuchillo",
+    "pron": "kuchíyo"
+  },
+  {
+    "pt": "colher",
+    "es": "cuchara",
+    "pron": "kuchára"
+  },
+  {
+    "pt": "guardanapo",
+    "es": "servilleta",
+    "pron": "serbiyéta"
+  },
+  {
+    "pt": "toalha de mesa",
+    "es": "mantel",
+    "pron": "mantél"
+  },
+  {
+    "pt": "bule",
+    "es": "tetera",
+    "pron": "tetéra"
+  },
+  {
+    "pt": "tigela",
+    "es": "cuenco",
+    "pron": "kuénko"
+  },
+  {
+    "pt": "bandeja",
+    "es": "bandeja",
+    "pron": "bandéja"
+  },
+  {
+    "pt": "canudo",
+    "es": "pajita",
+    "pron": "pajíta"
+  },
+  {
+    "pt": "palito",
+    "es": "palillo",
+    "pron": "palíyo"
+  },
+  {
+    "pt": "cortador de carne",
+    "es": "cuchillo de carne",
+    "pron": "kuchíyo de kárne"
+  },
+  {
+    "pt": "tábua",
+    "es": "tabla",
+    "pron": "tábla"
+  },
+  {
+    "pt": "panela",
+    "es": "olla",
+    "pron": "óya"
+  },
+  {
+    "pt": "frigideira",
+    "es": "sartén",
+    "pron": "sartén"
+  },
+  {
+    "pt": "garçom",
+    "es": "mesero",
+    "pron": "meséro"
+  },
+  {
+    "pt": "garçonete",
+    "es": "mesera",
+    "pron": "meséra"
+  },
+  {
+    "pt": "cozinheiro",
+    "es": "cocinero",
+    "pron": "kosinéro"
+  },
+  {
+    "pt": "chef",
+    "es": "chef",
+    "pron": "ch ef"
+  },
+  {
+    "pt": "cliente",
+    "es": "cliente",
+    "pron": "kliénte"
+  },
+  {
+    "pt": "mesa",
+    "es": "mesa",
+    "pron": "mésa"
+  },
+  {
+    "pt": "conta",
+    "es": "cuenta",
+    "pron": "kuénta"
+  },
+  {
+    "pt": "gorjeta",
+    "es": "propina",
+    "pron": "propína"
+  },
+  {
+    "pt": "água",
+    "es": "agua",
+    "pron": "água"
+  },
+  {
+    "pt": "água com gás",
+    "es": "agua con gas",
+    "pron": "água kon gas"
+  },
+  {
+    "pt": "suco",
+    "es": "jugo",
+    "pron": "júgo"
+  },
+  {
+    "pt": "suco de laranja",
+    "es": "jugo de naranja",
+    "pron": "júgo de naránja"
+  },
+  {
+    "pt": "refrigerante",
+    "es": "refresco",
+    "pron": "refrésko"
+  },
+  {
+    "pt": "coca-cola",
+    "es": "coca-cola",
+    "pron": "kóka kóla"
+  },
+  {
+    "pt": "café",
+    "es": "café",
+    "pron": "kafé"
+  },
+  {
+    "pt": "café com leite",
+    "es": "café con leche",
+    "pron": "kafé kon léche"
+  },
+  {
+    "pt": "chá",
+    "es": "té",
+    "pron": "te"
+  },
+  {
+    "pt": "chá gelado",
+    "es": "té helado",
+    "pron": "te eládo"
+  },
+  {
+    "pt": "leite",
+    "es": "leche",
+    "pron": "léche"
+  },
+  {
+    "pt": "cerveja",
+    "es": "cerveza",
+    "pron": "serbésa"
+  },
+  {
+    "pt": "vinho",
+    "es": "vino",
+    "pron": "bíno"
+  },
+  {
+    "pt": "vinho tinto",
+    "es": "vino tinto",
+    "pron": "bíno tínto"
+  },
+  {
+    "pt": "vinho branco",
+    "es": "vino blanco",
+    "pron": "bíno blánko"
+  },
+  {
+    "pt": "vodka",
+    "es": "vodka",
+    "pron": "bódka"
+  },
+  {
+    "pt": "whisky",
+    "es": "whisky",
+    "pron": "u íski"
+  },
+  {
+    "pt": "caipirinha",
+    "es": "caipiriña",
+    "pron": "kaipiríña"
+  },
+  {
+    "pt": "coquetel",
+    "es": "cóctel",
+    "pron": "kóktel"
+  },
+  {
+    "pt": "batida",
+    "es": "batido",
+    "pron": "batído"
+  },
+  {
+    "pt": "chocolate quente",
+    "es": "chocolate caliente",
+    "pron": "chokoláte kaliénte"
+  },
+  {
+    "pt": "água de coco",
+    "es": "agua de coco",
+    "pron": "água de kóko"
+  },
+  {
+    "pt": "hambúrguer",
+    "es": "hamburguesa",
+    "pron": "amburgésa"
+  },
+  {
+    "pt": "sanduíche",
+    "es": "sándwich",
+    "pron": "sánduich"
+  },
+  {
+    "pt": "pizza",
+    "es": "pizza",
+    "pron": "pítsa"
+  },
+  {
+    "pt": "massa",
+    "es": "pasta",
+    "pron": "pásta"
+  },
+  {
+    "pt": "lasanha",
+    "es": "lasaña",
+    "pron": "lasáña"
+  },
+  {
+    "pt": "espaguete",
+    "es": "espagueti",
+    "pron": "espaguéti"
+  },
+  {
+    "pt": "sopa",
+    "es": "sopa",
+    "pron": "sópa"
+  },
+  {
+    "pt": "salada",
+    "es": "ensalada",
+    "pron": "ensaláda"
+  },
+  {
+    "pt": "salada de frutas",
+    "es": "ensalada de frutas",
+    "pron": "ensaláda de frútas"
+  },
+  {
+    "pt": "arroz",
+    "es": "arroz",
+    "pron": "arrós"
+  },
+  {
+    "pt": "feijão",
+    "es": "frijoles",
+    "pron": "frijóles"
+  },
+  {
+    "pt": "batata frita",
+    "es": "papas fritas",
+    "pron": "pápas frítas"
+  },
+  {
+    "pt": "purê de batata",
+    "es": "puré de patata",
+    "pron": "puré de patáta"
+  },
+  {
+    "pt": "bife",
+    "es": "bistec",
+    "pron": "bisték"
+  },
+  {
+    "pt": "frango grelhado",
+    "es": "pollo a la parrilla",
+    "pron": "póyo a la parríya"
+  },
+  {
+    "pt": "peixe",
+    "es": "pez",
+    "pron": "pes"
+  },
+  {
+    "pt": "camarão",
+    "es": "camarón",
+    "pron": "kamarón"
+  },
+  {
+    "pt": "tacos",
+    "es": "tacos",
+    "pron": "tákos"
+  },
+  {
+    "pt": "burrito",
+    "es": "burrito",
+    "pron": "burríto"
+  },
+  {
+    "pt": "sushi",
+    "es": "sushi",
+    "pron": "súshi"
+  },
+  {
+    "pt": "temaki",
+    "es": "temaki",
+    "pron": "temáki"
+  },
+  {
+    "pt": "yakisoba",
+    "es": "yakisoba",
+    "pron": "yakizóba"
+  },
+  {
+    "pt": "churrasco",
+    "es": "asado",
+    "pron": "asádo"
+  },
+  {
+    "pt": "espetinho",
+    "es": "brocheta",
+    "pron": "brochéta"
+  },
+  {
+    "pt": "panqueca",
+    "es": "panqueque",
+    "pron": "pankéke"
+  },
+  {
+    "pt": "omelete",
+    "es": "omelette",
+    "pron": "omeléte"
+  },
+  {
+    "pt": "ovo frito",
+    "es": "huevo frito",
+    "pron": "uébo fríto"
+  },
+  {
+    "pt": "torrada",
+    "es": "tostada",
+    "pron": "tostáda"
+  },
+  {
+    "pt": "croissant",
+    "es": "croissant",
+    "pron": "kroasán"
+  },
+  {
+    "pt": "pão de queijo",
+    "es": "pan de queso",
+    "pron": "pan de kése"
+  },
+  {
+    "pt": "bolo",
+    "es": "pastel",
+    "pron": "pastél"
+  },
+  {
+    "pt": "bolo de chocolate",
+    "es": "pastel de chocolate",
+    "pron": "pastél de chokoláte"
+  },
+  {
+    "pt": "sorvete",
+    "es": "helado",
+    "pron": "eládo"
+  },
+  {
+    "pt": "pudim",
+    "es": "flan",
+    "pron": "flan"
+  },
+  {
+    "pt": "torta",
+    "es": "tarta",
+    "pron": "tárta"
+  },
+  {
+    "pt": "brownie",
+    "es": "brownie",
+    "pron": "bráuni"
+  },
+  {
+    "pt": "donut",
+    "es": "dona",
+    "pron": "dóna"
+  },
+  {
+    "pt": "biscoito",
+    "es": "galleta",
+    "pron": "gayéta"
+  },
+  {
+    "pt": "chocolate",
+    "es": "chocolate",
+    "pron": "chokoláte"
+  },
+  {
+    "pt": "bala",
+    "es": "caramelo",
+    "pron": "karamélo"
+  },
+  {
+    "pt": "chiclete",
+    "es": "chicle",
+    "pron": "chíkle"
+  },
+  {
+    "pt": "gelatina",
+    "es": "gelatina",
+    "pron": "jelatína"
+  },
+  {
+    "pt": "sal",
+    "es": "sal",
+    "pron": "sal"
+  },
+  {
+    "pt": "pimenta",
+    "es": "pimienta",
+    "pron": "pimiénta"
+  },
+  {
+    "pt": "açúcar",
+    "es": "azúcar",
+    "pron": "asúkar"
+  },
+  {
+    "pt": "azeite",
+    "es": "aceite de oliva",
+    "pron": "aséite de olíba"
+  },
+  {
+    "pt": "vinagre",
+    "es": "vinagre",
+    "pron": "biná gre"
+  },
+  {
+    "pt": "molho",
+    "es": "salsa",
+    "pron": "sálsa"
+  },
+  {
+    "pt": "ketchup",
+    "es": "kétchup",
+    "pron": "kéchup"
+  },
+  {
+    "pt": "mostarda",
+    "es": "mostaza",
+    "pron": "mostása"
+  },
+  {
+    "pt": "maionese",
+    "es": "mayonesa",
+    "pron": "mayonésa"
+  },
+  {
+    "pt": "manteiga",
+    "es": "mantequilla",
+    "pron": "mantekíya"
+  },
+  {
+    "pt": "queijo",
+    "es": "queso",
+    "pron": "késo"
+  },
+  {
+    "pt": "presunto",
+    "es": "jamón",
+    "pron": "jamón"
+  },
+  {
+    "pt": "bacon",
+    "es": "tocino",
+    "pron": "tosíno"
+  },
+  {
+    "pt": "alface",
+    "es": "lechuga",
+    "pron": "léchuga"
+  },
+  {
+    "pt": "tomate",
+    "es": "tomate",
+    "pron": "tomáte"
+  },
+  {
+    "pt": "cebola",
+    "es": "cebolla",
+    "pron": "sebóya"
+  },
+  {
+    "pt": "alho",
+    "es": "ajo",
+    "pron": "ájo"
+  },
+  {
+    "pt": "picles",
+    "es": "pepinillos",
+    "pron": "pepiníyos"
+  },
+  {
+    "pt": "azeitona",
+    "es": "aceituna",
+    "pron": "asetúna"
+  },
+  {
+    "pt": "pedir",
+    "es": "pedir",
+    "pron": "pedír"
+  },
+  {
+    "pt": "reservar",
+    "es": "reservar",
+    "pron": "reserbár"
+  },
+  {
+    "pt": "servir",
+    "es": "servir",
+    "pron": "serbír"
+  },
+  {
+    "pt": "provar",
+    "es": "probar",
+    "pron": "probár"
+  },
+  {
+    "pt": "comer",
+    "es": "comer",
+    "pron": "komér"
+  },
+  {
+    "pt": "beber",
+    "es": "beber",
+    "pron": "bebér"
+  },
+  {
+    "pt": "pagar",
+    "es": "pagar",
+    "pron": "pagár"
+  },
+  {
+    "pt": "dividir a conta",
+    "es": "dividir la cuenta",
+    "pron": "dibidír la kuénta"
+  },
+  {
+    "pt": "levar para casa",
+    "es": "para llevar",
+    "pron": "pára yebár"
+  },
+  {
+    "pt": "eu quero...",
+    "es": "yo quiero...",
+    "pron": "yo kiéro"
+  },
+  {
+    "pt": "eu gostaria de...",
+    "es": "me gustaría...",
+    "pron": "me gustaría"
+  },
+  {
+    "pt": "para mim...",
+    "es": "para mí...",
+    "pron": "pára mi"
+  },
+  {
+    "pt": "me vê...",
+    "es": "me da...",
+    "pron": "me da"
+  },
+  {
+    "pt": "uma mesa para dois",
+    "es": "una mesa para dos",
+    "pron": "úna mésa pára dos"
+  },
+  {
+    "pt": "o cardápio, por favor",
+    "es": "el menú, por favor",
+    "pron": "el menú por fabór"
+  },
+  {
+    "pt": "a conta, por favor",
+    "es": "la cuenta, por favor",
+    "pron": "la kuénta por fabór"
+  },
+  {
+    "pt": "sem gelo",
+    "es": "sin hielo",
+    "pron": "sin iélo"
+  },
+  {
+    "pt": "com gelo",
+    "es": "con hielo",
+    "pron": "kon iélo"
+  },
+  {
+    "pt": "sem açúcar",
+    "es": "sin azúcar",
+    "pron": "sin asúkar"
+  },
+  {
+    "pt": "bem passado",
+    "es": "bien cocido",
+    "pron": "bién kosído"
+  },
+  {
+    "pt": "mal passado",
+    "es": "poco hecho",
+    "pron": "póko écho"
+  },
+  {
+    "pt": "ao ponto",
+    "es": "al punto",
+    "pron": "al púnto"
+  },
+  {
+    "pt": "vegetariano",
+    "es": "vegetariano",
+    "pron": "bejetariáno"
+  },
+  {
+    "pt": "sem carne",
+    "es": "sin carne",
+    "pron": "sin kárne"
+  },
+  {
+    "pt": "para viagem",
+    "es": "para llevar",
+    "pron": "pára yebár"
+  },
+  {
+    "pt": "para levar",
+    "es": "para llevar",
+    "pron": "pára yebár"
+  },
+  {
+    "pt": "está delicioso",
+    "es": "está delicioso",
+    "pron": "está delisióso"
+  },
+  {
+    "pt": "está muito bom",
+    "es": "está muy bueno",
+    "pron": "está mui buéno"
+  },
+  {
+    "pt": "estou satisfeito",
+    "es": "estoy satisfecho",
+    "pron": "estói satisfécho"
+  },
+  {
+    "pt": "bom apetite",
+    "es": "buen provecho",
+    "pron": "buén probécho"
+  },
+  {
+    "pt": "saúde!",
+    "es": "¡salud!",
+    "pron": "salúd"
+  },
+  {
+    "pt": "você recomenda algo?",
+    "es": "¿recomiendas algo?",
+    "pron": "rekomiéndas álgo"
+  },
+  {
+    "pt": "qual o prato do dia?",
+    "es": "¿cuál es el plato del día?",
+    "pron": "kuál es el pláto del día"
+  },
+  {
+    "pt": "pode trazer mais água?",
+    "es": "¿puede traer más agua?",
+    "pron": "puéde traér más água"
+  },
+  {
+    "pt": "está incluso o serviço?",
+    "es": "¿está incluido el servicio?",
+    "pron": "está inkluído el serbísio"
+  },
+  {
+    "pt": "posso pagar com cartão?",
+    "es": "¿puedo pagar con tarjeta?",
+    "pron": "puédo pagár kon tarjéta"
+  },
+  {
+    "pt": "tem opção sem lactose?",
+    "es": "¿hay opción sin lactosa?",
+    "pron": "ái opsión sin laktósa"
+  },
+  {
+    "pt": "tem opção vegana?",
+    "es": "¿hay opción vegana?",
+    "pron": "ái opsión begána"
+  },
+  {
+    "pt": "tem opção sem glúten?",
+    "es": "¿hay opción sin gluten?",
+    "pron": "ái opsión sin glúten"
+  },
+  {
+    "pt": "pode esquentar?",
+    "es": "¿puede calentarlo?",
+    "pron": "puéde kalentárlo"
+  },
+  {
+    "pt": "está frio",
+    "es": "hace frío",
+    "pron": "áse frío"
+  },
+  {
+    "pt": "está muito salgado",
+    "es": "está muy salado",
+    "pron": "está mui saládo"
+  },
+  {
+    "pt": "está sem sal",
+    "es": "está sin sal",
+    "pron": "está sin sal"
+  },
+  {
+    "pt": "gostaria de reservar uma mesa",
+    "es": "me gustaría reservar una mesa",
+    "pron": "me gustaría reserbár úna mésa"
+  },
+  {
+    "pt": "para quantas pessoas?",
+    "es": "¿para cuántas personas?",
+    "pron": "pára kuántas persónas"
+  },
+  {
+    "pt": "quanto tempo de espera?",
+    "es": "¿cuánto tiempo de espera?",
+    "pron": "kuánto tiémpo de espéra"
+  },
+  {
+    "pt": "pode dividir a conta?",
+    "es": "¿puede dividir la cuenta?",
+    "pron": "puéde dibidír la kuénta"
+  },
+  {
+    "pt": "aceita vale-refeição?",
+    "es": "¿aceptan vale-comida?",
+    "pron": "aséptan bále komída"
+  }
+]

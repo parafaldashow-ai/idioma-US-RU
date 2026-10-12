@@ -1,0 +1,52 @@
+[
+  {
+    "pt": "vermelho",
+    "es": "rojo",
+    "pron": "rójo"
+  },
+  {
+    "pt": "azul",
+    "es": "azul",
+    "pron": "asúl"
+  },
+  {
+    "pt": "verde",
+    "es": "verde",
+    "pron": "bérde"
+  },
+  {
+    "pt": "amarelo",
+    "es": "amarillo",
+    "pron": "amaríyo"
+  },
+  {
+    "pt": "preto",
+    "es": "negro",
+    "pron": "négro"
+  },
+  {
+    "pt": "branco",
+    "es": "blanco",
+    "pron": "blánko"
+  },
+  {
+    "pt": "cinza",
+    "es": "gris",
+    "pron": "gris"
+  },
+  {
+    "pt": "rosa",
+    "es": "rosa",
+    "pron": "rósa"
+  },
+  {
+    "pt": "roxo",
+    "es": "morado",
+    "pron": "morádo"
+  },
+  {
+    "pt": "laranja",
+    "es": "naranja",
+    "pron": "naránja"
+  }
+]

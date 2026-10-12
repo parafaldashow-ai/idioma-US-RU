@@ -1,0 +1,432 @@
+[
+  {
+    "pt": "camisa",
+    "es": "camisa",
+    "pron": "kamísa"
+  },
+  {
+    "pt": "camiseta",
+    "es": "camiseta",
+    "pron": "kamiséta"
+  },
+  {
+    "pt": "camisa social",
+    "es": "camisa formal",
+    "pron": "kamísa formál"
+  },
+  {
+    "pt": "blusa",
+    "es": "blusa",
+    "pron": "blúsa"
+  },
+  {
+    "pt": "suéter",
+    "es": "suéter",
+    "pron": "suéter"
+  },
+  {
+    "pt": "moletom",
+    "es": "sudadera",
+    "pron": "sudádera"
+  },
+  {
+    "pt": "jaqueta",
+    "es": "chaqueta",
+    "pron": "chakéta"
+  },
+  {
+    "pt": "casaco",
+    "es": "abrigo",
+    "pron": "abrígo"
+  },
+  {
+    "pt": "sobretudo",
+    "es": "abrigo largo",
+    "pron": "abrígo lárgo"
+  },
+  {
+    "pt": "colete",
+    "es": "chaleco",
+    "pron": "chaléko"
+  },
+  {
+    "pt": "polo",
+    "es": "polo",
+    "pron": "pólo"
+  },
+  {
+    "pt": "regata",
+    "es": "camiseta sin mangas",
+    "pron": "kamiséta sin mán gas"
+  },
+  {
+    "pt": "top",
+    "es": "top",
+    "pron": "top"
+  },
+  {
+    "pt": "calça",
+    "es": "pantalón",
+    "pron": "pantalón"
+  },
+  {
+    "pt": "jeans",
+    "es": "vaqueros",
+    "pron": "bakéros"
+  },
+  {
+    "pt": "calça de moletom",
+    "es": "pantalón de chándal",
+    "pron": "pantalón de chándal"
+  },
+  {
+    "pt": "bermuda",
+    "es": "pantalón corto",
+    "pron": "pantalón kórto"
+  },
+  {
+    "pt": "short",
+    "es": "short",
+    "pron": "sh or t"
+  },
+  {
+    "pt": "saia",
+    "es": "falda",
+    "pron": "fálda"
+  },
+  {
+    "pt": "saia longa",
+    "es": "falda larga",
+    "pron": "fálda lárga"
+  },
+  {
+    "pt": "vestido",
+    "es": "vestido",
+    "pron": "bestído"
+  },
+  {
+    "pt": "vestido longo",
+    "es": "vestido largo",
+    "pron": "bestído lárgo"
+  },
+  {
+    "pt": "macacão",
+    "es": "mono",
+    "pron": "móno"
+  },
+  {
+    "pt": "terno",
+    "es": "traje",
+    "pron": "tráje"
+  },
+  {
+    "pt": "smoking",
+    "es": "esmoquin",
+    "pron": "esmokín"
+  },
+  {
+    "pt": "uniforme",
+    "es": "uniforme",
+    "pron": "uniforme"
+  },
+  {
+    "pt": "pijama",
+    "es": "pijama",
+    "pron": "pijáma"
+  },
+  {
+    "pt": "cueca",
+    "es": "calzoncillos",
+    "pron": "kalsonsíyos"
+  },
+  {
+    "pt": "cueca boxer",
+    "es": "boxers",
+    "pron": "bóksers"
+  },
+  {
+    "pt": "calcinha",
+    "es": "bragas",
+    "pron": "brágas"
+  },
+  {
+    "pt": "sutiã",
+    "es": "sujetador",
+    "pron": "sujetadór"
+  },
+  {
+    "pt": "meia",
+    "es": "calcetín",
+    "pron": "kalsetín"
+  },
+  {
+    "pt": "meia-calça",
+    "es": "medias",
+    "pron": "médias"
+  },
+  {
+    "pt": "sapato",
+    "es": "zapato",
+    "pron": "sapáto"
+  },
+  {
+    "pt": "sapato social",
+    "es": "zapato formal",
+    "pron": "sapáto formál"
+  },
+  {
+    "pt": "tênis",
+    "es": "zapatillas",
+    "pron": "sapatíyas"
+  },
+  {
+    "pt": "sandália",
+    "es": "sandalia",
+    "pron": "sandália"
+  },
+  {
+    "pt": "chinelo",
+    "es": "chanclas",
+    "pron": "chánklas"
+  },
+  {
+    "pt": "bota",
+    "es": "bota",
+    "pron": "bóta"
+  },
+  {
+    "pt": "salto alto",
+    "es": "tacones altos",
+    "pron": "takónes áltos"
+  },
+  {
+    "pt": "sapatilha",
+    "es": "zapato plano",
+    "pron": "sapáto pláno"
+  },
+  {
+    "pt": "chapéu",
+    "es": "sombrero",
+    "pron": "sombréro"
+  },
+  {
+    "pt": "boné",
+    "es": "gorra",
+    "pron": "górra"
+  },
+  {
+    "pt": "gorro",
+    "es": "gorro",
+    "pron": "górro"
+  },
+  {
+    "pt": "cachecol",
+    "es": "bufanda",
+    "pron": "bufánda"
+  },
+  {
+    "pt": "luva",
+    "es": "guante",
+    "pron": "guánte"
+  },
+  {
+    "pt": "cinto",
+    "es": "cinturón",
+    "pron": "sinturón"
+  },
+  {
+    "pt": "gravata",
+    "es": "corbata",
+    "pron": "korbáta"
+  },
+  {
+    "pt": "laço",
+    "es": "lazo",
+    "pron": "láso"
+  },
+  {
+    "pt": "óculos",
+    "es": "gafas",
+    "pron": "gáfas"
+  },
+  {
+    "pt": "óculos de sol",
+    "es": "gafas de sol",
+    "pron": "gáfas de sol"
+  },
+  {
+    "pt": "lente de contato",
+    "es": "lente de contacto",
+    "pron": "lénte de kontákto"
+  },
+  {
+    "pt": "bolsa",
+    "es": "bolso",
+    "pron": "bólso"
+  },
+  {
+    "pt": "bolsa de mão",
+    "es": "bolso de mano",
+    "pron": "bólso de máno"
+  },
+  {
+    "pt": "mochila",
+    "es": "mochila",
+    "pron": "mochíla"
+  },
+  {
+    "pt": "mala",
+    "es": "maleta",
+    "pron": "maléta"
+  },
+  {
+    "pt": "carteira",
+    "es": "cartera",
+    "pron": "kartéra"
+  },
+  {
+    "pt": "guarda-chuva",
+    "es": "paraguas",
+    "pron": "paráguas"
+  },
+  {
+    "pt": "joia",
+    "es": "joya",
+    "pron": "jóya"
+  },
+  {
+    "pt": "anel",
+    "es": "anillo",
+    "pron": "aníyo"
+  },
+  {
+    "pt": "aliança",
+    "es": "anillo de boda",
+    "pron": "aníyo de bóda"
+  },
+  {
+    "pt": "colar",
+    "es": "collar",
+    "pron": "koyár"
+  },
+  {
+    "pt": "brinco",
+    "es": "arete",
+    "pron": "aréte"
+  },
+  {
+    "pt": "pulseira",
+    "es": "pulsera",
+    "pron": "pulséra"
+  },
+  {
+    "pt": "relógio",
+    "es": "reloj",
+    "pron": "relój"
+  },
+  {
+    "pt": "corrente",
+    "es": "cadena",
+    "pron": "kadéna"
+  },
+  {
+    "pt": "biquíni",
+    "es": "bikini",
+    "pron": "bikíni"
+  },
+  {
+    "pt": "maiô",
+    "es": "bañador",
+    "pron": "bañadór"
+  },
+  {
+    "pt": "sunga",
+    "es": "bañador",
+    "pron": "bañadór"
+  },
+  {
+    "pt": "toalha de praia",
+    "es": "toalla de playa",
+    "pron": "toáya de plája"
+  },
+  {
+    "pt": "algodão",
+    "es": "algodón",
+    "pron": "algodón"
+  },
+  {
+    "pt": "seda",
+    "es": "seda",
+    "pron": "séda"
+  },
+  {
+    "pt": "lã",
+    "es": "lana",
+    "pron": "lána"
+  },
+  {
+    "pt": "couro",
+    "es": "cuero",
+    "pron": "kuéro"
+  },
+  {
+    "pt": "sintético",
+    "es": "sintético",
+    "pron": "sintétiko"
+  },
+  {
+    "pt": "estampado",
+    "es": "estampado",
+    "pron": "estampádo"
+  },
+  {
+    "pt": "liso",
+    "es": "liso",
+    "pron": "líso"
+  },
+  {
+    "pt": "listrado",
+    "es": "rayado",
+    "pron": "rayádo"
+  },
+  {
+    "pt": "estou vestindo",
+    "es": "estoy vistiendo",
+    "pron": "estói bistiéndo"
+  },
+  {
+    "pt": "vou trocar de roupa",
+    "es": "voy a cambiarme",
+    "pron": "bói a kambiárme"
+  },
+  {
+    "pt": "esta roupa serve?",
+    "es": "¿esta ropa me queda?",
+    "pron": "ésta rópa me kéda"
+  },
+  {
+    "pt": "é muito apertado",
+    "es": "es muy apretado",
+    "pron": "es mui apretádo"
+  },
+  {
+    "pt": "é muito largo",
+    "es": "es muy ancho",
+    "pron": "es mui áncho"
+  },
+  {
+    "pt": "tamanho P",
+    "es": "talla S",
+    "pron": "táya ése"
+  },
+  {
+    "pt": "tamanho M",
+    "es": "talla M",
+    "pron": "táya éme"
+  },
+  {
+    "pt": "tamanho G",
+    "es": "talla L",
+    "pron": "táya éle"
+  }
+]

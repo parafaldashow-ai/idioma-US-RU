@@ -1,0 +1,362 @@
+[
+  {
+    "pt": "esquerda",
+    "es": "izquierda",
+    "pron": "iskierda"
+  },
+  {
+    "pt": "direita",
+    "es": "derecha",
+    "pron": "derécha"
+  },
+  {
+    "pt": "reto",
+    "es": "recto",
+    "pron": "rékto"
+  },
+  {
+    "pt": "para frente",
+    "es": "adelante",
+    "pron": "adelánte"
+  },
+  {
+    "pt": "para trás",
+    "es": "atrás",
+    "pron": "atrás"
+  },
+  {
+    "pt": "de lado",
+    "es": "de lado",
+    "pron": "de ládo"
+  },
+  {
+    "pt": "em círculo",
+    "es": "en círculo",
+    "pron": "en sírkulo"
+  },
+  {
+    "pt": "acima",
+    "es": "arriba",
+    "pron": "arríba"
+  },
+  {
+    "pt": "abaixo",
+    "es": "abajo",
+    "pron": "abájo"
+  },
+  {
+    "pt": "em cima",
+    "es": "encima",
+    "pron": "ensíma"
+  },
+  {
+    "pt": "embaixo",
+    "es": "debajo",
+    "pron": "debájo"
+  },
+  {
+    "pt": "dentro",
+    "es": "dentro",
+    "pron": "déntro"
+  },
+  {
+    "pt": "fora",
+    "es": "fuera",
+    "pron": "fuéra"
+  },
+  {
+    "pt": "à frente",
+    "es": "adelante",
+    "pron": "adelánte"
+  },
+  {
+    "pt": "atrás",
+    "es": "detrás",
+    "pron": "detrás"
+  },
+  {
+    "pt": "ao lado",
+    "es": "al lado",
+    "pron": "al ládo"
+  },
+  {
+    "pt": "entre",
+    "es": "entre",
+    "pron": "éntre"
+  },
+  {
+    "pt": "do lado direito",
+    "es": "a la derecha",
+    "pron": "a la derécha"
+  },
+  {
+    "pt": "do lado esquerdo",
+    "es": "a la izquierda",
+    "pron": "a la iskierda"
+  },
+  {
+    "pt": "no meio",
+    "es": "en el medio",
+    "pron": "en el médio"
+  },
+  {
+    "pt": "ao redor",
+    "es": "alrededor",
+    "pron": "alrededór"
+  },
+  {
+    "pt": "perto",
+    "es": "cerca",
+    "pron": "sérka"
+  },
+  {
+    "pt": "longe",
+    "es": "lejos",
+    "pron": "léjos"
+  },
+  {
+    "pt": "aqui",
+    "es": "aquí",
+    "pron": "akí"
+  },
+  {
+    "pt": "ali",
+    "es": "allí",
+    "pron": "ayí"
+  },
+  {
+    "pt": "lá",
+    "es": "allá",
+    "pron": "ayá"
+  },
+  {
+    "pt": "em todo lugar",
+    "es": "en todas partes",
+    "pron": "en tódas pártes"
+  },
+  {
+    "pt": "em algum lugar",
+    "es": "en algún lugar",
+    "pron": "en alg ún lugár"
+  },
+  {
+    "pt": "em lugar nenhum",
+    "es": "en ningún lugar",
+    "pron": "en ning ún lugár"
+  },
+  {
+    "pt": "mais perto",
+    "es": "más cerca",
+    "pron": "más sérka"
+  },
+  {
+    "pt": "mais longe",
+    "es": "más lejos",
+    "pron": "más léjos"
+  },
+  {
+    "pt": "norte",
+    "es": "norte",
+    "pron": "nórte"
+  },
+  {
+    "pt": "sul",
+    "es": "sur",
+    "pron": "sur"
+  },
+  {
+    "pt": "leste",
+    "es": "este",
+    "pron": "éste"
+  },
+  {
+    "pt": "oeste",
+    "es": "oeste",
+    "pron": "oéste"
+  },
+  {
+    "pt": "nordeste",
+    "es": "noreste",
+    "pron": "noréste"
+  },
+  {
+    "pt": "noroeste",
+    "es": "noroeste",
+    "pron": "noroéste"
+  },
+  {
+    "pt": "sudeste",
+    "es": "sureste",
+    "pron": "suréste"
+  },
+  {
+    "pt": "sudoeste",
+    "es": "suroeste",
+    "pron": "suroéste"
+  },
+  {
+    "pt": "norte verdadeiro",
+    "es": "norte verdadero",
+    "pron": "nórte berdadéro"
+  },
+  {
+    "pt": "vire à esquerda",
+    "es": "gire a la izquierda",
+    "pron": "jíre a la iskierda"
+  },
+  {
+    "pt": "vire à direita",
+    "es": "gire a la derecha",
+    "pron": "jíre a la derécha"
+  },
+  {
+    "pt": "siga em frente",
+    "es": "siga recto",
+    "pron": "síga rékto"
+  },
+  {
+    "pt": "pare",
+    "es": "pare",
+    "pron": "páre"
+  },
+  {
+    "pt": "volte",
+    "es": "regrese",
+    "pron": "regrése"
+  },
+  {
+    "pt": "suba",
+    "es": "suba",
+    "pron": "súba"
+  },
+  {
+    "pt": "desça",
+    "es": "baje",
+    "pron": "báje"
+  },
+  {
+    "pt": "entre",
+    "es": "entre",
+    "pron": "éntre"
+  },
+  {
+    "pt": "saia",
+    "es": "falda",
+    "pron": "fálda"
+  },
+  {
+    "pt": "atravesse",
+    "es": "cruce",
+    "pron": "krúse"
+  },
+  {
+    "pt": "siga a placa",
+    "es": "siga la señal",
+    "pron": "síga la señál"
+  },
+  {
+    "pt": "pegue a primeira rua",
+    "es": "tome la primera calle",
+    "pron": "tóme la priméra káye"
+  },
+  {
+    "pt": "pegue a segunda rua",
+    "es": "tome la segunda calle",
+    "pron": "tóme la segúnda káye"
+  },
+  {
+    "pt": "é a última rua",
+    "es": "es la última calle",
+    "pron": "es la última káye"
+  },
+  {
+    "pt": "na esquina",
+    "es": "en la esquina",
+    "pron": "en la eskína"
+  },
+  {
+    "pt": "no final da rua",
+    "es": "al final de la calle",
+    "pron": "al finál de la káye"
+  },
+  {
+    "pt": "próxima quadra",
+    "es": "próxima cuadra",
+    "pron": "próksima kuádra"
+  },
+  {
+    "pt": "mapa",
+    "es": "mapa",
+    "pron": "mápa"
+  },
+  {
+    "pt": "GPS",
+    "es": "GPS",
+    "pron": "je pe ése"
+  },
+  {
+    "pt": "bússola",
+    "es": "brújula",
+    "pron": "brújula"
+  },
+  {
+    "pt": "placa de rua",
+    "es": "placa de calle",
+    "pron": "pláka de káye"
+  },
+  {
+    "pt": "endereço",
+    "es": "dirección",
+    "pron": "direksión"
+  },
+  {
+    "pt": "onde fica...?",
+    "es": "¿dónde está...?",
+    "pron": "dónde está"
+  },
+  {
+    "pt": "como chego em...?",
+    "es": "¿cómo llego a...?",
+    "pron": "kómo yégo a"
+  },
+  {
+    "pt": "estou perdido",
+    "es": "estoy perdido",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "pode me ajudar?",
+    "es": "¿puede ayudarme?",
+    "pron": "puéde ayudárme"
+  },
+  {
+    "pt": "é longe daqui?",
+    "es": "¿está lejos de aquí?",
+    "pron": "está léjos de akí"
+  },
+  {
+    "pt": "é perto daqui?",
+    "es": "¿está cerca de aquí?",
+    "pron": "está sérka de akí"
+  },
+  {
+    "pt": "quanto tempo a pé?",
+    "es": "¿cuánto tiempo a pie?",
+    "pron": "kuánto tiémpo a pié"
+  },
+  {
+    "pt": "estou indo pro norte",
+    "es": "voy al norte",
+    "pron": "bói al nórte"
+  },
+  {
+    "pt": "siga reto por 2 km",
+    "es": "siga recto por 2 km",
+    "pron": "síga rékto por dos kilómetros"
+  },
+  {
+    "pt": "vire na próxima",
+    "es": "gire en la próxima",
+    "pron": "jíre en la próksima"
+  }
+]

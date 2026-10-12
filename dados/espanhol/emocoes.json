@@ -1,0 +1,757 @@
+[
+  {
+    "pt": "feliz",
+    "es": "feliz",
+    "pron": "felís"
+  },
+  {
+    "pt": "alegre",
+    "es": "alegre",
+    "pron": "alégre"
+  },
+  {
+    "pt": "animado",
+    "es": "animado",
+    "pron": "animádo"
+  },
+  {
+    "pt": "contente",
+    "es": "contento",
+    "pron": "konténto"
+  },
+  {
+    "pt": "satisfeito",
+    "es": "satisfecho",
+    "pron": "satisfécho"
+  },
+  {
+    "pt": "orgulhoso",
+    "es": "orgulloso",
+    "pron": "orguyóso"
+  },
+  {
+    "pt": "grato",
+    "es": "agradecido",
+    "pron": "agradesído"
+  },
+  {
+    "pt": "apaixonado",
+    "es": "enamorado",
+    "pron": "enamorádo"
+  },
+  {
+    "pt": "esperançoso",
+    "es": "esperanzado",
+    "pron": "esperansádo"
+  },
+  {
+    "pt": "calmo",
+    "es": "calmado",
+    "pron": "kalmádo"
+  },
+  {
+    "pt": "relaxado",
+    "es": "relajado",
+    "pron": "relajádo"
+  },
+  {
+    "pt": "tranquilo",
+    "es": "tranquilo",
+    "pron": "trankílo"
+  },
+  {
+    "pt": "empolgado",
+    "es": "emocionado",
+    "pron": "emosionádo"
+  },
+  {
+    "pt": "radiante",
+    "es": "radiante",
+    "pron": "radiánte"
+  },
+  {
+    "pt": "de bem com a vida",
+    "es": "feliz con la vida",
+    "pron": "felís kon la bída"
+  },
+  {
+    "pt": "triste",
+    "es": "triste",
+    "pron": "tríste"
+  },
+  {
+    "pt": "com raiva",
+    "es": "enojado",
+    "pron": "enojádo"
+  },
+  {
+    "pt": "irritado",
+    "es": "irritado",
+    "pron": "irritádo"
+  },
+  {
+    "pt": "frustrado",
+    "es": "frustrado",
+    "pron": "frustrádo"
+  },
+  {
+    "pt": "com medo",
+    "es": "asustado",
+    "pron": "asustádo"
+  },
+  {
+    "pt": "assustado",
+    "es": "asustado",
+    "pron": "asustádo"
+  },
+  {
+    "pt": "ansioso",
+    "es": "ansioso",
+    "pron": "ansióso"
+  },
+  {
+    "pt": "nervoso",
+    "es": "nervioso",
+    "pron": "nervióso"
+  },
+  {
+    "pt": "preocupado",
+    "es": "preocupado",
+    "pron": "preokupádo"
+  },
+  {
+    "pt": "estressado",
+    "es": "estresado",
+    "pron": "estresádo"
+  },
+  {
+    "pt": "cansado",
+    "es": "cansado",
+    "pron": "kansádo"
+  },
+  {
+    "pt": "exausto",
+    "es": "agotado",
+    "pron": "agotádo"
+  },
+  {
+    "pt": "entediado",
+    "es": "aburrido",
+    "pron": "aburrído"
+  },
+  {
+    "pt": "sozinho",
+    "es": "solo",
+    "pron": "sólo"
+  },
+  {
+    "pt": "deprimido",
+    "es": "deprimido",
+    "pron": "deprimído"
+  },
+  {
+    "pt": "confuso",
+    "es": "confundido",
+    "pron": "konfundído"
+  },
+  {
+    "pt": "envergonhado",
+    "es": "avergonzado",
+    "pron": "aber gonsádo"
+  },
+  {
+    "pt": "culpado",
+    "es": "culpable",
+    "pron": "kulpáble"
+  },
+  {
+    "pt": "com ciúmes",
+    "es": "celoso",
+    "pron": "selóso"
+  },
+  {
+    "pt": "decepcionado",
+    "es": "decepcionado",
+    "pron": "desep sionádo"
+  },
+  {
+    "pt": "surpreso",
+    "es": "sorprendido",
+    "pron": "sorprendído"
+  },
+  {
+    "pt": "chocado",
+    "es": "conmocionado",
+    "pron": "konmosionádo"
+  },
+  {
+    "pt": "furioso",
+    "es": "furioso",
+    "pron": "furióso"
+  },
+  {
+    "pt": "revoltado",
+    "es": "indignado",
+    "pron": "indignádo"
+  },
+  {
+    "pt": "desapontado",
+    "es": "decepcionado",
+    "pron": "desep sionádo"
+  },
+  {
+    "pt": "arrependido",
+    "es": "arrepentido",
+    "pron": "arrepentído"
+  },
+  {
+    "pt": "desanimado",
+    "es": "desanimado",
+    "pron": "desanimádo"
+  },
+  {
+    "pt": "desesperado",
+    "es": "desesperado",
+    "pron": "desesperádo"
+  },
+  {
+    "pt": "desamparado",
+    "es": "desamparado",
+    "pron": "desamparádo"
+  },
+  {
+    "pt": "humilhado",
+    "es": "humillado",
+    "pron": "umiyádo"
+  },
+  {
+    "pt": "rejeitado",
+    "es": "rechazado",
+    "pron": "rechasádo"
+  },
+  {
+    "pt": "traído",
+    "es": "traicionado",
+    "pron": "traisionádo"
+  },
+  {
+    "pt": "perdido",
+    "es": "perdido",
+    "pron": "perdído"
+  },
+  {
+    "pt": "sem esperança",
+    "es": "sin esperanza",
+    "pron": "sin esperánsa"
+  },
+  {
+    "pt": "com pena",
+    "es": "con pena",
+    "pron": "kon péna"
+  },
+  {
+    "pt": "com fome",
+    "es": "con hambre",
+    "pron": "kon ámbre"
+  },
+  {
+    "pt": "com sede",
+    "es": "con sed",
+    "pron": "kon sed"
+  },
+  {
+    "pt": "com sono",
+    "es": "con sueño",
+    "pron": "kon suéño"
+  },
+  {
+    "pt": "com calor",
+    "es": "con calor",
+    "pron": "kon kalór"
+  },
+  {
+    "pt": "com frio",
+    "es": "con frío",
+    "pron": "kon frío"
+  },
+  {
+    "pt": "doente",
+    "es": "enfermo",
+    "pron": "enférmo"
+  },
+  {
+    "pt": "machucado",
+    "es": "lastimado",
+    "pron": "lastimádo"
+  },
+  {
+    "pt": "bem",
+    "es": "bien",
+    "pron": "bién"
+  },
+  {
+    "pt": "mal",
+    "es": "mal",
+    "pron": "mal"
+  },
+  {
+    "pt": "ocupado",
+    "es": "ocupado",
+    "pron": "okupádo"
+  },
+  {
+    "pt": "livre",
+    "es": "libre",
+    "pron": "líbre"
+  },
+  {
+    "pt": "pronto",
+    "es": "listo",
+    "pron": "lísto"
+  },
+  {
+    "pt": "atrasado",
+    "es": "retrasado",
+    "pron": "retrasádo"
+  },
+  {
+    "pt": "adiantado",
+    "es": "adelantado",
+    "pron": "adelantádo"
+  },
+  {
+    "pt": "de boa",
+    "es": "tranquilo",
+    "pron": "trankílo"
+  },
+  {
+    "pt": "animadíssimo",
+    "es": "muy animado",
+    "pron": "mui animádo"
+  },
+  {
+    "pt": "queimado",
+    "es": "quemado",
+    "pron": "kemádo"
+  },
+  {
+    "pt": "simpático",
+    "es": "simpático",
+    "pron": "simpátiko"
+  },
+  {
+    "pt": "gentil",
+    "es": "amable",
+    "pron": "amáble"
+  },
+  {
+    "pt": "educado",
+    "es": "educado",
+    "pron": "edukádo"
+  },
+  {
+    "pt": "grosseiro",
+    "es": "grosero",
+    "pron": "groséro"
+  },
+  {
+    "pt": "legal",
+    "es": "genial",
+    "pron": "jeniál"
+  },
+  {
+    "pt": "chato",
+    "es": "aburrido",
+    "pron": "aburrído"
+  },
+  {
+    "pt": "engraçado",
+    "es": "gracioso",
+    "pron": "grasióso"
+  },
+  {
+    "pt": "sério",
+    "es": "serio",
+    "pron": "sério"
+  },
+  {
+    "pt": "inteligente",
+    "es": "inteligente",
+    "pron": "intelijénte"
+  },
+  {
+    "pt": "burro",
+    "es": "tonto",
+    "pron": "tónto"
+  },
+  {
+    "pt": "esperto",
+    "es": "listo",
+    "pron": "lísto"
+  },
+  {
+    "pt": "preguiçoso",
+    "es": "perezoso",
+    "pron": "peresóso"
+  },
+  {
+    "pt": "trabalhador",
+    "es": "trabajador",
+    "pron": "trabajadór"
+  },
+  {
+    "pt": "corajoso",
+    "es": "valiente",
+    "pron": "baliénte"
+  },
+  {
+    "pt": "medroso",
+    "es": "miedoso",
+    "pron": "miedóso"
+  },
+  {
+    "pt": "honesto",
+    "es": "honesto",
+    "pron": "onésto"
+  },
+  {
+    "pt": "mentiroso",
+    "es": "mentiroso",
+    "pron": "mentiróso"
+  },
+  {
+    "pt": "generoso",
+    "es": "generoso",
+    "pron": "jeneróso"
+  },
+  {
+    "pt": "egoísta",
+    "es": "egoísta",
+    "pron": "egoísta"
+  },
+  {
+    "pt": "tímido",
+    "es": "tímido",
+    "pron": "tímido"
+  },
+  {
+    "pt": "extrovertido",
+    "es": "extrovertido",
+    "pron": "ekstrobertído"
+  },
+  {
+    "pt": "calado",
+    "es": "callado",
+    "pron": "kayádo"
+  },
+  {
+    "pt": "falador",
+    "es": "hablador",
+    "pron": "abladór"
+  },
+  {
+    "pt": "otimista",
+    "es": "optimista",
+    "pron": "optimísta"
+  },
+  {
+    "pt": "pessimista",
+    "es": "pesimista",
+    "pron": "pesimísta"
+  },
+  {
+    "pt": "confiante",
+    "es": "confiado",
+    "pron": "konfiádo"
+  },
+  {
+    "pt": "inseguro",
+    "es": "inseguro",
+    "pron": "insegúro"
+  },
+  {
+    "pt": "atencioso",
+    "es": "atento",
+    "pron": "aténto"
+  },
+  {
+    "pt": "distraído",
+    "es": "distraído",
+    "pron": "distraído"
+  },
+  {
+    "pt": "criativo",
+    "es": "creativo",
+    "pron": "kreatíbo"
+  },
+  {
+    "pt": "curioso",
+    "es": "curioso",
+    "pron": "kurióso"
+  },
+  {
+    "pt": "paciente",
+    "es": "paciente",
+    "pron": "pasiénte"
+  },
+  {
+    "pt": "impaciente",
+    "es": "impaciente",
+    "pron": "impasiénte"
+  },
+  {
+    "pt": "charmoso",
+    "es": "encantador",
+    "pron": "enkantadór"
+  },
+  {
+    "pt": "arrogante",
+    "es": "arrogante",
+    "pron": "arrogánte"
+  },
+  {
+    "pt": "humilde",
+    "es": "humilde",
+    "pron": "umílde"
+  },
+  {
+    "pt": "sensível",
+    "es": "sensible",
+    "pron": "sensíble"
+  },
+  {
+    "pt": "forte",
+    "es": "fuerte",
+    "pron": "fuérte"
+  },
+  {
+    "pt": "fraco",
+    "es": "débil",
+    "pron": "débil"
+  },
+  {
+    "pt": "estou feliz",
+    "es": "estoy feliz",
+    "pron": "estói felís"
+  },
+  {
+    "pt": "estou triste",
+    "es": "estoy triste",
+    "pron": "estói tríste"
+  },
+  {
+    "pt": "estou cansado",
+    "es": "estoy cansado",
+    "pron": "estói kansádo"
+  },
+  {
+    "pt": "estou com fome",
+    "es": "tengo hambre",
+    "pron": "téngo ámbre"
+  },
+  {
+    "pt": "estou com medo",
+    "es": "tengo miedo",
+    "pron": "téngo miédo"
+  },
+  {
+    "pt": "estou animado",
+    "es": "estoy animado",
+    "pron": "estói animádo"
+  },
+  {
+    "pt": "estou preocupado",
+    "es": "estoy preocupado",
+    "pron": "estói preokupádo"
+  },
+  {
+    "pt": "não estou bem",
+    "es": "no estoy bien",
+    "pron": "no estói bién"
+  },
+  {
+    "pt": "estou melhor",
+    "es": "estoy mejor",
+    "pron": "estói mejór"
+  },
+  {
+    "pt": "não me sinto bem",
+    "es": "no me siento bien",
+    "pron": "no me siénto bién"
+  },
+  {
+    "pt": "que ótimo!",
+    "es": "¡qué bueno!",
+    "pron": "ke buéno"
+  },
+  {
+    "pt": "que pena!",
+    "es": "¡qué pena!",
+    "pron": "ke péna"
+  },
+  {
+    "pt": "que raiva!",
+    "es": "¡qué rabia!",
+    "pron": "ke ráb ia"
+  },
+  {
+    "pt": "não acredito!",
+    "es": "¡no lo puedo creer!",
+    "pron": "no lo puédo kreér"
+  },
+  {
+    "pt": "estou muito feliz",
+    "es": "estoy muy feliz",
+    "pron": "estói mui felís"
+  },
+  {
+    "pt": "estou nervoso",
+    "es": "estoy nervioso",
+    "pron": "estói nérbióso"
+  },
+  {
+    "pt": "estou de boa",
+    "es": "estoy tranquilo",
+    "pron": "estói trankílo"
+  },
+  {
+    "pt": "estou orgulhoso de você",
+    "es": "estoy orgulloso de ti",
+    "pron": "estói orguyóso de ti"
+  },
+  {
+    "pt": "estou apaixonado",
+    "es": "estoy enamorado",
+    "pron": "estói enamorádo"
+  },
+  {
+    "pt": "estou com ciúmes",
+    "es": "tengo celos",
+    "pron": "téngo sélos"
+  },
+  {
+    "pt": "estou surpreso",
+    "es": "estoy sorprendido",
+    "pron": "estói sorprendído"
+  },
+  {
+    "pt": "estou decepcionado",
+    "es": "estoy decepcionado",
+    "pron": "estói desepsionádo"
+  },
+  {
+    "pt": "estou estressado",
+    "es": "estoy estresado",
+    "pron": "estói estresádo"
+  },
+  {
+    "pt": "estou entediado",
+    "es": "estoy aburrido",
+    "pron": "estói aburrído"
+  },
+  {
+    "pt": "estou sozinho",
+    "es": "estoy solo",
+    "pron": "estói sólo"
+  },
+  {
+    "pt": "estou ocupado",
+    "es": "estoy ocupado",
+    "pron": "estói okupádo"
+  },
+  {
+    "pt": "estou pronto",
+    "es": "estoy listo",
+    "pron": "estói lísto"
+  },
+  {
+    "pt": "estou atrasado",
+    "es": "estoy retrasado",
+    "pron": "estói retrasádo"
+  },
+  {
+    "pt": "estou perdido",
+    "es": "estoy perdido",
+    "pron": "estói perdído"
+  },
+  {
+    "pt": "não estou entendendo",
+    "es": "no estoy entendiendo",
+    "pron": "no estói entendiéndo"
+  },
+  {
+    "pt": "tô nem aí",
+    "es": "no me importa",
+    "pron": "no me impórta"
+  },
+  {
+    "pt": "que susto!",
+    "es": "¡qué susto!",
+    "pron": "ke sústo"
+  },
+  {
+    "pt": "que alívio!",
+    "es": "¡qué alivio!",
+    "pron": "ke alíbio"
+  },
+  {
+    "pt": "me sinto mal",
+    "es": "me siento mal",
+    "pron": "me siénto mal"
+  },
+  {
+    "pt": "me sinto ótimo",
+    "es": "me siento genial",
+    "pron": "me siénto jeniál"
+  },
+  {
+    "pt": "estou confuso",
+    "es": "estoy confundido",
+    "pron": "estói konfundído"
+  },
+  {
+    "pt": "estou com saudade",
+    "es": "te extraño",
+    "pron": "te ekstráño"
+  },
+  {
+    "pt": "estou muito grato",
+    "es": "estoy muy agradecido",
+    "pron": "estói mui agradesído"
+  },
+  {
+    "pt": "foi divertido",
+    "es": "fue divertido",
+    "pron": "fué dibertído"
+  },
+  {
+    "pt": "foi horrível",
+    "es": "fue horrible",
+    "pron": "fué orríble"
+  },
+  {
+    "pt": "foi incrível",
+    "es": "fue increíble",
+    "pron": "fué inkreíble"
+  },
+  {
+    "pt": "que dia maravilhoso!",
+    "es": "¡qué día maravilloso!",
+    "pron": "ke día marabiyóso"
+  },
+  {
+    "pt": "estou com preguiça",
+    "es": "me da pereza",
+    "pron": "me da perésa"
+  },
+  {
+    "pt": "estou sem paciência",
+    "es": "no tengo paciencia",
+    "pron": "no téngo pasiénsia"
+  },
+  {
+    "pt": "estou exausto",
+    "es": "estoy agotado",
+    "pron": "estói agotádo"
+  }
+]
